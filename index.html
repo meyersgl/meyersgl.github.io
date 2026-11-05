@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Social Democratic Market Platform</title>
+    <style>
+        :root {
+            --primary: #1e3a8a;
+            --dark: #0f172a;
+            --light: #f8fafc;
+            --accent: #b45309;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--dark);
+            background-color: var(--light);
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: var(--primary);
+            color: white;
+            text-align: center;
+            padding: 4rem 2rem;
+        }
+        header h1 { margin: 0; font-size: 2.5rem; font-weight: 800; }
+        header p { margin: 1rem 0 0; font-size: 1.25rem; font-style: italic; opacity: 0.9; }
+        main { max-width: 800px; margin: 3rem auto; padding: 0 1.5rem; }
+        .motto-box {
+            background: white;
+            border-left: 5px solid var(--accent);
+            padding: 1.5rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05);
+        }
+        .motto-box p { margin: 0; font-size: 1.3rem; font-weight: 700; color: var(--primary); }
+        .download-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+        @media (max-width: 600px) { .download-grid { grid-template-columns: 1fr; } }
+        .btn {
+            display: block;
+            text-align: center;
+            background-color: var(--primary);
+            color: white;
+            text-decoration: none;
+            padding: 1rem;
+            font-weight: 600;
+            border-radius: 0.375rem;
+            transition: background 0.2s;
+        }
+        .btn:hover { background-color: #172554; }
+        .btn-accent { background-color: var(--accent); }
+        .btn-accent:hover { background-color: #92400e; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>The Social Democratic Market Platform</h1>
+        <p>A Governing Blueprint for Shared Prosperity, Competitive Markets, and Democratic Accountability</p>
+    </header>
+
+    <main>
+        <div class="motto-box">
+            <p>Government provides the foundation. Citizens provide the ambition. Markets provide the growth.</p>
+        </div>
+
+        <h2>Platform Blueprint Vault</h2>
+        <p>Review the fully integrated policy text and structural frameworks developed by Gregory L. Meyers.</p>
+        
+        <div class="download-grid">
+            <a href="docs/Executive_Summary_v1.pdf" class="btn btn-accent" download>Download Executive Summary (PDF)</a>
+            <a href="docs/Full_Platform_v1.pdf" class="btn" download>Download Full Platform Framework (PDF)</a>
+        </div>
+    </main>
+
+</body>
+</html>
