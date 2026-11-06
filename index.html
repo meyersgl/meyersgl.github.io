@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="The Social Democratic Market Platform: a policy framework for shared prosperity, competitive markets, democratic accountability, and national resilience.">
   <meta name="theme-color" content="#14263d">
+  <meta name="author" content="Gregory L. Meyers">
+  <link rel="canonical" href="https://meyersgl.github.io/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="The Social Democratic Market Platform">
+  <meta property="og:title" content="The Social Democratic Market Platform | Policy Framework">
+  <meta property="og:description" content="A working-draft policy framework for shared prosperity, competitive markets, democratic accountability, and national resilience. Open to expert review.">
+  <meta property="og:url" content="https://meyersgl.github.io/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="The Social Democratic Market Platform | Policy Framework">
+  <meta name="twitter:description" content="A working-draft policy framework open to expert review.">
   <title>The Social Democratic Market Platform | Policy Framework</title>
   <style>
     :root {
@@ -31,6 +41,8 @@
     h3 { font-size: 1.18rem; margin: 0 0 .6rem; }
     p { margin: 0 0 1rem; }
     a { color: var(--blue); }
+    .skip-link { position:absolute; left:-999px; top:0; background:#fff; color:var(--navy); padding:.7rem 1rem; z-index:100; font:700 .9rem Inter,sans-serif; }
+    .skip-link:focus { left:1rem; top:1rem; }
     a:focus-visible, button:focus-visible { outline: 3px solid var(--gold); outline-offset: 3px; }
     .wrap { width: min(var(--max), calc(100% - 2.5rem)); margin-inline: auto; }
     .topline { background: #0e1c2d; color: #d8e1ea; font: 600 .76rem/1.4 Inter, sans-serif; letter-spacing: .09em; text-transform: uppercase; }
@@ -104,6 +116,7 @@
   </style>
 </head>
 <body>
+  <a class="skip-link" href="#top">Skip to main content</a>
   <div class="topline">
     <div class="wrap"><span>Independent policy framework · Working draft</span><span>Open to substantive critique and peer review</span></div>
   </div>
@@ -173,21 +186,22 @@
     <section id="documents">
       <div class="small-label">Primary source documents</div>
       <h2>Read the platform</h2>
-      <p class="section-intro">The executive summary and full platform are the primary source documents. Both PDFs are published in the repository docs folder; use the links below to open the current editions.</p>
+      <p class="section-intro">The executive summary and full platform are the primary source documents. Both documents are available as PDFs below.</p>
       <div class="two-col" style="margin-top:1.5rem">
         <article class="panel">
           <h3>Executive Summary</h3>
           <p>A shorter introduction to the platform's governing model, major policy proposals, and fiscal principles.</p>
-          <p class="meta">PDF · Executive_Summary_v1</p>
-          <a class="button" href="docs/Executive_Summary_v1.pdf" download="Executive_Summary_v1.pdf">Open executive summary</a>
+          <p class="meta">PDF · Executive_Summary_v1 · Edition v1, November 2026</p>
+          <a class="button" href="docs/Executive_Summary_v1.pdf">Open executive summary</a>
         </article>
         <article class="panel">
           <h3>Full Platform</h3>
           <p>The comprehensive policy document covering the platform's principles, institutions, and proposed reforms.</p>
-          <p class="meta">PDF · Full_Platform_v1</p>
-          <a class="button" href="docs/Full_Platform_v1.pdf" download="Full_Platform_v1.pdf">Open full platform</a>
+          <p class="meta">PDF · Full_Platform_v1 · Edition v1, November 2026</p>
+          <a class="button" href="docs/Full_Platform_v1.pdf">Open full platform</a>
         </article>
       </div>
+      <p class="meta" style="margin-top:1.1rem">A one-page overview is also available: <a href="docs/One_Pager_v1.pdf">One-page summary (PDF)</a>.</p>
     </section>
 
     <section id="policies">
@@ -199,43 +213,49 @@
           <h3>Healthcare infrastructure</h3>
           <ul>
             <li><strong>Universal coverage:</strong> A consolidated financing layer paired with independent clinical delivery.</li>
-            <li><strong>Innovation:</strong> A proposed seven-year price-cap exemption for qualifying pioneering treatments.</li>
-            <li><strong>Rural access:</strong> Volume-adjusted support intended to protect thin-margin community care networks.</li>
+            <li><strong>Innovation:</strong> Variable market exclusivity of 7 to 15 years for new therapies, based on R&amp;D investment, therapeutic benefit, and public-health impact, followed by a public patent option (public manufacturing rights and generic competition).</li>
+            <li><strong>Rural access:</strong> Reimbursement adjusted by a geographic volatility index, plus stabilization payments intended to prevent closures of rural hospitals, critical access hospitals, and community clinics.</li>
           </ul>
         </article>
         <article class="policy-card">
           <h3>Social Security and long-term finance</h3>
           <ul>
-            <li><strong>Additional wage contribution:</strong> A proposed 6.2% Social Security tax on earned wages above $250,000, without expanding high-tier benefits.</li>
-            <li><strong>Anti-sheltering:</strong> Proposed rules addressing S-Corporation pass-through income and retained C-Corporation cash.</li>
-            <li><strong>Sovereign reserve:</strong> A proposed public investment reserve with recession stabilization as its first priority.</li>
+            <li><strong>Payroll-tax cap reform:</strong> Income above designated thresholds would contribute to Social Security financing, concentrated among the highest earners. Specific thresholds and rates are left to implementing legislation.</li>
+            <li><strong>Non-accumulation rule:</strong> Additional contributions above upper-income thresholds strengthen trust-fund finances and minimum benefits without automatically raising high-income retirement benefits.</li>
+            <li><strong>Anti-sheltering:</strong> Pass-through business income (partnerships, S-corporations, and sole proprietorships) remains subject to contributions above thresholds, and structures designed mainly to avoid them face corrective taxation.</li>
+            <li><strong>Endowment:</strong> A defined share of wealth-tax revenue would be invested in diversified, passive, nonvoting vehicles for the Trust Fund, kept separate from the recession-stabilization reserve.</li>
           </ul>
         </article>
         <article class="policy-card">
           <h3>Frontier AI governance</h3>
           <ul>
-            <li><strong>Dynamic evaluation:</strong> Vulnerability testing as an alternative to relying only on static compute thresholds.</li>
-            <li><strong>Auditing:</strong> Stochastic and adversarial testing to evaluate model behavior.</li>
-            <li><strong>Accountability:</strong> A proposed strict-liability framework for specified autonomous harms.</li>
+            <li><strong>Containment and reporting:</strong> Dangerous capabilities are tested only in isolated environments, with independent evaluation before deployment, prompt incident reporting, shutdown mechanisms for deployed systems, and whistleblower protection.</li>
+            <li><strong>Capability-based oversight:</strong> Systems are evaluated on demonstrated capability (such as autonomous cyber activity and self-replication attempts), not hardware measures alone, with thresholds updated periodically.</li>
+            <li><strong>Auditing:</strong> Regulators may run randomized independent tests of deployed systems.</li>
+            <li><strong>Accountability:</strong> Developers bear responsibility for measurable harms from autonomous operation outside intended safety boundaries; the detailed liability framework remains to be specified.</li>
           </ul>
         </article>
         <article class="policy-card">
           <h3>Climate, energy, and infrastructure</h3>
           <ul>
-            <li><strong>Pollution pricing:</strong> Predictable carbon and methane fees with consumer dividends.</li>
-            <li><strong>Trade:</strong> Carbon-equalized import measures intended to address emissions leakage.</li>
-            <li><strong>Transmission:</strong> A stronger federal role in grid siting, with defined timelines for legal resolution.</li>
-            <li><strong>Energy mix:</strong> An all-of-the-above approach that includes advanced nuclear power.</li>
+            <li><strong>Pollution pricing:</strong> A predictable, gradually increasing carbon fee collected where fossil fuels enter the economy, plus a measured methane fee on major sources, with a significant share of carbon-fee revenue returned to households as equal per-person dividends.</li>
+            <li><strong>Trade:</strong> A border carbon adjustment limited to steel, aluminum, and cement, intended to address emissions leakage.</li>
+            <li><strong>Coordinated review:</strong> Federal coordination of review for nationally significant energy infrastructure, such as interstate transmission, with funded permitting staff and clear timelines. Environmental and safety reviews are not weakened.</li>
+            <li><strong>Energy mix:</strong> A clean-energy mix of advanced nuclear, wind, solar, and hydroelectric power, tailored by region and supported by storage and transmission.</li>
           </ul>
         </article>
         <article class="policy-card">
           <h3>Democratic and constitutional accountability</h3>
           <ul>
-            <li><strong>Federal service age limits:</strong> Proposed limits for federal elected officials and federal judges.</li>
+            <li><strong>Federal service age limits:</strong> A proposed constitutional age limit of 68 for federal elected officials and federal judges.</li>
             <li><strong>Campaign finance:</strong> A proposed constitutional framework allowing reasonable limits on independent political expenditures while preserving speech, press, and association rights.</li>
-            <li><strong>Emergency powers:</strong> Reforms intended to strengthen legislative oversight and define limits on exceptional executive authority.</li>
+            <li><strong>Emergency powers:</strong> Emergency declarations expire automatically unless renewed by joint resolution of Congress, with limits on powers unrelated to the underlying emergency.</li>
           </ul>
         </article>
+      </div>
+      <div class="panel" style="margin-top:1.1rem">
+        <h3>Also covered in the full platform</h3>
+        <p style="margin:0">Reproductive health and abortion access; firearm safety; immigration and border administration; criminal justice and public safety; defense and foreign policy; housing; K-12 education and student loans; agriculture and farm programs; paid leave, childcare, and eldercare; national service; science and space; disaster resilience; and elections, voting, and Department of Justice independence.</p>
       </div>
     </section>
 
@@ -258,7 +278,7 @@
           </ul>
         </div>
       </div>
-      <p class="note"><strong>Important distinction:</strong> A funding framework is a governing commitment, not proof that the proposals are currently revenue-neutral or fiscally sustainable. Independent scoring and sensitivity analysis remain necessary work.</p>
+      <p class="note"><strong>Important distinction:</strong> A funding framework is a governing commitment, not proof that the proposals are currently revenue-neutral or fiscally sustainable. This edition does not yet include dollar estimates for individual programs. Independent scoring and sensitivity analysis remain necessary work.</p>
     </section>
 
     <section id="implementation">
@@ -320,7 +340,15 @@
     </section>
 
     <section aria-label="Publication note">
-      <p class="note"><strong>Document status:</strong> The downloadable PDFs are the controlling source for the detailed proposals. This website is an introductory guide. As the documents are revised, publish a clear version number, publication date, and change log here so readers can identify the edition they are reviewing.</p>
+      <p class="note"><strong>Document status:</strong> The downloadable PDFs are the controlling source for the detailed proposals. This website is an introductory guide; where the two differ, the PDFs govern.</p>
+      <div class="panel" id="edition" style="margin-top:1.1rem">
+        <h3>Edition and change log</h3>
+        <p class="meta" style="margin:0 0 .6rem">Current edition: v1 · November 2026</p>
+        <ul class="review-list">
+          <li><strong>v1 · November 2026:</strong> Initial public release of the Executive Summary and the Full Platform.</li>
+        </ul>
+        <p class="meta" style="margin:.6rem 0 0">Future editions will be listed here with their date and a summary of what changed.</p>
+      </div>
     </section>
   </main>
 
