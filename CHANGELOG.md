@@ -4,6 +4,14 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased: v1.1 Consistency Edition (in progress)
 
+### Structure (P2a)
+- The platform now uses the v1.1 structure of 27 chapters in nine Parts (decision 0003). Front matter comes first: Executive Summary, Legal Classifications, Governing Principles (formerly Appendix A), and Definitions. The v1.0 Appendix B is now Appendix A.
+- Chapter 9 is split up: its foreign-policy section moves to Chapter 23, immigration to Chapter 17, and prisons, cannabis and addiction courts to Chapter 16. Its guiding principle becomes the Part V introduction. The duplicate sections on private prisons (old 9.5 and 10.6) and on citizenship pathways (old 9.4 and 11.2.5) are each merged into one.
+- Sections moved: tax measures (old 1.4–1.8) to the new Chapter 2, Federal Tax Fairness; welfare-cliff reform to the new Chapter 4; health, reproductive health, education, and housing into their own chapters; privacy and right to repair to Chapter 9; public broadband to Chapter 21; STEM education to Chapter 7; strategic domestic production becomes 21.6.1 under the supply-chain program. Science and Space are combined into Chapter 18.
+- Chapter 13, Civil Rights & Equal Protection, is created with its guiding principle. Its statutory provisions are scheduled for v1.2.
+- Every section number and cross-reference is updated. New Appendix D maps each v1.0 section to its v1.1 location.
+- No policy wording changes, apart from the two merges above.
+
 ### White-paper updates (P1)
 - All three white papers are now marked as v1.1 working drafts. The v1.0 PDFs in `docs/` are unchanged.
 - Universal Health Insurance: wealth-tax revenue is no longer a backstop for health financing (decision 0004).
