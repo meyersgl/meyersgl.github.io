@@ -33,3 +33,16 @@ wealth_thresholds:
   as_of: 2026-05-27
   source: https://equitablegrowth.org/?p=91860
   note: "$50 million is roughly the top 0.1–0.15% of households, not the top 0.01%. Saez–Zucman put the top 0.01% of adults at $125 million or more."
+current_tax_law_2026:
+  as_of: 2026-01-01
+  source: https://katten.com/the-OBBBA-act-key-year-end-tax-changes-for-private-wealth-clients
+  top_income_tax_rate_pct: 37
+  top_bracket_start_single_usd: 640600
+  top_bracket_start_joint_usd: 768700
+  top_capital_gains_rate_pct: 20
+  net_investment_income_tax_pct: 3.8
+  estate_exemption_per_person_usd: 15000000
+  estate_top_rate_pct: 40
+  corporate_rate_pct: 21
+  corporate_minimum_tax_pct: 15
+  corporate_minimum_tax_threshold_usd: 1000000000
