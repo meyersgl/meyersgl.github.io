@@ -1,0 +1,60 @@
+# Chapter 27 revenue-to-use assignments. Every stream has exactly one use.
+# Chapter files reference these IDs in their front matter (revenue_streams).
+# Decision records: 0004, 0005, 0006, 0008.
+streams:
+  - id: wealth-tax
+    name: Extreme Wealth Fair-Share Tax (including in-kind share payments)
+    behavior: market-volatile
+    use: Sovereign Wealth Reserve (stabilization balance to statutory target; excess to Capital Investment Account, one-time only)
+  - id: tax-fairness
+    name: Federal Tax Fairness measures (capital gains, top brackets, corporate minimum, estate)
+    behavior: stable
+    use: General Fund for recurring platform programs
+  - id: uhi-contributions
+    name: UHI dedicated contributions (payroll, employer, income-based)
+    behavior: stable
+    use: UHI Trust Fund
+  - id: health-consolidation-savings
+    name: Savings from consolidated health financing
+    behavior: stable-once-realized
+    use: UHI Trust Fund (lower contribution rates)
+  - id: drug-negotiation-savings
+    name: Drug-price negotiation savings (fixed statutory share)
+    behavior: stable
+    use: Dynamic Global Innovation Fund (remainder counted only in UHI estimates)
+  - id: ss-payroll-reform
+    name: Social Security payroll cap elimination and pass-through inclusion
+    behavior: stable
+    use: OASDI trust funds (any excess beyond scheduled benefits and required reserves to the Social Security Endowment)
+  - id: endowment-returns
+    name: Social Security Endowment investment returns
+    behavior: market-volatile
+    use: OASDI trust funds
+  - id: carbon-dividend
+    name: Carbon and methane fees, share A (80%)
+    behavior: declining
+    use: Equal per-person household dividend
+  - id: carbon-transition
+    name: Carbon and methane fees, share B (10%)
+    behavior: declining
+    use: Transition Fund (sunsets)
+  - id: carbon-general
+    name: Carbon and methane fees, share C (10%)
+    behavior: declining
+    use: General Fund, one-time or time-limited costs only
+  - id: carbon-border
+    name: Carbon border tariff receipts (steel, aluminum, cement)
+    behavior: declining
+    use: Household dividend
+  - id: strategic-tariffs
+    name: Strategic tariffs (each authorized by Congress)
+    behavior: unpredictable
+    use: General Fund, never counted as platform financing
+  - id: fraud-recoveries
+    name: Recovered fraud and improper payments
+    behavior: unpredictable
+    use: Returned to the originating program; not platform revenue
+  - id: productive-borrowing
+    name: Borrowing
+    behavior: n/a
+    use: Long-lived productive assets only; never recurring costs

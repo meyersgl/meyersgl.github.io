@@ -1,0 +1,27 @@
+name: Contradiction report
+description: Two parts of the platform, the white papers, or the website disagree.
+labels: ["contradiction"]
+body:
+  - type: input
+    id: a
+    attributes:
+      label: Location A
+    validations:
+      required: true
+  - type: input
+    id: b
+    attributes:
+      label: Location B
+    validations:
+      required: true
+  - type: textarea
+    id: conflict
+    attributes:
+      label: How they conflict
+    validations:
+      required: true
+  - type: textarea
+    id: governs
+    attributes:
+      label: Which should govern?
+      description: Under decision 0001, a white paper governs where it conflicts with the platform or website.

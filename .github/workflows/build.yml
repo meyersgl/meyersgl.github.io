@@ -1,0 +1,25 @@
+name: Build editions
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build DOCX and PDF (pandoc + LaTeX in Docker)
+        run: |
+          docker run --rm -v "$PWD:/data" -w /data --entrypoint sh pandoc/extra:3.1 \
+            -c "apk add --no-cache bash font-dejavu >/dev/null && bash build/build.sh '${GITHUB_REF_NAME}'"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: editions-${{ github.ref_name }}
+          path: build/out/
+      - name: Attach to release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: build/out/*
