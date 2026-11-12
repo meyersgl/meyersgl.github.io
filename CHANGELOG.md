@@ -4,6 +4,9 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## v1.1 Consistency Edition (November 12, 2026)
 
+### Correction (November 12, 2026)
+- Tables were broken in the first v1.1 PDFs of the Full Platform and the Frontier AI Governance paper, because build/reference.docx was missing the table styles the build uses. Those styles are now added and both PDFs reissued under the same filenames. The text did not change. The Full Platform drops from 132 to 104 pages because the tables are now laid out properly.
+
 ### Release
 - Version 1.1 PDFs of the Full Platform, Executive Summary, One Pager, and the three white papers added to docs/ (the v1 files stay in place).
 - Executive Summary and One Pager now kept as markdown in summaries/. The summary renames the Millionaire Fair-Share Tax to the Extreme Wealth Fair-Share Tax, replaces the revenue list with the one-use-per-stream rule from Chapter 27, and aligns the Social Security, health, and AI descriptions with the white papers.
