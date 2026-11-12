@@ -84,7 +84,7 @@ Priority sectors include:
 
 - Critical minerals
 
-Cross-reference: See Chapter 21 Infrastructure, Industry & Supply Chains.
+These defense sectors are covered by the national supply-chain program (Section 21.6) and the strategic industrial capacity initiative (Section 21.5); this section sets defense-specific priorities only.
 
 ### 24.4 Rapid Technology Adoption Program \[Statute\]
 

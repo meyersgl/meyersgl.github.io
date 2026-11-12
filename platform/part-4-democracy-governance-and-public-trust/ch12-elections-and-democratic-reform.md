@@ -58,17 +58,13 @@ The objective is:
 
 - Long-term institutional vitality
 
-### 12.7 Campaign Finance & Anti-Corruption \[Statute\]
-
-Members of Congress shall be prohibited from trading individual stocks.
+### 12.7 Campaign Finance Reform \[Statute\]
 
 Real-time campaign-finance disclosure shall be required.
 
-Criminal penalties shall apply to insider trading by government officials.
-
 A constitutional \[Amendment\] shall be pursued to overturn Citizens United v. FEC and permit limits on independent political spending by Super PACs, drafted narrowly to protect the press and the associational rights of unions and nonprofit organizations. This is a long-term goal severable from the statutory provisions above.
 
-Expanded ethics protections appear in Chapter 15.
+The congressional stock-trading ban and other ethics protections appear in Chapter 15.
 
 ### 12.8 Election Integrity & Public Trust Act \[Statute\]
 

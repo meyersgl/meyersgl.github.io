@@ -56,19 +56,15 @@ Programs may operate through partnerships with:
 
 ### 25.4 Service Scholarship Benefit \[Statute\]
 
-Individuals successfully completing approved service terms shall receive flexible educational benefits.
+Individuals successfully completing approved service terms shall receive flexible education and career benefits. Because tuition at public colleges, universities, and trade schools is covered under Section 7.3, benefits may be used for:
 
-Benefits may be used for:
+- Living costs while enrolled, such as housing, food, books, and transportation
 
-- Public universities
+- Apprenticeships and professional certifications
 
-- Community colleges
+- Graduate or professional study
 
-- Trade schools
-
-- Apprenticeships
-
-- Professional certifications
+- Repayment of existing student loans
 
 **Educational Opportunity Principle**
 
@@ -82,7 +78,7 @@ Full-time service participants shall receive:
 
 - Living stipends
 
-- Healthcare coverage
+- Healthcare coverage through Universal Health Insurance (Chapter 5)
 
 - Transportation support when necessary
 

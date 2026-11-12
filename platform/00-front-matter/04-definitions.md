@@ -268,7 +268,7 @@ Costs met by universal public programs established in this platform (such as pub
 
 **Statutory Interpretation Principle**
 
-**When ambiguity exists within this platform, interpretation should favor:**
+**When ambiguity in the platform's statutory provisions must be resolved, interpretation should favor the following Governing Principles, in this order:**
 
 1.  **Democratic accountability.**
 
@@ -284,6 +284,6 @@ Costs met by universal public programs established in this platform (such as pub
 
 7.  **Fiscal responsibility.**
 
-**These principles shall serve as the guiding framework for implementation of all policies contained within this platform.**
+**The full statement of each principle appears in the Governing Principles.**
 
 No major program in this platform shall take effect without an identified funding source and an independent cost estimate under Chapter 27.

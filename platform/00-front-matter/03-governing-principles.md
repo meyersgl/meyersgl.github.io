@@ -174,7 +174,7 @@ Once this foundation exists, citizens remain free to pursue their own goals, bui
 
 ## Final Clause 
 
-In the event of conflict between competing policy objectives, policymakers should seek solutions that maximize human dignity, equal opportunity, democratic accountability, fiscal responsibility, and long-term national resilience simultaneously.
+In the event of conflict between competing policy objectives, policymakers should seek solutions that best advance these ten principles as a whole.
 
 These principles express the platform's philosophy. For the legal interpretation of statutes, the Statutory Interpretation Principle in the Definitions governs.
 

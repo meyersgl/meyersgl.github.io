@@ -1,5 +1,5 @@
 platform/00-front-matter/00-title-and-authors-note.md
-platform/00-front-matter/01-executive-summary.md
+platform/00-front-matter/01-platform-overview.md
 platform/00-front-matter/02-legal-classifications.md
 platform/00-front-matter/03-governing-principles.md
 platform/00-front-matter/04-definitions.md
