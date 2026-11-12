@@ -70,7 +70,7 @@ Corporate structures designed primarily to avoid Social Security obligations sha
 
 ### 21.4 Sovereign Endowment Pivot \[Statute\]
 
-A defined portion of revenues generated through the Millionaire Fair-Share Tax shall be directed into the Social Security Trust Fund. This is a defined allocation set under Chapter 22 and shall not be drawn from the Sovereign Wealth Reserve's recession-stabilization balance.
+A supplemental Social Security Endowment shall be funded only from revenue raised by the reforms in Sections 21.2 and 21.3 that exceeds what is needed to pay scheduled benefits and maintain required trust-fund reserves. If no such excess exists, the Endowment shall not be funded. Extreme Wealth Fair-Share Tax revenue shall not be used for the Endowment (Section 22.3).
 
 These assets shall be managed independently and invested in diversified, passive, non-voting investment vehicles.
 

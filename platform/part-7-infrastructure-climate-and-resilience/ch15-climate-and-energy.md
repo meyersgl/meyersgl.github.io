@@ -24,13 +24,15 @@ The fee shall be collected at the point where fossil fuels enter the economy, in
 
 - Major import terminals
 
-Methane released through leaks, venting, and decomposition rather than combustion cannot be priced at the point of entry. A measured methane fee shall therefore apply to major sources, including oil and gas operations, landfills, and large agricultural operations, under federal measurement and reporting standards.
+Methane released through leaks, venting, and decomposition rather than combustion cannot be priced at the point of entry. A measured methane fee shall therefore apply to major sources, including oil and gas operations, landfills, and manure lagoons at the largest confined animal feeding operations, under federal measurement and reporting standards. Methane from livestock digestion and from family farms shall be reduced through paid, voluntary incentives under Section 4.3.6, not through the fee.
+
+Fee revenue shall be divided by statute, with each share used only as stated: 80 percent to the household dividend (Section 15.2.1), 10 percent to the Transition Fund (Section 15.2.2), and 10 percent to the General Fund for one-time or time-limited costs only (Section 22.3).
 
 The objective is to incorporate environmental costs into market decisions while allowing businesses and consumers flexibility in how they respond.
 
 #### 15.2.1 Household Dividend
 
-A significant share of carbon-fee revenues shall be returned directly to citizens through equal per-person dividend payments.
+Eighty percent of carbon- and methane-fee revenue, together with all Carbon Border Protection Tariff receipts, shall be returned directly to citizens through equal per-person dividend payments.
 
 The dividend system shall:
 
@@ -44,7 +46,7 @@ Climate policy should not place excessive burdens on working families.
 
 #### 15.2.2 Expanded Transition Fund
 
-Remaining revenues shall support communities affected by energy-sector transitions.
+Ten percent of carbon- and methane-fee revenue shall support communities affected by energy-sector transitions. The Transition Fund shall end on a date fixed in statute.
 
 Eligible investments include:
 
@@ -77,6 +79,8 @@ The tariff shall apply only to the following industries, and may be extended to 
 - Aluminum
 
 - Cement
+
+Tariff receipts shall be paid out through the household dividend (Section 15.2.1), not to the domestic industries the tariff protects.
 
 The objective is preserving domestic competitiveness while encouraging cleaner production globally.
 

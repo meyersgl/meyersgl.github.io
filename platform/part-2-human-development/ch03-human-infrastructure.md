@@ -78,7 +78,7 @@ Healthcare affordability should not come at the expense of medical innovation.
 
 To preserve research incentives, a Dynamic Global Innovation Fund shall support breakthrough therapies and pioneering medical discoveries.
 
-Funding shall come from a defined, capped allocation under Chapter 22, not from the Sovereign Wealth Reserve's recession-stabilization balance.
+Funding shall come from a fixed statutory share of the savings from national drug-price negotiation, subject to an annual cap (Section 22.3). Only the remaining savings shall be counted in health-cost estimates.
 
 #### 3.3.1 Variable Innovation Exclusivity
 
