@@ -2,16 +2,16 @@
 title: "Social Security Solvency"
 subtitle: "Without Benefit Cuts or Raising the Retirement Age: A Proposal for Long-Term Retirement Security"
 author: Gregory L. Meyers
-version: "1.0"
+version: "1.1-draft"
 edition: "November 2026"
 platform_chapter: 26   # chapter number in the Phase 3 master architecture
-status: published
+status: draft   # v1.1 working draft; docs/ PDF is v1.0
 published_pdf: docs/Social_Security_Solvency_v1.pdf
 ---
 
 # A Proposal for Long-Term Retirement Security
 
-White Paper Version 1.0
+White Paper Version 1.1 (working draft)
 
 Gregory L. Meyers
 
@@ -83,7 +83,7 @@ The Social Security Board of Trustees' 2026 annual report projects the following
 
 - On a hypothetical combined basis with the Disability Insurance (DI) trust fund, reserves would last until 2034, with about 83 percent of scheduled benefits payable. The two funds are legally separate, so this combined date is hypothetical.
 
-- The 75-year actuarial deficit is 4.42 percent of taxable payroll, up from 3.82 percent in the previous report.
+- The 75-year actuarial deficit is 4.42 percent of taxable payroll, up from 3.82 percent in the previous report. The main driver of the increase was lower projected revenue from the income taxation of benefits following the 2025 reconciliation law (Public Law 119-21), together with a lower assumed fertility rate \[7\]\[8\].
 
 - Combined trust fund reserves ended 2025 at \$2.56 trillion.
 
@@ -155,7 +155,7 @@ Medicare's hospital insurance payroll tax already applies to all earnings, with 
 
 ## No Additional Benefits for Earnings Above the Cap
 
-Earnings above the current taxable maximum shall not increase Social Security benefits. Under this proposal, benefits would continue to be calculated on earnings up to the current maximum. Social Security's purpose is to ensure that retired Americans are not left in poverty, not to replace very high earnings.
+Earnings above the current taxable maximum shall not increase Social Security benefits. Under this proposal, benefits would continue to be calculated only on earnings up to the taxable maximum, which would continue to rise each year with average wage growth, as under current law. Social Security's purpose is to ensure that retired Americans are not left in poverty, not to replace very high earnings.
 
 This design improves the financial effect of the reform because it adds revenue without adding future benefit obligations. Economists and policymakers may reasonably disagree about whether contributions above the maximum should be viewed primarily as social insurance financing, progressive taxation, or some combination of both.
 
@@ -450,3 +450,7 @@ The purpose is to begin it.
 \[5\] Congressional Research Service, "Social Security: Removing the Taxable Maximum and Long-Term Program Solvency," IN11789, December 2, 2021. https://www.everycrsreport.com/reports/IN11789.html
 
 \[6\] Social Security Administration, Full Retirement Age. https://ssa.gov/international/Agreement_Pamphlets/full-retirement-age.html
+
+\[7\] Center for Retirement Research at Boston College, Issue Brief 26-12 on the 2026 Social Security Trustees Report, June 2026. https://crr.bc.edu/wp-content/uploads/2026/06/IB_26-12-1.pdf
+
+\[8\] Congressional Research Service, "Social Security: Selected Findings of the 2026 Annual Report," IF13256, June 25, 2026. https://www.everycrsreport.com/reports/IF13256.html
