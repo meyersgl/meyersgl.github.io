@@ -1,0 +1,32 @@
+name: Fact-check
+description: A statistic, date, or legal reference is outdated or wrong.
+labels: ["fact-check"]
+body:
+  - type: input
+    id: section
+    attributes:
+      label: Section
+    validations:
+      required: true
+  - type: input
+    id: current
+    attributes:
+      label: Current text or value
+    validations:
+      required: true
+  - type: input
+    id: corrected
+    attributes:
+      label: Corrected value
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+    validations:
+      required: true
+  - type: input
+    id: asof
+    attributes:
+      label: As-of date of the source

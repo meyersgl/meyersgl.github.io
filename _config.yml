@@ -1,0 +1,10 @@
+# GitHub Pages settings. The site itself is index.html + style.css.
+# Markdown in platform/ and white-papers/ is published as readable web pages.
+# Working folders below are kept off the site.
+exclude:
+  - templates/
+  - build/
+  - data/
+  - .github/
+  - platform/build-order.txt
+  - CITATION.cff

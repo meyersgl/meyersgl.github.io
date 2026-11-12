@@ -1,0 +1,28 @@
+name: Policy feedback
+description: Challenge a proposal, flag a weak assumption, or suggest a change.
+labels: ["policy-feedback"]
+body:
+  - type: input
+    id: section
+    attributes:
+      label: Section
+      description: Exact location, for example "Chapter 26, 26.2" or "UHI white paper, Financing Framework".
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: What you are challenging
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Citations, links, or published estimates.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change

@@ -1,0 +1,16 @@
+program,chapter,recurring_or_one_time,revenue_stream,ten_year_cost_low_usd_billion,ten_year_cost_high_usd_billion,source,status
+Universal Health Insurance,5,recurring,uhi-contributions,,,,pending score
+Paid leave (12 weeks),3,recurring,tax-fairness,,,,pending score
+Childcare and eldercare cost caps,3,recurring,tax-fairness,,,,pending score
+Universal preschool,7,recurring,tax-fairness,,,,pending score
+Tuition-free public higher education,7,recurring,tax-fairness,,,,pending score
+K-12 equity funding,7,recurring,tax-fairness,,,,pending score
+Student-loan refinancing and discharge,7,one-time phased,tax-fairness,,,,pending score
+Safety-net expansions,4,recurring,tax-fairness,,,,pending score
+Public housing developer and homelessness,8,recurring,tax-fairness,,,,pending score
+Research expansion and national service,18;25,recurring,tax-fairness,,,,pending score
+Rural health stabilization,5,recurring,uhi-contributions,,,,pending score
+Dynamic Global Innovation Fund,5,recurring capped,drug-negotiation-savings,,,,pending score
+Infrastructure grid and broadband,21,one-time,productive-borrowing;carbon-general,,,,pending score
+Transition Fund,20,time-limited,carbon-transition,,,,pending score
+Farm risk protection,10,recurring,tax-fairness,,,,pending score

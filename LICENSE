@@ -1,0 +1,22 @@
+Copyright (c) 2026 Gregory L. Meyers
+
+This repository uses two licenses.
+
+1. Platform and white-paper text
+   Everything in platform/, white-papers/, and docs/ (the published PDFs) is
+   licensed under the Creative Commons Attribution-NoDerivatives 4.0
+   International License (CC BY-ND 4.0).
+   You may copy and redistribute the material in any medium or format, for any
+   purpose, as long as you give appropriate credit and do not distribute
+   modified versions. Quoting with attribution is welcome.
+   Legal code: https://creativecommons.org/licenses/by-nd/4.0/legalcode
+
+2. Data, templates, and tooling
+   Everything in data/, templates/, decisions/, build/, and .github/ is
+   licensed under the Creative Commons Attribution 4.0 International License
+   (CC BY 4.0).
+   Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Suggested attribution:
+"The Social Democratic Market Platform, v1.0, by Gregory L. Meyers,
+https://meyersgl.github.io/, licensed under CC BY-ND 4.0."

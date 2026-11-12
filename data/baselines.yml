@@ -1,0 +1,35 @@
+# Every statistic the platform cites, with source and as-of date.
+# Chapters reference values by key. Update here; never retype numbers in chapters.
+trustees_2026:
+  as_of: 2026-06-09
+  source: https://www.ssa.gov/oact/trsum/
+  oasi_depletion: "2032 Q4"
+  oasi_payable_after_depletion_pct: 78
+  combined_oasdi_depletion: 2034
+  oasdi_deficit_pct_payroll: 4.42
+  prior_year_deficit_pct_payroll: 3.82
+  combined_reserves_end_2025_usd_trillion: 2.56
+  hi_depletion: "2033 Q2"
+  hi_payable_after_depletion_pct: 89
+ss_taxable_maximum_2026_usd: 184500   # source: SSA (cited in the Social Security white paper)
+nhe_2024:
+  as_of: 2026-01-14
+  source: https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet
+  total_usd_trillion: 5.3
+  per_person_usd: 15474
+  share_of_gdp_pct: 18.0
+cbo_fy2026:
+  as_of: 2026-10
+  source: https://www.americanactionforum.org/insight/cbo-fy-2026-budget-deficit-totaled-2-trillion/
+  deficit_usd_trillion: 2.0
+  deficit_pct_gdp: 6.2
+  debt_held_by_public_pct_gdp: 100
+cbo_outlook_2026_2036:
+  as_of: 2026-02-11
+  source: https://www.cbo.gov/publication/62207
+  debt_pct_gdp_2036: 120
+  real_gdp_growth_long_run_pct: 1.8
+wealth_thresholds:
+  as_of: 2026-05-27
+  source: https://equitablegrowth.org/?p=91860
+  note: "$50 million is roughly the top 0.1–0.15% of households, not the top 0.01%. Saez–Zucman put the top 0.01% of adults at $125 million or more."
