@@ -64,7 +64,7 @@ Large acquisitions of agricultural land by:
 
 - Foreign state-owned entities
 
-- Dominant institutional investment groups
+- Institutional investment groups that meet the Dominance Threshold in a regional farmland market
 
 shall receive enhanced federal review.
 

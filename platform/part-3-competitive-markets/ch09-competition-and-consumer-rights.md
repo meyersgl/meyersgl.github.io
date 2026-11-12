@@ -22,9 +22,9 @@ Economic power should be earned through innovation rather than protected through
 
 Federal competition policy shall focus on anti-competitive conduct rather than company size alone.
 
-#### 9.2.1 Size-Neutral Principle
+#### 9.2.1 Conduct-Based Principle & Dominance Threshold
 
-Corporate scale shall not automatically trigger government intervention.
+Corporate scale alone shall not trigger government intervention.
 
 Government action shall focus on:
 
@@ -36,9 +36,11 @@ Government action shall focus on:
 
 - Anti-competitive behavior
 
+The additional duties in Sections 9.2.2, 9.2.3, and 9.2.5 shall apply only to firms that meet the Dominance Threshold (see Definitions).
+
 #### 9.2.2 Anti-Self-Preferencing Rule
 
-Digital gatekeepers may not unfairly prioritize their own products or services above competitors utilizing the same platform.
+Digital platforms that meet the Dominance Threshold may not unfairly prioritize their own products or services above competitors utilizing the same platform.
 
 Examples include:
 
@@ -52,7 +54,7 @@ Examples include:
 
 #### 9.2.3 Interoperability Requirements
 
-Dominant platforms shall provide reasonable mechanisms allowing consumers to:
+Platforms that meet the Dominance Threshold shall provide reasonable mechanisms allowing consumers to:
 
 - Transfer data
 
@@ -68,7 +70,7 @@ Regulators may block acquisitions primarily intended to eliminate emerging compe
 
 #### 9.2.5 Open Standards Requirement
 
-Regulators may require interoperability standards when market concentration creates excessive consumer lock-in.
+Regulators may require interoperability standards when a firm that meets the Dominance Threshold creates excessive consumer lock-in.
 
 #### 9.2.6 Small Business Competition Office
 

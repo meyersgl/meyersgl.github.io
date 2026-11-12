@@ -84,7 +84,7 @@ Priority sectors include:
 
 - Critical minerals
 
-These defense sectors are covered by the national supply-chain program (Section 21.6) and the strategic industrial capacity initiative (Section 21.5); this section sets defense-specific priorities only.
+These defense sectors are covered by the national supply-chain program (Section 21.6) and the strategic industrial capacity initiative (Section 21.5); this section sets defense-specific priorities only. Sourcing requirements under this section shall meet the Strategic Protection Test.
 
 ### 24.4 Rapid Technology Adoption Program \[Statute\]
 
@@ -201,3 +201,7 @@ The purpose of military strength is preserving peace through deterrence.
 Military power should defend national interests and allies while avoiding unnecessary intervention and open-ended nation-building commitments.
 
 Cross-reference: See Chapter 23 Foreign Policy & Diplomacy.
+
+### 24.12 Defense Budget Level \[Statute\]
+
+Defense spending shall be held roughly constant in real, inflation-adjusted terms. Savings from procurement reform under Section 24.2 shall be reinvested in readiness and service-member quality of life, and shall not be counted as financing for other programs in this platform (Chapter 27).

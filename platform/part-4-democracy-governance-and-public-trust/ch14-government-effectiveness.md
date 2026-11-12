@@ -18,7 +18,7 @@ Programs should be evaluated according to outcomes rather than political ideolog
 
 #### 14.2.1 Ten-Year Performance Reviews
 
-Every major federal program shall undergo an independent review at least once every ten years.
+Every major federal program shall be reviewed by the Government Accountability Office, supported by agency Inspectors General, at least once every ten years.
 
 Reviews shall evaluate:
 
@@ -84,7 +84,7 @@ while preserving:
 
 When practical, agencies creating major new reporting requirements should identify existing requirements suitable for elimination or consolidation.
 
-The objective is administrative efficiency rather than deregulation for its own sake.
+This rule applies only to paperwork and reporting burdens, never to substantive protections for consumers, workers, public health, safety, or the environment. The objective is administrative efficiency rather than deregulation for its own sake.
 
 ### 14.3 Digital Government Modernization \[Statute\]
 
@@ -124,7 +124,7 @@ Recovered funds shall be returned to taxpayers or the originating program.
 
 Major initiatives may begin as pilot programs before nationwide deployment.
 
-Pilot programs shall be evaluated using measurable outcomes before expansion.
+Pilot programs shall be evaluated using measurable outcomes before expansion. Pilots are required only for program designs that have not yet been tested; designs with established evidence may be phased in nationally under Section 27.9.
 
 ### 14.6 Evidence-Based Governance Requirement \[Statute\]
 

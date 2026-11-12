@@ -44,7 +44,7 @@ The purpose of rehabilitation is reducing future victimization.
 
 ### 16.4 Sentencing Review Commission \[Statute\]
 
-An independent commission shall periodically review sentencing policies for:
+The United States Sentencing Commission, an independent agency in the judicial branch, shall periodically review sentencing policies for:
 
 - Fairness
 

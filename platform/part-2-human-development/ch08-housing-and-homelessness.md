@@ -26,7 +26,7 @@ These investments apply the national permitting rule in Section 21.9 to housing.
 
 #### 8.1.3 Institutional Ownership Limits
 
-Federal policy shall restrict excessive concentration of single-family housing within large institutional investment portfolios.
+Federal policy shall restrict excessive concentration of single-family housing within large institutional investment portfolios. Limits shall apply to institutional investors whose holdings meet the Dominance Threshold in a local housing market, measured by their share of single-family homes, and shall target purchasing conduct rather than size alone.
 
 #### 8.1.4 Public Housing Developer
 

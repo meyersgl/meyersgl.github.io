@@ -82,7 +82,7 @@ The following subjects may warrant future national discussion but are not curren
 
 - Constitutional ethics requirements for federal officeholders
 
-- Constitutional protection for the independence of federal investigations and prosecutions
+- Constitutional protection for the independence of federal investigations and prosecutions (pursued by statute in Section 15.11; an amendment would be considered only if courts reject that approach)
 
 These issues would require additional public debate and are not incorporated as active amendment proposals within this edition of the platform.
 

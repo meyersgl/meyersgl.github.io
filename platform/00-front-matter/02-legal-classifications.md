@@ -7,3 +7,5 @@
 **\[Executive\]** Achievable through executive authority.
 
 **\[Constitutional Amendment\]** Requires constitutional ratification.
+
+**Constitutionally Contested** A flag added to a classification when serious constitutional objections are likely. Each such provision includes an honest-limit note.

@@ -41,4 +41,5 @@ platform/part-9-long-term-sustainability/ch26-social-security-and-retirement-sec
 platform/part-9-long-term-sustainability/ch27-master-financing-framework.md
 platform/conclusion.md
 platform/appendices/appendix-a-constitutional-amendments.md
+platform/appendices/appendix-c-design-standards.md
 platform/appendices/appendix-d-section-map.md

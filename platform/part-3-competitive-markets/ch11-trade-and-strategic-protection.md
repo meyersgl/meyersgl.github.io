@@ -34,7 +34,7 @@ Trade agreements should encourage:
 
 #### 11.2.2 Strategic Tariff Authority
 
-Targeted tariffs may be deployed against foreign governments engaging in:
+Targeted tariffs may be imposed against foreign governments engaging in:
 
 - Intellectual property theft
 
@@ -45,6 +45,8 @@ Targeted tariffs may be deployed against foreign governments engaging in:
 - State-supported dumping
 
 - Trade discrimination
+
+Tariffs under this section shall be imposed only under authority expressly granted by Congress, subject to congressional review, and shall meet the Strategic Protection Test (see Definitions). The Supreme Court held in *Learning Resources, Inc. v. Trump* (2026) that emergency-powers law does not authorize tariffs; this section makes the authority explicit and accountable.
 
 #### 11.2.3 Supply Chain Protection Standard
 
@@ -72,6 +74,6 @@ Special consideration may be given to:
 
 - Defense technologies
 
-Priority sectors are defined in Section 21.5; this section governs trade treatment only.
+Priority sectors are defined in Section 21.5; this section governs trade treatment only. Any protection shall meet the Strategic Protection Test.
 
 Cross-reference: See Chapter 21 Infrastructure, Industry & Supply Chains.

@@ -40,9 +40,11 @@ Objectives:
 
 Multi-member districts substantially reduce, but do not eliminate, the payoff from gerrymandering, because regional boundaries must still be drawn. Final multi-winner results shall be tabulated and audited within a legally defined short window (for example, one week).
 
-### 12.5 Judicial Term Limits \[Statute – High Resistance\]
+### 12.5 Judicial Term Limits \[Statute – High Resistance; Constitutionally Contested\]
 
 Federal judges shall serve standardized eighteen-year terms through a staggered implementation process. Sitting judges shall transition to senior status in order of seniority, with the longest-serving judges first, over a phased period. This avoids abruptly stripping any sitting judge's tenure and prevents the timing of enactment from creating partisan windfalls.
+
+Honest limit: many scholars argue that fixed terms for Supreme Court justices require a constitutional amendment under Article III's "good Behaviour" clause. Senior-status rotation is the strongest statutory approach; the age limit in Section 12.6 is the constitutional backstop.
 
 ### 12.6 Age Limit of 68 \[Constitutional Amendment\]
 
@@ -58,7 +60,7 @@ The objective is:
 
 - Long-term institutional vitality
 
-### 12.7 Campaign Finance Reform \[Statute\]
+### 12.7 Campaign Finance Reform \[Statute / Constitutional Amendment\]
 
 Real-time campaign-finance disclosure shall be required.
 

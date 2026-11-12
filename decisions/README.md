@@ -24,3 +24,4 @@ Each file records one settled policy or project choice: the question, the decisi
 | 0018 | Markdown is the master source |
 | 0019 | Content license |
 | 0020 | Published v1.0 master identified |
+| 0021 | Independent bodies designed for durability after Trump v. Slaughter |
