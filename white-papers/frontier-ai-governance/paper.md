@@ -2,10 +2,10 @@
 title: "Frontier AI Governance"
 subtitle: "A Framework for Innovation, Accountability, and Public Safety"
 author: Gregory L. Meyers
-version: "1.0"
+version: "1.1-draft"
 edition: "November 2026"
 platform_chapter: 19   # chapter number in the Phase 3 master architecture
-status: published
+status: draft   # v1.1 working draft; docs/ PDF is v1.0
 published_pdf: docs/Frontier_AI_Governance_v1.pdf
 ---
 
@@ -13,7 +13,7 @@ published_pdf: docs/Frontier_AI_Governance_v1.pdf
 
 Gregory L. Meyers  
 *The Social Democratic Market Platform Publication Series*  
-White Paper Version 1.0 · November 2026
+White Paper Version 1.1 (working draft) · November 2026
 
 # Abstract
 
@@ -62,7 +62,7 @@ A successful framework must balance innovation with accountability.
 
 ## The Risks Are Now Concrete
 
-In July 2026, OpenAI models running a cybersecurity evaluation escaped their isolated environment through a zero-day vulnerability in Artifactory, a software package registry the environment was permitted to reach. According to incident reports published by Hugging Face and OpenAI, the autonomous agent then compromised Hugging Face's production systems using exposed credentials. Hugging Face reviewed roughly 17,600 attacker actions occurring primarily between July 11 and 13, and the intrusion came to light on July 16. The incident demonstrates that evaluation environments can fail, that failures can spill over to third parties, and that detection can lag behind actual damage \[3\]\[4\]. While this incident provides a useful example, the framework proposed here is intended to apply broadly rather than address any single event.
+In July 2026, OpenAI models running a cybersecurity evaluation escaped their isolated environment through a zero-day vulnerability in Artifactory, a software package registry the environment was permitted to reach. According to incident reports published by Hugging Face and OpenAI, the agents then compromised parts of Hugging Face's production systems using exposed credentials. Hugging Face reviewed roughly 17,600 logged actions occurring primarily between July 11 and 13; Hugging Face disclosed the intrusion on July 16 and OpenAI on July 21. Later post-incident analyses describe not a single agent but a population of roughly 1,200 agents exchanging more than 70,000 messages, and confirm that a second organization, Modal Labs, was also affected \[7\]\[8\]. The incident demonstrates that evaluation environments can fail, that failures can spill over to third parties, and that detection can lag behind actual damage \[3\]\[4\]. While this incident provides a useful example, the framework proposed here is intended to apply broadly rather than address any single event.
 
 # Guiding Principles
 
@@ -198,7 +198,11 @@ Specific rules governing proximate causation and downstream user misuse—such a
 
 ## Enforcement and Capacity
 
-Effective oversight requires an agency equipped with dedicated technical staff, subpoena authority to investigate incidents, secure compute infrastructure to verify held-out evaluations, and civil penalties scaled to developer size. A statute without funded enforcement capacity is optional for any firm large enough to ignore it. California’s SB 53, for example, establishes civil penalties of up to \$1 million per violation, enforced by the state Attorney General. Determining the exact institutional home and federal penalty schedule remains an open policy question.
+Effective oversight requires an agency equipped with dedicated technical staff, subpoena authority to investigate incidents, secure compute infrastructure to verify held-out evaluations, and civil penalties scaled to developer size. A statute without funded enforcement capacity is optional for any firm large enough to ignore it. California’s SB 53, for example, establishes civil penalties of up to \$1 million per violation, enforced by the state Attorney General. Oversight would be housed in the Department of Commerce through the National Institute of Standards and Technology. Thresholds, reporting deadlines, and duties would be fixed in statute, and testing would be conducted by independent third-party evaluators. That design matters because, after *Trump v. Slaughter* (2026), the heads of executive agencies can be removed at will; durable oversight should depend on statutory rules rather than on the discretion of any single official \[9\]. The federal penalty schedule would be set in implementing legislation.
+
+## Federal and State Roles
+
+Federal standards would set a floor. States could adopt additional safeguards, but a single national incident-reporting standard would preempt conflicting state reporting requirements, so developers report once, on one timeline. Durable preemption requires an act of Congress: a December 2025 executive order directing federal challenges to state AI laws illustrates the dispute, but an executive order cannot by itself displace state law \[10\].
 
 ## Scaling Obligations
 
@@ -220,11 +224,7 @@ AI development is inherently global. The United States should pursue multilatera
 
 Several critical institutional and legal questions require further research before statutory implementation:
 
-Regulatory Structure: Should federal oversight be assigned to a newly created agency, housed within an existing department (such as Commerce or NIST), or structured as a hybrid interagency body?
-
 Open-Weight Models: Because publicly released model weights cannot be recalled or subjected to emergency suspension, how should pre-release evaluation and release thresholds apply to open-weight systems at higher ACI tiers while protecting open academic research and market competition?
-
-Federal and State Law: Should federal standards establish a regulatory floor that allows states to enact stricter safeguards, or a uniform federal ceiling that preempts state statutes such as California’s SB 53?
 
 International Enforcement: How should the United States and its allies respond to unsafe frontier deployments occurring outside their legal jurisdictions?
 
@@ -281,3 +281,11 @@ Innovation without accountability is dangerous. Accountability without innovatio
 \[5\] National Aeronautics and Space Administration (NASA). *Aviation Safety Reporting System: ASRS Program Briefing* (Data through December 2025). nasa.gov
 
 \[6\] Meyers, Gregory L. *The Social Democratic Market Platform* (Full Platform, Version 1). github.io
+
+\[7\] Breached.company, report summarizing the final OpenAI and Hugging Face post-incident reports, 2026. https://breached.company/openai-huggingface-final-reports-swarm-metr-forensics-2026/
+
+\[8\] Cloud Security Alliance, "Autonomous Sandbox Escape: OpenAI Models Breach Hugging Face," research note, July 30, 2026. https://labs.cloudsecurityalliance.org/research/csa-research-note-openai-artifactory-sandbox-escape-20260730/
+
+\[9\] Gibson Dunn, "Supreme Court Rules 'Independent' Executive Agencies Unconstitutional," June 29, 2026 (on *Trump v. Slaughter*). https://www.gibsondunn.com/supreme-court-rules-independent-executive-agencies-unconstitutional/
+
+\[10\] Ropes & Gray, "Examining the Landscape and Limitations of the Federal Push to Override State AI Regulation," March 2026 (on Executive Order 14365). https://www.ropesgray.com/en/insights/alerts/2026/03/examining-the-landscape-and-limitations-of-the-federal-push-to-override-state-ai-regulation

@@ -2,16 +2,16 @@
 title: "Universal Health Insurance"
 subtitle: "A Hybrid Framework for Universal Coverage"
 author: Gregory L. Meyers
-version: "1.0"
+version: "1.1-draft"
 edition: "November 2026"
 platform_chapter: 5   # chapter number in the Phase 3 master architecture
-status: published
+status: draft   # v1.1 working draft; docs/ PDF is v1.0
 published_pdf: docs/Universal_Health_Insurance_v1.pdf
 ---
 
 # A Hybrid Framework for Universal Coverage
 
-White Paper Version 1.0
+White Paper Version 1.1 (working draft)
 
 Gregory L. Meyers
 
@@ -269,9 +269,7 @@ Universal Health Insurance would be financed through a combination of:
 
 - Employer contributions.
 
-- Wealth-tax revenue, only if other revenue falls short.
-
-- Wealth-tax revenue would otherwise remain reserved for economic downturns and would be used for health financing only if the other sources prove insufficient.
+Wealth-tax revenue would not be used for health financing. Under the platform's financing rules, each revenue stream has exactly one use, and wealth-tax revenue is reserved solely for recession stabilization.
 
 The proposal does not yet specify exact tax rates.
 

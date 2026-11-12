@@ -4,6 +4,12 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased: v1.1 Consistency Edition (in progress)
 
+### White-paper updates (P1)
+- All three white papers are now marked as v1.1 working drafts. The v1.0 PDFs in `docs/` are unchanged.
+- Universal Health Insurance: wealth-tax revenue is no longer a backstop for health financing (decision 0004).
+- Frontier AI Governance: the institutional home (Commerce/NIST) and federal–state roles (a federal floor, plus one national incident-reporting standard) move out of Open Questions and into the proposal, with *Trump v. Slaughter* and Executive Order 14365 cited (decision 0013). The July 2026 incident is updated from the later post-incident reports: about 1,200 agents, and a second affected organization.
+- Social Security: the benefit-credit maximum keeps rising with wages (decision 0010). The baseline now explains that most of the deficit increase comes from lower revenue from taxing benefits after the 2025 reconciliation law, plus a lower fertility assumption.
+
 ### White-paper alignment (P1)
 - Chapter 3, sections 3.2–3.4: Universal Health Insurance matched to its white paper. Changes: a two-layer structure with supplemental insurance; 17 covered categories; no copays or deductibles; a long-term care actuarial study; Trust Fund financing; a statutory Medicare-based fee schedule with a legislative-branch advisory commission; appeals decided by administrative law judges; four implementation phases; an honest-limit note. Drug pricing now includes national negotiation and regulatory exclusivity layered on top of patents. Rural stability now includes grants and minimum service guarantees (decisions 0001, 0004, 0005).
 - Chapter 14: Frontier AI matched to its white paper. Changes: a compute trigger plus Algorithmic Capability Index tiers; verified containment; model-weight security; 15-day and 24-hour incident reporting with safe harbor; emergency suspension for hosted systems; independent evaluation and audits; a reasonableness liability standard; oversight at Commerce/NIST with a federal floor and one national reporting standard; an honest-limit note (decisions 0001, 0013). The Frontier AI System definition now matches the paper.
