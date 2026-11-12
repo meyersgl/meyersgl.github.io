@@ -2,6 +2,23 @@
 
 Newest first. Each entry lists what changed and which decision records it follows.
 
+## Unreleased: v1.2 Complete Edition (in progress)
+
+### Chapter 2: Federal Tax Fairness (decision 0022)
+- New Sections 2.6 to 2.13:
+  - restored 39.6% top rate
+  - capital gains and dividends taxed at ordinary rates above $1M
+  - carried interest taxed as ordinary income
+  - gains taxed at death above a $5M per person exclusion, with deferral for family farms and businesses
+  - a rule that no gain is taxed twice
+  - a 60% ceiling on the combined federal rate on wages
+  - corporate minimum tax raised to 21%, with research and production credits protected
+  - estate tax exemption of $5M (indexed) at 40%, with avoidance tools closed
+  - proposed rates published subject to scoring
+  - the combined-rate table required by Section 27.11
+  - an honest-limits section
+- Section 5.1.2 and Sections 27.11 and 27.12 updated to point to Chapter 2 and the wage ceiling.
+
 ## v1.1 Consistency Edition (November 12, 2026)
 
 ### Correction (November 12, 2026)

@@ -84,8 +84,8 @@ The Congressional Budget Office and the Joint Committee on Taxation shall estima
 
 ### 27.11 Combined Tax Rate Disclosure \[Statute\]
 
-Each edition of this platform, and each revenue bill implementing it, shall publish the combined top marginal rate on wages, pass-through income, and capital gains, counting income tax, Social Security and Medicare contributions, Universal Health Insurance contributions, and the Extreme Wealth Fair-Share Tax.
+Each edition of this platform, and each revenue bill implementing it, shall publish the combined top marginal rate on wages, pass-through income, and capital gains, counting income tax, Social Security and Medicare contributions, Universal Health Insurance contributions, and the Extreme Wealth Fair-Share Tax. The current disclosure is the table in Section 2.12. The combined federal rate on wages and self-employment income shall not exceed 60 percent (Section 2.8).
 
 ### 27.12 Honest Limit
 
-Dollar estimates are not yet included in this edition; the costing table is maintained in `data/costing.csv` and will be filled from published independent estimates. Wealth-tax and carbon revenues are deliberately kept away from recurring programs, so the recurring programs depend on the federal tax fairness measures. Those measures will be set out in their own chapter, and rates will follow independent scoring.
+Dollar estimates are not yet included in this edition; the costing table is maintained in `data/costing.csv` and will be filled from published independent estimates. Wealth-tax and carbon revenues are deliberately kept away from recurring programs, so the recurring programs depend on the federal tax fairness measures. Those measures are set out in Chapter 2 (Sections 2.6 to 2.10) as proposed rates. If independent scoring shows less revenue than the recurring programs need, the programs phase in more slowly; the rates do not rise automatically (Section 2.11).
