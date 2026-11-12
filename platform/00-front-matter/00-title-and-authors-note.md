@@ -2,7 +2,7 @@
 
 A Governing Blueprint for Shared Prosperity, Competitive Markets, Democratic Accountability, Scientific Advancement, and National Resilience
 
-Version 1.0
+Version 1.1 — Consistency Edition
 
 Gregory L. Meyers
 
@@ -12,7 +12,7 @@ Government provides the foundation. Citizens provide the ambition. Markets provi
 
 © 2026 Gregory L. Meyers. Licensed under CC BY-ND 4.0 (see LICENSE).
 
-Public Release Version
+Public Release Version 1.1
 
 # AUTHOR'S NOTE
 
@@ -22,7 +22,7 @@ Various software tools, including artificial intelligence-assisted drafting, edi
 
 This document represents the author's policy recommendations and governing philosophy. Its purpose is to provide a comprehensive framework for public discussion concerning economic opportunity, democratic accountability, competitive markets, scientific progress, fiscal responsibility, and long-term national resilience.
 
-**Version: 1.0**
+**Version: 1.1**
 
 **Publication Date: November 2026**
 
@@ -34,7 +34,7 @@ This document represents the author's policy recommendations and governing philo
 
 **Subtitle:** A Governing Blueprint for Shared Prosperity, Competitive Markets, Democratic Accountability, Scientific Advancement, and National Resilience
 
-**Version:** 1.0
+**Version:** 1.1
 
 **Author:** Gregory L. Meyers
 
@@ -42,7 +42,7 @@ This document represents the author's policy recommendations and governing philo
 
 **Document Purpose:** Public Policy Platform and Governing Framework
 
-**Status:** First Public Release
+**Status:** Second Public Release (Consistency Edition)
 
 Version History
 
@@ -50,6 +50,6 @@ Version 1.0 \| November 2026
 
 Initial Public Release
 
-Version 1.0 (markdown source) \| November 2026
+Version 1.1 \| November 2026
 
-Converted from the published PDF (docs/Full_Platform_v1.pdf) to markdown; Author's Note, Document Information and Version History restored. No policy changes.
+Consistency Edition. Resolves the contradictions found in the v1.0 audit: one authoritative financing chapter (Chapter 27) with a single use for every revenue stream; Social Security, Universal Health Insurance and frontier AI chapters aligned with their white papers; independent bodies redesigned for *Trump v. Slaughter* (2026); carbon fee revenue split 80/10/10; reorganized into nine Parts and 27 chapters (see Appendix D for the old-to-new section map). See CHANGELOG.md for the full list.

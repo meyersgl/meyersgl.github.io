@@ -10,10 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Build DOCX and PDF (pandoc + LaTeX in Docker)
+      - name: Install pandoc, LibreOffice and fonts
         run: |
-          docker run --rm -v "$PWD:/data" -w /data --entrypoint sh pandoc/extra:3.1 \
-            -c "apk add --no-cache bash font-dejavu >/dev/null && bash build/build.sh '${GITHUB_REF_NAME}'"
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends pandoc libreoffice-writer python3-uno fonts-crosextra-carlito fonts-crosextra-caladea fonts-dejavu
+      - name: Build DOCX and PDF
+        run: /usr/bin/python3 -c "import uno" && PATH=/usr/bin:$PATH bash build/build.sh "${GITHUB_REF_NAME}"
       - uses: actions/upload-artifact@v4
         with:
           name: editions-${{ github.ref_name }}
