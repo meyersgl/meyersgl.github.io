@@ -22,6 +22,8 @@ Investments shall support:
 
 - Clear, predictable review timelines achieved through staffing and capacity, without weakening environmental or safety standards
 
+These investments apply the national permitting rule in Section 21.9 to housing.
+
 #### 8.1.3 Institutional Ownership Limits
 
 Federal policy shall restrict excessive concentration of single-family housing within large institutional investment portfolios.

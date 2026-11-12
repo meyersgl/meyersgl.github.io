@@ -4,6 +4,15 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased: v1.1 Consistency Edition (in progress)
 
+### Deduplication (P2b)
+- The congressional stock-trading ban and insider-trading penalties move from 12.7 into 15.2.4, alongside the other ethics rules. 12.7 becomes Campaign Finance Reform.
+- Permitting now has one rule, in 21.9: review is not weakened, and delays are cut through staff, coordination and timelines. Section 20.6 (energy infrastructure) and 8.1.2 (housing) now apply that rule instead of restating it.
+- Supply chains: 21.8 and 24.3 point to the central program in 21.6 (and 21.5).
+- Space: 18.9.2 covers research partnerships only; space security programs are governed by 24.8.
+- National service: because public tuition is already free, the service benefit now covers living costs, apprenticeships, certifications, graduate study, and student-loan repayment. Participants get health coverage through Universal Health Insurance.
+- Principles: the Final Clause now refers to all ten Governing Principles rather than a partial list of five. The Statutory Interpretation Principle keeps its ranked order and now says it ranks Governing Principles for resolving statutory ambiguity.
+- A one-page Platform Overview replaces the 415-line Executive Summary that was embedded in the platform. The standalone Executive Summary is unchanged.
+
 ### Structure (P2a)
 - The platform now uses the v1.1 structure of 27 chapters in nine Parts (decision 0003). Front matter comes first: Executive Summary, Legal Classifications, Governing Principles (formerly Appendix A), and Definitions. The v1.0 Appendix B is now Appendix A.
 - Chapter 9 is split up: its foreign-policy section moves to Chapter 23, immigration to Chapter 17, and prisons, cannabis and addiction courts to Chapter 16. Its guiding principle becomes the Part V introduction. The duplicate sections on private prisons (old 9.5 and 10.6) and on citizenship pathways (old 9.4 and 11.2.5) are each merged into one.

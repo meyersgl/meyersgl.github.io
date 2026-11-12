@@ -130,19 +130,13 @@ while maintaining strong safety standards.
 
 ### 20.6 Critical Clean Energy Infrastructure \[Statute – High Resistance\]
 
-The federal government may coordinate review of nationally significant energy infrastructure to reduce duplication and delay.
-
-Projects eligible for coordinated review may include:
+Nationally significant energy infrastructure shall be eligible for the coordinated review in Section 21.9, which reduces duplication and delay without weakening environmental or safety review. Eligible projects may include:
 
 - Interstate transmission systems
 
 - Advanced nuclear facilities
 
 - Strategic energy infrastructure
-
-**Coordinated Review**
-
-Environmental and safety reviews shall not be weakened, and public participation shall be preserved. Delays shall be reduced through funded permitting staff, coordinated agency review, and clear timelines, not by narrowing the scope of review.
 
 ### 20.7 Conservation & Environmental Stewardship \[Statute\]
 

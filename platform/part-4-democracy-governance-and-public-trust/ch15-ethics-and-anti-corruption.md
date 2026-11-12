@@ -56,6 +56,12 @@ Officials may not evade disclosure requirements through transfers to:
 
 for the purpose of concealing financial interests.
 
+#### 15.2.4 Stock Trading Ban & Insider Trading Penalties
+
+Members of Congress shall be prohibited from trading individual stocks.
+
+Criminal penalties shall apply to insider trading by government officials.
+
 ### 15.3 Lobbying & Revolving Door Reform \[Statute\]
 
 **Cooling-Off Period**

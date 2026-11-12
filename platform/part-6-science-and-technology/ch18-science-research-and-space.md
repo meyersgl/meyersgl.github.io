@@ -194,15 +194,7 @@ NASA, the United States Space Force, universities, national laboratories, and pr
 
 NASA shall remain the nation's primary civilian scientific agency.
 
-Space Force participation shall focus on:
-
-- Infrastructure resilience
-
-- Navigation systems
-
-- Communications security
-
-- Space-domain awareness
+Space Force participation in these research partnerships shall support infrastructure resilience, navigation, communications security, and space-domain awareness. Space security and resilience programs themselves are governed by Section 24.8.
 
 #### 18.9.3 Public-Private Space Development
 

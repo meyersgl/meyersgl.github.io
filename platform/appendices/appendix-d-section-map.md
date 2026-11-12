@@ -179,4 +179,4 @@ Every section of the v1.0 platform and where it appears in the v1.1 structure. S
 | 22.11 | 27.11 |
 | 22.12 | 27.12 |
 
-Front matter: the Executive Summary, Legal Classifications, Governing Principles (formerly Appendix A), and Definitions now precede Part I. The v1.0 Appendix B (Constitutional Amendments) is now Appendix A.
+Front matter: a one-page Platform Overview (replacing the embedded Executive Summary), Legal Classifications, Governing Principles (formerly Appendix A), and Definitions now precede Part I. The v1.0 Appendix B (Constitutional Amendments) is now Appendix A.

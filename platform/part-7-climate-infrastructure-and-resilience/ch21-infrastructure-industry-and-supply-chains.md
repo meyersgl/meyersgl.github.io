@@ -168,9 +168,11 @@ Federal projects receiving major public support should prioritize domestic produ
 
 The goal is strengthening domestic productive capacity while maintaining competition.
 
+Cross-reference: Section 21.6 is the central supply-chain program.
+
 ### 21.9 National Permitting Reform \[Statute – High Resistance\]
 
-Major infrastructure projects shall receive coordinated review procedures supported by funded permitting staff.
+Major infrastructure projects shall receive coordinated review procedures supported by funded permitting staff. This section is the platform's single permitting rule; Sections 8.1.2 and 20.6 apply it to housing and to energy infrastructure.
 
 **One Project, One Review**
 
@@ -181,5 +183,7 @@ Federal agencies shall coordinate reviews to reduce duplication while preserving
 - Public safety standards
 
 - Property-right protections
+
+Environmental and safety reviews shall not be weakened, and public participation shall be preserved. Delays shall be reduced through funded permitting staff, coordinated agency review, and clear timelines, not by narrowing the scope of review.
 
 Efficient permitting is not the same as weaker standards.
