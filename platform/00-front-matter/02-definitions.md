@@ -260,13 +260,11 @@ Costs met by universal public programs established in this platform (such as pub
 
 - **Stabilize economic cycles**
 
-- **Preserve excess revenues**
-
-- **Support long-term national investments**
+- **Hold Extreme Wealth Fair-Share Tax revenue up to a statutory stabilization target**
 
 - **Strengthen fiscal resilience**
 
-**Assets shall be professionally managed under transparent and independent governance structures. The Reserve's first priority is recession stabilization; other long-term commitments are funded through defined allocations under Chapter 22.**
+**Assets shall be professionally managed under transparent and independent governance structures. The Reserve exists solely for recession stabilization. No other program may claim it (Section 22.5).**
 
 **Statutory Interpretation Principle**
 

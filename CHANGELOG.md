@@ -4,6 +4,15 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased: v1.1 Consistency Edition (in progress)
 
+### Financing (P1)
+- Chapter 22 rewritten as the Master Financing Framework: every revenue stream assigned to exactly one use, recurring programs funded only from stable revenue, a program funding map, Sovereign Wealth Reserve rules, a funded spending cap, a borrowing rule, no double counting, CBO/JCT costing, and combined tax-rate disclosure (decisions 0004–0008).
+- Section 1.2: the spending cap can rise only with scored revenue (decision 0007).
+- Section 1.3 and the Definitions: the Sovereign Wealth Reserve is for recession stabilization only and is funded by the wealth tax (decision 0004).
+- Section 1.4 and throughout: the Millionaire Fair-Share Tax is renamed the Extreme Wealth Fair-Share Tax (decision 0015).
+- Section 3.3: the Innovation Fund is financed by a fixed share of drug-negotiation savings (decision 0005).
+- Chapter 15: carbon and methane fee revenue split 80 / 10 / 10; border tariff receipts go to the household dividend; the Transition Fund ends on a set date; the methane fee covers the largest manure lagoons, with livestock and family farms handled through voluntary incentives (decisions 0006, 0011).
+- Section 21.4: the Social Security Endowment is funded only from payroll-reform revenue beyond scheduled benefits and reserves, not from the wealth tax (decisions 0001, 0004).
+
 ### Added
 - Markdown master source: the published v1.0 platform split into one file per chapter (`platform/`), matching the published PDF word for word (decision 0018, 0020).
 - The three white papers as markdown (`white-papers/`).
