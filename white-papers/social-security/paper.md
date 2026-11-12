@@ -2,16 +2,16 @@
 title: "Social Security Solvency"
 subtitle: "Without Benefit Cuts or Raising the Retirement Age: A Proposal for Long-Term Retirement Security"
 author: Gregory L. Meyers
-version: "1.1-draft"
+version: "1.1"
 edition: "November 2026"
 platform_chapter: 26   # chapter number in the Phase 3 master architecture
-status: draft   # v1.1 working draft; docs/ PDF is v1.0
-published_pdf: docs/Social_Security_Solvency_v1.pdf
+status: published
+published_pdf: docs/Social_Security_Solvency_v1.1.pdf
 ---
 
 # A Proposal for Long-Term Retirement Security
 
-White Paper Version 1.1 (working draft)
+White Paper Version 1.1
 
 Gregory L. Meyers
 

@@ -2,7 +2,13 @@
 
 Newest first. Each entry lists what changed and which decision records it follows.
 
-## Unreleased: v1.1 Consistency Edition (in progress)
+## v1.1 Consistency Edition (November 12, 2026)
+
+### Release
+- Version 1.1 PDFs of the Full Platform, Executive Summary, One Pager, and the three white papers added to docs/ (the v1 files stay in place).
+- Executive Summary and One Pager now kept as markdown in summaries/. The summary renames the Millionaire Fair-Share Tax to the Extreme Wealth Fair-Share Tax, replaces the revenue list with the one-use-per-stream rule from Chapter 27, and aligns the Social Security, health, and AI descriptions with the white papers.
+- Build now renders PDFs from the Word files with LibreOffice so they keep the Word styling, with the table of contents refreshed (build/docx2pdf.py).
+- Title page, Document Information, Version History, white-paper front matter, CITATION.cff, and the website edition notes updated to v1.1.
 
 ### Design rules and settled decisions (P2c)
 - New shared definitions: Dominance Threshold, Strategic Protection Test, Coordinated Review Standard, Capital Investment vs. Recurring Obligation, and Hosted vs. Open-Weight Models. The Living Wage definition is now the benchmark for the wage percentage in 3.1.

@@ -2,16 +2,16 @@
 title: "Universal Health Insurance"
 subtitle: "A Hybrid Framework for Universal Coverage"
 author: Gregory L. Meyers
-version: "1.1-draft"
+version: "1.1"
 edition: "November 2026"
 platform_chapter: 5   # chapter number in the Phase 3 master architecture
-status: draft   # v1.1 working draft; docs/ PDF is v1.0
-published_pdf: docs/Universal_Health_Insurance_v1.pdf
+status: published
+published_pdf: docs/Universal_Health_Insurance_v1.1.pdf
 ---
 
 # A Hybrid Framework for Universal Coverage
 
-White Paper Version 1.1 (working draft)
+White Paper Version 1.1
 
 Gregory L. Meyers
 
