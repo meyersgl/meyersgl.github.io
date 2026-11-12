@@ -8,135 +8,137 @@ The purpose of public investment is not to eliminate private markets. The purpos
 
 ### 3.2 Universal Health Insurance \[Statute – High Resistance\]
 
+*Aligned with the white paper* Universal Health Insurance: A Hybrid Framework for Universal Coverage *(decision 0001).*
+
 The United States shall establish a national public health insurance system providing universal coverage for all citizens, lawful permanent residents, and other lawfully present residents. Emergency care, treatment of communicable disease, and public-health services shall be available to all persons regardless of immigration status, consistent with the Human Dignity Standard.
 
-Coverage shall include:
+The system shall have two layers:
+
+- **Universal Health Insurance**, a publicly financed plan that provides comprehensive coverage to every eligible resident.
+- **Supplemental insurance**, which individuals may purchase privately for services beyond the standard package, upgraded accommodations, or other added benefits. Supplemental insurance shall add to the public plan and shall not replace it.
+
+Healthcare providers shall remain privately operated and independently managed. The public system shall function primarily as the financing mechanism while preserving provider independence and patient choice.
+
+#### 3.2.1 Covered Services
+
+Coverage shall include all medically necessary:
 
 - Primary care
-
+- Specialist care
+- Preventive care
 - Emergency care
-
-- Hospital services
-
+- Hospitalization
+- Surgical care
 - Mental-health treatment
-
+- Substance-use treatment
+- Prescription drugs
 - Dental care
-
 - Vision care
+- Hearing care
+- Home health services
+- Long-term care
+- Fertility treatment
+- Rehabilitation services
+- Reproductive and maternal health, including contraception, pregnancy and postpartum care, and abortion care (Section 3.12)
 
-- Prescription medications
+Covered services shall carry no copays or deductibles at the point of care. Because removing cost-sharing also removes a common check on how much care is used, spending growth shall be managed through provider-payment design and workforce planning (Sections 3.2.3 and 3.2.5).
 
-- Preventive services
+The long-term care benefit shall be designed after an independent actuarial study of its sustainability over multiple decades, completed before universal enrollment begins.
 
-- Long-term care (home- and community-based services and facility care)
+#### 3.2.2 Financing
 
-- Reproductive and maternal health services
+Universal Health Insurance shall be financed through a dedicated Universal Health Insurance Trust Fund, funded by payroll contributions, employer contributions, and income-based taxes (Section 22.3). These contributions are intended to replace the premiums, deductibles, and out-of-pocket costs that households and employers pay today. Savings from consolidated health financing shall lower contribution rates and shall not be counted elsewhere. Extreme Wealth Fair-Share Tax revenue shall not be used for health financing (Section 22.5). Contribution rates shall be set after independent scoring.
 
-Healthcare providers shall remain privately operated and independently managed.
+#### 3.2.3 Provider Payments and Rate Recommendations
 
-The public insurance system shall function primarily as the financing mechanism while preserving provider independence and patient choice.
+Provider payments shall follow a national fee schedule set in statute, using Medicare's relative-value (RVU) weighting system as its foundation and adjusted for geographic cost differences. Medicare-based rates are lower than what private insurers pay hospitals today, so the move toward them shall be gradual and monitored for effects on access, closures, and the workforce.
 
-#### 3.2.1 National Rate Commission
+A health-payment advisory commission in the legislative branch, modeled on the Medicare Payment Advisory Commission (MedPAC), shall recommend annual updates based on medical evidence, operational sustainability, geographic cost differences, and long-term system efficiency. A recommendation shall take effect unless the Secretary of Health and Human Services publishes a written, reasoned decision rejecting it.
 
-An independent rate-setting commission shall establish reimbursement frameworks based upon:
+#### 3.2.4 Specialty & Geographic Appeals Mechanism
 
-- Medical evidence
+A formal, data-driven appeals process shall allow specialties and regions to challenge reimbursement rates so that rates can be corrected before shortages or closures occur (for example, in oncology or rural family medicine). Appeals shall be decided by administrative law judges.
 
-- Operational sustainability
+#### 3.2.5 Workforce Development
 
-- Geographic cost differences
+Shortages of physicians, nurses, dentists, optometrists, and behavioral-health providers shall be addressed through:
 
-- Long-term system efficiency
-
-The commission shall remain insulated from direct partisan control.
-
-#### 3.2.2 Workforce Development
-
-Medical and healthcare workforce shortages shall be addressed through:
-
-- Student-loan forgiveness
-
-- Residency expansion
-
-- Rural-care incentives
-
+- Residency and training-capacity expansion
+- Rural and underserved-area service incentives
+- Loan repayment for health professionals with loans taken out before tuition-free public higher education (Section 3.7) takes effect
 - Workforce development programs
 
 Cross-reference: See Chapter 2 Workforce Mobility and Chapter 12 Science & Innovation.
 
-#### 3.2.3 Specialty & Geographic Appeals Mechanism
+#### 3.2.6 Phased Implementation
 
-A formal, data-driven appeals process shall allow specialties and regions to challenge reimbursement rates so that rates can be adjusted before shortages or closures occur (for example, in oncology or rural family medicine). The Medicare relative-value (RVU) weighting system shall serve as the structural foundation of the fee schedule.
+Implementation shall proceed in phases, with costs evaluated, outcomes measured, and problems corrected at each stage:
 
-#### 3.2.4 Transition Framework
+1. Expanded Medicare buy-in options. Because Medicare's Hospital Insurance trust fund is projected to run out of reserves in 2033, this phase shall carry its own financing.
+2. Coverage expansion for children.
+3. Gradual expansion into broader age groups.
+4. Universal enrollment.
 
-Implementing legislation shall phase in the system and coordinate Medicare, Medicaid, veterans' health programs, and employer-sponsored coverage so that no one loses coverage during the transition.
+Implementing legislation shall coordinate Medicare, Medicaid, veterans' health programs, and employer-sponsored coverage so that no one loses coverage during the transition.
 
-### 3.3 Dynamic Global Innovation Fund \[Statute – High Resistance\]
+#### 3.2.7 Honest Limit
+
+This framework has not yet been independently scored. Open questions include the exact financing mix and rates, how fast payments should move toward Medicare-based levels, what supplemental coverage may duplicate, how to manage use of care without cost-sharing, the design of a sustainable long-term care benefit, and how quickly the workforce can grow. These are set out for expert review in the white paper.
+
+### 3.3 Drug Pricing & Dynamic Global Innovation Fund \[Statute – High Resistance\]
 
 Healthcare affordability should not come at the expense of medical innovation.
 
-To preserve research incentives, a Dynamic Global Innovation Fund shall support breakthrough therapies and pioneering medical discoveries.
+#### 3.3.1 National Price Negotiation
 
-Funding shall come from a fixed statutory share of the savings from national drug-price negotiation, subject to an annual cap (Section 22.3). Only the remaining savings shall be counted in health-cost estimates.
+The Universal Health Insurance system shall negotiate prescription-drug prices to obtain value for patients and taxpayers while maintaining incentives for research and development. This extends the negotiation Medicare already conducts under current law.
 
-#### 3.3.1 Variable Innovation Exclusivity
+#### 3.3.2 Dynamic Global Innovation Fund
 
-New therapies receiving approval shall qualify for market exclusivity periods ranging from:
+A Dynamic Global Innovation Fund shall support breakthrough therapies and pioneering medical discoveries. Funding shall come from a fixed statutory share of the savings from national drug-price negotiation, subject to an annual cap (Section 22.3). Only the remaining savings shall be counted in health-cost estimates.
 
-**7-15 years**
+#### 3.3.3 Variable Innovation Exclusivity
 
-based upon:
+New therapies receiving approval shall qualify for a period of regulatory market exclusivity ranging from 7 to 15 years, based upon:
 
 - Research and development expenditures
-
 - Therapeutic benefit
-
 - Public-health impact
-
 - Scientific advancement
-
 - Innovation significance
 
-#### 3.3.2 Public Patent Option
+This exclusivity is a regulatory period layered on top of existing patent rights. It does not shorten patent terms, consistent with U.S. obligations under the WTO TRIPS Agreement.
 
-At the conclusion of the awarded exclusivity period:
+#### 3.3.4 Public Patent Option and Generic Competition
 
-- Public manufacturing rights become available.
+When the awarded exclusivity period ends, generic competition shall be encouraged and public manufacturing rights shall become available, so that treatment costs decline.
 
-- Generic competition may begin.
+#### 3.3.5 Manufacturing and Strategic Procurement
 
-- Treatment costs should decline substantially.
-
-This system balances:
-
-- Innovation incentives
-
-- Public access
-
-- Long-term affordability
+Pharmaceutical production shall remain primarily within the private sector. The government may contract private manufacturers to produce medicines needed to address shortages or access problems.
 
 ### 3.4 Rural Healthcare Stability Framework \[Statute\]
 
-Healthcare access shall not depend upon population density.
+Healthcare access shall not depend upon population density. Rural stability programs shall be funded through the Universal Health Insurance Trust Fund (Section 22.4).
 
-#### 3.4.1 Automatic Rural Floor
+#### 3.4.1 Geographic Reimbursement Adjustments
 
-Treatment reimbursement rates shall be adjusted using a Geographic Volatility Index.
+Reimbursement rates shall account for rural operating realities using a Geographic Volatility Index.
 
-#### 3.4.2 Operational Stability Support
+#### 3.4.2 Rural Stabilization Grants and Operational Support
 
-Healthcare providers facing patient-volume shortages may receive automatic stabilization payments designed to prevent closure of essential facilities.
+Healthcare providers facing patient-volume shortages may receive automatic stabilization payments and targeted grants designed to prevent closure of essential facilities.
 
 Priority shall be given to:
 
 - Rural hospitals
-
 - Critical access hospitals
-
 - Community clinics
-
 - Mental-health providers
+
+#### 3.4.3 Minimum Service Guarantees
+
+Basic healthcare services shall remain available regardless of geographic location.
 
 ### 3.5 Universal Preschool \[Statute\]
 

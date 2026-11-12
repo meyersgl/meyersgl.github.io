@@ -74,7 +74,7 @@ Costs met by universal public programs established in this platform (such as pub
 
 **A Frontier AI System is an artificial intelligence model or collection of models demonstrating capabilities sufficiently advanced to create substantial economic, societal, cybersecurity, national-security, or public-safety consequences.**
 
-**Determinations shall be based on demonstrated performance rather than a specific computing threshold alone.**
+**Determinations shall rest primarily on demonstrated performance, assessed under the Algorithmic Capability Index, with training compute serving as a screening trigger (Section 14.2.1).**
 
 **Autonomous AI Action**
 

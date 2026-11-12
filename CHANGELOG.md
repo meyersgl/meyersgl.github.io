@@ -4,6 +4,12 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased: v1.1 Consistency Edition (in progress)
 
+### White-paper alignment (P1)
+- Chapter 3, sections 3.2–3.4: Universal Health Insurance matched to its white paper. Changes: a two-layer structure with supplemental insurance; 17 covered categories; no copays or deductibles; a long-term care actuarial study; Trust Fund financing; a statutory Medicare-based fee schedule with a legislative-branch advisory commission; appeals decided by administrative law judges; four implementation phases; an honest-limit note. Drug pricing now includes national negotiation and regulatory exclusivity layered on top of patents. Rural stability now includes grants and minimum service guarantees (decisions 0001, 0004, 0005).
+- Chapter 14: Frontier AI matched to its white paper. Changes: a compute trigger plus Algorithmic Capability Index tiers; verified containment; model-weight security; 15-day and 24-hour incident reporting with safe harbor; emergency suspension for hosted systems; independent evaluation and audits; a reasonableness liability standard; oversight at Commerce/NIST with a federal floor and one national reporting standard; an honest-limit note (decisions 0001, 0013). The Frontier AI System definition now matches the paper.
+- Chapter 21: Social Security matched to its white paper. Changes: the payroll cap is eliminated; benefits are credited only up to the taxable maximum, which stays indexed to wages; no rate increase below the maximum; pass-through income is covered on the same basis as wages; endowment governance; retirement age kept at 67 with no new means test; no solvency claim until scored. The minimum-benefit increase is removed (decisions 0001, 0009, 0010).
+- Website: the health, Social Security, AI, carbon and fiscal summaries now follow the v1.1 working draft. The document-status note and change log say so.
+
 ### Financing (P1)
 - Chapter 22 rewritten as the Master Financing Framework: every revenue stream assigned to exactly one use, recurring programs funded only from stable revenue, a program funding map, Sovereign Wealth Reserve rules, a funded spending cap, a borrowing rule, no double counting, CBO/JCT costing, and combined tax-rate disclosure (decisions 0004–0008).
 - Section 1.2: the spending cap can rise only with scored revenue (decision 0007).
