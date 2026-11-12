@@ -3,7 +3,7 @@ title: <Title>
 subtitle: <Subtitle>
 author: Gregory L. Meyers
 version: "1.1"
-date: 2026-11
+edition: "<Month YYYY>"
 platform_chapter: <n>
 status: draft            # draft | in-review | published
 ---

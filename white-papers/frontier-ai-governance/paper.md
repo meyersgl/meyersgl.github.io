@@ -3,7 +3,7 @@ title: "Frontier AI Governance"
 subtitle: "A Framework for Innovation, Accountability, and Public Safety"
 author: Gregory L. Meyers
 version: "1.0"
-date: 2026-11
+edition: "November 2026"
 platform_chapter: 19   # chapter number in the Phase 3 master architecture
 status: published
 published_pdf: docs/Frontier_AI_Governance_v1.pdf
