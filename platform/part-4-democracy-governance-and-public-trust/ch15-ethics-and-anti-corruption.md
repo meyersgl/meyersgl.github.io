@@ -120,7 +120,7 @@ Independent Inspectors General shall maintain authority to investigate:
 
 **Removal Transparency**
 
-Removal of an Inspector General shall require written justification to Congress.
+Removal of an Inspector General shall require written reasons delivered to Congress at least 30 days in advance. When the office is vacant, the acting Inspector General shall be drawn from its career deputies, and career Inspector General staff shall retain civil-service protections.
 
 ### 15.7 Foreign Influence Safeguards \[Statute\]
 
@@ -142,11 +142,11 @@ Senior officials shall not appoint immediate family members to positions over wh
 
 Hiring shall be based upon merit and qualifications.
 
-### 15.9 Public Ethics Commission \[Statute – High Resistance\]
+### 15.9 Public Ethics Office & Enforcement \[Statute – High Resistance\]
 
-An independent bipartisan commission shall:
+A congressional ethics office in the legislative branch shall:
 
-- Conduct ethics investigations
+- Conduct ethics investigations involving Members of Congress and congressional staff
 
 - Issue advisory opinions
 
@@ -154,7 +154,9 @@ An independent bipartisan commission shall:
 
 - Publish annual reports
 
-The commission shall operate independently of direct partisan control.
+For the executive branch, the disclosure and conflict-of-interest duties in this chapter shall be enforceable in federal court, audited by Inspectors General, and published through the Citizen Transparency Portal (Section 15.10).
+
+Honest limit: after *Trump v. Slaughter* (2026), the heads of executive agencies can be removed at will, so an independent executive-branch ethics commission would not be durable. The platform relies instead on duties written into statute, enforcement through the courts, and public disclosure.
 
 ### 15.10 Citizen Transparency Portal \[Statute\]
 
@@ -178,7 +180,7 @@ Cross-reference: See Chapter 12 Elections & Democratic Reform and Chapter 14 Gov
 
 The Department of Justice shall conduct criminal investigations and prosecutorial decisions independently of political direction from the President, Vice President, or political campaign organizations.
 
-Contacts between the White House and the Department regarding specific investigations or prosecutions shall be logged and disclosed to Congress, and career prosecutors shall be protected from retaliation for declining improper direction.
+Contacts between the White House and the Department regarding specific investigations or prosecutions shall be logged and disclosed to Congress, and career prosecutors shall be protected from retaliation for declining improper direction. Career prosecutors and investigators shall retain civil-service protections as inferior officers and employees.
 
 Honest limit: courts may hold that the Constitution gives the President control over federal prosecutions. If so, the logging, disclosure, and anti-retaliation provisions are the parts most likely to survive.
 

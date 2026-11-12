@@ -4,6 +4,17 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased: v1.1 Consistency Edition (in progress)
 
+### Design rules and settled decisions (P2c)
+- New shared definitions: Dominance Threshold, Strategic Protection Test, Coordinated Review Standard, Capital Investment vs. Recurring Obligation, and Hosted vs. Open-Weight Models. The Living Wage definition is now the benchmark for the wage percentage in 3.1.
+- Competition rules are conduct-based. Extra platform duties (9.2.2, 9.2.3, 9.2.5), housing investor limits (8.1.3), and farmland review (10.1.5) apply only above the Dominance Threshold.
+- Tariffs (11.2.2) require authority expressly granted by Congress and must meet the Strategic Protection Test, citing *Learning Resources v. Trump*. Trade protection, the critical-supplies list, domestic-production preferences, and defense sourcing must also meet the test.
+- Independent bodies redesigned after *Trump v. Slaughter*: GAO conducts ten-year reviews; Inspector General removal requires 30 days' notice and acting IGs come from career deputies; a congressional ethics office plus enforcement in the courts replaces the executive-branch commission; career prosecutors are protected; the U.S. Sentencing Commission conducts sentencing review; Innovation Fund awards go through peer review; the critical-supplies list is recommended by a national-laboratory office and issued by rule (decision 0021).
+- 23.2: offshore balancing narrowed to no new permanent bases without congressional authorization, plus burden-sharing and force-posture reports. Ending regime change stays core (decision 0002).
+- 24.12: defense held roughly flat after inflation; procurement savings are reinvested in defense and not counted as platform financing (decision 0012).
+- 14.2.5 one-in-one-out is limited to paperwork; 14.5 pilots are required only for untested designs.
+- Legal tags: 12.5 is flagged Constitutionally Contested with an honest-limit note; 12.7 is tagged Statute / Constitutional Amendment; the new flag is added to Legal Classifications; Appendix A's list of future amendments is reconciled with 15.11.
+- New Appendix C: Institutional & Regulatory Design Standards.
+
 ### Deduplication (P2b)
 - The congressional stock-trading ban and insider-trading penalties move from 12.7 into 15.2.4, alongside the other ethics rules. 12.7 becomes Campaign Finance Reform.
 - Permitting now has one rule, in 21.9: review is not weakened, and delays are cut through staff, coordination and timelines. Section 20.6 (energy infrastructure) and 8.1.2 (housing) now apply that rule instead of restating it.
@@ -14,7 +25,7 @@ Newest first. Each entry lists what changed and which decision records it follow
 - A one-page Platform Overview replaces the 415-line Executive Summary that was embedded in the platform. The standalone Executive Summary is unchanged.
 
 ### Structure (P2a)
-- The platform now uses the v1.1 structure of 27 chapters in nine Parts (decision 0003). Front matter comes first: Executive Summary, Legal Classifications, Governing Principles (formerly Appendix A), and Definitions. The v1.0 Appendix B is now Appendix A.
+- The platform now uses the v1.1 structure of 27 chapters in nine Parts (decision 0021). Front matter comes first: Executive Summary, Legal Classifications, Governing Principles (formerly Appendix A), and Definitions. The v1.0 Appendix B is now Appendix A.
 - Chapter 9 is split up: its foreign-policy section moves to Chapter 23, immigration to Chapter 17, and prisons, cannabis and addiction courts to Chapter 16. Its guiding principle becomes the Part V introduction. The duplicate sections on private prisons (old 9.5 and 10.6) and on citizenship pathways (old 9.4 and 11.2.5) are each merged into one.
 - Sections moved: tax measures (old 1.4–1.8) to the new Chapter 2, Federal Tax Fairness; welfare-cliff reform to the new Chapter 4; health, reproductive health, education, and housing into their own chapters; privacy and right to repair to Chapter 9; public broadband to Chapter 21; STEM education to Chapter 7; strategic domestic production becomes 21.6.1 under the supply-chain program. Science and Space are combined into Chapter 18.
 - Chapter 13, Civil Rights & Equal Protection, is created with its guiding principle. Its statutory provisions are scheduled for v1.2.

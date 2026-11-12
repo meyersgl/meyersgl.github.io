@@ -138,7 +138,7 @@ This section is the central supply-chain program. Sections 21.6.1, 11.2.4, and 2
 
 #### 21.6.1 Strategic Domestic Production \[Statute\]
 
-Critical emergency supplies shall maintain domestic production capacity. The list of critical supplies shall be narrow and statutorily defined, updated by an independent technical body rather than by industry petition, and aligned with the vulnerability reviews in Section 21.6 and the reserves in Section 22.6.
+Critical emergency supplies shall maintain domestic production capacity. The list of critical supplies shall be narrow and statutorily defined, recommended by a technical office at the national laboratories using a published method rather than by industry petition, issued by rule subject to congressional review, required to meet the Strategic Protection Test, and aligned with the vulnerability reviews in Section 21.6 and the reserves in Section 22.6.
 
 ### 21.7 Workforce Development Partnership \[Statute\]
 
@@ -166,7 +166,7 @@ Federal projects receiving major public support should prioritize domestic produ
 
 - Supply needs can be met
 
-The goal is strengthening domestic productive capacity while maintaining competition.
+The goal is strengthening domestic productive capacity while maintaining competition. Preferences under this section shall meet the Strategic Protection Test.
 
 Cross-reference: Section 21.6 is the central supply-chain program.
 

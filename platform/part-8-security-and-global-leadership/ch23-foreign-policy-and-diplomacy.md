@@ -28,9 +28,9 @@ The nation shall end foreign regime-change operations and shall reduce reliance 
 
 whenever practical.
 
-**Offshore Balancing Posture**
+**Forward Presence & Burden-Sharing**
 
-The United States shall shift from permanent foreign land bases toward maritime and over-the-horizon capabilities that protect trade routes and international waters, and shall ask regional allies to share local defense burdens. Reduced forward presence and the end of regime-change operations are severable commitments; either may proceed without the other.
+No new permanent overseas military base shall be established without congressional authorization. Allies shall share defense burdens through periodic burden-sharing reviews, and the Department of Defense shall report to Congress at regular intervals on global force posture, including where maritime and over-the-horizon capabilities can substitute for forward presence. Ending regime-change operations is a core commitment that does not depend on force-posture decisions.
 
 **Peace Through Strength**
 

@@ -89,7 +89,7 @@ The Universal Health Insurance system shall negotiate prescription-drug prices t
 
 #### 5.2.2 Dynamic Global Innovation Fund
 
-A Dynamic Global Innovation Fund shall support breakthrough therapies and pioneering medical discoveries. Funding shall come from a fixed statutory share of the savings from national drug-price negotiation, subject to an annual cap (Section 27.3). Only the remaining savings shall be counted in health-cost estimates.
+A Dynamic Global Innovation Fund shall support breakthrough therapies and pioneering medical discoveries. Funding shall come from a fixed statutory share of the savings from national drug-price negotiation, subject to an annual cap (Section 27.3). Only the remaining savings shall be counted in health-cost estimates. Awards shall be made through peer review that includes outside scientific reviewers, using criteria set in statute.
 
 #### 5.2.3 Variable Innovation Exclusivity
 

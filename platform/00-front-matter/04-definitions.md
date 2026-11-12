@@ -26,6 +26,8 @@
 
 **A Living Wage may vary by region to reflect differences in local costs of living.**
 
+**The Living Wage serves as the benchmark used to set the percentage of the federal poverty line in Section 3.1.**
+
 Costs met by universal public programs established in this platform (such as public health insurance, preschool, and capped childcare) shall be excluded from the calculation to avoid double-counting.
 
 **Productive Capital Expenditure**
@@ -265,6 +267,26 @@ Costs met by universal public programs established in this platform (such as pub
 - **Strengthen fiscal resilience**
 
 **Assets shall be professionally managed under transparent and independent governance structures. The Reserve exists solely for recession stabilization. No other program may claim it (Section 27.5).**
+
+**Dominance Threshold**
+
+**A firm meets the Dominance Threshold in a market when it holds a durable share of that market and is protected by barriers to entry that prevent effective competition, as specified in statute and in rules issued by the enforcing agencies. Size alone shall never trigger intervention. Duties that apply above the threshold target conduct. Used in Sections 8.1.3, 9.2, and 10.1.5.**
+
+**Strategic Protection Test**
+
+**A trade restriction, sourcing requirement, or domestic-production preference meets the Strategic Protection Test only if it (1) addresses a documented national-security or resilience need identified under Section 21.6, (2) has an estimated and capped cost to consumers and businesses, (3) carries a sunset and review date, and (4) in the case of a tariff, rests on authority expressly granted by Congress. Used in Sections 11.2, 21.6.1, 21.8, and 24.3.**
+
+**Coordinated Review Standard**
+
+**Faster permitting shall come from funded staff, coordinated agency review, and clear timelines, never from narrowing environmental or safety review or limiting public participation (Section 21.9).**
+
+**Capital Investment and Recurring Obligation**
+
+**A capital investment creates a long-lived productive asset, such as infrastructure or research facilities. A recurring obligation is an ongoing program cost. Recurring obligations shall be paid only from stable revenue (Chapter 27).**
+
+**Hosted and Open-Weight Models**
+
+**A hosted model runs on infrastructure its developer controls and can be suspended. An open-weight model's parameters have been publicly released and cannot be recalled (Chapter 19).**
 
 **Statutory Interpretation Principle**
 
