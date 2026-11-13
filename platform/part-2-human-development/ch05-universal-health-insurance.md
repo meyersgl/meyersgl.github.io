@@ -77,7 +77,7 @@ Implementing legislation shall coordinate Medicare, Medicaid, veterans' health p
 
 #### 5.1.7 Honest Limit
 
-This framework has not yet been independently scored. Open questions include the exact financing mix and rates, how fast payments should move toward Medicare-based levels, what supplemental coverage may duplicate, how to manage use of care without cost-sharing, the design of a sustainable long-term care benefit, and how quickly the workforce can grow. These are set out for expert review in the white paper.
+This framework has not yet been independently scored. Open questions include the exact financing mix and rates, how fast payments should move toward Medicare-based levels, what supplemental coverage may duplicate, how to manage use of care without cost-sharing, the design of a sustainable long-term care benefit (which must include the guaranteed home- and community-based services in Section 13.5.3 and the long-term care relief offered under Section 4.7.3), and how quickly the workforce can grow. These are set out for expert review in the white paper.
 
 ### 5.2 Drug Pricing & Dynamic Global Innovation Fund \[Statute – High Resistance\]
 

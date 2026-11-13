@@ -42,6 +42,8 @@ Each major program shall draw only on the stream listed here. Independent cost e
 | --- | --- | --- |
 | Universal Health Insurance, including rural stabilization and the Medicaid transition | Recurring | Universal Health Insurance Trust Fund |
 | Income security: SSI rules, SNAP changes, Earned Income Tax Credit, Child Tax Credit (Chapter 4) | Recurring | General Fund (tax fairness measures), first in the phase-in order (Section 27.9) |
+| Expanded Disabled Access Credit (Section 13.5.1) | Recurring | General Fund (tax fairness measures), tier 1 (Section 27.9) |
+| Civil rights enforcement staff (Section 13.8) | Recurring | General Fund, within capped and scored base appropriations |
 | Disability Insurance earnings offset (Section 4.6.3) | Recurring | Social Security trust funds |
 | Regular unemployment insurance (Section 4.4) | Recurring | Unemployment trust funds |
 | Extended unemployment benefits in recessions (Section 4.4.4) | Triggered by recession | Sovereign Wealth Reserve (Section 27.5) |
@@ -88,7 +90,8 @@ Programs shall be phased in by feasibility: first low-cost statutory reforms (su
 1. **Income security (Chapter 4)**, in this order:
    - SSI asset and income rules, and the SNAP changes;
    - the Earned Income Tax Credit for workers without children;
-   - the Child Tax Credit.
+   - the Child Tax Credit;
+   - alongside these, the expanded Disabled Access Credit for small businesses (Section 13.5.1), paired with the digital accessibility deadlines.
 2. **Universal preschool and the childcare cost caps** (Sections 7.1 and 3.4).
 3. **Tuition-free public higher education** (Section 7.3).
 

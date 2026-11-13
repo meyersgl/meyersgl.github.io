@@ -34,6 +34,9 @@ The platform's rule is to **take discretion away rather than try to protect the 
 | Justice Department independence | 15.11 | Contact logs, disclosure to Congress, and protections for career prosecutors |
 | Sentencing review | 16.4 | The United States Sentencing Commission, in the judicial branch |
 | Critical-supplies list | 21.6.1 | Recommended by a national-laboratory technical office using a published method. Issued by rule subject to congressional review |
+| Commission on Civil Rights | 13.7.4 | Legislative-branch commission appointed by congressional leaders of both parties. Investigates and reports, with no enforcement power |
+| Civil rights enforcement | 13.7 | Private lawsuits with attorney fees, state attorney general enforcement, a right to sue after 180 days without agency action, published reasons for abandoned cases |
+| Pay data | 13.6.1 | Collected by a statistical agency under a mandatory statutory duty that any person may sue to compel |
 | Frontier AI oversight | 19.6 | Commerce/NIST. Triggers and deadlines set in statute, independent evaluators, penalties enforced in court |
 
 ## Cross-Sector Regulatory Rules
