@@ -202,6 +202,10 @@ Tuition at public universities, community colleges, trade schools, and technical
 
 The platform's first answer to high rents is building more homes, through zoning incentives, faster permitting, and a public housing developer. To stop gouging while supply catches up, landlords with 50 or more units who keep federal tax benefits and federally backed loans may raise rent on a sitting tenant by no more than inflation plus 5 percent, and never more than 10 percent. New buildings are exempt for 15 years, rent resets between tenants, and tenants are protected from eviction without just cause. On homelessness, the platform writes Housing First into law, offers recovery housing as a choice rather than a condition, guarantees housing vouchers to people without homes, and bars criminal penalties for sleeping outside unless a real shelter or housing offer has been made. Being homeless is never by itself grounds for civil commitment.
 
+### Reproductive Health
+
+Abortion care is health care, and the decision belongs to the patient and the patient's doctor. The platform protects access to abortion nationwide by federal law. Universal Health Insurance covers abortion care for any reason through 24 weeks and 6 days, and after that date when the patient's life or health is at risk or the pregnancy has a fatal fetal condition. Pregnancies from rape or incest are covered at any lawful point, without a police report. The Hyde Amendment and other spending riders end. Individual clinicians may decline to take part, but the facility must give the patient a referral and notify a provider who will arrange care, and emergency care, including abortion care, may never be delayed for legal review. Abroad, the platform repeals the Helms Amendment and the global gag rule, and funds abortion services only where the host country's law permits them.
+
 ### Universal Preschool
 
 Every child should begin school with a strong educational foundation. Universal preschool expands access to early childhood education, promotes school readiness, supports workforce participation, and reduces long-term educational inequality.
@@ -281,9 +285,9 @@ Programs paid from general revenue are phased in in a fixed order of priority:
 3. **Higher education and K-12 third:** tuition-free public higher education, then student-loan reform, then K-12 equity funding.
 4. **Universal housing vouchers fourth.**
 
-No program in a later tier takes effect until every program in the earlier tiers is fully funded. Fixed-budget programs such as research and national service continue at current levels and expand only after the first tier is funded. Paid leave is financed by its own trust fund.
+No program in a later tier takes effect until every program in the earlier tiers is fully funded. Fixed-budget programs such as research and national service continue at current levels and expand only after the first tier is funded. Paid leave is financed by its own trust fund. Programs with their own funding, such as Universal Health Insurance and Social Security, follow their own schedules.
 
-To pass the Senate, the platform proposes a rules reform: fully paid-for bills pass by majority vote after guaranteed debate and amendments, other bills face a declining threshold from 60 votes to a majority, and repeal follows the same rules as enactment (Appendix B). Programs with their own funding, such as Universal Health Insurance and Social Security, follow their own schedules.
+To pass the Senate, the platform proposes a rules reform: fully paid-for bills pass by majority vote after guaranteed debate and amendments, other bills face a declining threshold from 60 votes to a majority, and repeal follows the same rules as enactment (Appendix B).
 
 This sequencing is intended to reduce fiscal risk, improve administrative effectiveness, and increase the likelihood of successful implementation.
 

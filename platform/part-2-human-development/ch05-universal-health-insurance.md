@@ -1,5 +1,7 @@
 ## Chapter 5: Universal Health Insurance
 
+*Funding role: Universal Health Insurance is paid from its own Trust Fund (Section 5.1.2), never the General Fund, and is phased in on its own schedule (Sections 5.1.6 and 27.9). The Dynamic Global Innovation Fund is paid from a capped share of drug-negotiation savings (Section 27.3).*
+
 ### 5.1 Universal Health Insurance \[Statute – High Resistance\]
 
 *Aligned with the white paper* Universal Health Insurance: A Hybrid Framework for Universal Coverage *(decision 0001).*

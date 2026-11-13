@@ -1,5 +1,7 @@
 ## Chapter 7: Education
 
+*Funding role: universal preschool is paid from the General Fund in tier 2. Tuition-free public higher education, existing student-loan reform, and K-12 equity funding are paid from the General Fund in tier 3, in that order. Implementation order is governed by Section 27.9.*
+
 ### 7.1 Universal Preschool \[Statute\]
 
 Every four-year-old child shall have access to publicly funded preschool education.

@@ -15,6 +15,12 @@ for _ in range(60):
         time.sleep(0.5)
 desktop = ctx.ServiceManager.createInstanceWithContext('com.sun.star.frame.Desktop', ctx)
 doc = desktop.loadComponentFromURL(uno.systemPathToFileUrl(src), '_blank', 0, (prop('Hidden', True),))
+tables = doc.getTextTables()
+for t in range(tables.getCount()):
+    rows = tables.getByIndex(t).getRows()
+    for r in range(rows.getCount()):
+        try: rows.getByIndex(r).IsSplitAllowed = False
+        except Exception: pass
 idx = doc.getDocumentIndexes(); n = idx.getCount()
 for _ in range(2):
     for i in range(n): idx.getByIndex(i).update()

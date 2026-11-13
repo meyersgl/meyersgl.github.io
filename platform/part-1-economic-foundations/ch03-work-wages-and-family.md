@@ -1,5 +1,7 @@
 ## Chapter 3: Work, Wages & Family
 
+*Funding role: the living wage, labor rights, and licensing reforms change rules and cost little. Paid leave is paid by the Paid Leave Trust Fund from its own payroll contribution, never the General Fund (Section 3.3). Childcare and eldercare cost caps are paid from the General Fund in tier 2. Universal Adjustment Assistance training and triggered apprenticeships are paid from the General Fund within one capped amount in tier 1, and wage insurance from the unemployment trust funds (Sections 3.6.7 to 3.6.9). Implementation order is governed by Section 27.9.*
+
 ### 3.1 Living Wage Framework \[Statute\]
 
 The federal minimum wage shall be set as a fixed percentage of the federal poverty line and adjusted for regional cost of living using federal regional price data. To avoid sharp differences across metropolitan boundaries, the regional adjustment shall phase in gradually across a buffer zone (a linear taper over a defined distance) rather than changing at the boundary line.

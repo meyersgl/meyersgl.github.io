@@ -8,6 +8,11 @@ Newest first. Each entry lists what changed and which decision records it follow
 - Full Platform, Executive Summary, One Pager, and all three white papers issued as v1.2 in `docs/`; v1 and v1.1 PDFs retained.
 - Title page, version history, citation file, and website updated to v1.2.
 - The Universal Health Insurance white paper's benefit line was updated for Chapter 6. The Social Security and Frontier AI papers are reissued with no change in substance.
+- Pre-release audit fixes:
+  - Chapter 8 funding table now uses the fixed-budget rules instead of "placed by implementing legislation";
+  - funding-role notes added to Chapters 3, 5, 7, 10, 18, and 25, pointing to Section 27.9;
+  - Executive Summary gains a Reproductive Health section (including foreign assistance) and a corrected phase-in paragraph;
+  - PDF tables no longer split a row across pages.
 
 ### Chapter 2: Federal Tax Fairness (decision 0022)
 - New Sections 2.6 to 2.13:
