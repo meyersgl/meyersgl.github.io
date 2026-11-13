@@ -225,7 +225,7 @@ Covered services would include:
 
 - Rehabilitation services
 
-- Reproductive and maternal health, including contraception, pregnancy and postpartum care, and abortion care
+- Reproductive and maternal health, including contraception, pregnancy and postpartum care, and abortion care (coverage terms in Platform Section 6.2)
 
 The rationale is straightforward.
 

@@ -33,7 +33,7 @@ Coverage shall include all medically necessary:
 - Long-term care
 - Fertility treatment
 - Rehabilitation services
-- Reproductive and maternal health, including contraception, pregnancy and postpartum care, and abortion care (Section 6.1)
+- Reproductive and maternal health, including contraception, pregnancy and postpartum care, and abortion care (on the terms in Section 6.2)
 
 Covered services shall carry no copays or deductibles at the point of care. Because removing cost-sharing also removes a common check on how much care is used, spending growth shall be managed through provider-payment design and workforce planning (Sections 5.1.3 and 5.1.5).
 
