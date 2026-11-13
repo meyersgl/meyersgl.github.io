@@ -132,6 +132,39 @@ The United States may support initiatives that encourage:
 
 The objective is supporting stable societies rather than imposing political outcomes.
 
+#### 23.5.4 Reproductive Health in Foreign Assistance \[Statute – High Resistance\]
+
+Since 1973, the Helms Amendment has barred foreign assistance from paying for abortion "as a method of family planning," and it has been applied as a total ban, even after rape or incest or when a patient's life is at risk. Separately, the Mexico City Policy, which each administration since 1985 has rescinded or reinstated by executive action, bars foreign organizations that receive U.S. aid from providing or discussing abortion with their own funds. In January 2026 it was expanded through three final rules to most non-military foreign assistance and to new subjects beyond abortion, reaching as much as $39.8 billion in aid and almost 2,600 prime recipients \[1\]\[2\]. This section ends both policies by statute, on terms consistent with Chapter 6.
+
+- **Helms repeal.** Section 104(f) of the Foreign Assistance Act of 1961 and the corresponding provision of the annual foreign operations appropriations act shall be repealed.
+- **Host-country law.** Foreign assistance may fund abortion services only where the law of the host country permits them. Post-abortion care and emergency treatment shall always be covered, wherever a recipient operates.
+- **No global gag rule.** The United States shall not condition eligibility for foreign assistance on an organization's lawful speech, advocacy, counseling, referral practices, or provision of health services conducted with non-United States funds where those activities are lawful under the laws of the host country. No future policy of the Mexico City type may be adopted by executive action.
+- **Anti-coercion rule (Kemp-Kasten).** The bar on funding any organization that supports or participates in coercive abortion or involuntary sterilization is kept. A decision to cut off an organization under it shall rest on published evidence, with written reasons and notice to Congress (Appendix C).
+- **Lobbying rule (Siljander).** The bar on using aid funds to lobby for or against abortion is kept. It applies equally in both directions.
+- **Protection from annual riders.** Restrictions on lawful reproductive health services in foreign assistance may be enacted only by amending the Foreign Assistance Act, not through annual appropriations acts. A Senate point of order shall enforce this rule.
+
+**Interim executive steps.** Until the statute is enacted, the executive branch shall, on its first day:
+
+- apply the Helms Amendment as written, so that it no longer bars funding for abortion after rape or incest, when the patient's life or health is at risk, or for post-abortion care, subject to the host-country law rule above;
+- begin rescinding the three 2026 foreign assistance rules (Protecting Life in Foreign Assistance, Combating Gender Ideology in Foreign Assistance, and Combating Discriminatory Equity Ideology in Foreign Assistance). Because they were issued as final rules, their repeal requires notice-and-comment rulemaking and will take months.
+
+Durability comes from the statute, not from executive action.
+
+**Funding.** These provisions operate within existing foreign assistance appropriations and have no cost under Chapter 27.
+
+**Honest limits.**
+
+- **Helms has outlasted every Congress since 1973,** including those that supported abortion rights. Repeal faces more resistance than ending the Hyde Amendment, and will be described as spending tax dollars on abortion abroad.
+- **The host-country rule limits reach.** In countries that ban abortion, U.S. aid will not fund it, even after rape. The platform accepts that limit to respect the law of the countries it works with.
+- **A future Congress can still add a rider** by waiving the point of order.
+- **The 2026 rules remain in force until rescinded,** and repeal through rulemaking will be challenged.
+
+Sources for this section:
+
+\[1\] KFF, "The Mexico City Policy: An Explainer" (2026). https://www.kff.org/global-health-policy/issue-brief/the-mexico-city-policy-an-explainer/
+
+\[2\] Council on Foundations, "Mexico City Policy and Philanthropy" (April 2026). https://cof.org/sites/default/files/2026-04/Mexico%20City%20Policy%20and%20Philanthropy.pdf
+
 ### 23.6 Accountability Standards for Foreign Assistance \[Statute\]
 
 All major aid programs shall include:
