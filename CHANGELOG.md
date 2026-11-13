@@ -2,7 +2,12 @@
 
 Newest first. Each entry lists what changed and which decision records it follows.
 
-## Unreleased: v1.2 Complete Edition (in progress)
+## v1.2 Complete Edition (November 13, 2026)
+
+### Release
+- Full Platform, Executive Summary, One Pager, and all three white papers issued as v1.2 in `docs/`; v1 and v1.1 PDFs retained.
+- Title page, version history, citation file, and website updated to v1.2.
+- The Universal Health Insurance white paper's benefit line was updated for Chapter 6. The Social Security and Frontier AI papers are reissued with no change in substance.
 
 ### Chapter 2: Federal Tax Fairness (decision 0022)
 - New Sections 2.6 to 2.13:

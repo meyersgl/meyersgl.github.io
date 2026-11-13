@@ -30,4 +30,4 @@ Anti-corruption reform · Campaign finance reform · Government transparency · 
 **Build the foundation. Expand opportunity. Strengthen democracy. Invest in the future. Empower the people.**
 
 
-Version 1.1 (Consistency Edition) · November 2026 · Gregory L. Meyers · meyersgl.github.io
+Version 1.2 (Complete Edition) · November 2026 · Gregory L. Meyers · meyersgl.github.io

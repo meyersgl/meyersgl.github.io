@@ -1,6 +1,6 @@
 ---
 title: "The Social Democratic Market Platform"
-subtitle: "Executive Summary — Version 1.1 (Consistency Edition), November 2026"
+subtitle: "Executive Summary — Version 1.2 (Complete Edition), November 2026"
 author: Gregory L. Meyers
 ---
 

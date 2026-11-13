@@ -5,8 +5,8 @@ type: report
 authors:
   - family-names: Meyers
     given-names: Gregory L.
-version: "1.1"
-date-released: 2026-11-12
+version: "1.2"
+date-released: 2026-11-13
 license: CC-BY-ND-4.0
 url: "https://meyersgl.github.io/"
 repository-code: "https://github.com/meyersgl/meyersgl.github.io"
