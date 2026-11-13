@@ -67,6 +67,7 @@ Newest first. Each entry lists what changed and which decision records it follow
 - New Sections 8.4 (funding) and 8.5 (honest limits). Former Sections 8.1.6 and 8.1.7 are now 8.1.5 and 8.1.6.
 - Sections 27.4 and 27.9 updated: housing vouchers and eviction prevention lead tier 2, and a new tier 4 holds universal vouchers. Appendix C and the Executive Summary updated.
 - Decision index (decisions/README.md) brought up to date through 0027.
+- After review: added a supportive-services standard to Section 8.3.1, tied the adequate-offer accessibility rule to the ADA and Section 504, deferred tier ordering in Section 8.4 to Section 27.9, and sourced the chronic homelessness figure to CRS.
 
 ### Chapter 6: Public Coverage and Conscience (decision 0026)
 - New Section 6.2, Public Coverage of Abortion Care:

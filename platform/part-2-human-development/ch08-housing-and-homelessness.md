@@ -99,6 +99,7 @@ This section sets a different course. A home comes first because the evidence on
 #### 8.3.1 Housing First as the Federal Standard
 
 - **No preconditions.** Federally funded permanent supportive housing and rapid rehousing shall offer housing without requiring sobriety, participation in treatment, employment, or income. Services shall be offered and voluntary. A tenancy may be ended only for the same lease violations that apply to any other tenant.
+- **Supportive services.** Permanent supportive housing projects shall maintain access to multidisciplinary support teams, which may include mental-health clinicians, substance-use counselors, primary-care providers, peer-support specialists, case managers, employment specialists, and benefits navigators. Services shall be offered proactively, on site where feasible, and shall remain voluntary. Refusing services shall never be grounds for eviction, loss of housing, reduced tenant rights, or reduced benefits. Clinical services are paid by Universal Health Insurance (Sections 5.1.1 and 8.3.5).
 - **Permanent housing floor.** At least 70 percent of Continuum of Care funds each year shall go to permanent housing, including permanent supportive housing and rapid rehousing.
 - **Renewal.** Projects that meet published performance standards shall be renewed.
 - **Predictable competitions.** HUD shall publish each year's funding notice by a deadline set in statute. If it does not, the prior year's terms renew automatically. Any change to scoring or eligibility criteria requires notice and comment and a published statement of reasons.
@@ -112,13 +113,13 @@ Federal funds shall support recovery housing that requires abstinence, provided 
 
 - **Guarantee.** Every extremely low-income household that is experiencing homelessness or at imminent risk of homelessness, as defined in the McKinney-Vento Homeless Assistance Act, shall be entitled to a Housing Choice Voucher once this guarantee takes effect under Section 27.9.
 - **Universal stage.** The guarantee shall then extend, in stages, to every extremely low-income renter household paying more than half its income in rent. Each stage takes effect only when funded under Section 27.9, and none before every earlier tier is fully funded.
-- **Source of income.** Landlords shall not refuse a tenant because the tenant pays rent with a voucher or other lawful assistance. This protection is enforced through the fair housing remedies in Chapter 13.
+- **Source of income.** Landlords shall not refuse a tenant because the tenant pays rent with a voucher or other lawful assistance. This protection is enforced with the remedies in Section 13.7.
 
 #### 8.3.4 Encampments and Public Space
 
 *City of Grants Pass v. Johnson* (2024) held that the Eighth Amendment does not bar cities from punishing people for camping in public even when no shelter is available \[8\]. Congress may still set conditions on federal homelessness funds, so long as they are unambiguous, related to the purpose of the funds, and not coercive \[9\]. A state or locality that receives Continuum of Care, Emergency Solutions Grant, or voucher funds:
 
-- may enforce rules against sleeping or sheltering in public only after making the person an **adequate offer**: a non-congregate shelter bed or housing placement available that day, accessible to the person's disabilities, and reasonably accommodating partners, pets, and possessions;
+- may enforce rules against sleeping or sheltering in public only after making the person an **adequate offer**: a non-congregate shelter bed or housing placement available that day, accessible to the person's disabilities under the reasonable-modification duties of the Americans with Disabilities Act and Section 504 of the Rehabilitation Act (as strengthened by Section 13.5), and reasonably accommodating partners, pets, and possessions;
 - shall not impose criminal penalties for sleeping, sitting, lying down, or sheltering from the weather in public, and shall not convert unpaid civil citations into warrants or jail;
 - shall store belongings it removes for at least 90 days, and shall never destroy identification documents, medication, or medical equipment.
 
@@ -157,10 +158,10 @@ These rules follow the design standards in Appendix C. Floors, deadlines, and re
 | Rent stabilization floor (8.2.1 to 8.2.5) | Administration within base appropriations; any revenue from lost tax benefits goes to the General Fund and funds no program | On enactment; loan covenants apply to new and refinanced loans |
 | State stabilization grants (8.2.6) | General Fund (tax fairness measures) | Placed by implementing legislation (Section 27.9) |
 | Housing First standard, permanent housing floor, recovery housing (8.3.1, 8.3.2) | Existing Continuum of Care appropriations | On enactment |
-| Voucher guarantee for people experiencing or at imminent risk of homelessness (8.3.3) | General Fund (tax fairness measures) | General Fund tier 2, first |
-| Emergency rental assistance and right to counsel (8.3.6) | General Fund (tax fairness measures); triggered increases within one capped amount | General Fund tier 2, second |
+| Voucher guarantee for people experiencing or at imminent risk of homelessness (8.3.3) | General Fund (tax fairness measures) | General Fund tier 2, in the order set by Section 27.9 |
+| Emergency rental assistance and right to counsel (8.3.6) | General Fund (tax fairness measures); triggered increases within one capped amount | General Fund tier 2, in the order set by Section 27.9 |
 | Clinical crisis services (8.3.5) | Universal Health Insurance Trust Fund | With the phases of Section 5.1.6 |
-| Universal housing vouchers (8.3.3) | General Fund (tax fairness measures) | General Fund tier 4, only after tiers 1 to 3 are fully funded |
+| Universal housing vouchers (8.3.3) | General Fund (tax fairness measures) | General Fund tier 4 (Section 27.9) |
 | Public housing developer and other housing programs (8.1) | General Fund (tax fairness measures) | Placed by implementing legislation (Section 27.9) |
 
 ### 8.5 Honest Limits
@@ -176,7 +177,7 @@ These rules follow the design standards in Appendix C. Floors, deadlines, and re
 
 ### Sources
 
-\[1\] U.S. Department of Housing and Urban Development, *2025 Annual Homeless Assessment Report to Congress, Part 1* (May 2026), as summarized by the National Low Income Housing Coalition (https://nlihc.org/resource/hud-2025-annual-homelessness-assessment-report-finds-first-reduction-overall-homelessness) and Congressional Research Service, IF12985 (https://www.everycrsreport.com/files/2026-07-16_IF12985_72d0a36116392bd1d0a8436319884dc54412a17c.html). Chronic homelessness figure as reported at https://legis1.com/news/chronic-homelessness-2025-reaches-historic-highs.
+\[1\] U.S. Department of Housing and Urban Development, *2025 Annual Homeless Assessment Report to Congress, Part 1* (May 2026), as summarized by the National Low Income Housing Coalition (https://nlihc.org/resource/hud-2025-annual-homelessness-assessment-report-finds-first-reduction-overall-homelessness) and Congressional Research Service, IF12985 (https://www.everycrsreport.com/files/2026-07-16_IF12985_72d0a36116392bd1d0a8436319884dc54412a17c.html). The chronic homelessness figure (155,750 in 2025, against 77,486 in 2016) is from the CRS summary of HUD's report.
 
 \[2\] Executive Order 14321, "Ending Crime and Disorder on America's Streets," 90 Fed. Reg. 35817 (July 29, 2025). https://www.govinfo.gov/content/pkg/DCPD-202500793/pdf/DCPD-202500793.pdf
 
