@@ -9,6 +9,7 @@ Newest first. Each entry lists what changed and which decision records it follow
 - General Fund revenue: illustrative range of about $860 billion to $1.2 trillion over ten years (not additive). Chapter 2 honest limit updated.
 - Tier 1 cost estimates and first affordability test: steps 1 to 3 funded in both cases.
 - Tier 2 cost estimates and affordability test: under favorable assumptions tier 2 steps 1 to 3 (homelessness vouchers, eviction prevention, universal preschool) are funded if the training cap is no more than about $125 billion; childcare caps ($460 to $700 billion) wait; eldercare caps not yet estimable.
+- Tier 3 cost estimates: tuition-free public higher education ($700 to $800 billion) and K-12 equity funding ($360 to $400 billion) wait in both cases; student-loan reform not yet estimable. Estimated tier 1 to 3 costs (about $2.6 to $3.3 trillion) are roughly two to four times identified General Fund revenue.
 
 ### Preschool and childcare phase-in order (decision 0033)
 - Tier 2, step 3 split into step 3, universal preschool, and step 4, the childcare cost caps. Eldercare cost caps move to step 5.
