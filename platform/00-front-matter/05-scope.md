@@ -1,6 +1,6 @@
 # Scope of This Edition
 
-This edition sets out the platform's positions, legal design, financing rules, and legislative strategy. Some topics need more detail than a platform chapter can carry. They are handled in standalone white papers, which govern where they and the platform differ (decision 0001).
+This edition sets out the platform's positions, legal design, financing rules, and legislative strategy. Some topics need more detail than a platform chapter can carry. They are handled in standalone white papers, which govern in the event of a conflict with the corresponding platform chapter (decision 0001). In areas not addressed by a white paper, the platform chapter controls.
 
 ## Published White Papers
 
@@ -15,7 +15,7 @@ This edition sets out the platform's positions, legal design, financing rules, a
 | White paper | Platform chapter | What it will add |
 | --- | --- | --- |
 | Federal Tax Fairness (scored version) | 2 | Independent revenue estimates for the proposed rates |
-| Housing & Homelessness | 8 | Costing of the voucher guarantee and prevention programs, and design of rent stabilization enforcement |
+| Housing & Homelessness | 8 | Costing of housing and homelessness programs, voucher expansion, prevention policy, Housing First implementation, and rent stabilization enforcement |
 | AI and the Future of Work | 3, 19 | Evidence on displacement and the design of Universal Adjustment Assistance |
 | Financial Regulation & Consumer Finance | — | A topic this edition does not yet cover |
 | Regional Foreign Policy (China, Russia and Ukraine, the Middle East, arms control) | 23 | Region-by-region positions beyond the general principles of Chapter 23 |
