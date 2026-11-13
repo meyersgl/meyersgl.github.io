@@ -25,3 +25,9 @@ Each file records one settled policy or project choice: the question, the decisi
 | 0019 | Content license |
 | 0020 | Published v1.0 master identified |
 | 0021 | Independent bodies designed for durability after Trump v. Slaughter |
+| 0022 | Federal Tax Fairness: proposed rates, gains at death, and a 60% wage ceiling |
+| 0023 | Income security measures, Medicaid compact, and General Fund phase-in order |
+| 0024 | Civil rights: durable voting rights, protected traits, religious exemptions, disability, pay, enforcement |
+| 0025 | Technology and AI at work |
+| 0026 | Public coverage of abortion care, conscience protections, and emergency care |
+| 0027 | Rent stabilization mechanism and homelessness policy |

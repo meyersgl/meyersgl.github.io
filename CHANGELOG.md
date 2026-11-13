@@ -50,6 +50,25 @@ Newest first. Each entry lists what changed and which decision records it follow
   - Section 5.1.7: the long-term care benefit must include home- and community-based services
 - Executive Summary: new Civil Rights section.
 
+### Chapter 8: Housing & Homelessness (decision 0027)
+- Rent caps moved to a new Section 8.2, Anti-Gouging Rent Stabilization:
+  - inflation plus 5%, never more than 10%, for landlords with 50 or more units
+  - enforced through depreciation, like-kind exchange, and federally backed loan conditions
+  - vacancy reset, just-cause eviction, fair-return petitions
+  - tenant lawsuits, state attorney general enforcement, and IRS rent-roll matching
+  - grants for state and local caps
+- New Section 8.3, Ending Homelessness:
+  - Housing First in statute with a 70% permanent housing floor
+  - recovery housing as a choice
+  - voucher guarantee for people experiencing or at imminent risk of homelessness
+  - "adequate offer" conditions on encampment enforcement
+  - a due-process floor for civil commitment
+  - emergency rental assistance, right to counsel, and eviction-record sealing
+- New Sections 8.4 (funding) and 8.5 (honest limits). Former Sections 8.1.6 and 8.1.7 are now 8.1.5 and 8.1.6.
+- Sections 27.4 and 27.9 updated: housing vouchers and eviction prevention lead tier 2, and a new tier 4 holds universal vouchers. Appendix C and the Executive Summary updated.
+- Decision index (decisions/README.md) brought up to date through 0027.
+- After review: added a supportive-services standard to Section 8.3.1, tied the adequate-offer accessibility rule to the ADA and Section 504, deferred tier ordering in Section 8.4 to Section 27.9, and sourced the chronic homelessness figure to CRS.
+
 ### Chapter 6: Public Coverage and Conscience (decision 0026)
 - New Section 6.2, Public Coverage of Abortion Care:
   - Universal Health Insurance covers abortion care for any reason through 24 weeks and 6 days

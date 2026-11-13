@@ -53,7 +53,10 @@ Each major program shall draw only on the stream listed here. Independent cost e
 | Paid leave, childcare and eldercare cost caps | Recurring | General Fund (tax fairness measures) |
 | Universal preschool, K-12 equity funding, tuition-free public higher education | Recurring | General Fund (tax fairness measures) |
 | Existing student-loan reform | One-time, phased | General Fund (tax fairness measures) |
-| Public housing developer and housing programs | Recurring | General Fund (tax fairness measures) |
+| Housing vouchers for people experiencing or at imminent risk of homelessness (Section 8.3.3) | Recurring | General Fund (tax fairness measures), tier 2, first (Section 27.9) |
+| Emergency rental assistance and right to counsel in evictions (Section 8.3.6) | Recurring; triggered increases within one capped amount | General Fund (tax fairness measures), tier 2, second (Section 27.9) |
+| Universal housing vouchers (Section 8.3.3) | Recurring | General Fund (tax fairness measures), tier 4 (Section 27.9) |
+| Public housing developer, state rent stabilization grants, and other housing programs (Sections 8.1 and 8.2.6) | Recurring | General Fund (tax fairness measures) |
 | Research expansion and national service | Recurring | General Fund (tax fairness measures) |
 | National Farm Risk Protection Program | Recurring | General Fund (tax fairness measures) |
 | Infrastructure, grid, and public broadband | One-time | Productive borrowing and the 10 percent carbon General Fund share |
@@ -95,10 +98,14 @@ Programs shall be phased in by feasibility: first low-cost statutory reforms (su
    - the Child Tax Credit;
    - training grants under Universal Adjustment Assistance and any triggered apprenticeship expansion, within one capped amount (Sections 3.6.7 to 3.6.9);
    - alongside these, the expanded Disabled Access Credit for small businesses (Section 13.5.1), paired with the digital accessibility deadlines.
-2. **Universal preschool and the childcare cost caps** (Sections 7.1 and 3.4).
+2. **Housing and early childhood**, in this order:
+   - housing vouchers for people experiencing or at imminent risk of homelessness (Section 8.3.3);
+   - emergency rental assistance and the right to counsel in eviction cases (Section 8.3.6);
+   - universal preschool and the childcare cost caps (Sections 7.1 and 3.4).
 3. **Tuition-free public higher education** (Section 7.3).
+4. **Universal housing vouchers** for extremely low-income renters (Section 8.3.3), phased in by stages.
 
-Implementing legislation shall place the other General Fund programs in Section 27.4 within this order, but none may take effect ahead of the first tier. Programs with their own funding (Universal Health Insurance, Social Security, unemployment insurance) are phased in on their own schedules.
+Implementing legislation shall place the other General Fund programs in Section 27.4 within this order, but none may take effect ahead of the first tier. Programs with their own funding (Universal Health Insurance, Social Security, unemployment insurance) are phased in on their own schedules. Revenue from the loss of tax benefits under the rent stabilization floor (Section 8.2.3) goes to the General Fund and is not assigned to any program.
 
 ### 27.10 Independent Costing \[Statute\]
 
