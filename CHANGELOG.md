@@ -14,6 +14,11 @@ Newest first. Each entry lists what changed and which decision records it follow
 ### Remaining estimates (P4)
 - Student-loan reform estimated at about $400 to $900 billion, universal housing vouchers at about $300 to $750 billion, and the Disabled Access Credit expansion at about $1 to $10 billion (platform arithmetic, low confidence). Every General Fund program is now estimated: the favorable case funds every tier with about $1.4 trillion to spare; the conservative case is about $3 trillion short.
 
+### Trust fund balance tests (Appendix E.4)
+- Universal Health Insurance: comparable estimates of $32.6 to $34 trillion in added federal spending over ten years; contribution rates not yet set, so balance is not yet demonstrable.
+- Paid Leave: balanced by design; implied rate about 0.5% to 2.9% of taxable payroll.
+- Social Security: eliminating the cap (Section 26.2.1) closes about 58% of the 4.42% 75-year deficit, leaving about 1.9% of taxable payroll. Section 26.6 updated with the Chief Actuary's score and the 2026 Trustees Report.
+
 ### Eldercare and Disabled Access Credit (decision 0036)
 - Eldercare is now part of the Universal Health Insurance long-term care benefit, with room-and-board caps and caregiver support (Sections 3.4, 5.1.1, 27.4). Tier 2 no longer has an eldercare step (Section 27.9, Appendix B, Executive Summary).
 - Disabled Access Credit: digital accessibility covered and the spending limit doubled to $20,500 (Section 13.5.1).

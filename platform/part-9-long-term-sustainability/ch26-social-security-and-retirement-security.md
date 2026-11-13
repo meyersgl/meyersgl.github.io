@@ -87,10 +87,16 @@ No new means test shall reduce benefits based on income or wealth. Social Securi
 
 ### 26.6 Honest Limit
 
-These reforms have not yet been scored by Social Security's Office of the Chief Actuary. Past scoring suggests that eliminating the cap without crediting the added earnings toward benefits would close roughly half of the current 75-year deficit of 4.42 percent of taxable payroll. This platform therefore does not claim full solvency until the reforms are scored. How to close any remaining gap without benefit cuts or a higher retirement age is presented as an open question for economists and actuaries in the white paper.
+These reforms have not yet been scored as a package by Social Security's Office of the Chief Actuary. The Chief Actuary has scored the design in Section 26.2.1, all earnings taxed at 12.4 percent with no added benefit credit, as improving the 75-year balance by about 2.55 percent of taxable payroll \[2\]. Against the 2026 Trustees Report's deficit of 4.42 percent \[1\], that closes roughly 58 percent of the gap and leaves about 1.9 percent. Section 26.3 adds revenue that has not been scored, and until the gap closes no revenue would reach the Endowment in Section 26.4 (Appendix E.4). This platform therefore does not claim full solvency until the reforms are scored. How to close any remaining gap without benefit cuts or a higher retirement age is presented as an open question for economists and actuaries in the white paper.
 
 ### 26.7 Retirement Security Principle
 
 Economic dignity should not end when work ends.
 
 Citizens who contribute throughout their lives should have confidence that Social Security will remain stable, reliable, and available for future generations.
+
+### Sources
+
+\[1\] Social Security Board of Trustees, *2026 Annual Report*, Section II.E (June 2026). https://www.ssa.gov/oact/tr/2026/II_E_conclu.html
+
+\[2\] SSA Office of the Chief Actuary, "Summary Measures and Graphs: Provision E2.1, eliminate the taxable maximum, no benefit credit" (2025 Trustees Report basis, September 2025). https://www.ssa.gov/OACT/solvency/provisions_tr2025/charts/chart_run415.html
