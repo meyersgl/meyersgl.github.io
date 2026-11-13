@@ -82,7 +82,8 @@ The combined federal marginal tax rate on wages and on self-employment income sh
 
 - the top income-tax rate (Section 2.6);
 - both the employee and employer shares of Social Security and Medicare payroll taxes, including the additional 0.9 percent Medicare tax, because economists generally find that workers bear the employer share through lower pay;
-- every Universal Health Insurance contribution that applies to wages, whether a payroll, employer, or income-based contribution.
+- every Universal Health Insurance contribution that applies to wages, whether a payroll, employer, or income-based contribution;
+- the Paid Leave Trust Fund contribution (Section 3.3), which applies only to wages up to its wage base.
 
 Under the rates in this chapter and in Chapter 26, the income-tax and payroll-tax components come to 55.8 percent at the top: 39.6 percent income tax, 12.4 percent Social Security once the cap is eliminated, and 3.8 percent Medicare. The remaining room under the ceiling is 4.2 percentage points.
 
@@ -134,6 +135,7 @@ The rates and thresholds in Sections 2.6 to 2.10 are proposed rates, published n
 | Medicare (both shares, including the additional 0.9%) | 3.8% | 3.8% | — |
 | Net investment income tax | — | — | 3.8% |
 | **Subtotal** | **55.8%** | **55.8%** | **43.4%** |
+| Paid leave contribution (Section 3.3; wages up to its wage base only) | 0% at the top | 0% at the top | — |
 | Universal Health Insurance contribution | up to 4.2% (Section 2.8) | up to 4.2% (Section 2.8) | not yet set |
 | **Combined federal top rate** | **≤ 60%** | **≤ 60%** | **43.4% plus any UHI contribution** |
 

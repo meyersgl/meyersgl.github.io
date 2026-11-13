@@ -277,11 +277,13 @@ Accordingly, policies are organized through a phased implementation framework. L
 Programs paid from general revenue are phased in in a fixed order of priority:
 
 1. **Income security first:** SSI and SNAP improvements, then the Earned Income Tax Credit, then the Child Tax Credit.
-2. **Housing and early childhood second:** housing vouchers for people without homes, then eviction prevention, then universal preschool and childcare cost caps.
-3. **Tuition-free public higher education third.**
+2. **Housing and early childhood second:** housing vouchers for people without homes, then eviction prevention, then universal preschool and childcare cost caps, then eldercare cost caps.
+3. **Higher education and K-12 third:** tuition-free public higher education, then student-loan reform, then K-12 equity funding.
 4. **Universal housing vouchers fourth.**
 
-No program in a later tier takes effect until every program in the earlier tiers is fully funded. Programs with their own funding, such as Universal Health Insurance and Social Security, follow their own schedules.
+No program in a later tier takes effect until every program in the earlier tiers is fully funded. Fixed-budget programs such as research and national service continue at current levels and expand only after the first tier is funded. Paid leave is financed by its own trust fund.
+
+To pass the Senate, the platform proposes a rules reform: fully paid-for bills pass by majority vote after guaranteed debate and amendments, other bills face a declining threshold from 60 votes to a majority, and repeal follows the same rules as enactment (Appendix B). Programs with their own funding, such as Universal Health Insurance and Social Security, follow their own schedules.
 
 This sequencing is intended to reduce fiscal risk, improve administrative effectiveness, and increase the likelihood of successful implementation.
 

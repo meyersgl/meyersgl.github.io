@@ -10,7 +10,7 @@ Workers shall have strong protections against retaliation and unfair labor pract
 
 ### 3.3 Paid Leave Framework \[Statute\]
 
-All workers shall have access to paid family, parental, caregiving, and personal medical leave regardless of employer size, for up to 12 weeks per year. Wage replacement shall be funded by federal funds and administered as a social-insurance pool so that no single employer bears the full cost of a worker's leave. Job-protection requirements may be phased in for the smallest employers, but wage replacement shall be available to all workers.
+All workers shall have access to paid family, parental, caregiving, and personal medical leave regardless of employer size, for up to 12 weeks per year. Wage replacement shall be paid from a Paid Leave Trust Fund, a social-insurance pool financed by a dedicated payroll contribution shared equally by employers and employees, so that no single employer bears the full cost of a worker's leave. The contribution shall apply to wages up to the Social Security taxable maximum in effect before Section 26.2.1, indexed to wage growth, and shall be set by independent scoring at the rate needed to keep the Trust Fund solvent. It counts toward the combined-rate ceiling in Section 2.8. Because it does not apply to wages in the top bracket, it does not reduce the room left under that ceiling for the Universal Health Insurance contribution. The Trust Fund shall never draw on the General Fund. Job-protection requirements may be phased in for the smallest employers, but wage replacement shall be available to all workers.
 
 ### 3.4 Care Economy Infrastructure \[Statute – High Resistance\]
 
