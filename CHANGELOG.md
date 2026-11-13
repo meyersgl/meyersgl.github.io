@@ -50,6 +50,21 @@ Newest first. Each entry lists what changed and which decision records it follow
   - Section 5.1.7: the long-term care benefit must include home- and community-based services
 - Executive Summary: new Civil Rights section.
 
+### Chapter 3: Technology and AI at Work (decision 0025)
+- New Section 3.6 (3.6.1 to 3.6.12):
+  - a human decision-maker for firing, discipline, and deactivation
+  - notice, explanation, and data access
+  - annual bias audits by vendors, with shared responsibility
+  - surveillance limits, with an accessibility exception
+  - 90 days' notice of technological change, and bargaining over it
+  - Universal Adjustment Assistance: wage insurance paid from unemployment trust funds, training, and 90-day layoff notice
+  - BLS indicators of AI effects on jobs, with an apprenticeship trigger
+  - a shared, capped funding amount in tier 1, step 4
+  - no tax on automation
+  - enforcement, a minimum standard that does not preempt stronger state laws, and honest limits
+- Cross-references updated: Sections 3.5.2, 4.4.2, 4.8, 13.5.2, 19.6, 27.4, and 27.9
+- Executive Summary: new Technology and Work section
+
 ## v1.1 Consistency Edition (November 12, 2026)
 
 ### Correction (November 12, 2026)

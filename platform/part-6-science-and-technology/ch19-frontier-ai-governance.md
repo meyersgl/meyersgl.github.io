@@ -85,7 +85,7 @@ Oversight shall be housed in the Department of Commerce through the National Ins
 
 Obligations shall scale with Index tier and organizational capacity. Developers below the compute and capability triggers shall face only basic transparency duties and may use federally supported shared evaluation resources. Large frontier developers shall carry the full set of auditing, security, and reporting duties.
 
-Federal law shall set a minimum standard. States may adopt additional safeguards, except that a single national incident-reporting standard shall preempt conflicting state reporting requirements.
+Federal law shall set a minimum standard. States may adopt additional safeguards, except that a single national incident-reporting standard shall preempt conflicting state reporting requirements. Rules for automated decision systems used in employment are set in Section 3.6, which likewise sets a minimum and does not preempt stronger state laws.
 
 ### 19.7 Human Control Principle
 

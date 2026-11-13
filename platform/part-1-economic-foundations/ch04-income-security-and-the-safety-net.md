@@ -67,7 +67,7 @@ As a condition of the existing federal unemployment tax credit, each state progr
 
 #### 4.4.2 Self-Financing
 
-The federal unemployment tax wage base, $7,000 since 1983, shall be raised and indexed to wage growth. States shall maintain trust-fund reserves adequate to pay at least one year of benefits at recession levels. Regular unemployment benefits shall be paid entirely from unemployment trust funds and never from the General Fund.
+The federal unemployment tax wage base, $7,000 since 1983, shall be raised and indexed to wage growth. States shall maintain trust-fund reserves adequate to pay at least one year of benefits at recession levels. Regular unemployment benefits shall be paid entirely from unemployment trust funds and never from the General Fund. The same trust funds pay wage insurance under Universal Adjustment Assistance (Section 3.6.7), financed by a small addition to unemployment contributions.
 
 #### 4.4.3 Modern Administration
 
@@ -171,6 +171,7 @@ The compact therefore requires no state to pay, threatens no state's existing fu
 | Child Tax Credit (4.2) | General Fund | General Fund tier 1, step 3 |
 | Disability Insurance earnings offset (4.6.3) | Social Security trust funds | With the Chapter 26 reforms |
 | Regular unemployment insurance (4.4.1 to 4.4.3) | Unemployment trust funds | On enactment |
+| Wage insurance (3.6.7) | Unemployment trust funds | On enactment |
 | Extended unemployment benefits (4.4.4) | Sovereign Wealth Reserve | Automatic in recessions |
 | Medicaid transition and compact (4.7) | Universal Health Insurance Trust Fund | With the phases of Section 5.1.6 |
 

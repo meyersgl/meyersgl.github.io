@@ -182,6 +182,10 @@ Every full-time worker should be able to meet basic living expenses without requ
 
 The safety net should always reward work and should never leave people who cannot work without food or health care over paperwork. The platform makes the Child Tax Credit fully refundable, adds a supplement for children under six, and expands the Earned Income Tax Credit for workers without children. Families keep at least half of each additional dollar they earn as benefits phase out. SSI asset limits rise and are indexed for the first time since 1989. Unemployment insurance meets national minimum standards, and extended benefits start automatically in recessions. SNAP keeps a work expectation, with protections for people with disabilities and for caregivers. Medicaid work requirements are repealed, and states may join a voluntary compact as Medicaid enrollees move into Universal Health Insurance.
 
+### Technology and Work
+
+New technology should raise living standards without leaving workers behind. The platform requires a human decision-maker before anyone is fired or disciplined on the basis of an automated system, and gives workers notice, explanations, and access to their data. It requires independent bias audits of hiring software, bans emotion recognition and off-duty surveillance, and gives workers advance notice of major technological change. It also replaces the expired Trade Adjustment Assistance program with help for any displaced worker: wage insurance and training. The platform does not tax automation itself.
+
 ## Human Development
 
 The platform views investment in people as one of the highest-return investments a nation can make. Policies in this area are designed to expand access to opportunity and strengthen long-term economic growth.
