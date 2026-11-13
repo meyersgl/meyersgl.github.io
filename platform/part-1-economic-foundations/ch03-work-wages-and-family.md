@@ -42,7 +42,7 @@ Military certifications and experience shall receive expedited civilian recognit
 
 ### 3.6 Technology and AI at Work \[Statute – High Resistance\]
 
-*Funding role: most of this section creates rights and duties and costs little. Wage insurance is paid from unemployment trust funds. Training grants under Universal Adjustment Assistance, and any apprenticeship expansion triggered under Section 3.6.8, share one capped General Fund amount in tier 1, step 4 (Section 27.9) (decision 0025).*
+*Funding role: most of this section creates rights and duties and costs little. Wage insurance is paid from unemployment trust funds. Training grants under Universal Adjustment Assistance, and any apprenticeship expansion triggered under Section 3.6.8, share one capped General Fund amount in tier 1, step 5 (Section 27.9) (decision 0025).*
 
 Automated tools now help decide who is hired, how work is scheduled and measured, and who is disciplined or let go. Used well, they can make work safer and more productive. Used carelessly, they can make consequential decisions no person has reviewed, monitor workers in ways no supervisor could, and quietly remove the entry-level jobs where careers begin. The evidence so far shows no economy-wide displacement. But employment of workers ages 22 to 25 in the most AI-exposed occupations is about 19 percent below where it would be had it kept pace with less-exposed peers, and the declines are concentrated where AI replaces tasks rather than assisting workers \[1\]. This section gives workers notice, explanation, a human decision-maker, limits on surveillance, a voice in workplace change, and support when jobs disappear. It does not tax or slow the technology itself.
 
@@ -125,7 +125,7 @@ If employment of workers ages 22 to 25 in the most-exposed occupations falls mor
 #### 3.6.9 Funding Guardrails
 
 - **Shared cap:** training grants under Section 3.6.7 and any apprenticeship expansion triggered under Section 3.6.8 shall share a single annual General Fund amount, capped in statute.
-- **Phase-in order:** the capped amount is placed in tier 1, step 4 of the General Fund priority order, after the Child Tax Credit (Section 27.9). It shall take effect only when its independently scored cost is covered by enacted federal tax fairness revenue (Sections 27.6 and 27.10).
+- **Phase-in order:** the capped amount is placed in tier 1, step 5 of the General Fund priority order, after both parts of the Child Tax Credit (Section 27.9). It shall take effect only when its independently scored cost is covered by enacted federal tax fairness revenue (Sections 27.6 and 27.10).
 - **When the trigger fires:** a triggered apprenticeship expansion shall be paid within the cap. If the cap is insufficient, the expansion shall be phased in over several years rather than raising the cap automatically. Any increase in the cap requires new legislation with its own scored revenue (Section 27.6).
 - **Other costs:** wage insurance is paid only from unemployment trust funds. Enforcement by the Department of Labor and measurement by the Bureau of Labor Statistics are core government functions within capped and scored base appropriations (as in Section 13.8).
 

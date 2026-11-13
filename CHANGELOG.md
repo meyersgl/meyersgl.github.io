@@ -2,6 +2,18 @@
 
 Newest first. Each entry lists what changed and which decision records it follows.
 
+## Unreleased: v1.3 Costed Edition (in progress)
+
+### Appendix E: Costing and Affordability (P4)
+- New Appendix E and costing data (`data/costing.csv`, `data/revenue-estimates.csv`).
+- General Fund revenue: illustrative range of about $860 billion to $1.2 trillion over ten years (not additive). Chapter 2 honest limit updated.
+- Tier 1 cost estimates and first affordability test: steps 1 to 3 funded in both cases.
+
+### Child Tax Credit phase-in order (decision 0032)
+- Tier 1, step 3 (Child Tax Credit) split into step 3, full refundability, and step 4, the young child supplement.
+- Training and the Disabled Access Credit move to step 5.
+- Sections 3.6.9, 4.2.2, 4.8, 4.9, 27.4, and 27.9 and the Executive Summary updated.
+
 ## v1.2 Complete Edition (November 13, 2026)
 
 ### Release

@@ -32,7 +32,7 @@ The Child Tax Credit of $2,200 per child shall be fully refundable, with no mini
 
 #### 4.2.2 Young Child Supplement
 
-Each child under age 6 shall qualify for an additional $1,000, for a total of $3,200, indexed for inflation. The early years are when deprivation does the most lasting harm, and when childcare costs make work hardest to sustain.
+Each child under age 6 shall qualify for an additional $1,000, for a total of $3,200, indexed for inflation. The early years are when deprivation does the most lasting harm, and when childcare costs make work hardest to sustain. The supplement takes effect in the phase-in step after full refundability (Section 27.9).
 
 #### 4.2.3 Monthly Payment Option
 
@@ -194,7 +194,8 @@ The compact therefore requires no state to pay, threatens no state's existing fu
 | SSI asset and income rules (4.6.1, 4.6.2) | General Fund | General Fund tier 1, step 1 |
 | SNAP changes (4.5) | General Fund | General Fund tier 1, step 1 |
 | Earned Income Tax Credit for workers without children (4.3) | General Fund | General Fund tier 1, step 2 |
-| Child Tax Credit (4.2) | General Fund | General Fund tier 1, step 3 |
+| Child Tax Credit: full refundability (4.2.1) | General Fund | General Fund tier 1, step 3 |
+| Child Tax Credit: young child supplement (4.2.2) | General Fund | General Fund tier 1, step 4 |
 | Disability Insurance earnings offset (4.6.3) | Social Security trust funds | With the Chapter 26 reforms |
 | Regular unemployment insurance (4.4.1 to 4.4.3) | Unemployment trust funds | On enactment |
 | Wage insurance (3.6.7) | Unemployment trust funds | On enactment |
@@ -205,7 +206,7 @@ Each General Fund measure shall take effect only when its independently scored c
 
 ### 4.9 Honest Limits
 
-- **No measure in this chapter has been scored.** The Child Tax Credit is the largest cost and comes last for that reason.
+- **No measure in this chapter has been scored.** The Child Tax Credit is the largest cost and comes last for that reason. Within it, full refundability, which reaches the children who receive the least today and has the firmest cost estimate, comes before the young child supplement (Appendix E).
 - **The work-incentive debate is real.** Simulations of the 2021 credit made permanent ranged from roughly 300,000 to 1.5 million parents leaving work, and studies of the actual 2021 payments found small or no effects \[8\]. This chapter pairs full refundability with an expanded work credit and keeps the credit's phase-out, but critics will continue to raise the higher estimates.
 - **Eligibility rules will draw criticism from both sides.** Requiring lawful presence for the claiming parent will be attacked by immigrant advocates as too strict and by opponents as too loose, and verifying lawful presence adds administrative work.
 - **Self-attestation creates some risk of error.** The 90-day grace period could let some ineligible households receive benefits for a few months. Checking existing records first, and rewarding states for accuracy, are meant to keep that small.
