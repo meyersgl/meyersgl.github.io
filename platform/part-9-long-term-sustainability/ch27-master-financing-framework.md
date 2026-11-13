@@ -54,7 +54,8 @@ Each major program shall draw only on the stream listed here. Independent cost e
 | Extended unemployment benefits in recessions (Section 4.4.4) | Triggered by recession | Sovereign Wealth Reserve (Section 27.5) |
 | Dynamic Global Innovation Fund | Recurring, capped | Share of drug-negotiation savings |
 | Paid leave (Section 3.3) | Recurring | Paid Leave Trust Fund (dedicated payroll contribution); never the General Fund |
-| Childcare and eldercare cost caps (Section 3.4) | Recurring | General Fund (tax fairness measures), tier 2 (Section 27.9) |
+| Childcare cost caps (Section 3.4) | Recurring | General Fund (tax fairness measures), tier 2 (Section 27.9) |
+| Eldercare, including room-and-board caps (Sections 3.4 and 5.1.1) | Recurring | Universal Health Insurance Trust Fund, as part of the long-term care benefit |
 | Universal preschool, K-12 equity funding, tuition-free public higher education | Recurring | General Fund (tax fairness measures), tiers 2 and 3 (Section 27.9) |
 | Existing student-loan reform | One-time, phased | General Fund (tax fairness measures), tier 3 (Section 27.9) |
 | Housing vouchers for people experiencing or at imminent risk of homelessness (Section 8.3.3) | Recurring | General Fund (tax fairness measures), tier 2, first (Section 27.9) |
@@ -109,8 +110,7 @@ Programs shall be phased in by feasibility: first low-cost statutory reforms (su
    - housing vouchers for people experiencing or at imminent risk of homelessness (Section 8.3.3);
    - emergency rental assistance and the right to counsel in eviction cases (Section 8.3.6);
    - universal preschool (Section 7.1);
-   - the childcare cost caps (Section 3.4);
-   - the eldercare cost caps (Section 3.4).
+   - the childcare cost caps (Section 3.4).
 3. **K-12 and higher education**, in this order:
    - K-12 equity funding (Section 7.2.1);
    - tuition-free public higher education (Section 7.3);

@@ -168,7 +168,7 @@ Websites, mobile applications, and digital services of state and local governmen
 
 - **Deadlines:** compliance deadlines shall be fixed in statute, with longer phase-in periods for small businesses.
 - **Time to fix:** a business that receives written notice of a barrier shall have 90 days to fix it before a lawsuit may seek damages. This keeps the focus on access rather than on suits filed mainly to collect fees.
-- **Tax credit:** the Disabled Access Credit for small businesses shall be expanded to cover digital accessibility and raised to help them meet the standard. It is funded from the General Fund in tier 1 (Section 27.9).
+- **Tax credit:** the Disabled Access Credit for small businesses shall cover digital accessibility, and its annual limit on eligible spending shall double from \$10,250 to \$20,500, indexed for inflation, so the credit can reach \$10,000 a year. It is funded from the General Fund in tier 1 (Section 27.9).
 
 The deadlines for the 2024 Title II rule have already been delayed once by interim rule \[3\]. Writing the standard and deadlines into statute prevents further delay.
 

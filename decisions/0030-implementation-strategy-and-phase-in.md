@@ -38,3 +38,5 @@ The platform's fiscal discipline makes a paid-for majority rule credible, and re
 **Note (decision 0033):** Tier 2 now lists universal preschool and the childcare cost caps as separate steps, with eldercare cost caps after them. Section 27.9 governs.
 
 **Note (decision 0035):** Tier 3 is now K-12 equity funding, then tuition-free college, then student-loan reform, with a narrow wealth-tax exception. Section 27.9 governs.
+
+**Note (decision 0036):** Eldercare is now part of the Universal Health Insurance long-term care benefit and is no longer a tier 2 step.

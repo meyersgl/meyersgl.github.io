@@ -68,8 +68,8 @@ Section 27.9 sets the order. In summary:
 **Tiers.** Open-ended programs, whose cost grows with the number of people who qualify, are ranked:
 
 1. Income security (Chapter 4), then training and apprenticeships (Sections 3.6.7 to 3.6.9), with the Disabled Access Credit (Section 13.5.1).
-2. Housing vouchers for people experiencing or at imminent risk of homelessness; eviction prevention; universal preschool and childcare cost caps; eldercare cost caps.
-3. Tuition-free public higher education; student-loan reform; K-12 equity funding.
+2. Housing vouchers for people experiencing or at imminent risk of homelessness; eviction prevention; universal preschool; childcare cost caps.
+3. K-12 equity funding; tuition-free public higher education; student-loan reform. Tier 3 may also draw on the smoothed wealth-tax transfer, including under the narrow exception in Section 27.9.
 4. Universal housing vouchers.
 
 **Fixed-budget programs.** Research expansion, national service, the public housing developer's operations, state rent stabilization grants, and the enhanced benefits of the National Farm Risk Protection Program are not ranked in the tiers. They follow these rules:

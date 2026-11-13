@@ -1,6 +1,6 @@
 ## Chapter 3: Work, Wages & Family
 
-*Funding role: the living wage, labor rights, and licensing reforms change rules and cost little. Paid leave is paid by the Paid Leave Trust Fund from its own payroll contribution, never the General Fund (Section 3.3). Childcare and eldercare cost caps are paid from the General Fund in tier 2. Universal Adjustment Assistance training and triggered apprenticeships are paid from the General Fund within one capped amount in tier 1, and wage insurance from the unemployment trust funds (Sections 3.6.7 to 3.6.9). Implementation order is governed by Section 27.9.*
+*Funding role: the living wage, labor rights, and licensing reforms change rules and cost little. Paid leave is paid by the Paid Leave Trust Fund from its own payroll contribution, never the General Fund (Section 3.3). Childcare cost caps are paid from the General Fund in tier 2. Eldercare is health care: long-term care is a Universal Health Insurance benefit paid by its Trust Fund (Section 5.1.1). Universal Adjustment Assistance training and triggered apprenticeships are paid from the General Fund within one capped amount in tier 1, and wage insurance from the unemployment trust funds (Sections 3.6.7 to 3.6.9). Implementation order is governed by Section 27.9.*
 
 ### 3.1 Living Wage Framework \[Statute\]
 
@@ -20,9 +20,9 @@ Childcare from birth to school entry shall have costs capped on a sliding scale 
 
 Public funds shall support provider pay, workforce training, and facility capacity so that affordable care is actually available, particularly for infants and in rural areas.
 
-Eldercare costs shall likewise be capped on a sliding scale, and long-term care shall be addressed through the public insurance system under Section 5.1, with support for family caregivers.
+Eldercare is health care. Long-term care for older adults, including home care, is a benefit of Universal Health Insurance under Section 5.1.1, paid by its Trust Fund, with room-and-board costs capped on a sliding scale and support for family caregivers.
 
-**Honest limit:** Capping what families pay raises demand for care faster than the supply of care workers can grow. Without enough providers, caps can lengthen waiting lists rather than lower costs. Funding for provider pay and training is meant to close that gap, but the care workforce is low-paid and slow to expand. The childcare and eldercare caps are paid from the General Fund in tier 2 and wait behind earlier tiers (Section 27.9), and the long-term care benefit they rely on remains an open question (Section 5.1.7).
+**Honest limit:** Capping what families pay raises demand for care faster than the supply of care workers can grow. Without enough providers, caps can lengthen waiting lists rather than lower costs. Funding for provider pay and training is meant to close that gap, but the care workforce is low-paid and slow to expand. The childcare caps are paid from the General Fund in tier 2 and wait behind earlier tiers (Section 27.9). Eldercare depends on the Universal Health Insurance long-term care benefit, whose design and cost remain an open question (Section 5.1.7).
 
 ### 3.5 Workforce Mobility & Occupational Licensing Reform \[Statute\]
 

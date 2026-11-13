@@ -11,6 +11,13 @@ Newest first. Each entry lists what changed and which decision records it follow
 - Tier 2 cost estimates and affordability test: under favorable assumptions tier 2 steps 1 to 3 (homelessness vouchers, eviction prevention, universal preschool) are funded if the training cap is no more than about $125 billion; childcare caps ($460 to $700 billion) wait; eldercare caps not yet estimable.
 - Tier 3 cost estimates: tuition-free public higher education ($700 to $800 billion) and K-12 equity funding ($360 to $400 billion) wait in both cases; student-loan reform not yet estimable. Estimated tier 1 to 3 costs (about $2.6 to $3.3 trillion) are roughly two to four times identified General Fund revenue.
 
+### Remaining estimates (P4)
+- Student-loan reform estimated at about $400 to $900 billion, universal housing vouchers at about $300 to $750 billion, and the Disabled Access Credit expansion at about $1 to $10 billion (platform arithmetic, low confidence). Every General Fund program is now estimated: the favorable case funds every tier with about $1.4 trillion to spare; the conservative case is about $3 trillion short.
+
+### Eldercare and Disabled Access Credit (decision 0036)
+- Eldercare is now part of the Universal Health Insurance long-term care benefit, with room-and-board caps and caregiver support (Sections 3.4, 5.1.1, 27.4). Tier 2 no longer has an eldercare step (Section 27.9, Appendix B, Executive Summary).
+- Disabled Access Credit: digital accessibility covered and the spending limit doubled to $20,500 (Section 13.5.1).
+
 ### Tier 3 order and training cap (decision 0035)
 - Section 27.9: tier 3 is now K-12 equity funding, then tuition-free college, then student-loan reform, with a narrow wealth-tax exception that lets the smoothed transfer start tier 3 while a tier 2 step waits only for stable revenue.
 - Section 3.6.9: training and apprenticeship cap set at $5 billion a year, indexed.

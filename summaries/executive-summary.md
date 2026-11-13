@@ -281,7 +281,7 @@ Accordingly, policies are organized through a phased implementation framework. L
 Programs paid from general revenue are phased in in a fixed order of priority:
 
 1. **Income security first:** SSI and SNAP improvements, then the Earned Income Tax Credit, then full refundability of the Child Tax Credit, then its supplement for children under six.
-2. **Housing and early childhood second:** housing vouchers for people without homes, then eviction prevention, then universal preschool, then childcare cost caps, then eldercare cost caps.
+2. **Housing and early childhood second:** housing vouchers for people without homes, then eviction prevention, then universal preschool, then childcare cost caps. Eldercare is health care, covered by Universal Health Insurance.
 3. **K-12 and higher education third:** K-12 equity funding, then tuition-free public higher education, then student-loan reform. These may also draw on the smoothed wealth-tax transfer, which never pays for the first two tiers.
 4. **Universal housing vouchers fourth.**
 
