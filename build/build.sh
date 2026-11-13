@@ -9,7 +9,7 @@ VERSION="${1:-dev}"; OUT="build/out"; mkdir -p "$OUT"
 REF=(--reference-doc=build/reference.docx)
 
 docx() { pandoc "$@" "${REF[@]}"; }
-pdf()  { python3 build/docx2pdf.py "$1" "$2"; }
+pdf()  { python3 build/docx2pdf.py "$1" "$2" "Version ${VERSION#v}"; }
 
 mapfile -t PARTS < platform/build-order.txt
 docx "${PARTS[@]}" --toc --toc-depth=2 \

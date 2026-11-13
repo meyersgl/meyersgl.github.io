@@ -232,7 +232,7 @@ Every officer who violates the Constitution should answer for it, whether employ
 
 ### Civil Rights
 
-Civil rights should not depend on whether a given administration chooses to enforce them. The platform restores the Voting Rights Act's private right to sue, sets a clear test for barriers to voting, and adopts race-neutral remedies against discriminatory maps that respect the limits recent court decisions have set. It lists sex, sexual orientation, gender identity and expression, pregnancy, and sex characteristics as separate protected traits across employment, housing, credit, health care, and public accommodations. It writes disparate-impact protections into law, and states plainly that for-profit corporations cannot claim religious exemptions from anti-discrimination law. It also modernizes disability rights for the digital age, requires pay data and salary ranges, and ends forced arbitration of civil rights claims.
+Civil rights should not depend on whether a given administration chooses to enforce them. The platform restores the Voting Rights Act's private right to sue, sets a clear test for barriers to voting, and adopts race-neutral remedies against discriminatory maps that respect the limits recent court decisions have set. It lists sex, sexual orientation, gender identity and expression, pregnancy, and sex characteristics as separate protected traits across employment, housing, credit, health care, and public accommodations. It writes disparate-impact protections into law, and states plainly that for-profit corporations cannot claim religious exemptions from anti-discrimination law. It also modernizes disability rights for the digital age, with an expanded Disabled Access Credit for small businesses paid in the first phase-in tier, requires pay data and salary ranges, and ends forced arbitration of civil rights claims.
 
 ## Innovation, Infrastructure, and National Capacity
 
@@ -287,7 +287,7 @@ Programs paid from general revenue are phased in in a fixed order of priority:
 
 No program in a later tier takes effect until every program in the earlier tiers is fully funded. Fixed-budget programs such as research and national service continue at current levels and expand only after the first tier is funded. Paid leave is financed by its own trust fund. Programs with their own funding, such as Universal Health Insurance and Social Security, follow their own schedules.
 
-To pass the Senate, the platform proposes a rules reform: fully paid-for bills pass by majority vote after guaranteed debate and amendments, other bills face a declining threshold from 60 votes to a majority, and repeal follows the same rules as enactment (Appendix B).
+To pass the Senate, the platform proposes a rules reform: fully paid-for bills pass by majority vote after guaranteed debate and amendments, other bills face a declining threshold from 60 votes to a majority, and repeal follows the same rules as enactment (Appendix B). The rules bind every future majority equally, including one that opposes this platform: any party can pass a bill by majority if it pays for it, and no party can repeal a paid-for program faster than it was enacted.
 
 This sequencing is intended to reduce fiscal risk, improve administrative effectiveness, and increase the likelihood of successful implementation.
 

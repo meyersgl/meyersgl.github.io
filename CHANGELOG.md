@@ -12,7 +12,9 @@ Newest first. Each entry lists what changed and which decision records it follow
   - Chapter 8 funding table now uses the fixed-budget rules instead of "placed by implementing legislation";
   - funding-role notes added to Chapters 3, 5, 7, 10, 18, and 25, pointing to Section 27.9;
   - Executive Summary gains a Reproductive Health section (including foreign assistance) and a corrected phase-in paragraph;
-  - PDF tables no longer split a row across pages.
+  - PDF tables no longer split a row across pages;
+  - PDF metadata records the version, and the README names v1.2 as current;
+  - Executive Summary states that the Senate rules bind every future majority and mentions the Disabled Access Credit.
 
 ### Chapter 2: Federal Tax Fairness (decision 0022)
 - New Sections 2.6 to 2.13:
