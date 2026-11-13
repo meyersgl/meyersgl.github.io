@@ -79,7 +79,18 @@ When the recession trigger in Section 1.2 is met, additional weeks of benefits s
 
 ### 4.5 Nutrition Assistance (SNAP) \[Statute\]
 
-The 2025 reconciliation law extended SNAP work requirements to adults up to age 64 and, for the first time, made states with payment error rates of 6 percent or more pay a share of benefit costs \[3\]. This section keeps a work expectation for adults who can reasonably work, but ensures that people who cannot work, and people who are working, do not lose food assistance over paperwork.
+The 2025 reconciliation law made the largest cuts in SNAP's history \[3\]\[9\]\[10\]. It:
+
+- extended the time limit to adults up to age 64;
+- narrowed the exemption for parents to those with a child under 14;
+- removed the 2023 exemptions for veterans, people experiencing homelessness, and young adults who aged out of foster care;
+- made states pay a share of benefit costs based on their error rates, and 75 percent of administrative costs;
+- limited future updates to the Thrifty Food Plan;
+- cut utility and internet costs from the shelter deduction;
+- ended SNAP nutrition education;
+- removed eligibility for refugees, asylees, and other lawfully present immigrants.
+
+This section reverses each of those changes. It keeps a work expectation for adults who can reasonably work, and it ensures that people who cannot work, and people who are working, do not lose food assistance over paperwork.
 
 #### 4.5.1 Work Expectations and Exemptions
 
@@ -91,9 +102,12 @@ Able-bodied adults ages 18 to 54 without exempting circumstances shall be expect
   - disability status in Medicaid, Universal Health Insurance, or a state program;
   - a pending application for SSI or Social Security Disability Insurance.
 - **Caregivers:**
-  - a parent or caregiver of a child under age 6;
-  - the sole caregiver of a child under age 14;
+  - a parent or other household member responsible for a child under age 18;
   - a person who is the primary caregiver for an elderly relative or for a household member with a disability.
+- **People experiencing homelessness,** as defined in the McKinney-Vento Homeless Assistance Act (the definition used in Section 8.3). The exemption continues for three months after the person is housed.
+- **Veterans.**
+- **Young adults aged 24 or younger who were in foster care** on their 18th birthday, or at a later age if the state offers extended foster care.
+- **Exemptions added in 2025 are kept,** including those for American Indians, Urban Indians, and California Indians, and those available to Alaska and Hawaii.
 
 #### 4.5.2 Automatic Verification and a Grace Period
 
@@ -102,9 +116,10 @@ States shall verify work activity and exemptions automatically, first through re
 - payroll and new-hire data;
 - Medicaid and Universal Health Insurance records;
 - Department of Veterans Affairs records;
-- state disability and caregiving program records.
+- state disability and caregiving program records;
+- homeless-services records, or a written statement from a shelter, outreach worker, or homeless-services provider.
 
-Where those records do not settle the question, a household may self-attest to work activity or an exemption for 90 days. The grace period shall be renewed once if the missing information is held by a government agency. No household shall lose benefits without written notice, a chance to respond, and review by a caseworker.
+Where those records do not settle the question, a household may self-attest to work activity or an exemption for 90 days. The grace period shall be renewed once if the missing information is held by a government agency. A person experiencing homelessness who has no record or provider statement may establish that exemption by their own statement, with no time limit. No household shall lose benefits without written notice, a chance to respond, and review by a caseworker.
 
 #### 4.5.3 Areas Without Enough Jobs
 
@@ -112,7 +127,18 @@ The Secretary of Agriculture shall waive work expectations in areas where unempl
 
 #### 4.5.4 Federal Funding and State Performance
 
-The federal government shall again pay the full cost of SNAP benefits. The state cost share tied to payment error rates shall be replaced by performance bonuses for states that reduce errors, including errors that underpay eligible households.
+The federal government shall again pay the full cost of SNAP benefits. The state cost share tied to payment error rates shall be replaced by performance bonuses for states that reduce errors, including errors that underpay eligible households. The federal government shall again pay 50 percent of state administrative costs, so that states can afford the automatic verification in Section 4.5.2.
+
+#### 4.5.5 Benefit Adequacy
+
+- **Thrifty Food Plan:** the Secretary of Agriculture shall re-evaluate the plan at least every five years based on the cost of a healthy diet, without the 2025 requirement that re-evaluations not raise its cost.
+- **Utility costs:** a household that receives energy assistance shall again qualify for the heating and cooling standard utility allowance, whether or not it includes an elderly or disabled member.
+- **Internet costs:** internet service shall again count as a shelter and utility cost.
+- **Nutrition education:** SNAP nutrition education grants (SNAP-Ed) shall be restored.
+
+#### 4.5.6 Eligibility of Lawfully Present Immigrants
+
+The categories of lawfully present immigrants eligible for SNAP before 2025 shall be restored, including refugees, people granted asylum, and survivors of trafficking. Waiting periods and sponsor-income rules in place before 2025 continue to apply.
 
 ### 4.6 Supplemental Security Income and Disability Insurance \[Statute\]
 
@@ -187,6 +213,8 @@ Each General Fund measure shall take effect only when its independently scored c
 - **Unemployment insurance reform raises employers' costs.** A higher federal wage base is a tax increase on employers, felt most by small businesses, and states will resist federal standards.
 - **States may decline the compact.** If many do, the Universal Health Insurance Trust Fund collects less than planned. Any gap shall be closed only within the Trust Fund or by slower phase-in, never from another revenue stream (Section 2.8). The long-term care relief that makes the compact attractive depends on a long-term care benefit that Section 5.1.7 lists as an open question.
 - **The legal design is untested.** The compact is built to avoid the coercion problem identified in *NFIB*, but no court has ruled on an arrangement like it.
+- **Restoring the 2025 SNAP cuts is the most expensive part of tier 1, step 1.** The 2025 law's SNAP provisions have been described as cutting nearly $200 billion over ten years \[10\], so reversing them costs a similar amount until independent scoring says otherwise. If revenue falls short, they share the first step's place in line and are not ranked ahead of one another.
+- **The broader exemptions will be attacked as weakening the work expectation.** Most of them restore rules that a bipartisan Congress adopted in 2023 or that were in place for decades. Restoring benefits for refugees and asylees will draw opposition in the immigration debate.
 - **Current law is still being implemented.** The 2025 SNAP and Medicaid changes are taking effect in stages through 2030, so the starting point for these reforms will keep shifting.
 
 ### Sources
@@ -206,3 +234,7 @@ Each General Fund measure shall take effect only when its independently scored c
 \[7\] Centers for Medicare & Medicaid Services, State Phased-Down Billing. https://www.cms.gov/medicare/medicaid-coordination/about/state-phased-down-billing
 
 \[8\] Ananat, Glasner, Hamilton, and Parolin, "Effects of the Expanded Child Tax Credit on Employment Outcomes," NBER Working Paper 29823. https://www.nber.org/system/files/working_papers/w29823/w29823.pdf
+
+\[9\] U.S. Department of Agriculture, Food and Nutrition Service, "SNAP Provisions of the One Big Beautiful Bill Act of 2025 – Information Memorandum" (September 4, 2025), https://www.usda.gov/sites/default/files/guidance-documents/fns.snap-obbb-implementation.pdf, and "SNAP Provisions of the OBBB – Alien Eligibility" (October 31, 2025), https://www.fns.usda.gov/snap/obbb-alien-eligibility; Food Research & Action Center, "H.R. 1: Changes to SNAP Time Limits" (May 2026). https://frac.org/wp-content/uploads/HR-1-Changes-to-SNAP-Time-Limits.pdf
+
+\[10\] Share Our Strength / No Kid Hungry, "2025 Reconciliation: SNAP Provision Summary" (2026). https://bestpractices.nokidhungry.org/sites/default/files/2026-07/2025%20Reconciliation_SNAP%20Provision%20Summary_External%20Final%20SOS.pdf

@@ -50,6 +50,19 @@ Newest first. Each entry lists what changed and which decision records it follow
   - Section 5.1.7: the long-term care benefit must include home- and community-based services
 - Executive Summary: new Civil Rights section.
 
+### Chapter 4: Reversing the 2025 SNAP cuts (decision 0028)
+- Section 4.5.1 exemptions:
+  - restores the exemptions for people experiencing homelessness, veterans, and former foster youth;
+  - broadens the caregiver exemption to any child under 18.
+- Section 4.5.2 accepts homeless-services records, provider statements, or self-statement.
+- Section 4.5.4 restores the 50% federal share of administrative costs.
+- New Section 4.5.5 restores:
+  - Thrifty Food Plan re-evaluations;
+  - utility and internet deductions;
+  - SNAP-Ed.
+- New Section 4.5.6 restores eligibility for refugees, asylees, and other pre-2025 qualified immigrants.
+- Honest limits and Executive Summary updated.
+
 ### Chapter 8: Housing & Homelessness (decision 0027)
 - Rent caps moved to a new Section 8.2, Anti-Gouging Rent Stabilization:
   - inflation plus 5%, never more than 10%, for landlords with 50 or more units
