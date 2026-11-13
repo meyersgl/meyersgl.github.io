@@ -142,7 +142,7 @@ Nothing in this chapter applies to:
 
 A bona fide religious nonprofit is a nonprofit organization whose primary purpose is religious and which holds itself out as religious. It may continue to prefer members of its own faith in employment, as current law allows. It may not otherwise discriminate based on a protected trait, except in ministerial positions.
 
-When a religious nonprofit provides services paid for by the government, it shall serve every eligible person without discrimination.
+When a religious nonprofit provides services paid for by the government, it shall serve every eligible person without discrimination. In health care, Section 6.3.3 sets the narrow terms on which a religious nonprofit facility may decline to offer elective abortion and sterilization. Those terms include the patient-information, transfer, and emergency-care duties in Sections 6.3.2 and 6.3.4.
 
 #### 13.4.3 For-Profit Corporations
 

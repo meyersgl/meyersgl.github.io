@@ -50,6 +50,25 @@ Newest first. Each entry lists what changed and which decision records it follow
   - Section 5.1.7: the long-term care benefit must include home- and community-based services
 - Executive Summary: new Civil Rights section.
 
+### Chapter 6: Public Coverage and Conscience (decision 0026)
+- New Section 6.2, Public Coverage of Abortion Care:
+  - Universal Health Insurance covers abortion care for any reason through 24 weeks and 6 days
+  - after that, coverage for life or health, fatal fetal conditions, and rape or incest
+  - rape and incest covered at any lawful point, with no reporting requirement
+  - a request-date rule, early diagnosis at no cost, and written notice of the 24-week date
+  - Hyde and related domestic riders ended, with benefits under a permanent appropriation
+  - interim Medicaid coverage at 100% federal cost
+- New Section 6.3, Conscience, Patient Information, and Emergency Care:
+  - individual conscience protection, with duties attached
+  - an enforceable right to know one's options, with a written referral to at least two providers and a required statement
+  - institutional limits that match Chapter 13
+  - EMTALA stabilizing treatment written into statute, explicitly including abortion care
+  - protection for clinicians: no legal review before emergency care, preemption of state penalties, removal to federal court, and attorney fees
+  - pharmacy duties
+  - protection in both directions, with private enforcement
+- New Section 6.4, Honest Limits (replaces 6.1.5)
+- Section 5.1 and the UHI white paper's benefit line now point to the coverage terms in Section 6.2
+
 ### Chapter 3: Technology and AI at Work (decision 0025)
 - New Section 3.6 (3.6.1 to 3.6.12):
   - a human decision-maker for firing, discipline, and deactivation
