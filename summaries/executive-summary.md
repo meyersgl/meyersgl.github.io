@@ -178,6 +178,10 @@ The platform preserves Social Security's core promises without raising the retir
 
 Every full-time worker should be able to meet basic living expenses without requiring public assistance. The platform establishes a living-wage framework that reflects regional differences in the cost of living while encouraging workforce participation and economic mobility.
 
+### Income Security
+
+The safety net should always reward work and should never leave people who cannot work without food or health care over paperwork. The platform makes the Child Tax Credit fully refundable, adds a supplement for children under six, and expands the Earned Income Tax Credit for workers without children. Families keep at least half of each additional dollar they earn as benefits phase out. SSI asset limits rise and are indexed for the first time since 1989. Unemployment insurance meets national minimum standards, and extended benefits start automatically in recessions. SNAP keeps a work expectation, with protections for people with disabilities and for caregivers. Medicaid work requirements are repealed, and states may join a voluntary compact as Medicaid enrollees move into Universal Health Insurance.
+
 ## Human Development
 
 The platform views investment in people as one of the highest-return investments a nation can make. Policies in this area are designed to expand access to opportunity and strengthen long-term economic growth.
@@ -253,6 +257,14 @@ This requirement applies equally to social programs, infrastructure investments,
 The platform recognizes that large structural reforms cannot be implemented simultaneously.
 
 Accordingly, policies are organized through a phased implementation framework. Lower-cost governance reforms and administrative improvements are prioritized first, followed by revenue measures and institutional modernization efforts. The largest and most resource-intensive initiatives are introduced only after their funding mechanisms and implementation structures have been established.
+
+Programs paid from general revenue are phased in in a fixed order of priority:
+
+1. **Income security first:** SSI and SNAP improvements, then the Earned Income Tax Credit, then the Child Tax Credit.
+2. **Universal preschool and childcare cost caps second.**
+3. **Tuition-free public higher education third.**
+
+No program in a later tier takes effect until every program in the earlier tiers is fully funded. Programs with their own funding, such as Universal Health Insurance and Social Security, follow their own schedules.
 
 This sequencing is intended to reduce fiscal risk, improve administrative effectiveness, and increase the likelihood of successful implementation.
 

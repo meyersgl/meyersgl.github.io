@@ -19,6 +19,19 @@ Newest first. Each entry lists what changed and which decision records it follow
   - an honest-limits section
 - Section 5.1.2 and Sections 27.11 and 27.12 updated to point to Chapter 2 and the wage ceiling.
 
+### Chapter 4: Income Security & the Safety Net (decision 0023)
+- New Sections 4.1 to 4.9:
+  - a 50% combined phase-out limit, one application, and an annual cliff report
+  - a fully refundable Child Tax Credit with a $1,000 supplement for children under 6
+  - an expanded EITC for workers without children
+  - federal minimum standards for unemployment insurance, with automatic extended benefits in recessions
+  - SNAP work-expectation exemptions for people with disabilities and caregivers, automatic verification, and a 90-day grace period
+  - SSI asset and income reforms, and a Disability Insurance earnings offset
+  - repeal of the Medicaid work requirement and a voluntary UHI Partnership Compact
+  - a funding table and honest limits
+- Section 27.9 now sets the General Fund priority order (income security, then preschool and childcare, then tuition-free college). Sections 27.3 to 27.5, 1.3 and 5.1.6 updated to match.
+- Executive Summary: new Income Security section and the phase-in order.
+
 ## v1.1 Consistency Edition (November 12, 2026)
 
 ### Correction (November 12, 2026)

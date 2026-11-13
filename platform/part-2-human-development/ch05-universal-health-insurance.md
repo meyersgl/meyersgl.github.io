@@ -73,7 +73,7 @@ Implementation shall proceed in phases, with costs evaluated, outcomes measured,
 3. Gradual expansion into broader age groups.
 4. Universal enrollment.
 
-Implementing legislation shall coordinate Medicare, Medicaid, veterans' health programs, and employer-sponsored coverage so that no one loses coverage during the transition.
+Implementing legislation shall coordinate Medicare, Medicaid, veterans' health programs, and employer-sponsored coverage so that no one loses coverage during the transition. Medicaid enrollees move into Universal Health Insurance as these phases reach them, and states may join the Universal Health Insurance Partnership Compact (Section 4.7.3).
 
 #### 5.1.7 Honest Limit
 
