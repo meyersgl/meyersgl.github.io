@@ -8,9 +8,9 @@ Reproductive and maternal health services, including contraception, abortion car
 
 #### 6.1.1 Abortion Care Is Health Care
 
-Abortion care is women's health care. It shall be legal nationwide so that women can get the medical care they need.
+Abortion care is essential reproductive health care. It shall be legal nationwide so that patients can get the medical care they need.
 
-The decision whether to have an abortion belongs to the woman and her doctor. Government shall not substitute its judgment for theirs, and medical decisions shall be guided by clinical standards of care, not by political interference.
+The decision whether to have an abortion belongs to the patient and the patient's doctor. Government shall not substitute its judgment for theirs, and medical decisions shall be guided by clinical standards of care, not by political interference.
 
 #### 6.1.2 Federal Protection of Access
 
@@ -38,7 +38,7 @@ Universal Health Insurance shall cover abortion care through 24 weeks and 6 days
 
 1. **A fixed date, not "viability."** Medicine recognizes no single clinical definition of viability by gestational age. The American College of Obstetricians and Gynecologists describes a "periviable" range of roughly 20 to 25 weeks, and the prospects of an infant born early depend on the individual pregnancy and the care available \[1\]. A coverage rule tied to viability would require a judgment about each pregnancy, and a patient could not know her deadline in advance. A fixed date can be known by every patient and clinician from the first visit.
 2. **Time after the anatomy scan.** Most serious fetal conditions are found at the routine anatomy ultrasound, performed between 18 and 22 weeks \[3\]. Scans before 20 weeks are often incomplete, and a substantial share of anomalies are identified only at a follow-up scan \[4\]. Families who learn of a serious diagnosis at 20 to 22 weeks need time for a repeat scan, specialist confirmation, and counseling. An earlier date, such as 15 or 20 weeks, would end coverage for exactly those families.
-3. **Not later.** By 25 to 26 weeks most infants born early survive with intensive care. Covering abortion for any reason past that point would not be defensible.
+3. **Not later.** By 25 to 26 weeks, most infants born early survive with intensive neonatal care. The platform concludes that public coverage for any reason should not extend beyond 24 weeks and 6 days, because fetal survival rates rise substantially with intensive neonatal care after that point.
 4. **A familiar reference point.** Twenty-four weeks has been the most common reference point for viability in U.S. law since *Roe v. Wade* (1973), so the platform does not invent a new line.
 5. **Allowance for dating error.** The additional six days allow for the margin of error in dating a pregnancy during the second trimester, so that no patient loses coverage over a disagreement about dating.
 6. **Few patients are affected.** In 2022, 92.8 percent of abortions took place at or before 13 weeks of pregnancy and 1.1 percent at 21 weeks or later \[5\]. The date matters mainly for patients with a late diagnosis, a serious complication, or a pregnancy caused by abuse, and Sections 6.2.2 to 6.2.4 are written for them.
@@ -67,7 +67,7 @@ Abortion care for a pregnancy that resulted from rape or incest shall be covered
   - a protective order.
 - **Confidentiality:** the statement shall be confidential health information and shall not be shared with law enforcement without the patient's consent, except as required to protect a child from ongoing abuse.
 
-- **Annual reporting:** Universal Health Insurance shall publish each year the de-identified number of claims paid under this section, by stage of pregnancy.
+- **Annual reporting:** Universal Health Insurance shall publish each year the number of claims paid under this section, by stage of pregnancy, in aggregated form that protects patient privacy. Any figure small enough to identify a patient shall be withheld.
 
 Survivors, especially minors and victims of incest, often recognize or disclose a pregnancy late. Coverage should not end because of delays the abuse itself caused.
 
