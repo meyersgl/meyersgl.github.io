@@ -45,6 +45,8 @@ Each major program shall draw only on the stream listed here. Independent cost e
 | Universal Adjustment Assistance training grants and triggered apprenticeship expansion (Sections 3.6.7 to 3.6.9) | Recurring, capped | General Fund (tax fairness measures), tier 1, step 4 (Section 27.9) |
 | Wage insurance (Section 3.6.7) | Recurring | Unemployment trust funds |
 | Expanded Disabled Access Credit (Section 13.5.1) | Recurring | General Fund (tax fairness measures), tier 1 (Section 27.9) |
+| Federal officer judgments and settlements (Section 16.9.2) | As incurred | Judgment Fund, repaid by the responsible agency from its own appropriations |
+| Civil Rights Risk Reduction Grants (Section 16.13) | Recurring, capped | Within existing authorized policing grant appropriations; no new appropriation and no Section 27.9 phase-in obligation |
 | Civil rights enforcement staff (Section 13.8) | Recurring | General Fund, within capped and scored base appropriations |
 | Disability Insurance earnings offset (Section 4.6.3) | Recurring | Social Security trust funds |
 | Regular unemployment insurance (Section 4.4) | Recurring | Unemployment trust funds |
