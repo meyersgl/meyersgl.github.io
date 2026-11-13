@@ -262,11 +262,11 @@ Costs met by universal public programs established in this platform (such as pub
 
 - **Stabilize economic cycles**
 
-- **Hold Extreme Wealth Fair-Share Tax revenue up to a statutory stabilization target**
+- **Hold Extreme Wealth Fair-Share Tax revenue up to a statutory stabilization target, then pass a smoothed share to the General Fund for later-tier programs (Section 27.5)**
 
 - **Strengthen fiscal resilience**
 
-**Assets shall be professionally managed under transparent and independent governance structures. The Reserve exists solely for recession stabilization. No other program may claim it (Section 27.5).**
+**Assets shall be professionally managed under transparent and independent governance structures. The Reserve exists for recession stabilization. Apart from the smoothed transfer, no other program may claim it (Section 27.5).**
 
 **Dominance Threshold**
 

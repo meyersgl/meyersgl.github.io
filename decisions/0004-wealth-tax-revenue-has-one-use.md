@@ -14,3 +14,6 @@ It fills the Sovereign Wealth Reserve's stabilization balance to a statutory tar
 
 ## Why
 Wealth-tax revenue moves with markets, so it must not fund recurring obligations (Principle 6).
+
+
+**Note (decision 0034):** Superseded in part. Once the Reserve is at its target, a smoothed transfer reaches the General Fund for tiers 3 and 4 only (Section 27.5).

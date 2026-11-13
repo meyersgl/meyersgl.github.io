@@ -37,3 +37,4 @@ Each file records one settled policy or project choice: the question, the decisi
 | 0031 | Helms Amendment, Mexico City Policy, and related riders |
 | 0032 | Child Tax Credit split into two phase-in steps |
 | 0033 | Preschool and childcare split into two phase-in steps |
+| 0034 | Top-earner revenue: wealth tax redesign, smoothed transfer, pass-through phase-out, enforcement, investment-income surtax |

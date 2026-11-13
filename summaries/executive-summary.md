@@ -168,7 +168,7 @@ A healthy economy requires both growth and fairness. The platform seeks to stren
 
 ### Extreme Wealth Fair-Share Tax
 
-The platform proposes a tax framework focused on extremely high concentrations of wealth while protecting ordinary homeowners, retirement savings, and small businesses. The objective is to ensure that individuals benefiting most from the economy contribute proportionately to maintaining the public institutions and investments that support long-term prosperity. Because its revenue swings with markets, it funds only the Sovereign Wealth Reserve for recessions and one-time capital projects, never recurring programs.
+The platform proposes an annual tax of 2 percent on net worth above $50 million and 3 percent above $1 billion, modeled on the Ultra-Millionaire Tax Act. It reaches only the wealthiest households, about the top 0.15 percent, and leaves ordinary homeowners, retirement savings, and small businesses untouched. Because its revenue swings with markets, it first fills the Sovereign Wealth Reserve for recessions. Once the Reserve is full, a smoothed share goes to later-tier programs such as tuition-free college and K-12 equity, never to the core income-security and housing programs, which rely on stable revenue.
 
 ### Social Security Solvency
 
@@ -295,13 +295,13 @@ This sequencing is intended to reduce fiscal risk, improve administrative effect
 
 The platform assigns every revenue stream to exactly one use, and no stream may be counted twice:
 
-- **Federal tax fairness measures** (capital gains taxed as ordinary income above a high-income threshold, restored top brackets, a strengthened corporate minimum tax, and estate-tax reform) are stable and fund recurring programs through the General Fund.
+- **Federal tax fairness measures** (capital gains taxed as ordinary income above a high-income threshold, a surtax on investment income above $1 million, restored top brackets with the pass-through deduction phased out above them, a strengthened corporate minimum tax, estate-tax reform, and high-end tax enforcement) are stable and fund recurring programs through the General Fund.
 
 - **Universal Health Insurance contributions** and health-financing savings fund the Universal Health Insurance Trust Fund only.
 
 - **Social Security payroll reforms** fund the Social Security trust funds only.
 
-- **The Extreme Wealth Fair-Share Tax** swings with markets, so it funds only the Sovereign Wealth Reserve, which stabilizes the economy in recessions, with any excess going to one-time capital projects.
+- **The Extreme Wealth Fair-Share Tax** swings with markets, so it first fills the Sovereign Wealth Reserve, which stabilizes the economy in recessions. Once the Reserve is full, a smoothed share funds later-tier programs only, and the rest goes to one-time capital projects.
 
 - **Carbon and methane fees** are split 80/10/10: 80 percent returned to households as an equal per-person dividend, 10 percent to a time-limited Transition Fund, and 10 percent to one-time costs. Carbon border receipts go to the household dividend.
 
