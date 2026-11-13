@@ -31,3 +31,4 @@ Each file records one settled policy or project choice: the question, the decisi
 | 0025 | Technology and AI at work |
 | 0026 | Public coverage of abortion care, conscience protections, and emergency care |
 | 0027 | Rent stabilization mechanism and homelessness policy |
+| 0028 | Reversing the 2025 SNAP cuts |
