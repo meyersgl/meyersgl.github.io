@@ -14,6 +14,14 @@ streams:
     name: UHI dedicated contributions (payroll, employer, income-based)
     behavior: stable
     use: UHI Trust Fund
+  - id: uhi-compact-state
+    name: State contributions under the UHI Partnership Compact (Section 4.7.3)
+    behavior: stable
+    use: UHI Trust Fund
+  - id: paid-leave-contribution
+    name: Paid leave payroll contribution, shared equally, on wages up to its wage base (Section 3.3)
+    behavior: stable
+    use: Paid Leave Trust Fund
   - id: health-consolidation-savings
     name: Savings from consolidated health financing
     behavior: stable-once-realized

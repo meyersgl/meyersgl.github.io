@@ -1,16 +1,34 @@
-program,chapter,recurring_or_one_time,revenue_stream,ten_year_cost_low_usd_billion,ten_year_cost_high_usd_billion,source,status
-Universal Health Insurance,5,recurring,uhi-contributions,,,,pending score
-Paid leave (12 weeks),3,recurring,tax-fairness,,,,pending score
-Childcare and eldercare cost caps,3,recurring,tax-fairness,,,,pending score
-Universal preschool,7,recurring,tax-fairness,,,,pending score
-Tuition-free public higher education,7,recurring,tax-fairness,,,,pending score
-K-12 equity funding,7,recurring,tax-fairness,,,,pending score
-Student-loan refinancing and discharge,7,one-time phased,tax-fairness,,,,pending score
-Safety-net expansions,4,recurring,tax-fairness,,,,pending score
-Public housing developer and homelessness,8,recurring,tax-fairness,,,,pending score
-Research expansion and national service,18;25,recurring,tax-fairness,,,,pending score
-Rural health stabilization,5,recurring,uhi-contributions,,,,pending score
-Dynamic Global Innovation Fund,5,recurring capped,drug-negotiation-savings,,,,pending score
-Infrastructure grid and broadband,21,one-time,productive-borrowing;carbon-general,,,,pending score
-Transition Fund,20,time-limited,carbon-transition,,,,pending score
-Farm risk protection,10,recurring,tax-fairness,,,,pending score
+program,program_category,chapter,section,recurring_or_one_time,revenue_stream,queue_type,tier,step,affordability_order,estimate_low_10yr_usd_billion,estimate_high_10yr_usd_billion,estimate_type,source_org,source_title,source_date,budget_window,source_url,design_differences,funding_status
+Universal Health Insurance,Health,5,5.1,recurring,uhi-contributions,trust-fund,,,,,,,,,,,,,Not yet estimable
+Rural health stabilization,Health,5,5.3,recurring,uhi-contributions,trust-fund,,,,,,,,,,,,,Not yet estimable
+Medicaid transition and abortion-care claims,Health,4;6,4.7;6.2.7,recurring,uhi-contributions,trust-fund,,,,,,,,,,,,,Not yet estimable
+Dynamic Global Innovation Fund,Health,5,5.2.2,recurring capped,drug-negotiation-savings,dedicated-fund,,,,,,,,,,,,,Not yet estimable
+Paid leave (12 weeks),Work and Family,3,3.3,recurring,paid-leave-contribution,trust-fund,,,,,,,,,,,,,Not yet estimable
+SSI asset and income rules,Income Security,4,4.6.1;4.6.2,recurring,tax-fairness,general-fund,1,1,101,,,,,,,,,,Not yet estimable
+SNAP changes including reversal of 2025 cuts,Income Security,4,4.5,recurring,tax-fairness,general-fund,1,1,101,,,,,,,,,,Not yet estimable
+EITC for workers without children,Income Security,4,4.3,recurring,tax-fairness,general-fund,1,2,102,,,,,,,,,,Not yet estimable
+Child Tax Credit,Income Security,4,4.2,recurring,tax-fairness,general-fund,1,3,103,,,,,,,,,,Not yet estimable
+UAA training and triggered apprenticeships,Work and Family,3,3.6.7-3.6.9,recurring capped,tax-fairness,general-fund,1,4,104,,,,,,,,,,Not yet estimable
+Expanded Disabled Access Credit,Civil Rights,13,13.5.1,recurring,tax-fairness,general-fund,1,4,104,,,,,,,,,,Not yet estimable
+Housing vouchers for people experiencing or at risk of homelessness,Housing,8,8.3.3,recurring,tax-fairness,general-fund,2,1,201,,,,,,,,,,Not yet estimable
+Emergency rental assistance and right to counsel,Housing,8,8.3.6,recurring capped,tax-fairness,general-fund,2,2,202,,,,,,,,,,Not yet estimable
+Universal preschool and childcare cost caps,Education,7;3,7.1;3.4,recurring,tax-fairness,general-fund,2,3,203,,,,,,,,,,Not yet estimable
+Eldercare cost caps,Work and Family,3,3.4,recurring,tax-fairness,general-fund,2,4,204,,,,,,,,,,Not yet estimable
+Tuition-free public higher education,Education,7,7.3,recurring,tax-fairness,general-fund,3,1,301,,,,,,,,,,Not yet estimable
+Existing student-loan reform,Education,7,7.3.1,one-time phased,tax-fairness,general-fund,3,2,302,,,,,,,,,,Not yet estimable
+K-12 equity funding,Education,7,7.2.1,recurring,tax-fairness,general-fund,3,3,303,,,,,,,,,,Not yet estimable
+Universal housing vouchers,Housing,8,8.3.3,recurring,tax-fairness,general-fund,4,1,401,,,,,,,,,,Not yet estimable
+Research expansion,Research,18,18.2,recurring capped,tax-fairness,fixed-budget,,,,,,,,,,,,,Not yet estimable
+National service,Civic Service,25,25.2,recurring capped,tax-fairness,fixed-budget,,,,,,,,,,,,,Not yet estimable
+Farm Risk Protection enhancements,Agriculture,10,10.1.8,recurring capped,tax-fairness,fixed-budget,,,,,,,,,,,,,Not yet estimable
+Public housing developer operations,Housing,8,8.1.4,recurring capped,tax-fairness,fixed-budget,,,,,,,,,,,,,Not yet estimable
+State rent stabilization grants,Housing,8,8.2.6,recurring capped,tax-fairness,fixed-budget,,,,,,,,,,,,,Not yet estimable
+Public housing construction,Housing,8,8.1.4,one-time,capital-investment-account;productive-borrowing,capital,,,,,,,,,,,,,Not yet estimable
+Research facility construction,Research,18,18.2,one-time,capital-investment-account;productive-borrowing,capital,,,,,,,,,,,,,Not yet estimable
+Grid modernization and transmission,Infrastructure,21;20,21.3;20.6,one-time,productive-borrowing;carbon-general,capital,,,,,,,,,,,,,Not yet estimable
+Public broadband,Infrastructure,21,21.4,one-time,productive-borrowing;carbon-general,capital,,,,,,,,,,,,,Not yet estimable
+Other infrastructure renewal,Infrastructure,21,21.2.1,one-time,productive-borrowing,capital,,,,,,,,,,,,,Not yet estimable
+Transition Fund,Climate,20,20.2.2,time-limited,carbon-transition,dedicated-fund,,,,,,,,,,,,,Not yet estimable
+Civil rights enforcement staff,Civil Rights,13,13.8,recurring capped,tax-fairness,existing-appropriation,,,,,,,,,,,,,Not yet estimable
+Civil Rights Risk Reduction Grants,Justice,16,16.13,recurring capped,existing-policing-grants,existing-appropriation,,,,,,,,,,,,,Not yet estimable
+Federal officer judgments,Justice,16,16.9.2,as incurred,judgment-fund-agency-repaid,liability,,,,,,,,,,,,,Not yet estimable

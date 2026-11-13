@@ -45,3 +45,4 @@ platform/appendices/appendix-a-constitutional-amendments.md
 platform/appendices/appendix-b-implementation-strategy.md
 platform/appendices/appendix-c-design-standards.md
 platform/appendices/appendix-d-section-map.md
+platform/appendices/appendix-e-costing.md
