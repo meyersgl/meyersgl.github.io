@@ -1,20 +1,20 @@
 ## Chapter 2: Federal Tax Fairness
 
-*Funding role: Chapter 27 assigns the Extreme Wealth Fair-Share Tax (Sections 2.1 to 2.3) only to the Sovereign Wealth Reserve. The federal tax fairness measures in Sections 2.6 to 2.10 are the platform's stable revenue for recurring programs (decisions 0004, 0008, 0022).*
+*Funding role: Chapter 27 assigns the Extreme Wealth Fair-Share Tax (Sections 2.1 to 2.3) to the Sovereign Wealth Reserve, with a smoothed transfer to the General Fund for tiers 3 and 4 only once the Reserve is full (Section 27.5). The federal tax fairness measures in Sections 2.6 to 2.10, with net revenue from the enforcement division in Section 2.4, are the platform's stable revenue for recurring programs (decisions 0004, 0008, 0022, 0034).*
 
 A fair tax system asks the most from those who have gained the most, taxes income from wealth on the same terms as income from work, and does not let the largest fortunes pass between generations untaxed. It should also be honest about how high the combined rates become, and it should set limits on them. This chapter does both.
 
 ### 2.1 Extreme Wealth Fair-Share Tax \[Statute – High Resistance\]
 
-A tax shall apply to wealth above an inflation-indexed threshold of \$50 million, in marginal brackets rather than a single cliff, excluding primary residences, retirement accounts, and ordinary small businesses. The tax shall be designed as closely as possible to a tax on gains, to reduce constitutional risk under the Direct Tax Clause.
+An annual tax shall apply to the net worth of households and trusts above \$50 million, indexed for inflation, following the design of the Ultra-Millionaire Tax Act \[5\]:
 
-- Publicly traded assets: unrealized gains shall be taxed annually using daily market closing prices.
-
-- Illiquid assets (private companies and closely held businesses): taxed at realization.
-
-- Loans and synthetic liquidity: any large loan collateralized by covered assets, and any transaction that provides liquidity referencing an asset's value without a taxable sale (including prepaid variable forward contracts, equity collars, and swaps), shall count as a realization event. This broadens the constructive-sale precedent in Internal Revenue Code Section 1259.
-
-Implementation note: because this rule is written broadly on purpose, expect multi-year litigation over the boundary between legitimate hedging and taxable liquidity extraction.
+- **Rates:** 2 percent of net worth above \$50 million, and 3 percent of net worth above \$1 billion. Only the portion above each threshold is taxed at the higher rate, so there is no cliff.
+- **Base:** all assets worldwide, net of debts, with no large exemptions. The \$50 million threshold already leaves out ordinary homes, retirement savings, and family businesses; about 260,000 households, roughly the top 0.15 percent, would pay in the first year \[5\].
+- **Valuation:** traded assets at market value; other assets under Section 2.3.
+- **Exit tax:** a citizen or long-term resident with net worth above \$50 million who gives up citizenship or residence shall pay 40 percent of net worth above \$50 million.
+- **Enforcement:** a minimum annual audit rate for covered households, third-party reporting of asset holdings, and the division in Section 2.4.
+- **Revenue use:** Section 27.5. The tax first fills the Sovereign Wealth Reserve; only then does a smoothed share reach the General Fund, and only for tiers 3 and 4 of Section 27.9.
+- **Severability:** if a court holds this tax invalid, the rest of this chapter stands, and programs paid from the smoothed transfer pause under Section 27.9 until replacement revenue is enacted. Tiers 1 and 2 never depend on this tax.
 
 #### 2.1.1 Enhanced Anti-Evasion Framework \[Statute\]
 
@@ -24,13 +24,13 @@ Mandatory beneficial ownership reporting, asset aggregation requirements, global
 
 Covered taxpayers may satisfy certain obligations through transfers of non-voting equity. Equity received shall be held in a separate passive account, shall carry no government voting or control rights, shall not count toward the Sovereign Wealth Reserve's recession-stabilization balance, and shall be sold down on a defined schedule.
 
-### 2.3 Productive Capital Exemption \[Statute\]
+### 2.3 Valuation of Illiquid Assets \[Statute\]
 
-Borrowing against business equity is exempt from the realization rule in Section 2.1 only when the proceeds are contributed directly to the operating business and used for productive capital expenditure (such as payroll growth, infrastructure, manufacturing expansion, or research and development), verified through audited tracing of funds. Loan proceeds used for personal consumption, owner distributions, or the purchase of unrelated assets are realization events. The exemption shall be capped as a share of the borrower's covered wealth to prevent abuse.
+Assets without a market price, such as private businesses, real estate, and art, shall be valued by the IRS using published formulas and, where a later sale shows the earlier value was too low, retrospective correction with interest. Discounts for lack of control or marketability shall not apply to passive assets held through a family entity (as in Section 2.10). A household whose covered wealth is mostly illiquid may defer the tax with interest until the asset is sold or transferred, or pay in non-voting equity under Section 2.2.
 
 ### 2.4 Targeted IRS Audits \[Statute\]
 
-A dedicated High-Net-Worth and Complex-Entity Enforcement Division shall be statutorily ring-fenced. Its funding shall be restricted by appropriations rider to audits of filers above the Extreme Wealth Fair-Share Tax threshold and of large or complex corporate and partnership structures and shall not be used to audit ordinary filers. The IRS shall publicly report audit rates by income and wealth bracket, and the division shall be reauthorized every five years based on performance data.
+A dedicated High-Net-Worth and Complex-Entity Enforcement Division shall be statutorily ring-fenced. Its funding shall be restricted by appropriations rider to audits of filers above the Extreme Wealth Fair-Share Tax threshold and of large or complex corporate and partnership structures and shall not be used to audit ordinary filers. The IRS shall publicly report audit rates by income and wealth bracket, and the division shall be reauthorized every five years based on performance data. The division shall receive \$80 billion of mandatory funding over its first ten years, provided outside annual appropriations. Appendix E counts its net revenue at the Congressional Budget Office's estimated return, not at higher published estimates.
 
 ### 2.5 State Tax Progressivity Incentive \[Statute\]
 
@@ -42,13 +42,17 @@ The top federal income-tax rate on ordinary income shall be 39.6 percent, the ra
 
 The 2025 reconciliation law made the 37 percent rate permanent, so this section is a tax increase relative to current law. It is a modest and familiar one: the same top rate applied for most of the 1990s and again from 2013 through 2017.
 
+#### 2.6.1 Pass-Through Deduction Above the Top Bracket
+
+The qualified business income deduction (Internal Revenue Code Section 199A) shall phase out for taxpayers whose taxable income exceeds the threshold in Section 2.6, falling to zero over the next \$100,000 of taxable income (\$200,000 for married couples filing jointly). Below the threshold the deduction is unchanged. Owners of pass-through businesses with top-bracket incomes then pay the same income-tax rate on business income as on wages.
+
 ### 2.7 Capital Income Parity \[Statute – High Resistance\]
 
 Income from wealth should not be taxed more lightly than income from work at the top of the income scale. Today a household earning $5 million from wages pays 37 percent plus Medicare taxes on its last dollar, while a household earning $5 million from selling stock pays 20 percent plus the 3.8 percent net investment income tax. And gains held until death are never taxed at all.
 
 #### 2.7.1 Gains and Dividends Taxed as Ordinary Income Above $1 Million
 
-Long-term capital gains and qualified dividends shall be taxed at ordinary income rates to the extent a taxpayer's adjusted gross income exceeds $1 million, indexed for inflation. Only the portion above the threshold shall be taxed at the higher rate, so there is no cliff at $1 million. Below the threshold, current capital-gains rates shall continue to apply. The 3.8 percent net investment income tax shall remain, for a top rate on capital income of 43.4 percent.
+Long-term capital gains and qualified dividends shall be taxed at ordinary income rates to the extent a taxpayer's adjusted gross income exceeds $1 million, indexed for inflation. Only the portion above the threshold shall be taxed at the higher rate, so there is no cliff at $1 million. Below the threshold, current capital-gains rates shall continue to apply. The 3.8 percent net investment income tax shall remain, for a top rate on capital income of 43.4 percent before the surtax in Section 2.7.5.
 
 #### 2.7.2 Carried Interest
 
@@ -64,17 +68,20 @@ Appreciated property transferred at death or by gift shall be treated as sold at
 - **Illiquid assets:** tax on other illiquid assets may be paid over fifteen years, with interest.
 - **Retirement accounts and personal belongings:** retirement accounts, which are already taxed when money is withdrawn, and ordinary personal belongings shall be excluded.
 
-This section is what makes Section 2.7.1 work. Without it, the most effective way to avoid a higher capital-gains rate is to hold assets until death, when the gain disappears. The Penn Wharton Budget Model estimates that a 33 percent rate on capital gains raises the most revenue while gains escape tax at death, and that the figure rises to 42 percent once death is treated as a realization event \[3\]. The 43.4 percent top rate in Section 2.7.1 therefore depends on this section.
+This section is what makes Section 2.7.1 work. Without it, the most effective way to avoid a higher capital-gains rate is to hold assets until death, when the gain disappears. The Penn Wharton Budget Model estimates that a 33 percent rate on capital gains raises the most revenue while gains escape tax at death, and that the figure rises to 42 percent once death is treated as a realization event \[3\]. The 43.4 percent top rate in Section 2.7.1 therefore depends on this section. The surtax in Section 2.7.5 raises the top rate on gains above that estimate (Section 2.13).
 
 #### 2.7.4 No Gain Taxed Twice
 
 The taxes in this chapter shall be coordinated so that no dollar of gain is taxed twice:
 
-- Gains on publicly traded assets already taxed each year under Section 2.1 shall increase the asset's tax basis, so they are not taxed again when the asset is sold or transferred.
-- Tax paid under Section 2.1 when an illiquid asset is sold shall be credited against income tax owed on the same gain.
 - Income tax owed at death under Section 2.7.3 shall be deductible in computing the estate tax under Section 2.10.
+- The tax in Section 2.1 is a tax on net worth, not on income. It does not change an asset's tax basis and is not credited against income tax.
 
-A family with more than $50 million in wealth can be subject to the wealth tax, the tax on gains at death, and the estate tax. Each reaches a different base, and this section ensures they never reach the same dollar.
+A family with more than \$50 million in wealth can be subject to the wealth tax, income tax on its gains, and the estate tax. Each reaches a different base: the wealth tax reaches the stock of wealth each year, the income taxes reach income as it is realized or transferred, and the estate tax reaches transfers. This section ensures the income and estate taxes never reach the same dollar.
+
+#### 2.7.5 Surtax on Investment Income Above \$1 Million
+
+A surtax of 10 percent shall apply to net investment income, as defined for the net investment income tax, to the extent a taxpayer's modified adjusted gross income exceeds \$1 million (\$2 million for married couples filing jointly), indexed for inflation. Net investment income includes gains, dividends, interest, rents, royalties, and passive business income. Wages and self-employment income are not subject to the surtax, so the 60 percent ceiling in Section 2.8 is unaffected. With the surtax, the top federal rate on long-term gains and dividends is 53.4 percent.
 
 ### 2.8 Combined Federal Wage Rate Ceiling \[Statute\]
 
@@ -122,7 +129,7 @@ The Extreme Wealth Fair-Share Tax already reaches fortunes above $50 million eac
 
 The rates and thresholds in Sections 2.6 to 2.10 are proposed rates, published now so the public can see what the platform asks and so the combined-rate disclosure in Section 27.11 can be calculated. They shall be scored by the Joint Committee on Taxation and the Congressional Budget Office before enactment.
 
-- **Revenue use:** all revenue from Sections 2.6 to 2.10 shall go to the General Fund for the recurring programs listed in Section 27.4, and to nothing else (Section 27.3).
+- **Revenue use:** all revenue from Sections 2.6 to 2.10, and net revenue from the enforcement division in Section 2.4, shall go to the General Fund for the recurring programs listed in Section 27.4, and to nothing else (Section 27.3). Collections of the tax in Section 2.1 follow Section 27.5.
 - **If scoring falls short:** if scored revenue is lower than the programs it supports require, those programs shall phase in more slowly under Sections 27.6 and 27.9. The rates in this chapter shall not rise automatically, and the ceiling in Section 2.8 shall continue to apply.
 - **Review:** the Congressional Budget Office shall report every five years on revenue collected under each section compared with its score.
 
@@ -134,20 +141,24 @@ The rates and thresholds in Sections 2.6 to 2.10 are proposed rates, published n
 | Social Security (Chapter 26, cap eliminated, both shares) | 12.4% | 12.4% | — |
 | Medicare (both shares, including the additional 0.9%) | 3.8% | 3.8% | — |
 | Net investment income tax | — | — | 3.8% |
-| **Subtotal** | **55.8%** | **55.8%** | **43.4%** |
+| Surtax on investment income (Section 2.7.5) | — | — | 10% |
+| **Subtotal** | **55.8%** | **55.8%** | **53.4%** |
 | Paid leave contribution (Section 3.3; wages up to its wage base only) | 0% at the top | 0% at the top | — |
 | Universal Health Insurance contribution | up to 4.2% (Section 2.8) | up to 4.2% (Section 2.8) | not yet set |
-| **Combined federal top rate** | **≤ 60%** | **≤ 60%** | **43.4% plus any UHI contribution** |
+| **Combined federal top rate** | **≤ 60%** | **≤ 60%** | **53.4% plus any UHI contribution** |
 
-Notes: Active pass-through income is covered by Section 26.3. Rates are shown before deductions such as the qualified business income deduction. The Extreme Wealth Fair-Share Tax is an annual tax on wealth above $50 million, not a marginal rate on income, so it is reported separately: for a covered taxpayer, gains on traded assets are taxed each year under Section 2.1 and credited under Section 2.7.4.
+Notes: Active pass-through income is covered by Section 26.3. Above the top-bracket threshold the qualified business income deduction phases out (Section 2.6.1), so it no longer lowers these rates. The Extreme Wealth Fair-Share Tax is an annual tax of 2 to 3 percent on net worth above \$50 million, not a marginal rate on income, so it is reported separately.
 
 ### 2.13 Honest Limits
 
-- **Revenue is not yet scored.** Comparable published estimates, taken from different models and baselines and not additive, put the measures in this chapter in an illustrative range of about $860 billion to $1.2 trillion over ten years (Appendix E). The best match is for Section 2.6: a 2026 Congressional Research Service analysis of the same rate and threshold found about $459 billion to $465 billion \[4\]. Estimates for taxing gains at ordinary rates and at death, about $183 billion to $289 billion, predate the 2025 law \[1\], and the estimate for the corporate minimum tax is an upper bound. None of these is this platform's score. Capital-gains revenue is especially uncertain, because people can time their sales.
-- **The constitutional question is open.** In *Moore v. United States* (2024) the Supreme Court upheld the tax before it but declined to decide whether the Sixteenth Amendment requires income to be realized before it can be taxed \[2\]. Several justices signaled that it does. Section 2.7.3 is the safest design available, because a transfer at death or by gift is a clear event that the law can treat as a sale, but it is not risk-free. The annual tax on traded assets in Section 2.1 carries more risk.
-- **The combined rates are high.** A 60 percent federal ceiling on wages is well above today's top federal rate of 40.8 percent, and state taxes come on top. Higher rates give high earners more reason to relabel wages as capital income or corporate income, which is why Sections 2.7 and 26.3 tax those forms on the same terms. Behavioral responses will reduce revenue below a simple calculation.
-- **Large estates face three taxes.** Section 2.7.4 prevents double taxation of the same dollar, but a very large estate will still pay more than under any recent law, and opponents will call it a triple death tax. The platform's answer is that each tax reaches income or wealth that has otherwise escaped tax.
+- **Revenue is not yet scored.** Comparable published estimates, taken from different models and baselines and not additive, put the stable measures in this chapter (Sections 2.4 and 2.6 to 2.10) in an illustrative range of about \$1.5 trillion to \$2.5 trillion over ten years (Appendix E). The best match is for Section 2.6: a 2026 Congressional Research Service analysis of the same rate and threshold found about \$459 billion to \$465 billion \[4\]. Estimates for taxing gains at ordinary rates and at death, about \$183 billion to \$289 billion, predate the 2025 law \[1\], and the estimate for the corporate minimum tax is an upper bound. None of these is this platform's score. Capital-gains revenue is especially uncertain, because people can time their sales.
+- **Wealth-tax estimates differ threefold.** For the same design, the Penn Wharton Budget Model estimated about \$2.1 trillion over 2022 to 2031 \[6\], while Emmanuel Saez and Gabriel Zucman estimate about \$6.2 trillion over 2026 to 2035, after top fortunes roughly doubled \[5\]. European wealth taxes raised far less, largely because of exemptions and avoidance. The smoothed transfer in Section 27.5 exists because this revenue cannot be predicted.
+- **The constitutional question is open, and the wealth tax carries the most risk.** An annual tax on net worth may be challenged as a direct tax that the Constitution requires to be apportioned among the states by population. In *Moore v. United States* (2024) the Supreme Court also declined to decide whether the Sixteenth Amendment requires income to be realized before it can be taxed \[2\]. Section 2.7.3 is the safest design available, because a transfer at death or by gift is a clear event that the law can treat as a sale, but it is not risk-free. The severability rule in Section 2.1 keeps tiers 1 and 2 safe if the wealth tax falls.
+- **The top rate on gains may pass the revenue-maximizing level.** With the surtax in Section 2.7.5, the top rate on long-term gains is 53.4 percent. The Penn Wharton Budget Model estimates that revenue from gains peaks at about 42 percent even when gains are taxed at death \[3\]. Above that, people hold assets longer and the surtax may raise little or nothing from gains, though it still reaches dividends, interest, and rents. Its estimate in Appendix E is set low for this reason.
+- **The combined rates are high.** A 60 percent federal ceiling on wages is well above today's top federal rate of 40.8 percent, and state taxes come on top. Higher rates give high earners more reason to relabel wages as capital income or corporate income, which is why Sections 2.6.1, 2.7, and 26.3 tax those forms on similar terms. For the wealthiest families, the wealth tax and the taxes on gains together can exceed their annual return in a weak market year; opponents will call this confiscation. Behavioral responses will reduce revenue below a simple calculation.
+- **Large estates face three taxes.** Section 2.7.4 prevents the income and estate taxes from reaching the same dollar, but a very large estate will still pay more than under any recent law, and opponents will call it a triple death tax. The platform's answer is that each tax reaches income or wealth that has otherwise escaped tax.
 - **The corporate minimum tax is complex.** The current 15 percent tax has required repeated interim guidance from the IRS. Raising its rate raises the stakes of getting the rules right.
+- **Enforcement funding can be cut.** Mandatory funding for the division in Section 2.4 makes cuts harder, not impossible: a later Congress can rescind it, as Congress did with most of the 2022 enforcement funding.
 
 ### Sources
 
@@ -158,3 +169,13 @@ Notes: Active pass-through income is covered by Section 26.3. Rates are shown be
 \[3\] Penn Wharton Budget Model, "The Revenue-Maximizing Capital Gains Tax Rate: With and Without Stepped-up Basis at Death" (December 2019). https://budgetmodel.wharton.upenn.edu/issues/2019/12/4/the-revenue-maximizing-capital-gains-tax-rate-with-and-without-stepped-up-basis-at-death
 
 \[4\] Congressional Research Service, "A Comparison of Two Open-Source Tax Microsimulation Models," R49052 (July 30, 2026). https://www.everycrsreport.com/files/2026-07-30_R49052_7736f3d5c7dbd7a34910a7d898508f6abde6912a.pdf
+
+\[5\] Emmanuel Saez and Gabriel Zucman, letter to Senator Elizabeth Warren estimating the revenue of the Ultra-Millionaire Tax Act of 2026 (March 2026). https://www.warren.senate.gov/imo/media/doc/ultra-millionaire_tax_act_score.pdf
+
+\[6\] Penn Wharton Budget Model, "Budgetary Effects of Senator Warren's Wealth Tax" (March 15, 2021). https://budgetmodel.wharton.upenn.edu/issues/2021/3/15/budgetary-effects-of-senator-warren-wealth-tax
+
+\[7\] The Budget Lab at Yale, "Why Not an AGI Surtax?" (May 2025). https://budgetlab.yale.edu/sites/default/files/2025-04/TBL-WhyNot-AGISurtax-20250505.pdf
+
+\[8\] Tax Foundation, "Eliminate the Section 199A Pass-Through Deduction," Options for Reforming America's Tax Code. https://taxfoundation.org/tax-reform-guide/option/eliminate-the-section-199a-pass-through-deduction/
+
+\[9\] The Budget Lab at Yale, "A Weakened IRS Has Substantial Consequences." https://budgetlab.yale.edu/research/weakened-irs-has-substantial-consequences

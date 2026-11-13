@@ -18,8 +18,8 @@ Each revenue stream shall be dedicated to the single use listed below. No revenu
 
 | Revenue stream | Behavior | Single use |
 | --- | --- | --- |
-| Extreme Wealth Fair-Share Tax (Section 2.1), including shares paid in kind under Section 2.2 | Swings with markets | Sovereign Wealth Reserve, under Section 27.5 |
-| Federal tax fairness measures: capital gains taxed as ordinary income above a high-income threshold, restored top income-tax brackets, a strengthened corporate minimum tax, and estate-tax reform (Sections 2.6 to 2.10; proposed rates subject to scoring) | Stable | General Fund, for the recurring programs listed in Section 27.4 |
+| Extreme Wealth Fair-Share Tax (Section 2.1), including shares paid in kind under Section 2.2 | Swings with markets | Sovereign Wealth Reserve, under Section 27.5; once the Reserve is at its target, a smoothed transfer to the General Fund for programs in tiers 3 and 4 only |
+| Federal tax fairness measures: capital gains taxed as ordinary income above a high-income threshold, a surtax on investment income above $1 million, restored top income-tax brackets, the pass-through deduction phased out above them, a strengthened corporate minimum tax, estate-tax reform, and net revenue from high-end enforcement (Sections 2.4 and 2.6 to 2.10; proposed rates subject to scoring) | Stable | General Fund, for the recurring programs listed in Section 27.4 |
 | Universal Health Insurance contributions: payroll, employer, and income-based (Section 5.1) | Stable | Universal Health Insurance Trust Fund |
 | State contributions under the Universal Health Insurance Partnership Compact (Section 4.7.3) | Stable | Universal Health Insurance Trust Fund |
 | Savings from consolidated health financing | Stable once realized | Universal Health Insurance Trust Fund, by lowering contribution rates |
@@ -73,7 +73,8 @@ Each major program shall draw only on the stream listed here. Independent cost e
 The Sovereign Wealth Reserve (Section 1.3) shall exist only to stabilize the economy in recessions.
 
 - **Funding:** all Extreme Wealth Fair-Share Tax revenue shall be deposited in the Reserve until its stabilization balance reaches a target fixed in statute as a share of GDP.
-- **Above the target:** further deposits shall go to a Capital Investment Account, which may fund one-time capital projects, and debt service on borrowing for long-lived assets under Section 27.7, but never recurring programs.
+- **Smoothed transfer:** in each year that the balance is at its target, the General Fund shall receive one-half of the lowest annual Extreme Wealth Fair-Share Tax receipts in the five preceding years (or in every preceding year, if fewer than five), but never more than that year's receipts. The transfer may pay only for programs in tiers 3 and 4 of Section 27.9 that have taken effect; any amount they do not need stays in the Reserve. No transfer shall be made in a year the balance is below its target, including during and after a draw, until it is refilled.
+- **Above the target:** remaining deposits shall go to a Capital Investment Account, which may fund one-time capital projects, and debt service on borrowing for long-lived assets under Section 27.7, but never recurring programs.
 - **Investment:** assets shall be held in broad, passive index funds managed by private managers selected through competitive bidding, with no voting rights in any company.
 - **Drawing:** the stabilization balance may be drawn only when the recession trigger in Section 1.2 is met. Draws shall first pay for automatic extended unemployment benefits (Section 4.4.4); any remainder may fund only temporary stabilization measures enacted for that downturn.
 - **Refilling:** once recovery is confirmed under Section 1.2, deposits shall restore the balance to its target before anything goes to the Capital Investment Account.
@@ -115,6 +116,8 @@ Programs shall be phased in by feasibility: first low-cost statutory reforms (su
    - existing student-loan reform (Section 7.3.1);
    - K-12 equity funding (Section 7.2.1).
 4. **Universal housing vouchers** for extremely low-income renters (Section 8.3.3), phased in by stages.
+
+Programs in tiers 3 and 4 may also be paid from the smoothed transfer in Section 27.5. That transfer shall never pay for tiers 1 and 2, so a fall in wealth-tax revenue, or a court ruling against the tax, can delay only the later tiers.
 
 **Fixed-budget programs.** Research expansion, national service, the public housing developer's operations, state rent stabilization grants, and the enhancements to the National Farm Risk Protection Program are not ranked in the tiers. They follow these rules:
 

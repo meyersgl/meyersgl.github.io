@@ -32,3 +32,6 @@ Eight choices were decided together:
 ## Consequences
 - The Universal Health Insurance contribution on top wages is limited to the room under the ceiling (4.2 points at current rates). Any revenue the ceiling forgoes is made up inside the Trust Fund or by slower phase-in.
 - Revenue is unscored. A shortfall slows program phase-in rather than raising rates.
+
+
+**Note (decision 0034):** The wealth tax is now a tax on net worth, so item 4 no longer credits it against income tax. Section 2.6.1 phases out the pass-through deduction above the top bracket, and Section 2.7.5 adds a surtax on investment income; the wage ceiling is unchanged.

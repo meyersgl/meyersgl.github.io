@@ -11,6 +11,13 @@ Newest first. Each entry lists what changed and which decision records it follow
 - Tier 2 cost estimates and affordability test: under favorable assumptions tier 2 steps 1 to 3 (homelessness vouchers, eviction prevention, universal preschool) are funded if the training cap is no more than about $125 billion; childcare caps ($460 to $700 billion) wait; eldercare caps not yet estimable.
 - Tier 3 cost estimates: tuition-free public higher education ($700 to $800 billion) and K-12 equity funding ($360 to $400 billion) wait in both cases; student-loan reform not yet estimable. Estimated tier 1 to 3 costs (about $2.6 to $3.3 trillion) are roughly two to four times identified General Fund revenue.
 
+### Top-earner revenue (decision 0034)
+- Section 2.1 redesigned on the Ultra-Millionaire Tax Act: 2% of net worth above $50 million, 3% above $1 billion, 40% exit tax. Section 2.3 now covers valuation of illiquid assets.
+- Smoothed wealth-tax transfer to the General Fund for tiers 3 and 4 only, once the Sovereign Wealth Reserve is at its target (Sections 1.3, 27.3, 27.5, 27.9).
+- New Section 2.6.1 (pass-through deduction phased out above the top bracket), Section 2.7.5 (10% surtax on investment income above $1 million), and fixed funding for the enforcement division (Section 2.4).
+- Sections 2.7.4, 2.11, 2.12, and 2.13, the definitions, the Executive Summary, and `data/revenue-streams.yml` updated.
+- Appendix E: stable General Fund revenue about $1.5 to $2.5 trillion; affordability test rerun. Conservative case now funds all of tier 1 and tier 2 through preschool; favorable case funds tiers 1 and 2 and likely tier 3.
+
 ### Preschool and childcare phase-in order (decision 0033)
 - Tier 2, step 3 split into step 3, universal preschool, and step 4, the childcare cost caps. Eldercare cost caps move to step 5.
 - Section 27.9, Appendix E, and the Executive Summary updated.
