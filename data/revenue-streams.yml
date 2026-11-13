@@ -1,13 +1,13 @@
 # Chapter 27 revenue-to-use assignments. Every stream has exactly one use.
 # Chapter files reference these IDs in their front matter (revenue_streams).
-# Decision records: 0004, 0005, 0006, 0008, 0034.
+# Decision records: 0004, 0005, 0006, 0008, 0034, 0037.
 streams:
   - id: wealth-tax
     name: Extreme Wealth Fair-Share Tax (including in-kind share payments)
     behavior: market-volatile
     use: Sovereign Wealth Reserve (stabilization balance to statutory target); then a smoothed transfer to the General Fund for tiers 3 and 4 only; remainder to Capital Investment Account, one-time only
   - id: tax-fairness
-    name: Federal Tax Fairness measures (capital gains, investment income surtax, top brackets, pass-through deduction phase-out, corporate minimum, estate, net high-end enforcement)
+    name: Federal Tax Fairness measures (capital gains, top brackets, pass-through deduction phase-out, corporate minimum, estate, net high-end enforcement)
     behavior: stable
     use: General Fund for recurring platform programs
   - id: uhi-contributions
@@ -31,7 +31,7 @@ streams:
     behavior: stable
     use: Dynamic Global Innovation Fund (remainder counted only in UHI estimates)
   - id: ss-payroll-reform
-    name: Social Security payroll cap elimination and pass-through inclusion
+    name: Social Security payroll cap elimination, pass-through inclusion, and 12.4% contribution on investment income above $1 million (Section 2.7.5)
     behavior: stable
     use: OASDI trust funds (any excess beyond scheduled benefits and required reserves to the Social Security Endowment)
   - id: endowment-returns

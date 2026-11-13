@@ -33,3 +33,6 @@ The costing in Appendix E showed known tier 1 to 3 costs of about $2.6 to $3.3 t
 
 ## Supersedes
 Decision 0004 in part: wealth-tax revenue may now reach the General Fund through the smoothed transfer, for tiers 3 and 4 only. Decision 0022, item 4: the coordination rule no longer credits wealth tax against income tax, because the wealth tax is no longer a tax on gains.
+
+
+**Note (decision 0037):** The 10 percent surtax (R4) is now a 12.4 percent Social Security contribution on the same base, paid to the Social Security trust funds.

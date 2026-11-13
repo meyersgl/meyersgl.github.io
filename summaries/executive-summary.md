@@ -172,7 +172,7 @@ The platform proposes an annual tax of 2 percent on net worth above $50 million 
 
 ### Social Security Solvency
 
-The platform preserves Social Security's core promises without raising the retirement age or reducing earned benefits. Long-term solvency is strengthened by eliminating the payroll-tax cap on very high earnings without paying added benefits on those earnings, by treating high-end pass-through business income consistently, and by a supplemental Social Security Endowment funded only from payroll revenue beyond what scheduled benefits and required reserves need. The Social Security white paper sets out the design and its honest limits.
+The platform preserves Social Security's core promises without raising the retirement age or reducing earned benefits. Long-term solvency is strengthened by eliminating the payroll-tax cap on very high earnings without paying added benefits on those earnings, by applying the same 12.4 percent contribution to investment income above $1 million, by treating high-end pass-through business income consistently, and by a supplemental Social Security Endowment funded only from payroll revenue beyond what scheduled benefits and required reserves need. These reforms close most, but not yet all, of the 75-year shortfall in the 2026 Trustees Report; the platform does not claim full solvency until they are scored. The Social Security white paper sets out the design and its honest limits.
 
 ### Living Wage Framework
 
@@ -295,11 +295,11 @@ This sequencing is intended to reduce fiscal risk, improve administrative effect
 
 The platform assigns every revenue stream to exactly one use, and no stream may be counted twice:
 
-- **Federal tax fairness measures** (capital gains taxed as ordinary income above a high-income threshold, a surtax on investment income above $1 million, restored top brackets with the pass-through deduction phased out above them, a strengthened corporate minimum tax, estate-tax reform, and high-end tax enforcement) are stable and fund recurring programs through the General Fund.
+- **Federal tax fairness measures** (capital gains taxed as ordinary income above a high-income threshold, restored top brackets with the pass-through deduction phased out above them, a strengthened corporate minimum tax, estate-tax reform, and high-end tax enforcement) are stable and fund recurring programs through the General Fund.
 
 - **Universal Health Insurance contributions** and health-financing savings fund the Universal Health Insurance Trust Fund only.
 
-- **Social Security payroll reforms** fund the Social Security trust funds only.
+- **Social Security payroll reforms**, including the contribution on investment income above $1 million, fund the Social Security trust funds only.
 
 - **The Extreme Wealth Fair-Share Tax** swings with markets, so it first fills the Sovereign Wealth Reserve, which stabilizes the economy in recessions. Once the Reserve is full, a smoothed share funds later-tier programs only, and the rest goes to one-time capital projects.
 
