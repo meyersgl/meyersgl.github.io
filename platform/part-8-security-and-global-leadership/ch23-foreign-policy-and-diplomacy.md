@@ -145,7 +145,7 @@ Since 1973, the Helms Amendment has barred foreign assistance from paying for ab
 
 **Interim executive steps.** Until the statute is enacted, the executive branch shall, on its first day:
 
-- apply the Helms Amendment as written, so that it no longer bars funding for abortion after rape or incest, when the patient's life or health is at risk, or for post-abortion care, subject to the host-country law rule above;
+- apply the Helms Amendment as written, so that it no longer bars funding for abortion after rape or incest, when, in reasonable medical judgment, the patient's life or physical or mental health is at risk (the standard in Section 6.2.1), or for post-abortion care, subject to the host-country law rule above;
 - begin rescinding the three 2026 foreign assistance rules (Protecting Life in Foreign Assistance, Combating Gender Ideology in Foreign Assistance, and Combating Discriminatory Equity Ideology in Foreign Assistance). Because they were issued as final rules, their repeal requires notice-and-comment rulemaking and will take months.
 
 Durability comes from the statute, not from executive action.
