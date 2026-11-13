@@ -32,6 +32,24 @@ Newest first. Each entry lists what changed and which decision records it follow
 - Section 27.9 now sets the General Fund priority order (income security, then preschool and childcare, then tuition-free college). Sections 27.3 to 27.5, 1.3 and 5.1.6 updated to match.
 - Executive Summary: new Income Security section and the phase-in order.
 
+### Chapter 13: Civil Rights & Equal Protection (decision 0024)
+- New Sections 13.2 to 13.9:
+  - Voting Rights Act restoration: a private right to sue, a vote-denial test, an evidentiary standard for intent in dilution cases, race-neutral remedies, known-practices preclearance, and timely-relief rules
+  - protected traits listed separately, with statutory definitions, across six areas of law
+  - disparate impact codified
+  - religious liberty limits, including that for-profit corporations do not exercise religion (reversing *Hobby Lobby*)
+  - digital and AI accessibility, *Olmstead* written into statute, accommodation reforms, and an end to subminimum wages
+  - pay data, salary ranges, and equal-pay proof rules
+  - enforcement designed to work under *Slaughter*, with no forced arbitration
+  - a funding table and honest limits
+- Cross-references:
+  - Section 12.4: multi-member districts as a Voting Rights Act remedy
+  - Appendix A: an affirmative right to vote
+  - Appendix C: three new rows
+  - Sections 27.4 and 27.9: Disabled Access Credit in tier 1
+  - Section 5.1.7: the long-term care benefit must include home- and community-based services
+- Executive Summary: new Civil Rights section.
+
 ## v1.1 Consistency Edition (November 12, 2026)
 
 ### Correction (November 12, 2026)

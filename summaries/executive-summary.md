@@ -214,6 +214,10 @@ The platform proposes constitutional age limits for federal elected officials an
 
 Emergency authority should exist only when necessary and should remain subject to democratic oversight. Emergency declarations would automatically expire unless renewed through congressional action, with limits placed on powers unrelated to the underlying emergency.
 
+### Civil Rights
+
+Civil rights should not depend on whether a given administration chooses to enforce them. The platform restores the Voting Rights Act's private right to sue, sets a clear test for barriers to voting, and adopts race-neutral remedies against discriminatory maps that respect the limits recent court decisions have set. It lists sex, sexual orientation, gender identity and expression, pregnancy, and sex characteristics as separate protected traits across employment, housing, credit, health care, and public accommodations. It writes disparate-impact protections into law, and states plainly that for-profit corporations cannot claim religious exemptions from anti-discrimination law. It also modernizes disability rights for the digital age, requires pay data and salary ranges, and ends forced arbitration of civil rights claims.
+
 ## Innovation, Infrastructure, and National Capacity
 
 Long-term prosperity depends on a nation's ability to innovate, compete, and adapt. The platform therefore prioritizes investments that strengthen America's productive capacity and future competitiveness.

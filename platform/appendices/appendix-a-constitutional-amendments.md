@@ -76,7 +76,7 @@ The following subjects may warrant future national discussion but are not curren
 
 - Presidential term structure
 
-- Expansion of voting rights protections
+- An affirmative individual right to vote, to be proposed if courts narrow the statutory protections in Section 13.2 further (Section 13.2.6)
 
 - Congressional representation reform
 

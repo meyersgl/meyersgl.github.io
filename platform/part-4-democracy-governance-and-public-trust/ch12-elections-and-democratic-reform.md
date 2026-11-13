@@ -40,6 +40,8 @@ Objectives:
 
 Multi-member districts substantially reduce, but do not eliminate, the payoff from gerrymandering, because regional boundaries must still be drawn. Final multi-winner results shall be tabulated and audited within a legally defined short window (for example, one week).
 
+Where single-member districts cannot remedy a violation of the Voting Rights Act, courts may order multi-member districts elected under this section as a race-neutral remedy (Section 13.2.3).
+
 ### 12.5 Judicial Term Limits \[Statute – High Resistance; Constitutionally Contested\]
 
 Federal judges shall serve standardized eighteen-year terms through a staggered implementation process. Sitting judges shall transition to senior status in order of seniority, with the longest-serving judges first, over a phased period. This avoids abruptly stripping any sitting judge's tenure and prevents the timing of enactment from creating partisan windfalls.
