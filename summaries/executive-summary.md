@@ -198,6 +198,10 @@ The platform establishes a national public health insurance system that provides
 
 Tuition at public universities, community colleges, trade schools, and technical institutions would be fully covered. Existing student-loan burdens would be substantially reduced through refinancing and long-term repayment reforms. The objective is to remove financial barriers to education, workforce development, and upward mobility.
 
+### Housing and Homelessness
+
+The platform's first answer to high rents is building more homes, through zoning incentives, faster permitting, and a public housing developer. To stop gouging while supply catches up, landlords with 50 or more units who keep federal tax benefits and federally backed loans may raise rent on a sitting tenant by no more than inflation plus 5 percent, and never more than 10 percent. New buildings are exempt for 15 years, rent resets between tenants, and tenants are protected from eviction without just cause. On homelessness, the platform writes Housing First into law, offers recovery housing as a choice rather than a condition, guarantees housing vouchers to people without homes, and bars criminal penalties for sleeping outside unless a real shelter or housing offer has been made. Being homeless is never by itself grounds for civil commitment.
+
 ### Universal Preschool
 
 Every child should begin school with a strong educational foundation. Universal preschool expands access to early childhood education, promotes school readiness, supports workforce participation, and reduces long-term educational inequality.
@@ -269,8 +273,9 @@ Accordingly, policies are organized through a phased implementation framework. L
 Programs paid from general revenue are phased in in a fixed order of priority:
 
 1. **Income security first:** SSI and SNAP improvements, then the Earned Income Tax Credit, then the Child Tax Credit.
-2. **Universal preschool and childcare cost caps second.**
+2. **Housing and early childhood second:** housing vouchers for people without homes, then eviction prevention, then universal preschool and childcare cost caps.
 3. **Tuition-free public higher education third.**
+4. **Universal housing vouchers fourth.**
 
 No program in a later tier takes effect until every program in the earlier tiers is fully funded. Programs with their own funding, such as Universal Health Insurance and Social Security, follow their own schedules.
 

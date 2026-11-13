@@ -37,6 +37,8 @@ The platform's rule is to **take discretion away rather than try to protect the 
 | Commission on Civil Rights | 13.7.4 | Legislative-branch commission appointed by congressional leaders of both parties. Investigates and reports, with no enforcement power |
 | Civil rights enforcement | 13.7 | Private lawsuits with attorney fees, state attorney general enforcement, a right to sue after 180 days without agency action, published reasons for abandoned cases |
 | Pay data | 13.6.1 | Collected by a statistical agency under a mandatory statutory duty that any person may sue to compel |
+| Rent stabilization floor | 8.2.3, 8.2.5 | Formula and coverage set in statute with no waiver authority. Tenant lawsuits with triple damages and attorney fees, state attorney general enforcement, and a mandatory IRS matching duty that any person may sue to compel. Fair-return petitions decided by administrative law judges |
+| Homelessness programs | 8.3.1, 8.3.4 | Permanent housing floor and renewal rule set in statute. Funding notice deadline with automatic renewal of prior terms, notice and comment for any change in criteria, a statutory Interagency Council on Homelessness, and private and state enforcement of encampment conditions |
 | Frontier AI oversight | 19.6 | Commerce/NIST. Triggers and deadlines set in statute, independent evaluators, penalties enforced in court |
 
 ## Cross-Sector Regulatory Rules
