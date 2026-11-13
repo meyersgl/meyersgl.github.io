@@ -120,10 +120,10 @@ Qualified immunity, a judicially created doctrine, shall be eliminated by statut
 
 #### 16.9.2 Federal Officers
 
-Any person who, under color of federal law, deprives another person of rights secured by the Constitution of the United States shall be liable to the injured party in an action at law or suit in equity. Qualified immunity is not a defense. The officer's personal share is set by Section 16.9.5, and the United States shall pay the rest.
+Any person who, under color of federal law, deprives another person of rights secured by the Constitution of the United States shall be liable to the injured party in an action at law or suit in equity. The cause of action shall use the same liability, defenses, damages, attorney-fee, and enforcement rules as Section 1983 as revised by Section 16.9.1, so qualified immunity is not a defense. The officer's personal share is set by Section 16.9.5, and the United States shall pay the rest.
 
 - **No categorical exceptions.** The cause of action covers immigration, border, and national security officers like any other federal officer. The existing state-secrets privilege continues to apply in individual cases.
-- **Who pays.** Judgments and settlements are paid from the Judgment Fund (31 U.S.C. § 1304). The responsible agency shall repay the Fund from its own appropriations within two fiscal years, as agencies already do for discrimination judgments, so that the cost falls on the agency whose officer caused the harm.
+- **Who pays.** Judgments and settlements are paid from the Judgment Fund (31 U.S.C. § 1304). The responsible agency shall repay the Fund from its own appropriated funds within two fiscal years, a period fixed in statute, as agencies already do for discrimination judgments, so that the cost falls on the agency whose officer caused the harm.
 
 #### 16.9.3 Repairing the Federal Tort Claims Act
 
@@ -208,7 +208,7 @@ Grants shall support:
 - participation in a national database of decertified officers;
 - modernization of municipal insurance pools, including risk-based premiums.
 
-The grants shall be awarded within the existing federal policing grant programs (the Edward Byrne Memorial Justice Assistance Grant and Community Oriented Policing Services programs) and require no new appropriation. A federal backstop that pays judgments for local governments is rejected, because it would weaken the incentive to prevent misconduct.
+The grants shall be awarded within the existing federal policing grant programs (the Edward Byrne Memorial Justice Assistance Grant and Community Oriented Policing Services programs) and require no new appropriation. They operate within existing authorized appropriations and create no new phase-in obligation under Section 27.9. A federal backstop that pays judgments for local governments is rejected, because it would weaken the incentive to prevent misconduct.
 
 ### 16.14 Pattern-or-Practice Enforcement \[Statute\]
 
@@ -231,7 +231,7 @@ Judgments are liabilities, not programs, and do not draw on any revenue stream a
 ### 16.16 Honest Limits
 
 - **Insurance costs will rise.** New Mexico's county insurance pool reported about $30 million in settlements and legal costs in the first years after the state removed qualified immunity \[7\]. The two-year transition and the risk reduction grants soften this but will not prevent it.
-- **Settlement costs are hard to predict.** The long-term fiscal effect depends on court interpretations, local policies, insurance markets, and future misconduct rates, and has not been scored.
+- **Settlement costs remain difficult to forecast.** The long-run effects depend on future litigation patterns, court interpretations, insurance markets, local policies, and agency behavior, and have not been formally scored.
 - **Federal officer liability will be fought as an immigration issue.** Law enforcement unions and the Department of Homeland Security will oppose it, and it will be described as an attack on immigration enforcement.
 - **State remedies are legally unsettled.** Courts have not decided whether states may create causes of action against federal officers, and the Justice Department is challenging Illinois's law \[4\]. Express congressional authorization in Section 16.9.4 is designed to settle that question.
 - **The personal share is modest.** A $25,000 cap may not deter every officer, and personal insurance will soften it further. The bad-faith rule is the stronger deterrent.
