@@ -73,7 +73,7 @@ Each major program shall draw only on the stream listed here. Independent cost e
 The Sovereign Wealth Reserve (Section 1.3) shall exist only to stabilize the economy in recessions.
 
 - **Funding:** all Extreme Wealth Fair-Share Tax revenue shall be deposited in the Reserve until its stabilization balance reaches a target fixed in statute as a share of GDP.
-- **Above the target:** further deposits shall go to a Capital Investment Account, which may fund one-time capital projects only and never recurring programs.
+- **Above the target:** further deposits shall go to a Capital Investment Account, which may fund one-time capital projects, and debt service on borrowing for long-lived assets under Section 27.7, but never recurring programs.
 - **Investment:** assets shall be held in broad, passive index funds managed by private managers selected through competitive bidding, with no voting rights in any company.
 - **Drawing:** the stabilization balance may be drawn only when the recession trigger in Section 1.2 is met. Draws shall first pay for automatic extended unemployment benefits (Section 4.4.4); any remainder may fund only temporary stabilization measures enacted for that downturn.
 - **Refilling:** once recovery is confirmed under Section 1.2, deposits shall restore the balance to its target before anything goes to the Capital Investment Account.
@@ -85,7 +85,7 @@ The baseline spending cap in Section 1.2 may rise only by the independently scor
 
 ### 27.7 Borrowing Rule \[Statute\]
 
-Borrowing may finance long-lived productive assets, such as infrastructure, grid and transmission, and research facilities. Borrowing shall not finance recurring obligations.
+Borrowing may finance long-lived productive assets, such as infrastructure, grid and transmission, public housing, and research facilities. Borrowing shall not finance recurring obligations. Debt service on such borrowing is paid through the Capital Investment Account (Section 27.5), is not a General Fund phase-in item, and limits new borrowing to what the account can service.
 
 ### 27.8 No Double Counting \[Statute\]
 
@@ -119,7 +119,7 @@ Programs shall be phased in by feasibility: first low-cost statutory reforms (su
 - each continues at its current-law funding level;
 - expansion above current-law levels occurs only after the first tier is fully funded;
 - expansion remains subject to a fixed statutory ceiling for each program and to the spending cap in Section 27.6;
-- construction of long-lived assets uses the Capital Investment Account (Section 27.5) and the borrowing rule in Section 27.7;
+- construction of long-lived assets uses the Capital Investment Account (Section 27.5) and the borrowing rule in Section 27.7, and its debt service is paid through that account rather than waiting in the tier order;
 - the National Farm Risk Protection Program preserves current-law crop insurance commitments, and only its enhanced benefits are subject to the ceiling.
 
 Paid leave is financed by its own trust fund (Section 3.3) and is not a General Fund program. Appendix B sets out the legislative path for each program. Programs with their own funding (Universal Health Insurance, Social Security, unemployment insurance) are phased in on their own schedules. Revenue from the loss of tax benefits under the rent stabilization floor (Section 8.2.3) goes to the General Fund and is not assigned to any program.

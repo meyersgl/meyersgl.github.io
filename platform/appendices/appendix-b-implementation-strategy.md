@@ -21,9 +21,9 @@ A platform is only as good as its path into law. This appendix sets out how the 
 The Senate shall adopt a standing rule that replaces the 60-vote requirement with a process that lets majorities decide after real debate, while giving the minority a guaranteed voice.
 
 1. **Fully paid-for bills.** A bill that the Congressional Budget Office and the Joint Committee on Taxation score as fully paid for under Section 27.10 may pass by majority vote after a guaranteed period of debate and the amendment votes in rule 3.
-2. **All other legislation.** Debate may be ended by a declining threshold: 60 votes on the first cloture vote, then 57, then 54, then a simple majority, with several session days between votes.
-3. **Minority rights.** The minority is guaranteed votes on a fixed number of its amendments and on a complete substitute amendment before any final vote.
-4. **Repeal symmetry.** A bill that repeals or substantially cuts a program follows the same process as the bill that enacted it. A program enacted as a fully paid-for bill can be repealed by majority only under the same rules.
+2. **All other legislation.** Debate may be ended by a declining threshold: 60 votes after introduction, 57 after a fixed delay, 54 after a second delay, and a simple majority after the final delay. The length of each delay is set by Senate rule.
+3. **Minority rights.** Before any final vote, the minority leader receives a guaranteed number of floor amendments, set by Senate rule, and one guaranteed substitute amendment. Each receives a recorded vote, so the rule cannot be satisfied by symbolic amendment opportunities.
+4. **Repeal symmetry.** Any bill repealing or substantially reducing a law enacted through the paid-for majority procedure is subject to the same procedure, including its scoring requirement, guaranteed debate, and minority amendment rights. Bills repealing other laws follow the declining threshold in rule 2.
 5. **Qualification.** Whether a bill is fully paid for is determined by CBO and Joint Committee on Taxation scoring under Section 27.10, not by the presiding officer or the majority leader.
 
 **Why this design.** Abolishing the filibuster would let the platform pass, but would also let a later narrow majority repeal Universal Health Insurance in a week. The declining threshold guarantees delay and debate without a permanent veto. The paid-for rule turns Chapter 27's fiscal discipline into procedure: a majority can pass anything, if it pays for it.
@@ -77,8 +77,8 @@ Section 27.9 sets the order. In summary:
 - **R1.** Each continues at its current-law funding level.
 - **R2.** Expansion above current-law levels occurs only after Tier 1 is fully funded.
 - **R3.** Expansion remains subject to a fixed statutory ceiling for each program and to the overall spending cap (Section 27.6).
-- **R4.** Construction of long-lived assets, such as public housing and research facilities, uses the Capital Investment Account (Section 27.5) and the borrowing rule in Section 27.7.
-- **R5.** Paid leave is not a General Fund program. It is paid by a self-financing trust fund supported by a dedicated payroll contribution counted toward the combined-rate ceiling (Sections 2.8 and 3.3).
+- **R4.** Construction of long-lived assets, such as public housing and research facilities, uses the Capital Investment Account (Section 27.5) and the borrowing rule in Section 27.7. Debt service on that borrowing is paid through the Capital Investment Account and is not itself a General Fund phase-in item.
+- **R5.** Paid leave is not a General Fund program. It is paid by a self-financing trust fund supported by a dedicated payroll contribution counted toward the combined-rate ceiling (Sections 2.8 and 3.3). The contribution rate may adjust within a statutory band to maintain trust-fund solvency.
 - **R6.** The National Farm Risk Protection Program preserves current-law crop insurance commitments, while its enhanced benefits remain subject to fixed statutory ceilings.
 
 ## B.7 Honest Limits
@@ -86,6 +86,7 @@ Section 27.9 sets the order. In summary:
 - **The rules reform needs 50 votes.** Senators of both parties have defended the 60-vote rule, and neither party has been willing to change it for legislation. Without Section B.2, the regular-order planks in Section B.3 depend on bipartisan agreement that may not exist.
 - **The paid-for rule makes scoring political.** If passage depends on a CBO score, the scorekeepers and their methods will come under pressure. The platform's protections for the Congressional Budget Office and the Joint Committee on Taxation (Appendix C) matter more under this rule.
 - **The parliamentarian decides what reconciliation can carry.** The tax conditions in Section 8.2.3 and parts of Chapter 5 may be ruled "merely incidental" and struck.
+- **Debt service depends on the Capital Investment Account.** That account fills only when Extreme Wealth Fair-Share Tax revenue exceeds the Sovereign Wealth Reserve's target. Until it does, borrowing for construction is limited to what the account can service.
 - **Repeal symmetry is only as strong as the next Senate.** A future majority could change the rules again by the same method used to adopt them.
 - **Executive restraint gives up early wins.** Limiting executive action means visible results depend on Congress, which moves more slowly.
 - **The sequence assumes unified government.** With a divided Congress, only the bipartisan track and limited executive actions are realistic.
