@@ -20,6 +20,8 @@ Public funds shall support provider pay, workforce training, and facility capaci
 
 Eldercare costs shall likewise be capped on a sliding scale, and long-term care shall be addressed through the public insurance system under Section 5.1, with support for family caregivers.
 
+**Honest limit:** Capping what families pay raises demand for care faster than the supply of care workers can grow. Without enough providers, caps can lengthen waiting lists rather than lower costs. Funding for provider pay and training is meant to close that gap, but the care workforce is low-paid and slow to expand. The childcare and eldercare caps are paid from the General Fund in tier 2 and wait behind earlier tiers (Section 27.9), and the long-term care benefit they rely on remains an open question (Section 5.1.7).
+
 ### 3.5 Workforce Mobility & Occupational Licensing Reform \[Statute\]
 
 Occupational licensing shall exist only where justified by public safety.

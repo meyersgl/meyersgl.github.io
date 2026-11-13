@@ -66,6 +66,8 @@ Potential remedies include:
 
 - Program cancellation
 
+**Honest limit:** Defense acquisition reform has been attempted many times with limited lasting effect. Major programs are often spread across many congressional districts, which makes cancellation politically difficult, and automatic independent review can identify failures but cannot by itself overcome that resistance. Many systems have only one qualified supplier, which limits competition.
+
 ### 24.3 Defense Industrial Base Resilience \[Statute\]
 
 The United States shall maintain domestic production capacity for strategically important defense industries.
@@ -152,6 +154,8 @@ Priority areas include:
 
 Cybersecurity is now a core national-defense requirement.
 
+**Honest limit:** Military cyber capability depends on recruiting and keeping specialists who can earn more in the private sector. Most critical infrastructure is privately owned, so its defense depends on cooperation the government cannot fully compel.
+
 ### 24.8 Space Security & Resilience Initiative \[Statute – High Resistance\]
 
 Space-based systems support:
@@ -169,6 +173,8 @@ Space-based systems support:
 Federal policy shall ensure their resilience and continuity.
 
 Cross-reference: See Chapter 18 Science, Research & Space.
+
+**Honest limit:** A growing share of space systems is owned by commercial providers, so resilience depends on contracts and international norms that remain unsettled. Debris from any conflict in space could damage the satellites of every nation.
 
 ### 24.9 Service Member Quality of Life Standard \[Statute\]
 

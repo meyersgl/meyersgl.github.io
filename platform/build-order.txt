@@ -3,6 +3,7 @@ platform/00-front-matter/01-platform-overview.md
 platform/00-front-matter/02-legal-classifications.md
 platform/00-front-matter/03-governing-principles.md
 platform/00-front-matter/04-definitions.md
+platform/00-front-matter/05-scope.md
 platform/part-1-economic-foundations/00-part.md
 platform/part-1-economic-foundations/ch01-macroeconomic-stability.md
 platform/part-1-economic-foundations/ch02-federal-tax-fairness.md

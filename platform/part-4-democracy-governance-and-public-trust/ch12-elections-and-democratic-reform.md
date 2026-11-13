@@ -42,6 +42,8 @@ Multi-member districts substantially reduce, but do not eliminate, the payoff fr
 
 Where single-member districts cannot remedy a violation of the Voting Rights Act, courts may order multi-member districts elected under this section as a race-neutral remedy (Section 13.2.3).
 
+**Honest limit:** Multi-member districts require repealing a 1967 law and would change how every House member is elected. Incumbents of both parties benefit from the current system and are unlikely to vote to replace it. Ranked ballots are longer, results take longer to tabulate, and voters new to ranking may make more errors at first. Regional boundaries must still be drawn, so gerrymandering is reduced, not eliminated.
+
 ### 12.5 Judicial Term Limits \[Statute – High Resistance; Constitutionally Contested\]
 
 Federal judges shall serve standardized eighteen-year terms through a staggered implementation process. Sitting judges shall transition to senior status in order of seniority, with the longest-serving judges first, over a phased period. This avoids abruptly stripping any sitting judge's tenure and prevents the timing of enactment from creating partisan windfalls.

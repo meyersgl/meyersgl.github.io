@@ -1,6 +1,6 @@
 # Forthcoming white papers
 
-Topics this edition deliberately defers to standalone papers (decision 0003).
+Topics this edition deliberately defers to standalone papers (decision 0003). The same list appears on the platform's Scope page (front matter).
 
 | Paper | Platform chapter | Status |
 | --- | --- | --- |

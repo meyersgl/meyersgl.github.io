@@ -86,6 +86,8 @@ A dedicated office shall monitor barriers facing:
 
 and provide annual recommendations to Congress.
 
+**Honest limit:** Conduct-based rules require proof of harm, which makes cases slow and expensive, and dominant firms can litigate for years. Interoperability mandates can create privacy and security risks and may lock in today's technical designs. Every application of the Dominance Threshold will be contested over how the market is defined. Enforcement depends on agency budgets and on courts that have narrowed antitrust doctrine over several decades.
+
 ### 9.3 Rights-Based Data Privacy \[Statute\]
 
 Individuals shall possess enforceable legal rights over their personal data.

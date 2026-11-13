@@ -121,3 +121,5 @@ Coverage shall include:
 - Market-disruption emergencies
 
 Premium assistance shall prioritize family farms and independent producers.
+
+**Honest limit:** Antitrust cases in agriculture are hard to win, and large processors are politically powerful in farm states. Fair contract standards depend on enforcement by the Department of Agriculture, which has historically been uneven. Shifting subsidies toward healthier foods will be opposed by producers who rely on current commodity programs, which is why the change is phased in.
