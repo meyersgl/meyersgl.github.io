@@ -1,6 +1,6 @@
 ## Chapter 7: Education
 
-*Funding role: universal preschool is paid from the General Fund in tier 2. K-12 equity funding, tuition-free public higher education, and existing student-loan reform are paid from the General Fund in tier 3, in that order, and may also be paid from the wealth-tax transfer in Section 27.5. Implementation order is governed by Section 27.9.*
+*Funding role: universal preschool is paid from the General Fund in tier 2. K-12 equity funding, tuition-free public higher education, and existing student-loan reform are paid from the General Fund in tier 3, in the order set by Section 27.9, and may also be paid from the wealth-tax transfer in Section 27.5. Implementation order is governed by Section 27.9.*
 
 ### 7.1 Universal Preschool \[Statute\]
 

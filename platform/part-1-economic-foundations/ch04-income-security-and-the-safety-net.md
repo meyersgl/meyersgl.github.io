@@ -32,7 +32,7 @@ The Child Tax Credit of $2,200 per child shall be fully refundable, with no mini
 
 #### 4.2.2 Young Child Supplement
 
-Each child under age 6 shall qualify for an additional $1,000, for a total of $3,200, indexed for inflation. The early years are when deprivation does the most lasting harm, and when childcare costs make work hardest to sustain. The supplement takes effect in the phase-in step after full refundability (Section 27.9).
+Each child under age 6 shall qualify for an additional $1,000, for a total of $3,200, indexed for inflation. The early years are when deprivation does the most lasting harm, and when childcare costs make work hardest to sustain. The supplement follows full refundability in the phase-in order (Section 27.9).
 
 #### 4.2.3 Monthly Payment Option
 
@@ -191,11 +191,11 @@ The compact therefore requires no state to pay, threatens no state's existing fu
 
 | Measure | Paid by | Phase-in |
 | --- | --- | --- |
-| SSI asset and income rules (4.6.1, 4.6.2) | General Fund | General Fund tier 1, step 1 |
-| SNAP changes (4.5) | General Fund | General Fund tier 1, step 1 |
-| Earned Income Tax Credit for workers without children (4.3) | General Fund | General Fund tier 1, step 2 |
-| Child Tax Credit: full refundability (4.2.1) | General Fund | General Fund tier 1, step 3 |
-| Child Tax Credit: young child supplement (4.2.2) | General Fund | General Fund tier 1, step 4 |
+| SSI asset and income rules (4.6.1, 4.6.2) | General Fund | General Fund tier 1, in the order set by Section 27.9 |
+| SNAP changes (4.5) | General Fund | General Fund tier 1, in the order set by Section 27.9 |
+| Earned Income Tax Credit for workers without children (4.3) | General Fund | General Fund tier 1, in the order set by Section 27.9 |
+| Child Tax Credit: full refundability (4.2.1) | General Fund | General Fund tier 1, in the order set by Section 27.9 |
+| Child Tax Credit: young child supplement (4.2.2) | General Fund | General Fund tier 1, in the order set by Section 27.9 |
 | Disability Insurance earnings offset (4.6.3) | Social Security trust funds | With the Chapter 26 reforms |
 | Regular unemployment insurance (4.4.1 to 4.4.3) | Unemployment trust funds | On enactment |
 | Wage insurance (3.6.7) | Unemployment trust funds | On enactment |
@@ -206,7 +206,7 @@ Each General Fund measure shall take effect only when its independently scored c
 
 ### 4.9 Honest Limits
 
-- **No measure in this chapter has been scored.** The Child Tax Credit is the largest cost and comes last for that reason. Within it, full refundability, which reaches the children who receive the least today and has the firmest cost estimate, comes before the young child supplement (Appendix E).
+- **No measure in this chapter has been scored.** The Child Tax Credit is the largest cost and comes after SSI, SNAP, and the Earned Income Tax Credit for that reason (Section 27.9). Within it, full refundability, which reaches the children who receive the least today and has the firmest cost estimate, comes before the young child supplement (Appendix E).
 - **The work-incentive debate is real.** Simulations of the 2021 credit made permanent ranged from roughly 300,000 to 1.5 million parents leaving work, and studies of the actual 2021 payments found small or no effects \[8\]. This chapter pairs full refundability with an expanded work credit and keeps the credit's phase-out, but critics will continue to raise the higher estimates.
 - **Eligibility rules will draw criticism from both sides.** Requiring lawful presence for the claiming parent will be attacked by immigrant advocates as too strict and by opponents as too loose, and verifying lawful presence adds administrative work.
 - **Self-attestation creates some risk of error.** The 90-day grace period could let some ineligible households receive benefits for a few months. Checking existing records first, and rewarding states for accuracy, are meant to keep that small.
@@ -214,7 +214,7 @@ Each General Fund measure shall take effect only when its independently scored c
 - **Unemployment insurance reform raises employers' costs.** A higher federal wage base is a tax increase on employers, felt most by small businesses, and states will resist federal standards.
 - **States may decline the compact.** If many do, the Universal Health Insurance Trust Fund collects less than planned. Any gap shall be closed only within the Trust Fund or by slower phase-in, never from another revenue stream (Section 2.8). The long-term care relief that makes the compact attractive depends on a long-term care benefit that Section 5.1.7 lists as an open question.
 - **The legal design is untested.** The compact is built to avoid the coercion problem identified in *NFIB*, but no court has ruled on an arrangement like it.
-- **Restoring the 2025 SNAP cuts is the most expensive part of tier 1, step 1.** The 2025 law's SNAP provisions have been described as cutting nearly $200 billion over ten years \[10\], so reversing them costs a similar amount until independent scoring says otherwise. If revenue falls short, they share the first step's place in line and are not ranked ahead of one another.
+- **Restoring the 2025 SNAP cuts is the most expensive part of the first phase-in step.** The 2025 law's SNAP provisions have been described as cutting nearly $200 billion over ten years \[10\], so reversing them costs a similar amount until independent scoring says otherwise. If revenue falls short, they share the first step's place in line and are not ranked ahead of one another.
 - **The broader exemptions will be attacked as weakening the work expectation.** Most of them restore rules that a bipartisan Congress adopted in 2023 or that were in place for decades. Restoring benefits for refugees and asylees will draw opposition in the immigration debate.
 - **Current law is still being implemented.** The 2025 SNAP and Medicaid changes are taking effect in stages through 2030, so the starting point for these reforms will keep shifting.
 
