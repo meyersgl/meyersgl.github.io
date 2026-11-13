@@ -32,3 +32,4 @@ Each file records one settled policy or project choice: the question, the decisi
 | 0026 | Public coverage of abortion care, conscience protections, and emergency care |
 | 0027 | Rent stabilization mechanism and homelessness policy |
 | 0028 | Reversing the 2025 SNAP cuts |
+| 0029 | Officer accountability: federal cause of action, state remedies, and municipal grants |

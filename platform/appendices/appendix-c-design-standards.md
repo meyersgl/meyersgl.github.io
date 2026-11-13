@@ -39,6 +39,8 @@ The platform's rule is to **take discretion away rather than try to protect the 
 | Pay data | 13.6.1 | Collected by a statistical agency under a mandatory statutory duty that any person may sue to compel |
 | Rent stabilization floor | 8.2.3, 8.2.5 | Formula and coverage set in statute with no waiver authority. Tenant lawsuits with triple damages and attorney fees, state attorney general enforcement, and a mandatory IRS matching duty that any person may sue to compel. Fair-return petitions decided by administrative law judges |
 | Homelessness programs | 8.3.1, 8.3.4 | Permanent housing floor and renewal rule set in statute. Funding notice deadline with automatic renewal of prior terms, notice and comment for any change in criteria, a statutory Interagency Council on Homelessness, and private and state enforcement of encampment conditions |
+| Officer accountability | 16.9 | One statutory cause of action for state, local, and federal officers, enforced in court with no qualified immunity. A mandatory public reporting duty that any person may sue to compel |
+| Pattern-or-practice enforcement | 16.14 | Concurrent state attorney general authority and published reasons for abandoned cases or ended consent decrees |
 | Frontier AI oversight | 19.6 | Commerce/NIST. Triggers and deadlines set in statute, independent evaluators, penalties enforced in court |
 
 ## Cross-Sector Regulatory Rules

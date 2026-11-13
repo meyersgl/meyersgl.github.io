@@ -50,6 +50,23 @@ Newest first. Each entry lists what changed and which decision records it follow
   - Section 5.1.7: the long-term care benefit must include home- and community-based services
 - Executive Summary: new Civil Rights section.
 
+### Chapter 16: Officer Accountability (decision 0029)
+- Section 16.9 rewritten as one accountability system:
+  - qualified immunity ended for state and local officers (16.9.1);
+  - a statutory cause of action against anyone acting under color of federal law (16.9.2);
+  - Federal Tort Claims Act repairs (16.9.3);
+  - authorized state remedies limited to the federal constitutional standard (16.9.4);
+  - a $25,000 indexed personal share with no indirect reimbursement (16.9.5);
+  - a two-year transition (16.9.6);
+  - public settlement reporting (16.9.7).
+- New Sections:
+  - 16.13 Civil Rights Risk Reduction Grants;
+  - 16.14 pattern-or-practice enforcement;
+  - 16.15 funding;
+  - 16.16 honest limits;
+  - a Sources list.
+- Section 27.4, Appendix C, and the Executive Summary updated.
+
 ### Chapter 4: Reversing the 2025 SNAP cuts (decision 0028)
 - Section 4.5.1 exemptions:
   - restores the exemptions for people experiencing homelessness, veterans, and former foster youth;
