@@ -94,9 +94,9 @@ The affordability test in Section E.3 uses this range only to show how far reven
 | Universal preschool for 4-year-olds | 7.1 | 2, step 3 | 100 to 170 | Conventional | Platform arithmetic built from published estimates | CRFB | December 2021; FY2022–2031 | Built from the 2021 Build Back Better pre-K plan made permanent, halved for 4-year-olds only. High end adds children in states CBO assumed would not take part. Older window likely understates. Low confidence | Partially funded under current estimates |
 | Childcare cost caps | 3.4 | 2, step 4 | 460 to 700 | Conventional | Platform arithmetic built from published estimates | CRFB; CBO | December 2021 and January 2022; FY2022–2031 | Built from the 2021 Build Back Better childcare plan made permanent. High end adds children in states CBO assumed would not take part. Older window likely understates. Low confidence | Awaiting additional revenue |
 | Eldercare cost caps | 3.4 | 2, step 5 | Pending | — | Pending | Urban Institute (scale only) | 2020; ten years | Depends on the long-term care benefit in Section 5.1, still open (Section 5.1.7). For scale only, related federal options cost $355 to $526 billion | Not yet estimable |
-| Tuition-free public higher education | 7.3 | 3, step 1 | Pending | — | Pending | — | — | — | Not yet estimable |
-| Existing student-loan reform | 7.3.1 | 3, step 2 | Pending | — | Pending | — | — | — | Not yet estimable |
-| K-12 equity funding | 7.2.1 | 3, step 3 | Pending | — | Pending | — | — | — | Not yet estimable |
+| Tuition-free public higher education | 7.3 | 3, step 1 | 700 to 800 | Conventional | Comparable estimate (not a score) | CRFB; Georgetown Center on Education and the Workforce | 2019 (ten years); October 2020 (eleven years) | Low end assumes the federal government pays 67% and states the rest; high end is the full cost of universal tuition-free public college. The platform has not set a federal-state split. Medium-low confidence | Awaiting additional revenue |
+| Existing student-loan reform | 7.3.1 | 3, step 2 | Pending | — | Pending | CBO (scale only) | 2014; 2023 | Refinancing all federal loans at 0.01% goes far beyond any scored bill. For scale, CBO scored partial refinancing at about 4% at $51 billion and the 2023 repayment rule at $230 to $276 billion. Likely several hundred billion | Not yet estimable |
+| K-12 equity funding | 7.2.1 | 3, step 3 | 360 to 400 | Conventional | Platform arithmetic built from published estimates | Education Week | April 2023; annual figure, multiplied by ten | Reference design only: tripling Title I. Section 7.2.1 sets no dollar amount, and full equivalence with wealthier districts could cost more. Low confidence | Awaiting additional revenue |
 | Universal housing vouchers | 8.3.3 | 4 | Pending | — | Pending | — | — | — | Not yet estimable |
 
 ### E.2.2 Fixed-Budget Programs
@@ -122,7 +122,7 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 
 ## E.3 Affordability Test
 
-> **Current estimate outcome (tiers 1 and 2; eldercare not yet estimated):**
+> **Current estimate outcome (tiers 1 to 3; eldercare and student-loan reform not yet estimated):**
 >
 > - [x] Funds tier 1 only, or part of it: **conservative case**
 > - [x] Funds tier 1 and part of tier 2: **favorable case**
@@ -130,7 +130,9 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 > - [ ] Funds through tier 3
 > - [ ] Funds all General Fund tiers
 >
-> In both cases, tier 1 steps 1 to 3 are funded: SSI, SNAP, the EITC, and full refundability of the Child Tax Credit. Under conservative assumptions the young child supplement (step 4) waits until revenue grows, and everything after it waits too. Under favorable assumptions all of tier 1 is funded, and so are tier 2 steps 1 to 3: housing vouchers for people experiencing or at risk of homelessness, eviction prevention, and universal preschool, provided the training cap is no more than about $125 billion. Childcare caps (tier 2, step 4) cost $460 to $700 billion and wait, because at most about $125 billion remains.
+> In both cases, tier 1 steps 1 to 3 are funded: SSI, SNAP, the EITC, and full refundability of the Child Tax Credit. Under conservative assumptions the young child supplement (step 4) waits until revenue grows, and everything after it waits too. Under favorable assumptions all of tier 1 is funded, and so are tier 2 steps 1 to 3: housing vouchers for people experiencing or at risk of homelessness, eviction prevention, and universal preschool, provided the training cap is no more than about $125 billion. Childcare caps (tier 2, step 4) cost $460 to $700 billion and wait, because at most about $125 billion remains. Tier 3 waits in both cases.
+>
+> **The gap.** The tier 1 to 3 programs estimated so far cost about $2.6 to $3.3 trillion over ten years, before eldercare and student-loan reform, against General Fund revenue of about $0.86 to $1.21 trillion. Fully funding them would take roughly two to four times the revenue identified in Chapter 2.
 
 This table applies the order in Section 27.9 to the General Fund revenue in Section E.1.1. **C** is the training cap in Section 3.6.9, which has not been set; every later figure in the favorable column is reduced by it. A step takes effect only when the revenue remaining after every earlier step covers its full cost; a step that cannot be fully covered waits, and is never partly funded. The **conservative case** pairs the low revenue estimate with the high cost estimates; the **favorable case** pairs the high revenue estimate with the low cost estimates.
 
@@ -147,9 +149,9 @@ This table applies the order in Section 27.9 to the General Fund revenue in Sect
 | Tier 2, step 3: universal preschool for 4-year-olds | 100 to 170 | Waits | 125 − C (fits if C is 125 or less) | Partially funded under current estimates |
 | Tier 2, step 4: childcare cost caps | 460 to 700 | Waits | Waits (125 − C available, 460 needed) | Awaiting additional revenue |
 | Tier 2, step 5: eldercare caps | Pending | Waits | Waits | Not yet estimable |
-| Tier 3, step 1: tuition-free public higher education | Pending | Pending | Pending | Not yet estimable |
-| Tier 3, step 2: student-loan reform | Pending | Pending | Pending | Not yet estimable |
-| Tier 3, step 3: K-12 equity funding | Pending | Pending | Pending | Not yet estimable |
+| Tier 3, step 1: tuition-free public higher education | 700 to 800 | Waits | Waits | Awaiting additional revenue |
+| Tier 3, step 2: student-loan reform | Pending | Waits | Waits | Not yet estimable |
+| Tier 3, step 3: K-12 equity funding | 360 to 400 | Waits | Waits | Awaiting additional revenue |
 | Tier 4: universal housing vouchers | Pending | Pending | Pending | Not yet estimable |
 | Fixed-budget expansions (after tier 1) | Pending | Pending | Pending | Not yet estimable |
 
