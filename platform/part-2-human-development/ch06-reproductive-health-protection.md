@@ -137,9 +137,9 @@ Every hospital, clinic, and medical practice that takes part in Universal Health
   - Universal Health Insurance shall schedule the care promptly. The request-date rule in Section 6.2.4 protects the patient's coverage if scheduling takes longer.
 - **No misleading information:** a provider shall not tell a patient that care is unavailable when it is available elsewhere, shall not give false or misleading information about the patient's diagnosis or options, and shall not answer a request for options with a refusal alone.
 - **Providers may speak for themselves:** a provider may tell the patient its own views and why it does not offer the care, so long as it also gives the patient the referral sheet.
+- **Public directory:** Universal Health Insurance shall maintain a public directory of providers offering abortion care, searchable by location and pregnancy stage, from which the referral sheet is generated.
 
 These duties are part of the facility's care for its own patient: informed consent and continuity of care when the patient asks for a service the provider does not offer. They are not a general notice to the public, and the information comes from Universal Health Insurance in its own name. That design is meant to respect the First Amendment limits on compelled speech set out in *National Institute of Family and Life Advocates v. Becerra* (2018) \[7\].
-- **Public directory:** Universal Health Insurance shall maintain a public directory of providers offering abortion care, searchable by location and pregnancy stage, from which the referral sheet is generated.
 
 #### 6.3.3 Institutions
 
@@ -224,6 +224,8 @@ Each of the first two powers is a separate and sufficient basis. If a court hold
   - it lets providers state their own views.
 
   Courts have not decided whether that is enough.
+
+  More broadly, the chapter assigns each operational duty to the institution best positioned to perform and be held accountable for it, rather than requiring objecting clinicians to personally carry out tasks to which they object.
 - **Access where only a religious hospital exists depends on resources.** Guaranteeing access in communities whose only hospital is a religious nonprofit requires contracts, telehealth, and transport that Universal Health Insurance must fund and maintain.
 
 ### Sources
