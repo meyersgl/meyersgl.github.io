@@ -157,7 +157,7 @@ Notes: Active pass-through income is covered by Section 26.3. Above the top-brac
 - **The top rate on gains may pass the revenue-maximizing level.** With the Social Security contribution in Section 2.7.5, the top rate on long-term gains is 55.8 percent. The Penn Wharton Budget Model estimates that revenue from gains peaks at about 42 percent even when gains are taxed at death \[3\]. Above that, people hold assets longer and the contribution may raise little or nothing from gains, though it still reaches dividends, interest, and rents. Its estimate in Appendix E is set low for this reason.
 - **The combined rates are high.** A 60 percent federal ceiling on wages is well above today's top federal rate of 40.8 percent, and state taxes come on top. Higher rates give high earners more reason to relabel wages as capital income or corporate income, which is why Sections 2.6.1, 2.7, and 26.3 tax those forms on similar terms. For the wealthiest families, the wealth tax and the taxes on gains together can exceed their annual return in a weak market year; opponents will call this confiscation. Behavioral responses will reduce revenue below a simple calculation.
 - **Large estates face three taxes.** Section 2.7.4 prevents the income and estate taxes from reaching the same dollar, but a very large estate will still pay more than under any recent law, and opponents will call it a triple death tax. The platform's answer is that each tax reaches income or wealth that has otherwise escaped tax.
-- **The corporate minimum tax is complex.** The current 15 percent tax has required repeated interim guidance from the IRS. Raising its rate raises the stakes of getting the rules right.
+- **The corporate minimum tax is complex.** The current 15 percent tax has required repeated interim guidance from the IRS \[10\]. Raising its rate raises the stakes of getting the rules right.
 - **Enforcement funding can be cut.** Mandatory funding for the division in Section 2.4 makes cuts harder, not impossible: a later Congress can rescind it, as Congress did with most of the 2022 enforcement funding.
 
 ### Sources
@@ -179,3 +179,5 @@ Notes: Active pass-through income is covered by Section 26.3. Above the top-brac
 \[8\] Tax Foundation, "Eliminate the Section 199A Pass-Through Deduction," Options for Reforming America's Tax Code. https://taxfoundation.org/tax-reform-guide/option/eliminate-the-section-199a-pass-through-deduction/
 
 \[9\] The Budget Lab at Yale, "A Weakened IRS Has Substantial Consequences." https://budgetlab.yale.edu/research/weakened-irs-has-substantial-consequences
+
+\[10\] Internal Revenue Service, interim guidance on the corporate alternative minimum tax: Notice 2023-7, Notice 2023-64, and Notice 2024-10. https://www.irs.gov/newsroom/inflation-reduction-act-of-2022
