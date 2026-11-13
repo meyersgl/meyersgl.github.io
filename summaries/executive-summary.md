@@ -280,7 +280,7 @@ Accordingly, policies are organized through a phased implementation framework. L
 
 Programs paid from general revenue are phased in in a fixed order of priority:
 
-1. **Income security first:** SSI and SNAP improvements, then the Earned Income Tax Credit, then the Child Tax Credit.
+1. **Income security first:** SSI and SNAP improvements, then the Earned Income Tax Credit, then full refundability of the Child Tax Credit, then its supplement for children under six.
 2. **Housing and early childhood second:** housing vouchers for people without homes, then eviction prevention, then universal preschool and childcare cost caps, then eldercare cost caps.
 3. **Higher education and K-12 third:** tuition-free public higher education, then student-loan reform, then K-12 equity funding.
 4. **Universal housing vouchers fourth.**

@@ -82,12 +82,13 @@ The affordability test in Section E.3 uses this range only to show how far reven
 
 | Program | Section | Tier, step | Ten-year estimate | Estimate type | Basis | Source | Date and window | Design differences | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SSI asset and income rules | 4.6 | 1, step 1 | Pending | — | Pending | — | — | — | Not yet estimable |
-| SNAP changes, including reversal of the 2025 cuts | 4.5 | 1, step 1 | Pending | — | Pending | — | — | — | Not yet estimable |
-| EITC for workers without children | 4.3 | 1, step 2 | Pending | — | Pending | — | — | — | Not yet estimable |
-| Child Tax Credit | 4.2 | 1, step 3 | Pending | — | Pending | — | — | — | Not yet estimable |
-| Training and triggered apprenticeships (capped) | 3.6.7 to 3.6.9 | 1, step 4 | Pending | — | Pending | — | — | — | Not yet estimable |
-| Expanded Disabled Access Credit | 13.5.1 | 1, step 4 | Pending | — | Pending | — | — | — | Not yet estimable |
+| SSI asset and income rules | 4.6 | 1, step 1 | 69 to 80 | Conventional | Platform arithmetic built from published estimates | Social Security Administration actuaries | August 2026 (assets, CY2025–2034); July 2021 (income exclusions, 2021–2030) | Asset limit estimate matches the platform. Income exclusion estimate used $128 and $416 a month, close to the platform's restored values. High end adjusts for the later window | Funded under current estimates |
+| SNAP changes, including reversal of the 2025 cuts | 4.5 | 1, step 1 | About 187 (understated) | Conventional | Comparable estimate (not a score) | CBO, via Congressional Research Service | August 2025; FY2025–2034 | Reversal valued at CBO's estimate of the 2025 cuts. Excludes the platform's broader exemptions, and actual 2026 cuts exceeded CBO's projection | Funded under current estimates |
+| EITC for workers without children | 4.3 | 1, step 2 | 135 to 140 | Conventional | Comparable estimate (not a score) | Joint Committee on Taxation; Tax Policy Center | December 2021 (FY2022–2031); 2025 (2025–2034) | Same design as the platform: the 2021 expansion made permanent | Funded under current estimates |
+| Child Tax Credit: full refundability | 4.2.1 | 1, step 3 | 272 to 335 | Conventional (low); dynamic (high) | Comparable estimate (not a score) | Tax Foundation | 2026; 2027–2036 | Same design as the platform: the $2,200 credit with no earnings requirement | Funded under current estimates |
+| Child Tax Credit: young child supplement | 4.2.2 | 1, step 4 | 155 to 180 | Conventional | Platform arithmetic built from published estimates | Concord Coalition | About 2021; ten years | $1,000 per child under 6, scaled from a published estimate for a $1,000 credit for all children. Low confidence | Partially funded under current estimates |
+| Training and triggered apprenticeships (capped) | 3.6.7 to 3.6.9 | 1, step 5 | Set by statutory cap | — | Pending | — | — | The cap in Section 3.6.9 has not been set and can be sized to the revenue remaining after step 4 | Not yet estimable |
+| Expanded Disabled Access Credit | 13.5.1 | 1, step 5 | Pending | — | Pending | — | — | Existing credit is small; expansion parameters not yet set | Not yet estimable |
 | Housing vouchers for people experiencing or at risk of homelessness | 8.3.3 | 2, step 1 | Pending | — | Pending | — | — | — | Not yet estimable |
 | Emergency rental assistance and right to counsel | 8.3.6 | 2, step 2 | Pending | — | Pending | — | — | — | Not yet estimable |
 | Universal preschool and childcare cost caps | 7.1, 3.4 | 2, step 3 | Pending | — | Pending | — | — | — | Not yet estimable |
@@ -120,23 +121,26 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 
 ## E.3 Affordability Test
 
-> **Current estimate outcome:** pending
+> **Current estimate outcome (tier 1 only; tier 2 costs not yet estimated):**
 >
-> - [ ] Funds tier 1 only, or part of it
-> - [ ] Funds tier 1 and part of tier 2
+> - [x] Funds tier 1 only, or part of it: **conservative case**
+> - [x] Funds tier 1 and part of tier 2: **favorable case**
 > - [ ] Funds tiers 1 and 2
 > - [ ] Funds through tier 3
 > - [ ] Funds all General Fund tiers
+>
+> In both cases, steps 1 to 3 are funded: SSI, SNAP, the EITC, and full refundability of the Child Tax Credit. Under conservative assumptions the young child supplement (step 4) waits until revenue grows, and the capped training amount (step 5) waits behind it.
 
-This table applies the order in Section 27.9 to the General Fund revenue in Section E.1.1. A step is funded only if the revenue remaining after every earlier step covers its full cost.
+This table applies the order in Section 27.9 to the General Fund revenue in Section E.1.1. A step takes effect only when the revenue remaining after every earlier step covers its full cost; a step that cannot be fully covered waits, and is never partly funded. The **conservative case** pairs the low revenue estimate with the high cost estimates; the **favorable case** pairs the high revenue estimate with the low cost estimates.
 
-| Step | Cost | Revenue remaining before | Revenue remaining after | Status |
+| Step | Cost ($B) | Conservative: remaining after | Favorable: remaining after | Status |
 | --- | --- | --- | --- | --- |
-| **Total General Fund revenue (E.1.1, illustrative)** | — | About 860 to 1,210 | — | — |
-| Tier 1, step 1: SSI and SNAP | Pending | Pending | Pending | Not yet estimable |
-| Tier 1, step 2: EITC for workers without children | Pending | Pending | Pending | Not yet estimable |
-| Tier 1, step 3: Child Tax Credit | Pending | Pending | Pending | Not yet estimable |
-| Tier 1, step 4: training and apprenticeships, with the Disabled Access Credit | Pending | Pending | Pending | Not yet estimable |
+| **General Fund revenue (E.1.1, illustrative)** | — | 860 | 1,210 | — |
+| Tier 1, step 1: SSI and SNAP | 256 to 267 | 593 | 954 | Funded under current estimates |
+| Tier 1, step 2: EITC for workers without children | 135 to 140 | 453 | 819 | Funded under current estimates |
+| Tier 1, step 3: Child Tax Credit full refundability | 272 to 335 | 118 | 547 | Funded under current estimates |
+| Tier 1, step 4: Child Tax Credit young child supplement | 155 to 180 | Waits (118 available, 180 needed) | 392 | Partially funded under current estimates |
+| Tier 1, step 5: training and apprenticeships, with the Disabled Access Credit | Set by cap | Waits | Fits within remaining revenue | Not yet estimable |
 | Tier 2, step 1: homelessness vouchers | Pending | Pending | Pending | Not yet estimable |
 | Tier 2, step 2: eviction prevention | Pending | Pending | Pending | Not yet estimable |
 | Tier 2, step 3: preschool and childcare caps | Pending | Pending | Pending | Not yet estimable |

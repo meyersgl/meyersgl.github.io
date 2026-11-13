@@ -21,7 +21,7 @@ W1 to W11, all option A:
 - **W8:** BLS indicators of AI effects on jobs, with an apprenticeship trigger.
 - **W9:** no tax on automation.
 - **W10:** a federal minimum that does not preempt stronger state laws, with private and attorney-general enforcement.
-- **W11:** training grants and triggered apprenticeships share one capped General Fund amount in tier 1, step 4. A triggered expansion is paid within the cap and phases in if the cap is insufficient; raising the cap needs new scored revenue.
+- **W11:** training grants and triggered apprenticeships share one capped General Fund amount in tier 1, step 4 (now step 5 under decision 0032). A triggered expansion is paid within the cap and phases in if the cap is insufficient; raising the cap needs new scored revenue.
 
 ## Why
 - The evidence shows harm concentrated on entry-level workers, not economy-wide displacement.
