@@ -8,7 +8,11 @@ Newest first. Each entry lists what changed and which decision records it follow
 - New Appendix E and costing data (`data/costing.csv`, `data/revenue-estimates.csv`).
 - General Fund revenue: illustrative range of about $860 billion to $1.2 trillion over ten years (not additive). Chapter 2 honest limit updated.
 - Tier 1 cost estimates and first affordability test: steps 1 to 3 funded in both cases.
-- Tier 2 cost estimates and affordability test: under favorable assumptions tier 2 steps 1 and 2 (homelessness vouchers, eviction prevention) are funded; preschool and childcare caps ($560 to $870 billion) wait; eldercare caps not yet estimable.
+- Tier 2 cost estimates and affordability test: under favorable assumptions tier 2 steps 1 to 3 (homelessness vouchers, eviction prevention, universal preschool) are funded if the training cap is no more than about $125 billion; childcare caps ($460 to $700 billion) wait; eldercare caps not yet estimable.
+
+### Preschool and childcare phase-in order (decision 0033)
+- Tier 2, step 3 split into step 3, universal preschool, and step 4, the childcare cost caps. Eldercare cost caps move to step 5.
+- Section 27.9, Appendix E, and the Executive Summary updated.
 
 ### Child Tax Credit phase-in order (decision 0032)
 - Tier 1, step 3 (Child Tax Credit) split into step 3, full refundability, and step 4, the young child supplement.

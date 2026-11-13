@@ -107,7 +107,8 @@ Programs shall be phased in by feasibility: first low-cost statutory reforms (su
 2. **Housing and early childhood**, in this order:
    - housing vouchers for people experiencing or at imminent risk of homelessness (Section 8.3.3);
    - emergency rental assistance and the right to counsel in eviction cases (Section 8.3.6);
-   - universal preschool and the childcare cost caps (Sections 7.1 and 3.4);
+   - universal preschool (Section 7.1);
+   - the childcare cost caps (Section 3.4);
    - the eldercare cost caps (Section 3.4).
 3. **Higher education and K-12**, in this order:
    - tuition-free public higher education (Section 7.3);

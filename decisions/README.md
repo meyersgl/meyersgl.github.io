@@ -36,3 +36,4 @@ Each file records one settled policy or project choice: the question, the decisi
 | 0030 | Implementation strategy, Senate rules reform, and General Fund phase-in |
 | 0031 | Helms Amendment, Mexico City Policy, and related riders |
 | 0032 | Child Tax Credit split into two phase-in steps |
+| 0033 | Preschool and childcare split into two phase-in steps |

@@ -33,3 +33,6 @@ The paid leave contribution applies only to wages up to the pre-reform Social Se
 
 ## Why
 The platform's fiscal discipline makes a paid-for majority rule credible, and repeal symmetry protects enacted programs. Ranking only open-ended programs keeps the tier order focused on the costs that grow on their own.
+
+
+**Note (decision 0033):** Tier 2 now lists universal preschool and the childcare cost caps as separate steps, with eldercare cost caps after them. Section 27.9 governs.
