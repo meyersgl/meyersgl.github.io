@@ -4,10 +4,13 @@ This platform is presented for critical evaluation. Agreement is not required fo
 
 ## How to give feedback
 
+Experts reviewing the costed edition should start with [`REVIEW.md`](REVIEW.md), which lists where review is most needed.
+
 1. Open an issue with the template that fits:
    - **Policy feedback**: you think a proposal is wrong, weak, or missing something.
    - **Fact-check**: a statistic, date, or legal reference is outdated or wrong.
    - **Contradiction report**: two parts of the platform, papers, or website disagree.
+   - **Cost or revenue estimate**: you have a better estimate, source, or method for a figure in Appendix E.
 2. Name the exact section (for example "Chapter 26, 26.2" or "Social Security white paper, Reform One").
 3. Include evidence: a citation, a link, or a published estimate. Feedback without evidence is welcome but is harder to act on.
 

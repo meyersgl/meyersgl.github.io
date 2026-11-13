@@ -2,6 +2,12 @@
 
 Newest first. Each entry lists what changed and which decision records it follows.
 
+## Unreleased
+
+### Review setup
+- New `REVIEW.md` guide listing where expert review is most needed, how to submit, the evidence standard, and disclosure and credit.
+- New issue template for cost or revenue estimate challenges; `CONTRIBUTING.md`, `README.md`, and the website point reviewers to the guide.
+
 ## v1.3 Costed Edition (November 13, 2026)
 
 ### Summary
