@@ -42,6 +42,10 @@ No payroll-tax rate increase shall apply to earnings at or below the taxable max
 
 - Working families
 
+#### 26.2.4 Contribution on Investment Income Above \$1 Million
+
+Investment income above \$1 million (\$2 million for married couples filing jointly) shall contribute to Social Security at 12.4 percent, the combined rate on wages, under Section 2.7.5. As with earnings above the taxable maximum, it earns no added benefits. Revenue goes to the Social Security trust funds.
+
 ### 26.3 Pass-Through & Business Income Reform \[Statute\]
 
 High-income individuals should not be able to avoid Social Security contributions through accounting structures.
@@ -87,7 +91,7 @@ No new means test shall reduce benefits based on income or wealth. Social Securi
 
 ### 26.6 Honest Limit
 
-These reforms have not yet been scored as a package by Social Security's Office of the Chief Actuary. The Chief Actuary has scored the design in Section 26.2.1, all earnings taxed at 12.4 percent with no added benefit credit, as improving the 75-year balance by about 2.55 percent of taxable payroll \[2\]. Against the 2026 Trustees Report's deficit of 4.42 percent \[1\], that closes roughly 58 percent of the gap and leaves about 1.9 percent. Section 26.3 adds revenue that has not been scored, and until the gap closes no revenue would reach the Endowment in Section 26.4 (Appendix E.4). This platform therefore does not claim full solvency until the reforms are scored. How to close any remaining gap without benefit cuts or a higher retirement age is presented as an open question for economists and actuaries in the white paper.
+These reforms, including Section 26.2.4, have not yet been scored as a package by Social Security's Office of the Chief Actuary. The Chief Actuary has scored the design in Section 26.2.1, all earnings taxed at 12.4 percent with no added benefit credit, as improving the 75-year balance by about 2.55 percent of taxable payroll \[2\]. Against the 2026 Trustees Report's deficit of 4.42 percent \[1\], that closes roughly 58 percent of the gap and leaves about 1.9 percent. The contribution on investment income in Section 26.2.4 may close a further 0.2 to 0.6 percent (Appendix E.4), leaving about 1.3 to 1.7 percent. Section 26.3 adds revenue that has not been scored, and until the gap closes no revenue would reach the Endowment in Section 26.4 (Appendix E.4). This platform therefore does not claim full solvency until the reforms are scored. How to close any remaining gap without benefit cuts or a higher retirement age is presented as an open question for economists and actuaries in the white paper.
 
 ### 26.7 Retirement Security Principle
 

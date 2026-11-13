@@ -52,7 +52,7 @@ Income from wealth should not be taxed more lightly than income from work at the
 
 #### 2.7.1 Gains and Dividends Taxed as Ordinary Income Above $1 Million
 
-Long-term capital gains and qualified dividends shall be taxed at ordinary income rates to the extent a taxpayer's adjusted gross income exceeds $1 million, indexed for inflation. Only the portion above the threshold shall be taxed at the higher rate, so there is no cliff at $1 million. Below the threshold, current capital-gains rates shall continue to apply. The 3.8 percent net investment income tax shall remain, for a top rate on capital income of 43.4 percent before the surtax in Section 2.7.5.
+Long-term capital gains and qualified dividends shall be taxed at ordinary income rates to the extent a taxpayer's adjusted gross income exceeds $1 million, indexed for inflation. Only the portion above the threshold shall be taxed at the higher rate, so there is no cliff at $1 million. Below the threshold, current capital-gains rates shall continue to apply. The 3.8 percent net investment income tax shall remain, for a top rate on capital income of 43.4 percent before the Social Security contribution in Section 2.7.5.
 
 #### 2.7.2 Carried Interest
 
@@ -68,7 +68,7 @@ Appreciated property transferred at death or by gift shall be treated as sold at
 - **Illiquid assets:** tax on other illiquid assets may be paid over fifteen years, with interest.
 - **Retirement accounts and personal belongings:** retirement accounts, which are already taxed when money is withdrawn, and ordinary personal belongings shall be excluded.
 
-This section is what makes Section 2.7.1 work. Without it, the most effective way to avoid a higher capital-gains rate is to hold assets until death, when the gain disappears. The Penn Wharton Budget Model estimates that a 33 percent rate on capital gains raises the most revenue while gains escape tax at death, and that the figure rises to 42 percent once death is treated as a realization event \[3\]. The 43.4 percent top rate in Section 2.7.1 therefore depends on this section. The surtax in Section 2.7.5 raises the top rate on gains above that estimate (Section 2.13).
+This section is what makes Section 2.7.1 work. Without it, the most effective way to avoid a higher capital-gains rate is to hold assets until death, when the gain disappears. The Penn Wharton Budget Model estimates that a 33 percent rate on capital gains raises the most revenue while gains escape tax at death, and that the figure rises to 42 percent once death is treated as a realization event \[3\]. The 43.4 percent top rate in Section 2.7.1 therefore depends on this section. The contribution in Section 2.7.5 raises the top rate on gains above that estimate (Section 2.13).
 
 #### 2.7.4 No Gain Taxed Twice
 
@@ -79,9 +79,9 @@ The taxes in this chapter shall be coordinated so that no dollar of gain is taxe
 
 A family with more than \$50 million in wealth can be subject to the wealth tax, income tax on its gains, and the estate tax. Each reaches a different base: the wealth tax reaches the stock of wealth each year, the income taxes reach income as it is realized or transferred, and the estate tax reaches transfers. This section ensures the income and estate taxes never reach the same dollar.
 
-#### 2.7.5 Surtax on Investment Income Above \$1 Million
+#### 2.7.5 Social Security Contribution on Investment Income Above \$1 Million
 
-A surtax of 10 percent shall apply to net investment income, as defined for the net investment income tax, to the extent a taxpayer's modified adjusted gross income exceeds \$1 million (\$2 million for married couples filing jointly), indexed for inflation. Net investment income includes gains, dividends, interest, rents, royalties, and passive business income. Wages and self-employment income are not subject to the surtax, so the 60 percent ceiling in Section 2.8 is unaffected. With the surtax, the top federal rate on long-term gains and dividends is 53.4 percent.
+A Social Security contribution of 12.4 percent shall apply to net investment income, as defined for the net investment income tax, to the extent a taxpayer's modified adjusted gross income exceeds \$1 million (\$2 million for married couples filing jointly), indexed for inflation. Net investment income includes gains, dividends, interest, rents, royalties, and passive business income. The rate matches the combined Social Security rate on wages, so a millionaire's investment income contributes on the same terms as a worker's pay. Wages and self-employment income are not subject to this contribution, so the 60 percent ceiling in Section 2.8 is unaffected. Revenue goes to the Social Security trust funds (Section 26.2.4) and earns no added benefits. With this contribution, the top federal rate on long-term gains and dividends is 55.8 percent, the same as the top rate on wages before the Universal Health Insurance contribution.
 
 ### 2.8 Combined Federal Wage Rate Ceiling \[Statute\]
 
@@ -129,7 +129,7 @@ The Extreme Wealth Fair-Share Tax already reaches fortunes above $50 million eac
 
 The rates and thresholds in Sections 2.6 to 2.10 are proposed rates, published now so the public can see what the platform asks and so the combined-rate disclosure in Section 27.11 can be calculated. They shall be scored by the Joint Committee on Taxation and the Congressional Budget Office before enactment.
 
-- **Revenue use:** all revenue from Sections 2.6 to 2.10, and net revenue from the enforcement division in Section 2.4, shall go to the General Fund for the recurring programs listed in Section 27.4, and to nothing else (Section 27.3). Collections of the tax in Section 2.1 follow Section 27.5.
+- **Revenue use:** all revenue from Sections 2.6 to 2.10, except the Social Security contribution in Section 2.7.5, and net revenue from the enforcement division in Section 2.4, shall go to the General Fund for the recurring programs listed in Section 27.4, and to nothing else (Section 27.3). The contribution in Section 2.7.5 goes to the Social Security trust funds. Collections of the tax in Section 2.1 follow Section 27.5.
 - **If scoring falls short:** if scored revenue is lower than the programs it supports require, those programs shall phase in more slowly under Sections 27.6 and 27.9. The rates in this chapter shall not rise automatically, and the ceiling in Section 2.8 shall continue to apply.
 - **Review:** the Congressional Budget Office shall report every five years on revenue collected under each section compared with its score.
 
@@ -141,20 +141,20 @@ The rates and thresholds in Sections 2.6 to 2.10 are proposed rates, published n
 | Social Security (Chapter 26, cap eliminated, both shares) | 12.4% | 12.4% | — |
 | Medicare (both shares, including the additional 0.9%) | 3.8% | 3.8% | — |
 | Net investment income tax | — | — | 3.8% |
-| Surtax on investment income (Section 2.7.5) | — | — | 10% |
-| **Subtotal** | **55.8%** | **55.8%** | **53.4%** |
+| Social Security contribution on investment income (Section 2.7.5) | — | — | 12.4% |
+| **Subtotal** | **55.8%** | **55.8%** | **55.8%** |
 | Paid leave contribution (Section 3.3; wages up to its wage base only) | 0% at the top | 0% at the top | — |
 | Universal Health Insurance contribution | up to 4.2% (Section 2.8) | up to 4.2% (Section 2.8) | not yet set |
-| **Combined federal top rate** | **≤ 60%** | **≤ 60%** | **53.4% plus any UHI contribution** |
+| **Combined federal top rate** | **≤ 60%** | **≤ 60%** | **55.8% plus any UHI contribution** |
 
 Notes: Active pass-through income is covered by Section 26.3. Above the top-bracket threshold the qualified business income deduction phases out (Section 2.6.1), so it no longer lowers these rates. The Extreme Wealth Fair-Share Tax is an annual tax of 2 to 3 percent on net worth above \$50 million, not a marginal rate on income, so it is reported separately.
 
 ### 2.13 Honest Limits
 
-- **Revenue is not yet scored.** Comparable published estimates, taken from different models and baselines and not additive, put the stable measures in this chapter (Sections 2.4 and 2.6 to 2.10) in an illustrative range of about \$1.5 trillion to \$2.5 trillion over ten years (Appendix E). The best match is for Section 2.6: a 2026 Congressional Research Service analysis of the same rate and threshold found about \$459 billion to \$465 billion \[4\]. Estimates for taxing gains at ordinary rates and at death, about \$183 billion to \$289 billion, predate the 2025 law \[1\], and the estimate for the corporate minimum tax is an upper bound. None of these is this platform's score. Capital-gains revenue is especially uncertain, because people can time their sales.
+- **Revenue is not yet scored.** Comparable published estimates, taken from different models and baselines and not additive, put the stable General Fund measures in this chapter (Sections 2.4 and 2.6 to 2.10, other than Section 2.7.5) in an illustrative range of about \$1.2 trillion to \$1.8 trillion over ten years (Appendix E). The best match is for Section 2.6: a 2026 Congressional Research Service analysis of the same rate and threshold found about \$459 billion to \$465 billion \[4\]. Estimates for taxing gains at ordinary rates and at death, about \$183 billion to \$289 billion, predate the 2025 law \[1\], and the estimate for the corporate minimum tax is an upper bound. None of these is this platform's score. Capital-gains revenue is especially uncertain, because people can time their sales.
 - **Wealth-tax estimates differ threefold.** For the same design, the Penn Wharton Budget Model estimated about \$2.1 trillion over 2022 to 2031 \[6\], while Emmanuel Saez and Gabriel Zucman estimate about \$6.2 trillion over 2026 to 2035, after top fortunes roughly doubled \[5\]. European wealth taxes raised far less, largely because of exemptions and avoidance. The smoothed transfer in Section 27.5 exists because this revenue cannot be predicted.
 - **The constitutional question is open, and the wealth tax carries the most risk.** An annual tax on net worth may be challenged as a direct tax that the Constitution requires to be apportioned among the states by population. In *Moore v. United States* (2024) the Supreme Court also declined to decide whether the Sixteenth Amendment requires income to be realized before it can be taxed \[2\]. Section 2.7.3 is the safest design available, because a transfer at death or by gift is a clear event that the law can treat as a sale, but it is not risk-free. The severability rule in Section 2.1 keeps tiers 1 and 2 safe if the wealth tax falls.
-- **The top rate on gains may pass the revenue-maximizing level.** With the surtax in Section 2.7.5, the top rate on long-term gains is 53.4 percent. The Penn Wharton Budget Model estimates that revenue from gains peaks at about 42 percent even when gains are taxed at death \[3\]. Above that, people hold assets longer and the surtax may raise little or nothing from gains, though it still reaches dividends, interest, and rents. Its estimate in Appendix E is set low for this reason.
+- **The top rate on gains may pass the revenue-maximizing level.** With the Social Security contribution in Section 2.7.5, the top rate on long-term gains is 55.8 percent. The Penn Wharton Budget Model estimates that revenue from gains peaks at about 42 percent even when gains are taxed at death \[3\]. Above that, people hold assets longer and the contribution may raise little or nothing from gains, though it still reaches dividends, interest, and rents. Its estimate in Appendix E is set low for this reason.
 - **The combined rates are high.** A 60 percent federal ceiling on wages is well above today's top federal rate of 40.8 percent, and state taxes come on top. Higher rates give high earners more reason to relabel wages as capital income or corporate income, which is why Sections 2.6.1, 2.7, and 26.3 tax those forms on similar terms. For the wealthiest families, the wealth tax and the taxes on gains together can exceed their annual return in a weak market year; opponents will call this confiscation. Behavioral responses will reduce revenue below a simple calculation.
 - **Large estates face three taxes.** Section 2.7.4 prevents the income and estate taxes from reaching the same dollar, but a very large estate will still pay more than under any recent law, and opponents will call it a triple death tax. The platform's answer is that each tax reaches income or wealth that has otherwise escaped tax.
 - **The corporate minimum tax is complex.** The current 15 percent tax has required repeated interim guidance from the IRS. Raising its rate raises the stakes of getting the rules right.

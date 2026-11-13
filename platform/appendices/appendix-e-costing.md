@@ -56,13 +56,12 @@ The purpose of this appendix is not to prove that every proposal can be implemen
 | Estate and gift tax reform | 2.10 | 212 to 309 | Conventional | Platform arithmetic built from published estimates | Moderate | JCT and CBO; U.S. Treasury | July 2025 and March 2024; FY2025–2034 | Low end reverses the 2025 exemption increase (to about $7 million; the platform's $5 million raises more). High end adds Treasury's avoidance closures. Interacts with Section 2.7.3 | Estimated |
 | Pass-through deduction phased out above the top bracket | 2.6.1 | 250 to 420 | Dynamic (low); conventional (high) | Platform arithmetic built from published estimates | Low | Tax Foundation | 2025; 2027–2036 | About half of the estimate for full repeal, since the platform removes the deduction only above the top-bracket threshold. The share is an assumption | Estimated |
 | High-end enforcement division, net of its funding | 2.4 | 120 to 200 | Conventional | Comparable estimate (not a score) | Moderate | CBO, via the Budget Lab at Yale | 2021–2022; ten years | CBO found about \$80 billion in spending returns about \$204 billion, \$124 billion net. The high end allows for deterrence, which CBO excludes | Estimated |
-| Surtax on investment income above \$1 million | 2.7.5 | 250 to 700 | Conventional | Platform arithmetic built from published estimates | Low | Budget Lab at Yale; Tax Policy Center | May 2025; April 2026; ten years | Published estimates for a surtax on all income run from \$635 billion to \$1.5 trillion. The platform excludes wages, and the 53.4% top gains rate is above the revenue-maximizing level, so the range is set low | Estimated |
 
 Because these estimates come from different models, baselines, and policy packages, they should not be interpreted as a formal revenue score. The aggregate range is illustrative and may overstate or understate actual combined revenue.
 
 | | Ten-year range ($B) |
 | --- | --- |
-| **Illustrative aggregate range (not additive)** | **About 1,480 to 2,530** |
+| **Illustrative aggregate range (not additive)** | **About 1,230 to 1,830** |
 
 The affordability test in Section E.3 uses this range only to show how far revenue reaches down the phase-in order. Its purpose is to show that the platform's financing rules prevent promises from exceeding available revenue, not to claim a precise total.
 
@@ -75,8 +74,8 @@ The affordability test in Section E.3 uses this range only to show how far reven
 | Consolidated health financing savings | 27.3 | UHI Trust Fund | Pending | — | Pending | — | — | — | Not yet estimable |
 | State compact contributions | 4.7.3 | UHI Trust Fund | Pending | — | Pending | — | — | — | Not yet estimable |
 | Drug-price negotiation savings | 5.2.1 | Innovation Fund (capped share); remainder counted in UHI | Pending | — | Pending | — | — | — | Not yet estimable |
-| Paid leave contribution | 3.3 | Paid Leave Trust Fund | Set by actuaries to equal cost: about 0.5% to 2.9% of taxable payroll (about 600 to 3,900) | Conventional | Comparable estimate (not a score) | Institute for Women's Policy Research; American Action Forum | 2017–2019 | See Section E.4 | Estimated (rate range) |
-| Social Security payroll reforms (75-year basis) | 26.2, 26.3 | Social Security trust funds | About 2.55% of taxable payroll over 75 years (Section 26.2.1 only) | 75-year actuarial | Comparable estimate (not a score) | SSA Office of the Chief Actuary | September 2025; 2025 Trustees Report basis | Score of option E2.1: all earnings taxed at 12.4%, no added benefit credit, the platform's design. Section 26.3 not yet scored | Estimated |
+| Paid leave contribution | 3.3 | Paid Leave Trust Fund | Set by actuaries to equal cost: about 0.6% to 1.0% of taxable payroll (about 800 to 1,400), up to 2.9% if leave-taking rises sharply | Conventional | Comparable estimate (not a score) | Institute for Women's Policy Research; American Action Forum | 2017–2019 | See Section E.4 | Estimated (rate range) |
+| Social Security payroll reforms (75-year basis) | 26.2, 26.3, 2.7.5 | Social Security trust funds | About 2.55% of taxable payroll over 75 years for Section 26.2.1; about 0.2% to 0.6% more from the investment-income contribution (about 300 to 850 over ten years) | 75-year actuarial; conventional | Comparable estimate (not a score); platform arithmetic | SSA Office of the Chief Actuary; Budget Lab at Yale; Tax Policy Center | September 2025; 2025–2026 | Option E2.1 matches Section 26.2.1. The investment-income figure scales published surtax estimates, excludes wages, and is set low because the 55.8% gains rate is above the revenue-maximizing level. Section 26.3 not yet scored | Estimated |
 | Carbon and methane fees | 20.2 | 80% dividend, 10% Transition Fund, 10% one-time costs | Pending | — | Pending | — | — | — | Not yet estimable |
 
 ## E.2 Program Costs
@@ -93,8 +92,8 @@ The affordability test in Section E.3 uses this range only to show how far reven
 | Training and triggered apprenticeships (capped) | 3.6.7 to 3.6.9 | 1, step 5 | About 55 | Statutory cap | Set by statute | Section 3.6.9 | \$5 billion a year, indexed; ten years | For scale, FY2026 federal funding is about \$1.1 billion for dislocated-worker grants and \$0.3 billion for apprenticeship grants | Funded under current estimates |
 | Expanded Disabled Access Credit | 13.5.1 | 1, step 5 | 1 to 10 | Conventional | Platform arithmetic | — | Ten years | Limit on eligible spending doubles to \$20,500 (credit up to \$10,000), matching a 2018 bill, and digital work qualifies. Very low confidence; immaterial to the test | Funded under current estimates |
 | Housing vouchers for people experiencing or at risk of homelessness | 8.3.3 | 2, step 1 | 96 to 190 | Conventional | Platform arithmetic built from published estimates | National Alliance to End Homelessness | March 2025; one year, multiplied by ten | Low end: $9.6 billion a year to house every household in shelter. High end roughly doubles it for unsheltered households and those at imminent risk, which the source excludes. Low confidence | Funded under current estimates |
-| Emergency rental assistance and right to counsel | 8.3.6 | 2, step 2 | 71 to 78 | Conventional | Platform arithmetic built from published estimates | Legal Services Corporation; Ellen and O'Regan | About 2021; 2020; annual figures, multiplied over ten years | Counsel: $3.3 to $4.1 billion a year for all eviction cases, phased in over five years. Rental assistance: about $4.5 billion a year base program. Excludes the capped recession increase | Funded under current estimates |
-| Universal preschool for 4-year-olds | 7.1 | 2, step 3 | 100 to 170 | Conventional | Platform arithmetic built from published estimates | CRFB | December 2021; FY2022–2031 | Built from the 2021 Build Back Better pre-K plan made permanent, halved for 4-year-olds only. High end adds children in states CBO assumed would not take part. Older window likely understates. Low confidence | Funded under current estimates, if the training cap is 120 or less |
+| Emergency rental assistance and right to counsel | 8.3.6 | 2, step 2 | 71 to 78 | Conventional | Platform arithmetic built from published estimates | Legal Services Corporation; Ellen and O'Regan | About 2021; 2020; annual figures, multiplied over ten years | Counsel: $3.3 to $4.1 billion a year for all eviction cases, phased in over five years. Rental assistance: about $4.5 billion a year base program. Excludes the capped recession increase | Partially funded under current estimates |
+| Universal preschool for 4-year-olds | 7.1 | 2, step 3 | 100 to 170 | Conventional | Platform arithmetic built from published estimates | CRFB | December 2021; FY2022–2031 | Built from the 2021 Build Back Better pre-K plan made permanent, halved for 4-year-olds only. High end adds children in states CBO assumed would not take part. Older window likely understates. Low confidence | Partially funded under current estimates |
 | Childcare cost caps | 3.4 | 2, step 4 | 460 to 700 | Conventional | Platform arithmetic built from published estimates | CRFB; CBO | December 2021 and January 2022; FY2022–2031 | Built from the 2021 Build Back Better childcare plan made permanent. High end adds children in states CBO assumed would not take part. Older window likely understates. Low confidence | Partially funded under current estimates |
 | K-12 equity funding | 7.2.1 | 3, step 1 | 360 to 400 | Conventional | Platform arithmetic built from published estimates | Education Week | April 2023; annual figure, multiplied by ten | Reference design only: tripling Title I. Section 7.2.1 sets no dollar amount, and full equivalence with wealthier districts could cost more. Low confidence | Funded under current estimates |
 | Tuition-free public higher education | 7.3 | 3, step 2 | 700 to 800 | Conventional | Comparable estimate (not a score) | CRFB; Georgetown Center on Education and the Workforce | 2019 (ten years); October 2020 (eleven years) | Low end assumes the federal government pays 67% and states the rest; high end is the full cost of universal tuition-free public college. The platform has not set a federal-state split. Medium-low confidence | Partially funded under current estimates |
@@ -118,13 +117,13 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 | Program | Section | Funded by | Ten-year estimate | Estimate type | Basis | Source | Date and window | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Universal Health Insurance, including rural stabilization, the Medicaid transition, and the long-term care benefit with eldercare (decision 0036) | 5.1, 5.3, 4.7 | UHI Trust Fund | About 32,600 to 34,000 in added federal spending | Conventional | Comparable estimate (not a score) | Mercatus Center; Urban Institute; CBO (single year) | 2018–2020; ten years | Estimated |
-| Paid leave | 3.3 | Paid Leave Trust Fund | About 600 to 3,900 (0.5% to 2.9% of taxable payroll) | Conventional | Comparable estimate (not a score) | IWPR; American Action Forum | 2017–2019 | Estimated |
+| Paid leave | 3.3 | Paid Leave Trust Fund | About 800 to 1,400 (0.6% to 1.0% of taxable payroll); up to about 3,900 under high take-up | Conventional | Comparable estimate (not a score) | IWPR; American Action Forum | 2017–2019 | Estimated |
 | Social Security reforms (75-year basis) | Chapter 26 | Social Security trust funds | Revenue reform only; benefits unchanged | 75-year actuarial | Comparable estimate (not a score) | SSA Office of the Chief Actuary; 2026 Trustees Report | 2025–2026 | Estimated |
 | Dynamic Global Innovation Fund | 5.2.2 | Drug-negotiation savings (capped) | Pending | — | Pending | — | — | Not yet estimable |
 
 ## E.3 Affordability Test
 
-> **Current estimate outcome (all General Fund programs estimated):**
+> **Current estimate outcome (after decision 0037):**
 >
 > - [ ] Funds tier 1 only, or part of it
 > - [x] Funds tier 1 and part of tier 2, plus K-12 equity from the wealth-tax transfer: **conservative case**
@@ -132,29 +131,29 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 > - [ ] Funds through tier 3
 > - [x] Funds all General Fund tiers: **favorable case**
 >
-> Under conservative assumptions, all of tier 1 is funded, including the \$5 billion-a-year training cap and the Disabled Access Credit, and so are tier 2 steps 1 to 3: homelessness vouchers, eviction prevention, and universal preschool. Childcare caps wait. Under the wealth-tax exception in Section 27.9, the smoothed transfer then pays for K-12 equity funding (tier 3, step 1); tuition-free college waits. Under favorable assumptions every tier is funded, with tiers 3 and 4 paid from stable revenue left after tier 2 together with the wealth-tax transfer. Eldercare is no longer a General Fund program; it is costed with Universal Health Insurance (decision 0036).
+> Under conservative assumptions, all of tier 1 is funded, including the training cap and the Disabled Access Credit, and so is tier 2, step 1, housing vouchers for people experiencing or at risk of homelessness. Eviction prevention waits (about \$53 billion available, \$78 billion needed), and everything after it waits too. Under the wealth-tax exception in Section 27.9, the smoothed transfer still pays for K-12 equity funding (tier 3, step 1). Under favorable assumptions every tier is funded, with tiers 3 and 4 paid from stable revenue left after tier 2 together with the wealth-tax transfer. Moving the investment-income contribution to Social Security (decision 0037) lowered stable General Fund revenue by about \$250 to \$700 billion; this is why eviction prevention and preschool now wait in the conservative case.
 >
-> **The gap.** Costs for all four tiers are about \$3.4 to \$5.0 trillion over ten years. Stable revenue (\$1.5 to \$2.5 trillion) plus the wealth-tax transfer (\$0.5 to \$2.2 trillion) gives about \$2.0 to \$4.7 trillion. The conservative case is about \$3 trillion short, mostly childcare caps, tuition-free college, student-loan reform, and universal vouchers. The favorable case funds every tier with about \$1.4 trillion to spare.
+> **The gap.** Costs for all four tiers are about \$3.4 to \$5.0 trillion over ten years. Stable revenue (\$1.2 to \$1.8 trillion) plus the wealth-tax transfer (\$0.5 to \$2.2 trillion) gives about \$1.7 to \$4.0 trillion. The conservative case is about \$3.2 trillion short; the favorable case funds every tier with about \$0.7 trillion to spare.
 
 This table applies the order in Section 27.9 to the General Fund revenue in Section E.1.1. Stable General Fund revenue pays for every tier. The wealth-tax transfer is shown separately because it may pay only for tiers 3 and 4; it is illustrative and assumes a Reserve target of about \$1 trillion. A step takes effect only when the revenue remaining after every earlier step covers its full cost; a step that cannot be fully covered waits, and is never partly funded. The **conservative case** pairs the low revenue estimate with the high cost estimates; the **favorable case** pairs the high revenue estimate with the low cost estimates.
 
 | Step | Cost ($B) | Conservative: remaining after | Favorable: remaining after | Status |
 | --- | --- | --- | --- | --- |
-| **General Fund revenue (E.1.1, illustrative)** | — | 1,480 | 2,530 | — |
-| Tier 1, step 1: SSI and SNAP | 256 to 267 | 1,213 | 2,274 | Funded under current estimates |
-| Tier 1, step 2: EITC for workers without children | 135 to 140 | 1,073 | 2,139 | Funded under current estimates |
-| Tier 1, step 3: Child Tax Credit full refundability | 272 to 335 | 738 | 1,867 | Funded under current estimates |
-| Tier 1, step 4: Child Tax Credit young child supplement | 155 to 180 | 558 | 1,712 | Funded under current estimates |
-| Tier 1, step 5: training and apprenticeships, with the Disabled Access Credit | 56 to 65 | 493 | 1,656 | Funded under current estimates |
-| Tier 2, step 1: homelessness vouchers | 96 to 190 | 303 | 1,560 | Funded under current estimates |
-| Tier 2, step 2: eviction prevention | 71 to 78 | 225 | 1,489 | Funded under current estimates |
-| Tier 2, step 3: universal preschool for 4-year-olds | 100 to 170 | 55 | 1,389 | Funded under current estimates |
-| Tier 2, step 4: childcare cost caps | 460 to 700 | Waits (55 available, 700 needed) | 929 | Partially funded under current estimates |
-| **Smoothed wealth-tax transfer (Section 27.5), tiers 3 and 4 only** | — | About 500 | About 2,200; with stable revenue left after tier 2, about 3,129 is available for tiers 3 and 4 | — |
-| Tier 3, step 1: K-12 equity funding | 360 to 400 | 100 left of the transfer, under the wealth-tax exception in Section 27.9 | 2,769 | Funded under current estimates |
-| Tier 3, step 2: tuition-free public higher education | 700 to 800 | Waits (100 available, 800 needed) | 2,069 | Partially funded under current estimates |
-| Tier 3, step 3: student-loan reform | 400 to 900 | Waits | 1,669 | Partially funded under current estimates |
-| Tier 4: universal housing vouchers | 300 to 750 | Waits | 1,369 | Partially funded under current estimates |
+| **General Fund revenue (E.1.1, illustrative)** | — | 1,230 | 1,830 | — |
+| Tier 1, step 1: SSI and SNAP | 256 to 267 | 963 | 1,574 | Funded under current estimates |
+| Tier 1, step 2: EITC for workers without children | 135 to 140 | 823 | 1,439 | Funded under current estimates |
+| Tier 1, step 3: Child Tax Credit full refundability | 272 to 335 | 488 | 1,167 | Funded under current estimates |
+| Tier 1, step 4: Child Tax Credit young child supplement | 155 to 180 | 308 | 1,012 | Funded under current estimates |
+| Tier 1, step 5: training and apprenticeships, with the Disabled Access Credit | 56 to 65 | 243 | 956 | Funded under current estimates |
+| Tier 2, step 1: homelessness vouchers | 96 to 190 | 53 | 860 | Funded under current estimates |
+| Tier 2, step 2: eviction prevention | 71 to 78 | Waits (53 available, 78 needed) | 789 | Partially funded under current estimates |
+| Tier 2, step 3: universal preschool for 4-year-olds | 100 to 170 | Waits | 689 | Partially funded under current estimates |
+| Tier 2, step 4: childcare cost caps | 460 to 700 | Waits | 229 | Partially funded under current estimates |
+| **Smoothed wealth-tax transfer (Section 27.5), tiers 3 and 4 only** | — | About 500 | About 2,200; with stable revenue left after tier 2, about 2,429 is available for tiers 3 and 4 | — |
+| Tier 3, step 1: K-12 equity funding | 360 to 400 | 100 left of the transfer, under the wealth-tax exception in Section 27.9 | 2,069 | Funded under current estimates |
+| Tier 3, step 2: tuition-free public higher education | 700 to 800 | Waits (100 available, 800 needed) | 1,369 | Partially funded under current estimates |
+| Tier 3, step 3: student-loan reform | 400 to 900 | Waits | 969 | Partially funded under current estimates |
+| Tier 4: universal housing vouchers | 300 to 750 | Waits | 669 | Partially funded under current estimates |
 | Fixed-budget expansions (after tier 1) | Pending | Pending | Pending | Not yet estimable |
 
 ## E.4 Trust Fund Balance Tests
@@ -166,14 +165,14 @@ Social Security is evaluated on a 75-year actuarial basis rather than a ten-year
 | Trust fund | Basis period | Revenue | Cost | Balance | Balance status |
 | --- | --- | --- | --- | --- | --- |
 | Universal Health Insurance | 10 years | Contribution rates not yet set | About \$32.6 to \$34.0 trillion in added federal spending | Revenue must be set to match | Not yet demonstrable |
-| Paid Leave | 10 years | Set by actuaries to equal cost | About 0.5% to 2.9% of taxable payroll | Balanced by design | Near balance (by statute) |
-| Social Security | 75 years | +2.55% of taxable payroll (Section 26.2.1) | Current deficit 4.42% of taxable payroll | About −1.9% of taxable payroll | Deficit |
+| Paid Leave | 10 years | Set by actuaries to equal cost | About 0.6% to 1.0% of taxable payroll (up to 2.9% under high take-up) | Balanced by design | Near balance (by statute) |
+| Social Security | 75 years | +2.55% of taxable payroll (Section 26.2.1); about +0.2% to +0.6% (Section 26.2.4) | Current deficit 4.42% of taxable payroll | About −1.3% to −1.7% of taxable payroll | Deficit |
 
 **Universal Health Insurance.** Comparable single-payer designs that cover long-term care add about \$32.6 trillion (Mercatus Center) to \$34 trillion (Urban Institute) to federal spending over ten years. Much of that replaces what employers, households, and states now pay in premiums, deductibles, and Medicaid shares; CBO's 2020 options found national health spending changing by between \$0.7 trillion less and \$0.3 trillion more in 2030. The Trust Fund must still raise roughly \$3 trillion or more a year through contributions set in law. Its share on top-bracket wages is limited to 4.2 percent by the 60 percent wage ceiling (Section 2.8), and wealth-tax revenue is barred (Section 5.1.2), so most of it must come from payroll and income-based contributions below the top bracket and from employers and states. A shortfall slows the phase-in; it never draws on the General Fund.
 
-**Paid Leave.** The rate is set by actuaries to keep the fund solvent, so it balances by design. The open question is the rate: about 0.47 percent of taxable payroll in the Institute for Women's Policy Research's model of a 12-week benefit at two-thirds of pay, and up to about 2.9 percent in American Action Forum estimates that assume much more leave-taking once leave is paid. Section 3.3 does not yet set the replacement rate or a weekly maximum.
+**Paid Leave.** The rate is set by actuaries to keep the fund solvent, so it balances by design. The open question is the rate. The Institute for Women's Policy Research's model of a 12-week benefit at two-thirds of pay, up to \$1,000 a week, needs about 0.47 percent of taxable payroll. The platform's progressive benefit in Section 3.3 (90 percent of wages up to half the national average weekly wage, 50 percent above, up to about \$1,500 a week) pays more to lower earners and more in total; by platform arithmetic it needs about 0.6 to 1.0 percent. American Action Forum estimates that assume much more leave-taking once leave is paid reach about 2.9 percent; the band in Section 3.3 lets actuaries respond if take-up runs high.
 
-**Social Security.** The 2026 Trustees Report puts the 75-year deficit at 4.42 percent of taxable payroll. The Chief Actuary's score of the platform's design for Section 26.2.1, applying 12.4 percent to all earnings with no added benefit credit, improves the balance by about 2.55 percent (scored on the 2025 report's assumptions), closing roughly 58 percent of the current gap. Section 26.3 adds some revenue but has not been scored. About 1.9 percent of taxable payroll remains, so no money would reach the Social Security Endowment (Section 26.4) under current estimates.
+**Social Security.** The 2026 Trustees Report puts the 75-year deficit at 4.42 percent of taxable payroll. The Chief Actuary's score of the platform's design for Section 26.2.1, applying 12.4 percent to all earnings with no added benefit credit, improves the balance by about 2.55 percent (scored on the 2025 report's assumptions), closing roughly 58 percent of the current gap. The 12.4 percent contribution on investment income above \$1 million (Sections 2.7.5 and 26.2.4) adds about 0.2 to 0.6 percent, by platform arithmetic. Section 26.3 adds some revenue but has not been scored. About 1.3 to 1.7 percent of taxable payroll remains, so no money would reach the Social Security Endowment (Section 26.4) under current estimates, and the platform does not yet claim 75-year solvency.
 
 ## E.5 Honest Limits
 

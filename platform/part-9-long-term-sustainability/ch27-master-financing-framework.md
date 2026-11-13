@@ -19,13 +19,13 @@ Each revenue stream shall be dedicated to the single use listed below. No revenu
 | Revenue stream | Behavior | Single use |
 | --- | --- | --- |
 | Extreme Wealth Fair-Share Tax (Section 2.1), including shares paid in kind under Section 2.2 | Swings with markets | Sovereign Wealth Reserve, under Section 27.5; once the Reserve is at its target, a smoothed transfer to the General Fund for programs in tiers 3 and 4 only |
-| Federal tax fairness measures: capital gains taxed as ordinary income above a high-income threshold, a surtax on investment income above $1 million, restored top income-tax brackets, the pass-through deduction phased out above them, a strengthened corporate minimum tax, estate-tax reform, and net revenue from high-end enforcement (Sections 2.4 and 2.6 to 2.10; proposed rates subject to scoring) | Stable | General Fund, for the recurring programs listed in Section 27.4 |
+| Federal tax fairness measures: capital gains taxed as ordinary income above a high-income threshold, restored top income-tax brackets, the pass-through deduction phased out above them, a strengthened corporate minimum tax, estate-tax reform, and net revenue from high-end enforcement (Sections 2.4 and 2.6 to 2.10; proposed rates subject to scoring) | Stable | General Fund, for the recurring programs listed in Section 27.4 |
 | Universal Health Insurance contributions: payroll, employer, and income-based (Section 5.1) | Stable | Universal Health Insurance Trust Fund |
 | State contributions under the Universal Health Insurance Partnership Compact (Section 4.7.3) | Stable | Universal Health Insurance Trust Fund |
 | Savings from consolidated health financing | Stable once realized | Universal Health Insurance Trust Fund, by lowering contribution rates |
 | A fixed statutory share of savings from national drug-price negotiation | Stable | Dynamic Global Innovation Fund (Section 5.2); only the remaining savings are counted in health-cost estimates |
 | Paid leave contribution, shared equally by employers and employees, on wages up to its wage base (Section 3.3) | Stable | Paid Leave Trust Fund |
-| Social Security payroll reforms (Sections 26.2 and 26.3) | Stable | Social Security trust funds; any revenue beyond scheduled benefits and required reserves goes to the Social Security Endowment (Section 26.4) |
+| Social Security payroll reforms and the contribution on investment income above $1 million (Sections 26.2, 26.3, and 2.7.5) | Stable | Social Security trust funds; any revenue beyond scheduled benefits and required reserves goes to the Social Security Endowment (Section 26.4) |
 | Social Security Endowment investment returns | Swings with markets | Social Security trust funds |
 | Carbon and methane fees, 80 percent | Shrinks over time | Equal per-person household dividend (Section 20.2.1) |
 | Carbon and methane fees, 10 percent | Shrinks over time | Transition Fund, which shall end on a date fixed in statute (Section 20.2.2) |
