@@ -24,6 +24,7 @@ Each revenue stream shall be dedicated to the single use listed below. No revenu
 | State contributions under the Universal Health Insurance Partnership Compact (Section 4.7.3) | Stable | Universal Health Insurance Trust Fund |
 | Savings from consolidated health financing | Stable once realized | Universal Health Insurance Trust Fund, by lowering contribution rates |
 | A fixed statutory share of savings from national drug-price negotiation | Stable | Dynamic Global Innovation Fund (Section 5.2); only the remaining savings are counted in health-cost estimates |
+| Paid leave contribution, shared equally by employers and employees, on wages up to its wage base (Section 3.3) | Stable | Paid Leave Trust Fund |
 | Social Security payroll reforms (Sections 26.2 and 26.3) | Stable | Social Security trust funds; any revenue beyond scheduled benefits and required reserves goes to the Social Security Endowment (Section 26.4) |
 | Social Security Endowment investment returns | Swings with markets | Social Security trust funds |
 | Carbon and methane fees, 80 percent | Shrinks over time | Equal per-person household dividend (Section 20.2.1) |
@@ -52,15 +53,17 @@ Each major program shall draw only on the stream listed here. Independent cost e
 | Regular unemployment insurance (Section 4.4) | Recurring | Unemployment trust funds |
 | Extended unemployment benefits in recessions (Section 4.4.4) | Triggered by recession | Sovereign Wealth Reserve (Section 27.5) |
 | Dynamic Global Innovation Fund | Recurring, capped | Share of drug-negotiation savings |
-| Paid leave, childcare and eldercare cost caps | Recurring | General Fund (tax fairness measures) |
-| Universal preschool, K-12 equity funding, tuition-free public higher education | Recurring | General Fund (tax fairness measures) |
-| Existing student-loan reform | One-time, phased | General Fund (tax fairness measures) |
+| Paid leave (Section 3.3) | Recurring | Paid Leave Trust Fund (dedicated payroll contribution); never the General Fund |
+| Childcare and eldercare cost caps (Section 3.4) | Recurring | General Fund (tax fairness measures), tier 2 (Section 27.9) |
+| Universal preschool, K-12 equity funding, tuition-free public higher education | Recurring | General Fund (tax fairness measures), tiers 2 and 3 (Section 27.9) |
+| Existing student-loan reform | One-time, phased | General Fund (tax fairness measures), tier 3 (Section 27.9) |
 | Housing vouchers for people experiencing or at imminent risk of homelessness (Section 8.3.3) | Recurring | General Fund (tax fairness measures), tier 2, first (Section 27.9) |
 | Emergency rental assistance and right to counsel in evictions (Section 8.3.6) | Recurring; triggered increases within one capped amount | General Fund (tax fairness measures), tier 2, second (Section 27.9) |
 | Universal housing vouchers (Section 8.3.3) | Recurring | General Fund (tax fairness measures), tier 4 (Section 27.9) |
-| Public housing developer, state rent stabilization grants, and other housing programs (Sections 8.1 and 8.2.6) | Recurring | General Fund (tax fairness measures) |
-| Research expansion and national service | Recurring | General Fund (tax fairness measures) |
-| National Farm Risk Protection Program | Recurring | General Fund (tax fairness measures) |
+| Public housing developer operations, state rent stabilization grants, and other housing programs (Sections 8.1 and 8.2.6) | Recurring, capped | General Fund (tax fairness measures), fixed-budget rules (Section 27.9) |
+| Public housing and research facility construction | One-time | Capital Investment Account (Section 27.5) and productive borrowing (Section 27.7) |
+| Research expansion and national service | Recurring, capped | General Fund (tax fairness measures), fixed-budget rules (Section 27.9) |
+| National Farm Risk Protection Program enhancements (current crop insurance unchanged) | Recurring, capped | General Fund (tax fairness measures), fixed-budget rules (Section 27.9) |
 | Infrastructure, grid, and public broadband | One-time | Productive borrowing and the 10 percent carbon General Fund share |
 | Transition Fund | Time-limited | 10 percent carbon Transition share |
 | Household dividend | Ongoing while fees are collected | 80 percent carbon share and border tariff receipts |
@@ -70,7 +73,7 @@ Each major program shall draw only on the stream listed here. Independent cost e
 The Sovereign Wealth Reserve (Section 1.3) shall exist only to stabilize the economy in recessions.
 
 - **Funding:** all Extreme Wealth Fair-Share Tax revenue shall be deposited in the Reserve until its stabilization balance reaches a target fixed in statute as a share of GDP.
-- **Above the target:** further deposits shall go to a Capital Investment Account, which may fund one-time capital projects only and never recurring programs.
+- **Above the target:** further deposits shall go to a Capital Investment Account, which may fund one-time capital projects, and debt service on borrowing for long-lived assets under Section 27.7, but never recurring programs.
 - **Investment:** assets shall be held in broad, passive index funds managed by private managers selected through competitive bidding, with no voting rights in any company.
 - **Drawing:** the stabilization balance may be drawn only when the recession trigger in Section 1.2 is met. Draws shall first pay for automatic extended unemployment benefits (Section 4.4.4); any remainder may fund only temporary stabilization measures enacted for that downturn.
 - **Refilling:** once recovery is confirmed under Section 1.2, deposits shall restore the balance to its target before anything goes to the Capital Investment Account.
@@ -82,7 +85,7 @@ The baseline spending cap in Section 1.2 may rise only by the independently scor
 
 ### 27.7 Borrowing Rule \[Statute\]
 
-Borrowing may finance long-lived productive assets, such as infrastructure, grid and transmission, and research facilities. Borrowing shall not finance recurring obligations.
+Borrowing may finance long-lived productive assets, such as infrastructure, grid and transmission, public housing, and research facilities. Borrowing shall not finance recurring obligations. Debt service on such borrowing is paid through the Capital Investment Account (Section 27.5), is not a General Fund phase-in item, and limits new borrowing to what the account can service.
 
 ### 27.8 No Double Counting \[Statute\]
 
@@ -103,11 +106,23 @@ Programs shall be phased in by feasibility: first low-cost statutory reforms (su
 2. **Housing and early childhood**, in this order:
    - housing vouchers for people experiencing or at imminent risk of homelessness (Section 8.3.3);
    - emergency rental assistance and the right to counsel in eviction cases (Section 8.3.6);
-   - universal preschool and the childcare cost caps (Sections 7.1 and 3.4).
-3. **Tuition-free public higher education** (Section 7.3).
+   - universal preschool and the childcare cost caps (Sections 7.1 and 3.4);
+   - the eldercare cost caps (Section 3.4).
+3. **Higher education and K-12**, in this order:
+   - tuition-free public higher education (Section 7.3);
+   - existing student-loan reform (Section 7.3.1);
+   - K-12 equity funding (Section 7.2.1).
 4. **Universal housing vouchers** for extremely low-income renters (Section 8.3.3), phased in by stages.
 
-Implementing legislation shall place the other General Fund programs in Section 27.4 within this order, but none may take effect ahead of the first tier. Programs with their own funding (Universal Health Insurance, Social Security, unemployment insurance) are phased in on their own schedules. Revenue from the loss of tax benefits under the rent stabilization floor (Section 8.2.3) goes to the General Fund and is not assigned to any program.
+**Fixed-budget programs.** Research expansion, national service, the public housing developer's operations, state rent stabilization grants, and the enhancements to the National Farm Risk Protection Program are not ranked in the tiers. They follow these rules:
+
+- each continues at its current-law funding level;
+- expansion above current-law levels occurs only after the first tier is fully funded;
+- expansion remains subject to a fixed statutory ceiling for each program and to the spending cap in Section 27.6;
+- construction of long-lived assets uses the Capital Investment Account (Section 27.5) and the borrowing rule in Section 27.7, and its debt service is paid through that account rather than waiting in the tier order;
+- the National Farm Risk Protection Program preserves current-law crop insurance commitments, and only its enhanced benefits are subject to the ceiling.
+
+Paid leave is financed by its own trust fund (Section 3.3) and is not a General Fund program. Appendix B sets out the legislative path for each program. Programs with their own funding (Universal Health Insurance, Social Security, unemployment insurance) are phased in on their own schedules. Revenue from the loss of tax benefits under the rent stabilization floor (Section 8.2.3) goes to the General Fund and is not assigned to any program.
 
 ### 27.10 Independent Costing \[Statute\]
 

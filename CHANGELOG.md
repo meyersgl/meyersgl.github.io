@@ -50,6 +50,25 @@ Newest first. Each entry lists what changed and which decision records it follow
   - Section 5.1.7: the long-term care benefit must include home- and community-based services
 - Executive Summary: new Civil Rights section.
 
+### Appendix B: Implementation & Legislative Strategy (decision 0030)
+- New Appendix B:
+  - the legislative constraint (filibuster, reconciliation, the Byrd rule);
+  - a Senate rules reform: majority for paid-for bills, a declining threshold for others, minority amendment rights, repeal symmetry, CBO/JCT qualification;
+  - a legislative path for each plank;
+  - three first-year tracks;
+  - limited first-100-days executive action;
+  - General Fund phase-in;
+  - honest limits.
+- Section 27.9:
+  - eldercare caps added to tier 2;
+  - tier 3 now tuition-free college, then student-loan reform, then K-12 equity;
+  - new fixed-budget program rules.
+- Paid leave moves to a Paid Leave Trust Fund financed by a payroll contribution on wages up to a wage base:
+  - Section 3.3 updated;
+  - Section 2.8 ceiling list and Section 2.12 table updated;
+  - Sections 27.3 and 27.4 updated.
+- Legal Classifications: [Statute] definition corrected and [Senate Rule] added. Executive Summary updated.
+
 ### Chapter 16: Officer Accountability (decision 0029)
 - Section 16.9 rewritten as one accountability system:
   - qualified immunity ended for state and local officers (16.9.1);
