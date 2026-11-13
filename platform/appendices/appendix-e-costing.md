@@ -89,10 +89,11 @@ The affordability test in Section E.3 uses this range only to show how far reven
 | Child Tax Credit: young child supplement | 4.2.2 | 1, step 4 | 155 to 180 | Conventional | Platform arithmetic built from published estimates | Concord Coalition | About 2021; ten years | $1,000 per child under 6, scaled from a published estimate for a $1,000 credit for all children. Low confidence | Partially funded under current estimates |
 | Training and triggered apprenticeships (capped) | 3.6.7 to 3.6.9 | 1, step 5 | Set by statutory cap | — | Pending | — | — | The cap in Section 3.6.9 has not been set and can be sized to the revenue remaining after step 4 | Not yet estimable |
 | Expanded Disabled Access Credit | 13.5.1 | 1, step 5 | Pending | — | Pending | — | — | Existing credit is small; expansion parameters not yet set | Not yet estimable |
-| Housing vouchers for people experiencing or at risk of homelessness | 8.3.3 | 2, step 1 | Pending | — | Pending | — | — | — | Not yet estimable |
-| Emergency rental assistance and right to counsel | 8.3.6 | 2, step 2 | Pending | — | Pending | — | — | — | Not yet estimable |
-| Universal preschool and childcare cost caps | 7.1, 3.4 | 2, step 3 | Pending | — | Pending | — | — | — | Not yet estimable |
-| Eldercare cost caps | 3.4 | 2, step 4 | Pending | — | Pending | — | — | — | Not yet estimable |
+| Housing vouchers for people experiencing or at risk of homelessness | 8.3.3 | 2, step 1 | 96 to 190 | Conventional | Platform arithmetic built from published estimates | National Alliance to End Homelessness | March 2025; one year, multiplied by ten | Low end: $9.6 billion a year to house every household in shelter. High end roughly doubles it for unsheltered households and those at imminent risk, which the source excludes. Low confidence | Partially funded under current estimates |
+| Emergency rental assistance and right to counsel | 8.3.6 | 2, step 2 | 71 to 78 | Conventional | Platform arithmetic built from published estimates | Legal Services Corporation; Ellen and O'Regan | About 2021; 2020; annual figures, multiplied over ten years | Counsel: $3.3 to $4.1 billion a year for all eviction cases, phased in over five years. Rental assistance: about $4.5 billion a year base program. Excludes the capped recession increase | Partially funded under current estimates |
+| Universal preschool for 4-year-olds | 7.1 | 2, step 3 | 100 to 170 | Conventional | Platform arithmetic built from published estimates | CRFB | December 2021; FY2022–2031 | Built from the 2021 Build Back Better pre-K plan made permanent, halved for 4-year-olds only. High end adds children in states CBO assumed would not take part. Older window likely understates. Low confidence | Partially funded under current estimates |
+| Childcare cost caps | 3.4 | 2, step 4 | 460 to 700 | Conventional | Platform arithmetic built from published estimates | CRFB; CBO | December 2021 and January 2022; FY2022–2031 | Built from the 2021 Build Back Better childcare plan made permanent. High end adds children in states CBO assumed would not take part. Older window likely understates. Low confidence | Awaiting additional revenue |
+| Eldercare cost caps | 3.4 | 2, step 5 | Pending | — | Pending | Urban Institute (scale only) | 2020; ten years | Depends on the long-term care benefit in Section 5.1, still open (Section 5.1.7). For scale only, related federal options cost $355 to $526 billion | Not yet estimable |
 | Tuition-free public higher education | 7.3 | 3, step 1 | Pending | — | Pending | — | — | — | Not yet estimable |
 | Existing student-loan reform | 7.3.1 | 3, step 2 | Pending | — | Pending | — | — | — | Not yet estimable |
 | K-12 equity funding | 7.2.1 | 3, step 3 | Pending | — | Pending | — | — | — | Not yet estimable |
@@ -121,7 +122,7 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 
 ## E.3 Affordability Test
 
-> **Current estimate outcome (tier 1 only; tier 2 costs not yet estimated):**
+> **Current estimate outcome (tiers 1 and 2; eldercare not yet estimated):**
 >
 > - [x] Funds tier 1 only, or part of it: **conservative case**
 > - [x] Funds tier 1 and part of tier 2: **favorable case**
@@ -129,9 +130,9 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 > - [ ] Funds through tier 3
 > - [ ] Funds all General Fund tiers
 >
-> In both cases, steps 1 to 3 are funded: SSI, SNAP, the EITC, and full refundability of the Child Tax Credit. Under conservative assumptions the young child supplement (step 4) waits until revenue grows, and the capped training amount (step 5) waits behind it.
+> In both cases, tier 1 steps 1 to 3 are funded: SSI, SNAP, the EITC, and full refundability of the Child Tax Credit. Under conservative assumptions the young child supplement (step 4) waits until revenue grows, and everything after it waits too. Under favorable assumptions all of tier 1 is funded, and so are tier 2 steps 1 to 3: housing vouchers for people experiencing or at risk of homelessness, eviction prevention, and universal preschool, provided the training cap is no more than about $125 billion. Childcare caps (tier 2, step 4) cost $460 to $700 billion and wait, because at most about $125 billion remains.
 
-This table applies the order in Section 27.9 to the General Fund revenue in Section E.1.1. A step takes effect only when the revenue remaining after every earlier step covers its full cost; a step that cannot be fully covered waits, and is never partly funded. The **conservative case** pairs the low revenue estimate with the high cost estimates; the **favorable case** pairs the high revenue estimate with the low cost estimates.
+This table applies the order in Section 27.9 to the General Fund revenue in Section E.1.1. **C** is the training cap in Section 3.6.9, which has not been set; every later figure in the favorable column is reduced by it. A step takes effect only when the revenue remaining after every earlier step covers its full cost; a step that cannot be fully covered waits, and is never partly funded. The **conservative case** pairs the low revenue estimate with the high cost estimates; the **favorable case** pairs the high revenue estimate with the low cost estimates.
 
 | Step | Cost ($B) | Conservative: remaining after | Favorable: remaining after | Status |
 | --- | --- | --- | --- | --- |
@@ -140,11 +141,12 @@ This table applies the order in Section 27.9 to the General Fund revenue in Sect
 | Tier 1, step 2: EITC for workers without children | 135 to 140 | 453 | 819 | Funded under current estimates |
 | Tier 1, step 3: Child Tax Credit full refundability | 272 to 335 | 118 | 547 | Funded under current estimates |
 | Tier 1, step 4: Child Tax Credit young child supplement | 155 to 180 | Waits (118 available, 180 needed) | 392 | Partially funded under current estimates |
-| Tier 1, step 5: training and apprenticeships, with the Disabled Access Credit | Set by cap | Waits | Fits within remaining revenue | Not yet estimable |
-| Tier 2, step 1: homelessness vouchers | Pending | Pending | Pending | Not yet estimable |
-| Tier 2, step 2: eviction prevention | Pending | Pending | Pending | Not yet estimable |
-| Tier 2, step 3: preschool and childcare caps | Pending | Pending | Pending | Not yet estimable |
-| Tier 2, step 4: eldercare caps | Pending | Pending | Pending | Not yet estimable |
+| Tier 1, step 5: training and apprenticeships, with the Disabled Access Credit | Set by cap (C) | Waits | 392 − C | Not yet estimable |
+| Tier 2, step 1: homelessness vouchers | 96 to 190 | Waits | 296 − C | Partially funded under current estimates |
+| Tier 2, step 2: eviction prevention | 71 to 78 | Waits | 225 − C | Partially funded under current estimates |
+| Tier 2, step 3: universal preschool for 4-year-olds | 100 to 170 | Waits | 125 − C (fits if C is 125 or less) | Partially funded under current estimates |
+| Tier 2, step 4: childcare cost caps | 460 to 700 | Waits | Waits (125 − C available, 460 needed) | Awaiting additional revenue |
+| Tier 2, step 5: eldercare caps | Pending | Waits | Waits | Not yet estimable |
 | Tier 3, step 1: tuition-free public higher education | Pending | Pending | Pending | Not yet estimable |
 | Tier 3, step 2: student-loan reform | Pending | Pending | Pending | Not yet estimable |
 | Tier 3, step 3: K-12 equity funding | Pending | Pending | Pending | Not yet estimable |
@@ -168,4 +170,5 @@ Social Security is evaluated on a 75-year actuarial basis rather than a ten-year
 - **These are comparisons, not scores.** Every figure comes from a proposal that differs from the platform's in thresholds, timing, or design, and each difference is noted in its row.
 - **Sources use different budget windows, baselines, and estimate types,** so totals that combine them are approximate and not additive.
 - **Behavioral responses are uncertain,** especially for taxes on capital gains and high incomes, where taxpayers can change the timing of income.
+- **"Awaiting additional revenue" describes today's estimates, not a final verdict.** A step that waits takes effect when revenue grows or earlier costs come in lower. Statuses in the tables are only as good as the estimates behind them; several tier 2 figures rest on low-confidence platform arithmetic.
 - **Nothing here replaces the independent costing required by Section 27.10** before any program takes effect.
