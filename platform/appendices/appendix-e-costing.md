@@ -102,15 +102,15 @@ The affordability test in Section E.3 uses this range only to show how far reven
 
 ### E.2.2 Fixed-Budget Programs
 
-Under Section 27.9 these continue at current-law levels. Only their expansions are listed, and expansions begin only after tier 1 is fully funded.
+Under Section 27.9 these continue at current-law levels. Only their expansions are listed. Expansions begin only after tiers 1 and 2 are fully funded, are paid from stable revenue ahead of tier 3, and never draw on the wealth-tax transfer (decision 0039).
 
 | Program | Section | Expansion ceiling | Basis | Source | Date and window | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| Research expansion | 18.2 | Pending | Pending | — | — | Not yet estimable |
-| National service | 25.2 | Pending | Pending | — | — | Not yet estimable |
-| Farm Risk Protection enhancements | 10.1.8 | Pending | Pending | — | — | Not yet estimable |
-| Public housing developer operations | 8.1.4 | Pending | Pending | — | — | Not yet estimable |
-| State rent stabilization grants | 8.2.6 | Pending | Pending | — | — | Not yet estimable |
+| Research expansion | 18.2 | \$8 billion a year, indexed; about 80 over ten years | Statutory ceiling | Closes the CHIPS and Science Act research gap (FAS); FY2026 NSF \$8.75 billion, NIH \$48.7 billion | FY2026 | Partially funded under current estimates |
+| National service | 25.2 | \$1.25 billion a year, indexed; about 12.5 | Statutory ceiling | Roughly doubles AmeriCorps (\$1.25 billion in FY2026) | FY2026 | Partially funded under current estimates |
+| Farm Risk Protection enhancements | 10.1.8 | \$3 billion a year, indexed; about 30 | Statutory ceiling | Designed to replace ad hoc disaster aid, about \$2.7 billion a year in 2017–2024 (farmdoc daily); crop insurance about \$12.1 billion a year (CRS) | FY2016–FY2025 | Partially funded under current estimates |
+| Public housing developer operations | 8.1.4 | \$1 billion a year, indexed; about 10 | Statutory ceiling | New program; construction is paid through the Capital Investment Account | — | Partially funded under current estimates |
+| State rent stabilization grants | 8.2.6 | \$500 million a year, indexed; about 5 | Statutory ceiling | New program | — | Partially funded under current estimates |
 
 ### E.2.3 Programs With Their Own Funding
 
@@ -123,7 +123,7 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 
 ## E.3 Affordability Test
 
-> **Current estimate outcome (after decision 0037):**
+> **Current estimate outcome (after decisions 0037 and 0039):**
 >
 > - [ ] Funds tier 1 only, or part of it
 > - [x] Funds tier 1 and part of tier 2, plus K-12 equity from the wealth-tax transfer: **conservative case**
@@ -131,9 +131,9 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 > - [ ] Funds through tier 3
 > - [x] Funds all General Fund tiers: **favorable case**
 >
-> Under conservative assumptions, all of tier 1 is funded, including the training cap and the Disabled Access Credit, and so is tier 2, step 1, housing vouchers for people experiencing or at risk of homelessness. Eviction prevention waits (about \$53 billion available, \$78 billion needed), and everything after it waits too. Under the wealth-tax exception in Section 27.9, the smoothed transfer still pays for K-12 equity funding (tier 3, step 1). Under favorable assumptions every tier is funded, with tiers 3 and 4 paid from stable revenue left after tier 2 together with the wealth-tax transfer. Moving the investment-income contribution to Social Security (decision 0037) lowered stable General Fund revenue by about \$250 to \$700 billion; this is why eviction prevention and preschool now wait in the conservative case.
+> Under conservative assumptions, all of tier 1 is funded, including the training cap and the Disabled Access Credit, and so is tier 2, step 1, housing vouchers for people experiencing or at risk of homelessness. Eviction prevention waits (about \$53 billion available, \$78 billion needed), and everything after it waits too. Under the wealth-tax exception in Section 27.9, the smoothed transfer still pays for K-12 equity funding (tier 3, step 1). Under favorable assumptions every tier is funded, and so are the fixed-budget expansions at their ceilings, with tiers 3 and 4 paid from stable revenue left after the expansions together with the wealth-tax transfer. In the conservative case the expansions wait, and those programs continue at current-law levels. Moving the investment-income contribution to Social Security (decision 0037) lowered stable General Fund revenue by about \$250 to \$700 billion; this is why eviction prevention and preschool now wait in the conservative case.
 >
-> **The gap.** Costs for all four tiers are about \$3.4 to \$5.0 trillion over ten years. Stable revenue (\$1.2 to \$1.8 trillion) plus the wealth-tax transfer (\$0.5 to \$2.2 trillion) gives about \$1.7 to \$4.0 trillion. The conservative case is about \$3.2 trillion short; the favorable case funds every tier with about \$0.7 trillion to spare.
+> **The gap.** Costs for all four tiers and the fixed-budget expansions are about \$3.5 to \$5.1 trillion over ten years. Stable revenue (\$1.2 to \$1.8 trillion) plus the wealth-tax transfer (\$0.5 to \$2.2 trillion) gives about \$1.7 to \$4.0 trillion. The conservative case is about \$3.4 trillion short; the favorable case funds every tier and the expansions with about \$0.5 trillion to spare.
 
 This table applies the order in Section 27.9 to the General Fund revenue in Section E.1.1. Stable General Fund revenue pays for every tier. The wealth-tax transfer is shown separately because it may pay only for tiers 3 and 4; it is illustrative and assumes a Reserve target of about \$1 trillion. A step takes effect only when the revenue remaining after every earlier step covers its full cost; a step that cannot be fully covered waits, and is never partly funded. The **conservative case** pairs the low revenue estimate with the high cost estimates; the **favorable case** pairs the high revenue estimate with the low cost estimates.
 
@@ -149,12 +149,12 @@ This table applies the order in Section 27.9 to the General Fund revenue in Sect
 | Tier 2, step 2: eviction prevention | 71 to 78 | Waits (53 available, 78 needed) | 789 | Partially funded under current estimates |
 | Tier 2, step 3: universal preschool for 4-year-olds | 100 to 170 | Waits | 689 | Partially funded under current estimates |
 | Tier 2, step 4: childcare cost caps | 460 to 700 | Waits | 229 | Partially funded under current estimates |
-| **Smoothed wealth-tax transfer (Section 27.5), tiers 3 and 4 only** | — | About 500 | About 2,200; with stable revenue left after tier 2, about 2,429 is available for tiers 3 and 4 | — |
-| Tier 3, step 1: K-12 equity funding | 360 to 400 | 100 left of the transfer, under the wealth-tax exception in Section 27.9 | 2,069 | Funded under current estimates |
-| Tier 3, step 2: tuition-free public higher education | 700 to 800 | Waits (100 available, 800 needed) | 1,369 | Partially funded under current estimates |
-| Tier 3, step 3: student-loan reform | 400 to 900 | Waits | 969 | Partially funded under current estimates |
-| Tier 4: universal housing vouchers | 300 to 750 | Waits | 669 | Partially funded under current estimates |
-| Fixed-budget expansions (after tier 1) | Pending | Pending | Pending | Not yet estimable |
+| Fixed-budget expansions, at their ceilings (after tier 2, ahead of tier 3) | About 137 | Wait | 92 | Partially funded under current estimates |
+| **Smoothed wealth-tax transfer (Section 27.5), tiers 3 and 4 only** | — | About 500 | About 2,200; with stable revenue left after the fixed-budget expansions, about 2,292 is available for tiers 3 and 4 | — |
+| Tier 3, step 1: K-12 equity funding | 360 to 400 | 100 left of the transfer, under the wealth-tax exception in Section 27.9 | 1,932 | Funded under current estimates |
+| Tier 3, step 2: tuition-free public higher education | 700 to 800 | Waits (100 available, 800 needed) | 1,232 | Partially funded under current estimates |
+| Tier 3, step 3: student-loan reform | 400 to 900 | Waits | 832 | Partially funded under current estimates |
+| Tier 4: universal housing vouchers | 300 to 750 | Waits | 532 | Partially funded under current estimates |
 
 ## E.4 Trust Fund Balance Tests
 

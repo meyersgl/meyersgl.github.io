@@ -40,3 +40,5 @@ The platform's fiscal discipline makes a paid-for majority rule credible, and re
 **Note (decision 0035):** Tier 3 is now K-12 equity funding, then tuition-free college, then student-loan reform, with a narrow wealth-tax exception. Section 27.9 governs.
 
 **Note (decision 0036):** Eldercare is now part of the Universal Health Insurance long-term care benefit and is no longer a tier 2 step.
+
+**Note (decision 0039):** Fixed-budget expansions now begin only after tiers 1 and 2 are fully funded, ahead of tier 3, within the statutory ceilings listed in Section 27.9.

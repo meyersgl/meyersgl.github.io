@@ -14,6 +14,11 @@ Newest first. Each entry lists what changed and which decision records it follow
 ### Remaining estimates (P4)
 - Student-loan reform estimated at about $400 to $900 billion, universal housing vouchers at about $300 to $750 billion, and the Disabled Access Credit expansion at about $1 to $10 billion (platform arithmetic, low confidence). Every General Fund program is now estimated: the favorable case funds every tier with about $1.4 trillion to spare; the conservative case is about $3 trillion short.
 
+### Fixed-budget ceilings (decision 0039)
+- Fixed-budget expansions now begin only after tiers 1 and 2 are fully funded, ahead of tier 3, never from the wealth-tax transfer (Section 27.9, Appendix B).
+- Annual ceilings, indexed: research $8 billion (Section 18.2.1), national service $1.25 billion (Section 25.2), farm risk enhancements $3 billion (Section 10.1.8), public housing developer operations $1 billion (Section 8.1.4), state rent stabilization grants $500 million (Section 8.2.6); about $137 billion over ten years.
+- Appendix E E.2.2 and E.3 updated; chapter funding notes and the Executive Summary aligned.
+
 ### Executive Summary and UHI white paper (decision 0038)
 - Executive Summary aligned with the current platform: preschool for four-year-olds, childcare caps, eldercare in UHI, paid leave benefit, training cap, student-loan terms, homelessness and eviction prevention, full tier 1 list, the wealth-tax exception, new Federal Tax Fairness and What the Costing Shows sections.
 - UHI contribution rates left for expert review: the white paper's Financing Framework and Open Policy Questions now set out the scale, constraints, and questions for reviewers.

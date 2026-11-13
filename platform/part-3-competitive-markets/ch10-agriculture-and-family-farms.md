@@ -1,6 +1,6 @@
 ## Chapter 10: Agriculture & Family Farms
 
-*Funding role: most of this chapter changes market rules. Current crop insurance continues under current law. The enhancements in Section 10.1.8 are a fixed-budget General Fund program that expands only after tier 1 is fully funded, within a statutory ceiling (Section 27.9).*
+*Funding role: most of this chapter changes market rules. Current crop insurance continues under current law. The enhancements in Section 10.1.8 are a fixed-budget General Fund program that expands only after tiers 1 and 2 are fully funded, within a statutory ceiling (Section 27.9).*
 
 ### 10.1 Agricultural Market Fairness & Family Farm Protection \[Statute – High Resistance\]
 
@@ -108,7 +108,7 @@ Priority categories may include:
 
 #### 10.1.8 National Farm Risk Protection Program
 
-Family farms shall have access to comprehensive crop and disaster insurance protection. This program shall build on and expand the existing federal crop insurance system.
+Family farms shall have access to comprehensive crop and disaster insurance protection. This program shall build on and expand the existing federal crop insurance system. Its enhanced benefits are capped at \$3 billion a year, indexed for inflation, and are designed to replace ad hoc disaster payments, which Congress should no longer need to authorize for losses the program covers (Section 27.9).
 
 Coverage shall include:
 

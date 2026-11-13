@@ -124,8 +124,8 @@ Programs in tiers 3 and 4 may also be paid from the smoothed transfer in Section
 **Fixed-budget programs.** Research expansion, national service, the public housing developer's operations, state rent stabilization grants, and the enhancements to the National Farm Risk Protection Program are not ranked in the tiers. They follow these rules:
 
 - each continues at its current-law funding level;
-- expansion above current-law levels occurs only after the first tier is fully funded;
-- expansion remains subject to a fixed statutory ceiling for each program and to the spending cap in Section 27.6;
+- expansion above current-law levels occurs only after tiers 1 and 2 are fully funded, and is paid from stable General Fund revenue ahead of tier 3, never from the wealth-tax transfer;
+- expansion remains subject to a fixed statutory ceiling for each program and to the spending cap in Section 27.6. The annual ceilings, indexed for inflation, are: research expansion, \$8 billion (Section 18.2.1); national service, \$1.25 billion (Section 25.2); National Farm Risk Protection Program enhancements, \$3 billion (Section 10.1.8); public housing developer operations, \$1 billion (Section 8.1.4); and state rent stabilization grants, \$500 million (Section 8.2.6), about \$137 billion in all over ten years;
 - construction of long-lived assets uses the Capital Investment Account (Section 27.5) and the borrowing rule in Section 27.7, and its debt service is paid through that account rather than waiting in the tier order;
 - the National Farm Risk Protection Program preserves current-law crop insurance commitments, and only its enhanced benefits are subject to the ceiling.
 
