@@ -174,7 +174,7 @@ The deadlines for the 2024 Title II rule have already been delayed once by inter
 
 #### 13.5.2 Automated Decisions
 
-Automated and AI systems used to make or support decisions about hiring, employment, housing, credit, public benefits, or health care shall be accessible to people with disabilities. Anyone affected may request review by a person instead, and that request shall itself be an accommodation the decision-maker must provide. This section works alongside the AI oversight framework in Chapter 19.
+Automated and AI systems used to make or support decisions about hiring, employment, housing, credit, public benefits, or health care shall be accessible to people with disabilities. Anyone affected may request review by a person instead, and that request shall itself be an accommodation the decision-maker must provide. This section works alongside the AI oversight framework in Chapter 19 and the workplace rules in Section 3.6.
 
 #### 13.5.3 Community Integration
 
