@@ -34,7 +34,14 @@ Since 1976, the Hyde Amendment and related riders on annual spending bills have 
 
 Universal Health Insurance shall cover abortion care through 24 weeks and 6 days of pregnancy, measured from the first day of the last menstrual period, for any reason. Every patient shall be told this date in writing at her first pregnancy-related visit.
 
-The platform uses a fixed date rather than "viability" because medicine recognizes no single point of viability. Survival outside the uterus becomes possible during a range of roughly 20 to 26 weeks, and it varies with the pregnancy and the care available \[1\]. A fixed date that every patient and clinician can know in advance protects patients better than a standard that would have to be judged case by case.
+**Why 24 weeks and 6 days.** The date was chosen for six reasons:
+
+1. **A fixed date, not "viability."** Medicine recognizes no single clinical definition of viability by gestational age. The American College of Obstetricians and Gynecologists describes a "periviable" range of roughly 20 to 25 weeks, and the prospects of an infant born early depend on the individual pregnancy and the care available \[1\]. A coverage rule tied to viability would require a judgment about each pregnancy, and a patient could not know her deadline in advance. A fixed date can be known by every patient and clinician from the first visit.
+2. **Time after the anatomy scan.** Most serious fetal conditions are found at the routine anatomy ultrasound, performed between 18 and 22 weeks \[3\]. Scans before 20 weeks are often incomplete, and a substantial share of anomalies are identified only at a follow-up scan \[4\]. Families who learn of a serious diagnosis at 20 to 22 weeks need time for a repeat scan, specialist confirmation, and counseling. An earlier date, such as 15 or 20 weeks, would end coverage for exactly those families.
+3. **Not later.** By 25 to 26 weeks most infants born early survive with intensive care. Covering abortion for any reason past that point would not be defensible.
+4. **A familiar reference point.** Twenty-four weeks has been the most common reference point for viability in U.S. law since *Roe v. Wade* (1973), so the platform does not invent a new line.
+5. **Allowance for dating error.** The additional six days allow for the margin of error in dating a pregnancy during the second trimester, so that no patient loses coverage over a disagreement about dating.
+6. **Few patients are affected.** In 2022, 92.8 percent of abortions took place at or before 13 weeks of pregnancy and 1.1 percent at 21 weeks or later \[5\]. The date matters mainly for patients with a late diagnosis, a serious complication, or a pregnancy caused by abuse, and Sections 6.2.2 to 6.2.4 are written for them.
 
 #### 6.2.2 Coverage After 24 Weeks
 
@@ -50,10 +57,21 @@ No second opinion, committee approval, or government review shall be required be
 
 Abortion care for a pregnancy that resulted from rape or incest shall be covered at any point in pregnancy at which the care is lawful.
 
-- **No reporting requirement:** coverage shall not depend on a police report, a court finding, or any proof beyond the patient's own statement to her clinician.
+- **No reporting requirement:** coverage shall not depend on a police report or a court finding.
+- **Clinician certification:** the treating clinician shall certify in the medical record that the patient disclosed that the pregnancy resulted from rape or incest. That certification is sufficient for coverage.
+- **Other documentation accepted:** documentation from any one of the following is also sufficient, but none is required:
+  - a report to law enforcement or child protective services;
+  - a rape crisis center or victim advocate;
+  - a school counselor;
+  - a forensic medical examination;
+  - a protective order.
 - **Confidentiality:** the statement shall be confidential health information and shall not be shared with law enforcement without the patient's consent, except as required to protect a child from ongoing abuse.
 
+- **Annual reporting:** Universal Health Insurance shall publish each year the de-identified number of claims paid under this section, by stage of pregnancy.
+
 Survivors, especially minors and victims of incest, often recognize or disclose a pregnancy late. Coverage should not end because of delays the abuse itself caused.
+
+This approach builds on long-standing federal Medicaid policy under the Hyde Amendment. That policy has never required a police report. It allows states only reasonable documentation requirements that may not deny or impede coverage, and it accepts a physician's certification when the patient was unable to report \[6\].
 
 #### 6.2.4 No One Runs Out of Time
 
@@ -101,12 +119,16 @@ The objecting clinician does not have to make the referral personally. That duty
 Every provider that takes part in Universal Health Insurance shall meet the following requirements, whether or not it offers abortion care.
 
 - **Options information:** when a patient is pregnant, the provider shall tell her accurately about all of her options, including continuing the pregnancy, adoption, and abortion care, in the same visit in which the pregnancy is confirmed or discussed.
-- **Written referral:** when a patient asks for care the provider does not offer, or when it is medically indicated, the provider shall give her the following before she leaves, or within one business day for telehealth:
-  - the names, addresses, and telephone numbers of at least two of the nearest providers that offer the care, taken from the Universal Health Insurance provider directory;
-  - the date her pregnancy reaches 24 weeks and 6 days (Section 6.2.4).
+- **Universal Health Insurance referral sheet:** when a patient asks for care the provider does not offer, or when it is medically indicated, the provider shall give her a referral sheet produced by Universal Health Insurance before she leaves, or within one business day for telehealth. The sheet shall be clearly labeled as a publication of Universal Health Insurance. It shall list:
+  - the names, addresses, and telephone numbers of at least two of the nearest providers that offer the care, from the Universal Health Insurance directory;
+  - the date her pregnancy reaches 24 weeks and 6 days (Section 6.2.4);
+  - how to reach Universal Health Insurance for help scheduling care.
 - **Arranging transfer:** if the patient asks, the provider shall arrange the referral or transfer, including transferring her records, within two business days.
-- **Required statement:** a provider that does not offer a service shall say so in substance as follows: "We do not provide that service here. These providers do, and we will help you reach them." A provider shall not tell a patient that care is unavailable when it is available elsewhere, and shall not answer a request for options with a refusal alone.
-- **Public directory:** Universal Health Insurance shall maintain a public directory of providers offering abortion care, searchable by location and pregnancy stage, which every provider shall use to meet these duties.
+- **No misleading information:** a provider shall not tell a patient that care is unavailable when it is available elsewhere, shall not give false or misleading information about her diagnosis or options, and shall not answer a request for options with a refusal alone.
+- **Providers may speak for themselves:** a provider may tell the patient its own views and why it does not offer the care, so long as it also gives her the referral sheet.
+
+These duties are part of the provider's care for its own patient: informed consent and continuity of care when she asks for a service the provider does not offer. They are not a general notice to the public, and the information comes from Universal Health Insurance in its own name. That design is meant to respect the First Amendment limits on compelled speech set out in *National Institute of Family and Life Advocates v. Becerra* (2018) \[7\].
+- **Public directory:** Universal Health Insurance shall maintain a public directory of providers offering abortion care, searchable by location and pregnancy stage, from which the referral sheet is generated.
 
 #### 6.3.3 Institutions
 
@@ -127,7 +149,14 @@ Every hospital that takes part in Universal Health Insurance or Medicare, and ev
 - cause serious impairment of bodily functions; or
 - cause serious dysfunction of any bodily organ.
 
-The patient need not be at imminent risk of death. This obligation shall not depend on agency guidance. The Centers for Medicare & Medicaid Services rescinded its 2022 guidance on this point in June 2025 \[2\], so the obligation is written into statute.
+The patient need not be at imminent risk of death.
+
+**Constitutional basis.** This obligation rests on two independent powers of Congress:
+
+- its power over interstate commerce, because hospitals, emergency care, medical supplies, and the movement of patients and clinicians across state lines are interstate commerce;
+- its power to set conditions on federal health funding.
+
+Each is a separate and sufficient basis. If a court finds that one does not support part of this section, the rest shall continue in effect under the other. This obligation shall not depend on agency guidance. The Centers for Medicare & Medicaid Services rescinded its 2022 guidance on this point in June 2025 \[2\], so the obligation is written into statute.
 
 - **No institutional exemption:** no hospital may refuse required emergency care on grounds of conscience or religion.
 - **Individual clinicians:** an individual clinician may step aside only if another qualified clinician is immediately available to provide the care without delay. Otherwise the clinician shall provide it.
@@ -163,12 +192,22 @@ A pharmacist may step aside from dispensing contraception or medication for abor
 
 ### 6.4 Honest Limits
 
-- **The 24-week date will be attacked from both directions.** Some will say a fixed date is arbitrary, since viability varies, or that it is too early. Others will say Universal Health Insurance should not pay for abortion at all, or that 24 weeks is too late. The platform chose a fixed date so that patients can know it in advance. The request-date rule and early-diagnosis coverage protect patients who learn of a pregnancy late.
+- **The 24-week date will be attacked from both directions.** Some will say a fixed date is arbitrary, since viability varies, or that it is too early. Others will say Universal Health Insurance should not pay for abortion at all, or that 24 weeks is too late. The platform chose a fixed date so that patients can know it in advance, and Section 6.2.1 sets out why that date was chosen. The strongest criticism is that survival in the 24th week is already substantial with intensive care. The request-date rule and early-diagnosis coverage protect patients who learn of a pregnancy late.
 - **Taxpayer objections are sincere and lasting.** Many Americans believe abortion ends a human life and object to public funding. Supporters of the Hyde Amendment credit it with reducing abortions. This chapter does not resolve that disagreement. It sets coverage rules in statute, limits coverage after 24 weeks to defined circumstances, and fully protects clinicians who will not take part.
 - **Statutes can be repealed.** Section 6.2.6 makes a new restriction harder to add through a spending bill, but a future Congress can amend the Universal Health Insurance statute. Passing this chapter at all would likely require changing the Senate filibuster, a question for Appendix B.
-- **The rape and incest provision relies on the patient's word.** Critics will say a statement to a clinician is open to abuse. Requiring a police report would deter survivors, especially minors and victims of family members, from seeking care.
+- **The rape and incest provision does not require a police report.** Critics will say it is open to abuse. The provision answers that in three ways:
+  - it requires a clinician's certification;
+  - it accepts a range of other documentation;
+  - it publishes annual counts of claims.
+
+  The number of cases involved is small: only about 1 percent of abortions occur at 21 weeks or later, and pregnancies from rape or incest after 24 weeks are a small share of those \[5\]. Requiring a police report would deter survivors, especially minors and victims of family members, from seeking care.
 - **Emergency-care preemption will be challenged.** The obligation rests on Congress's power to set conditions for hospitals that take federal health funding, and on the Supremacy Clause. In 2024 the Supreme Court dismissed the Idaho case without deciding whether the Emergency Medical Treatment and Labor Act overrides state abortion bans. The question remains open. Writing the duty and the protections for clinicians into statute is the strongest available answer, but courts will decide it.
-- **Duties on religious institutions will be litigated.** Religious hospitals may argue that the options-information and written-referral duties burden their religious exercise under the Religious Freedom Restoration Act or the First Amendment. The platform's position is that telling a patient where else care is available, using a public directory, does not require taking part in the procedure. Courts have not settled that question.
+- **Duties on religious institutions will be litigated.** Religious hospitals may argue that the options-information and referral duties burden their religious exercise, or compel speech in violation of the First Amendment. *NIFLA v. Becerra* struck down a state requirement that licensed pregnancy centers post a state-written notice about abortion services \[7\]. Section 6.3.2 is designed around that decision in three ways:
+  - it ties the duties to the provider's care for its own patient;
+  - it uses a referral sheet issued by Universal Health Insurance in its own name;
+  - it lets providers state their own views.
+
+  Courts have not decided whether that is enough.
 - **Access where only a religious hospital exists depends on resources.** Guaranteeing access in communities whose only hospital is a religious nonprofit requires contracts, telehealth, and transport that Universal Health Insurance must fund and maintain.
 
 ### Sources
@@ -176,3 +215,13 @@ A pharmacist may step aside from dispensing contraception or medication for abor
 \[1\] Physicians for Reproductive Health, "Policy FAQ: Viability" (2024), noting that the American College of Obstetricians and Gynecologists recognizes no single clinical definition of viability based on gestational age. https://prh.org/wp-content/uploads/2024/08/policy-viability-faq.pdf
 
 \[2\] Congressional Research Service, "Overview of the Emergency Medical Treatment and Active Labor Act (EMTALA) and Emergency Abortion Services," IF12355 (updated July 20, 2026). https://www.everycrsreport.com/files/2026-07-20_IF12355_c9507c0a0f663b7dd5061e90a54589c79df76d91.html
+
+\[3\] StatPearls, "Sonography 2nd Trimester Assessment, Protocols, and Interpretation," NCBI Bookshelf NBK570574. https://www.ncbi.nlm.nih.gov/books/NBK570574/
+
+\[4\] Henkel, Beshar, and Cahill, "Impact of a Potential 20-Week Abortion Ban on Likelihood of Completing Required Views in Second-Trimester Fetal Anatomy Ultrasound," *American Journal of Perinatology* 41, no. 6 (2024). https://thieme-connect.de/products/ejournals/pdf/10.1055/s-0042-1749138.pdf
+
+\[5\] Centers for Disease Control and Prevention, "Abortion Surveillance — United States, 2022," *MMWR Surveillance Summaries* 73, no. 7 (2024). https://www.cdc.gov/mmwr/volumes/73/ss/ss7307a1.htm
+
+\[6\] Health Care Financing Administration, State Medicaid Director Letter (Feb. 12, 1998), on 42 C.F.R. §§ 441.203 and 441.206. https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/CMS/smd021298.pdf
+
+\[7\] *National Institute of Family and Life Advocates v. Becerra*, 585 U.S. 755 (2018). https://www.supremecourt.gov/opinions/17pdf/16-1140_5368.pdf

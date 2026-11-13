@@ -33,6 +33,24 @@ How should Universal Health Insurance cover abortion care in light of the Hyde A
   - Retaliation is prohibited.
 - **K4:** option A.
 
+## Revisions after review (Nov 13)
+1. **The 24-week date is kept.** The six reasons for choosing it are written into Section 6.2.1:
+   - a fixed date rather than viability;
+   - time after the anatomy scan;
+   - not later, because survival at 25 to 26 weeks;
+   - the familiar legal reference point;
+   - an allowance for dating error;
+   - the small number of patients affected.
+   The alternative of 23 weeks and 6 days was considered and not adopted.
+2. **Rape and incest.**
+   - The clinician certifies the patient's disclosure.
+   - Other documentation is accepted, though none is required.
+   - Claims are reported publicly each year.
+   - Section 6.4 explains that only a small number of cases are involved.
+   - Criminal penalties for false statements were rejected, because they would deter survivors who later recant.
+3. **The required statement is replaced by a referral sheet.** Providers hand over a referral sheet labeled as coming from Universal Health Insurance, and may state their own views. This is designed around *NIFLA v. Becerra* (2018).
+4. **Emergency care rests on two powers.** The obligation is based on the commerce power and on the conditions Congress may set on federal health funding, each independently sufficient.
+
 ## Why
 - Under Universal Health Insurance, a Hyde-style exclusion would end coverage for nearly everyone.
 - A fixed date protects patients better than a case-by-case viability judgment.
