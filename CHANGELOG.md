@@ -2,19 +2,16 @@
 
 Newest first. Each entry lists what changed and which decision records it follows.
 
-## Unreleased: v1.3 Costed Edition (in progress)
+## v1.3 Costed Edition (November 13, 2026)
 
-### Appendix E: Costing and Affordability (P4)
-- New Appendix E and costing data (`data/costing.csv`, `data/revenue-estimates.csv`).
-- General Fund revenue: illustrative range of about $860 billion to $1.2 trillion over ten years (not additive). Chapter 2 honest limit updated.
-- Tier 1 cost estimates and first affordability test: steps 1 to 3 funded in both cases.
-- Tier 2 cost estimates and affordability test: under favorable assumptions tier 2 steps 1 to 3 (homelessness vouchers, eviction prevention, universal preschool) are funded if the training cap is no more than about $125 billion; childcare caps ($460 to $700 billion) wait; eldercare caps not yet estimable.
-- Tier 3 cost estimates: tuition-free public higher education ($700 to $800 billion) and K-12 equity funding ($360 to $400 billion) wait in both cases; student-loan reform not yet estimable. Estimated tier 1 to 3 costs (about $2.6 to $3.3 trillion) are roughly two to four times identified General Fund revenue.
-
-### Remaining estimates (P4)
-- Student-loan reform estimated at about $400 to $900 billion, universal housing vouchers at about $300 to $750 billion, and the Disabled Access Credit expansion at about $1 to $10 billion (platform arithmetic, low confidence). Every General Fund program is now estimated: the favorable case funds every tier with about $1.4 trillion to spare; the conservative case is about $3 trillion short.
+### Summary
+- New Appendix E compares every program with comparable published cost and revenue estimates (not independent scores) and runs a tier-by-tier affordability test and trust-fund balance tests.
+- Final results: stable General Fund revenue of about $1.2 to $1.8 trillion over ten years plus a smoothed wealth-tax transfer of about $0.5 to $2.2 trillion, against about $3.5 to $5.1 trillion for all four tiers and the fixed-budget expansions. The favorable case funds every tier; the conservative case funds tier 1, homelessness vouchers, and K-12 equity funding, and the rest waits until revenue grows. Social Security's reforms close an estimated 60 to 70 percent of its 75-year shortfall. Universal Health Insurance contribution rates are left for expert review.
+- Social Security white paper updated for the 2026 Trustees Report and the new investment-income contribution; all three white papers reissued as v1.3.
+- Entries below are newest first. Figures in earlier entries were interim results, superseded by later ones.
 
 ### Cleanup (decision E5)
+- Release: version 1.3 across the front matter, summaries, white papers, CITATION.cff, README, and website.
 - Chapters 3, 4, and 7 no longer restate phase-in step numbers; they point to Section 27.9, which alone sets the order.
 - Honest limits checked for uncited figures; Section 2.13 now cites the IRS interim guidance on the corporate minimum tax.
 
@@ -41,6 +38,9 @@ Newest first. Each entry lists what changed and which decision records it follow
 - Eldercare is now part of the Universal Health Insurance long-term care benefit, with room-and-board caps and caregiver support (Sections 3.4, 5.1.1, 27.4). Tier 2 no longer has an eldercare step (Section 27.9, Appendix B, Executive Summary).
 - Disabled Access Credit: digital accessibility covered and the spending limit doubled to $20,500 (Section 13.5.1).
 
+### Remaining estimates (P4)
+- Student-loan reform estimated at about $400 to $900 billion, universal housing vouchers at about $300 to $750 billion, and the Disabled Access Credit expansion at about $1 to $10 billion (platform arithmetic, low confidence). Every General Fund program is now estimated: the favorable case funds every tier with about $1.4 trillion to spare; the conservative case is about $3 trillion short.
+
 ### Tier 3 order and training cap (decision 0035)
 - Section 27.9: tier 3 is now K-12 equity funding, then tuition-free college, then student-loan reform, with a narrow wealth-tax exception that lets the smoothed transfer start tier 3 while a tier 2 step waits only for stable revenue.
 - Section 3.6.9: training and apprenticeship cap set at $5 billion a year, indexed.
@@ -61,6 +61,13 @@ Newest first. Each entry lists what changed and which decision records it follow
 - Tier 1, step 3 (Child Tax Credit) split into step 3, full refundability, and step 4, the young child supplement.
 - Training and the Disabled Access Credit move to step 5.
 - Sections 3.6.9, 4.2.2, 4.8, 4.9, 27.4, and 27.9 and the Executive Summary updated.
+
+### Appendix E: Costing and Affordability (P4)
+- New Appendix E and costing data (`data/costing.csv`, `data/revenue-estimates.csv`).
+- General Fund revenue: illustrative range of about $860 billion to $1.2 trillion over ten years (not additive). Chapter 2 honest limit updated.
+- Tier 1 cost estimates and first affordability test: steps 1 to 3 funded in both cases.
+- Tier 2 cost estimates and affordability test: under favorable assumptions tier 2 steps 1 to 3 (homelessness vouchers, eviction prevention, universal preschool) are funded if the training cap is no more than about $125 billion; childcare caps ($460 to $700 billion) wait; eldercare caps not yet estimable.
+- Tier 3 cost estimates: tuition-free public higher education ($700 to $800 billion) and K-12 equity funding ($360 to $400 billion) wait in both cases; student-loan reform not yet estimable. Estimated tier 1 to 3 costs (about $2.6 to $3.3 trillion) are roughly two to four times identified General Fund revenue.
 
 ## v1.2 Complete Edition (November 13, 2026)
 

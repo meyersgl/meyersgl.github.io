@@ -2,7 +2,7 @@
 
 A Governing Blueprint for Shared Prosperity, Competitive Markets, Democratic Accountability, Scientific Advancement, and National Resilience
 
-Version 1.2 — Complete Edition
+Version 1.3 — Costed Edition
 
 Gregory L. Meyers
 
@@ -12,7 +12,7 @@ Government provides the foundation. Citizens provide the ambition. Markets provi
 
 © 2026 Gregory L. Meyers. Licensed under CC BY-ND 4.0 (see LICENSE).
 
-Public Release Version 1.2
+Public Release Version 1.3
 
 # AUTHOR'S NOTE
 
@@ -22,7 +22,7 @@ Various software tools, including artificial intelligence-assisted drafting, edi
 
 This document represents the author's policy recommendations and governing philosophy. Its purpose is to provide a comprehensive framework for public discussion concerning economic opportunity, democratic accountability, competitive markets, scientific progress, fiscal responsibility, and long-term national resilience.
 
-**Version: 1.2**
+**Version: 1.3**
 
 **Publication Date: November 2026**
 
@@ -34,7 +34,7 @@ This document represents the author's policy recommendations and governing philo
 
 **Subtitle:** A Governing Blueprint for Shared Prosperity, Competitive Markets, Democratic Accountability, Scientific Advancement, and National Resilience
 
-**Version:** 1.2
+**Version:** 1.3
 
 **Author:** Gregory L. Meyers
 
@@ -42,7 +42,7 @@ This document represents the author's policy recommendations and governing philo
 
 **Document Purpose:** Public Policy Platform and Governing Framework
 
-**Status:** Third Public Release (Complete Edition)
+**Status:** Fourth Public Release (Costed Edition)
 
 Version History
 
@@ -67,5 +67,17 @@ Complete Edition. Fills the gaps identified in the v1.1 audit:
 - a completed General Fund phase-in order;
 - a new Appendix B on implementation and legislative strategy, including a Senate rules reform;
 - a Scope page and honest-limit notes for every High Resistance plank.
+
+Version 1.3 \| November 2026
+
+Costed Edition. Compares every program with published cost and revenue estimates and tests what the platform's revenue can pay for:
+- a new Appendix E with cost and revenue estimates, a tier-by-tier affordability test, and trust-fund balance tests;
+- a Warren-style wealth tax with a smoothed transfer to later-tier programs (Chapter 2, Section 27.5);
+- new top-earner revenue: the pass-through deduction phased out above the top bracket, a funded audit division, and a Social Security contribution on investment income above $1 million;
+- a revised phase-in order, with eldercare moved into Universal Health Insurance and statutory ceilings for fixed-budget programs (Section 27.9);
+- a progressive paid leave benefit and a $5 billion cap on training and apprenticeships;
+- an updated Social Security white paper reflecting the 2026 Trustees Report.
+
+Its estimates are comparable published figures and the platform's own arithmetic, not independent scores.
 
 See CHANGELOG.md for the full list.

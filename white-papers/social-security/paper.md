@@ -2,16 +2,16 @@
 title: "Social Security Solvency"
 subtitle: "Without Benefit Cuts or Raising the Retirement Age: A Proposal for Long-Term Retirement Security"
 author: Gregory L. Meyers
-version: "1.2"
+version: "1.3"
 edition: "November 2026"
 platform_chapter: 26   # chapter number in the Phase 3 master architecture
 status: published
-published_pdf: docs/Social_Security_Solvency_v1.2.pdf
+published_pdf: docs/Social_Security_Solvency_v1.3.pdf
 ---
 
 # A Proposal for Long-Term Retirement Security
 
-White Paper Version 1.2
+White Paper Version 1.3
 
 Gregory L. Meyers
 
@@ -34,6 +34,8 @@ This proposal seeks to strengthen Social Security finances through:
 - Elimination of the payroll tax cap, with no additional benefits for earnings above the current cap.
 
 - Inclusion of high-income pass-through business income within the contribution base.
+
+- A 12.4 percent contribution on investment income above $1 million, with no added benefits.
 
 - Exploration of a supplemental Social Security endowment funded only from excess revenue.
 
@@ -191,7 +193,7 @@ These questions require independent economic analysis.
 
 Public estimates provide a starting point. Social Security's Office of the Chief Actuary has published scores of removing the cap both with and without benefit credit for the added earnings \[3\]\[4\]. In its 2021 scoring of a version that credits benefits on the added earnings, removing the cap closed about 57 percent of the then-projected 75-year deficit of 3.54 percent of taxable payroll, a gain of 2.00 percentage points of payroll \[4\]. Its 2016 scoring of a version with no benefit credit, the design proposed here, showed a gain of 2.36 percentage points \[3\].
 
-As an illustration only, and not an actuarial estimate, a gain of two to two-and-a-half percentage points of payroll would close roughly 45 to 55 percent of today's 4.42 percent deficit. Current scoring is needed. In a Congressional Research Service analysis, about 83 percent of covered earnings were subject to the payroll tax \[5\].
+The Chief Actuary's most recent score of the no-benefit-credit design, on the 2025 Trustees Report's assumptions, shows a gain of about 2.55 percentage points of payroll \[7\]. Against the 2026 report's deficit of 4.42 percent, that would close roughly 58 percent of the gap and leave about 1.9 percent. A score on the 2026 assumptions is still needed. In a Congressional Research Service analysis, about 83 percent of covered earnings were subject to the payroll tax \[5\].
 
 # Reform Two: Include High-Income Pass-Through Income
 
@@ -233,7 +235,17 @@ Important questions include:
 
 These issues warrant careful review by economists and tax experts.
 
-# Reform Three: Social Security Endowment
+# Reform Three: Contribution on Investment Income Above $1 Million
+
+Wages pay Social Security contributions; investment income does not. At the very top, most income comes from investments, so even with the payroll tax cap removed, the wealthiest households would contribute on only a small share of their income.
+
+This paper therefore proposes a 12.4 percent contribution, the combined rate on wages, on net investment income (gains, dividends, interest, rents, royalties, and passive business income) to the extent a taxpayer's income exceeds $1 million ($2 million for married couples filing jointly), indexed for inflation. Like earnings above the taxable maximum, this income earns no added benefits. Revenue goes to the Social Security trust funds.
+
+By platform arithmetic built from published estimates of similar surtaxes, the contribution may raise about $300 billion to $850 billion over ten years, roughly 0.2 to 0.6 percent of taxable payroll. That would leave about 1.3 to 1.7 percent of the 75-year deficit to close.
+
+The design has costs. With this contribution, the top federal rate on long-term gains and dividends would be 55.8 percent, the same as the top rate on wages, but well above the roughly 42 percent rate at which revenue from gains is estimated to peak. Wealthy taxpayers may hold assets longer to defer the contribution, so most of the revenue is likely to come from dividends, interest, and rents rather than gains.
+
+# Reform Four: Social Security Endowment
 
 This paper also proposes exploration of a supplemental Social Security endowment.
 
@@ -245,9 +257,9 @@ Rather, it would serve as an additional layer of long-term financial support.
 
 ## Funding
 
-The endowment would be funded only from excess revenue: revenue from the reforms in this paper that remains after higher-priority needs are met, including paying scheduled benefits and maintaining trust-fund reserves. Because these reforms have not yet been scored, it is not known whether any excess would exist. If the revenue reforms fall short of closing the long-term gap, the endowment would not be funded, and the residual-gap question in the Open Policy Question section would apply.
+The endowment would be funded only from excess revenue: revenue from the reforms in this paper that remains after higher-priority needs are met, including paying scheduled benefits and maintaining trust-fund reserves. Current estimates suggest no excess would exist: the reforms in this paper leave about 1.3 to 1.7 percent of taxable payroll unfunded. If the revenue reforms fall short of closing the long-term gap, the endowment would not be funded, and the residual-gap question in the Open Policy Question section would apply.
 
-Revenue from any separate wealth tax would remain reserved for economic downturns and would not be used to capitalize this endowment.
+Revenue from the platform's wealth tax would not be used to capitalize this endowment; it is reserved for a recession reserve and later-tier General Fund programs.
 
 Under current law, the trust funds hold special Treasury securities, so investing in diversified market funds would require legislation.
 
@@ -357,7 +369,7 @@ Additional analysis should occur before implementation of any reform package.
 
 One unresolved issue remains particularly important.
 
-If elimination of the payroll tax cap and pass-through income integration prove insufficient to achieve long-term solvency, which public estimates suggest is a real possibility, what should occur next?
+If elimination of the payroll tax cap, pass-through income integration, and the contribution on investment income prove insufficient to achieve long-term solvency, what should occur next? Current estimates suggest they will: about 1.3 to 1.7 percent of taxable payroll would remain.
 
 Potential options include:
 
@@ -454,3 +466,5 @@ The purpose is to begin it.
 \[7\] Center for Retirement Research at Boston College, Issue Brief 26-12 on the 2026 Social Security Trustees Report, June 2026. https://crr.bc.edu/wp-content/uploads/2026/06/IB_26-12-1.pdf
 
 \[8\] Congressional Research Service, "Social Security: Selected Findings of the 2026 Annual Report," IF13256, June 25, 2026. https://www.everycrsreport.com/reports/IF13256.html
+
+\[7\] SSA Office of the Chief Actuary, Summary Measures and Graphs, provision E2.1: eliminate the taxable maximum, no benefit credit (2025 Trustees Report basis, September 2025). https://www.ssa.gov/OACT/solvency/provisions_tr2025/charts/chart_run415.html
