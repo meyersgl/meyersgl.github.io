@@ -1,0 +1,58 @@
+name: Cost or revenue estimate
+description: You have a better estimate, source, or method for a cost or revenue figure in Appendix E.
+labels: ["cost-estimate"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Appendix E uses comparable published estimates and the author's arithmetic, not independent scores. Better estimates are welcome. See REVIEW.md for the evidence standard.
+  - type: input
+    id: row
+    attributes:
+      label: Program or revenue measure
+      description: The row in Appendix E, or in data/costing.csv or data/revenue-estimates.csv (for example, "Universal preschool for 4-year-olds").
+    validations:
+      required: true
+  - type: input
+    id: current
+    attributes:
+      label: Current estimate in Appendix E
+      description: For example, "100 to 170 ($ billions over ten years)".
+    validations:
+      required: true
+  - type: input
+    id: proposed
+    attributes:
+      label: Your estimate or range
+    validations:
+      required: true
+  - type: textarea
+    id: basis
+    attributes:
+      label: Source or method
+      description: Link to the published estimate, or show your calculation and its assumptions.
+    validations:
+      required: true
+  - type: input
+    id: window
+    attributes:
+      label: Date and budget window
+      description: For example, "CBO, February 2026; FY2027 to FY2036".
+  - type: dropdown
+    id: type
+    attributes:
+      label: Estimate type
+      options:
+        - Conventional
+        - Dynamic
+        - 75-year actuarial
+        - Other or not sure
+  - type: textarea
+    id: differences
+    attributes:
+      label: How the scored design differs from the platform's
+      description: For example, a different income threshold, age group, or phase-in.
+  - type: input
+    id: expertise
+    attributes:
+      label: Your relevant expertise and any interest to disclose (optional)

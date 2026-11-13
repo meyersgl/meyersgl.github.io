@@ -22,7 +22,7 @@ A working-draft policy platform by Gregory L. Meyers, open to expert review. The
 
 ## How to review
 
-Critique is the point. Open an [issue](https://github.com/meyersgl/meyersgl.github.io/issues/new/choose) using the template that fits (policy feedback, fact-check, or contradiction report), and include evidence. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
+Critique is the point. Experts should start with [`REVIEW.md`](REVIEW.md), which lists the questions where review is most needed. Open an [issue](https://github.com/meyersgl/meyersgl.github.io/issues/new/choose) using the template that fits (cost or revenue estimate, fact-check, contradiction report, or policy feedback), use [Discussions](https://github.com/meyersgl/meyersgl.github.io/discussions) for open questions, and include evidence. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## How the PDFs are built
 
