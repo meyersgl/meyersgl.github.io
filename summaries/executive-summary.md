@@ -148,7 +148,7 @@ The platform supports reforms designed to strengthen public confidence in govern
 
 - Election security and accessibility
 
-- Independent oversight mechanisms
+- Independent oversight, statutory enforcement duties, and legislative-branch review mechanisms
 
 - Evidence-based governance standards
 
@@ -180,7 +180,7 @@ Every full-time worker should be able to meet basic living expenses without requ
 
 ### Income Security
 
-The safety net should always reward work and should never leave people who cannot work without food or health care over paperwork. The platform makes the Child Tax Credit fully refundable, adds a supplement for children under six, and expands the Earned Income Tax Credit for workers without children. Families keep at least half of each additional dollar they earn as benefits phase out. SSI asset limits rise and are indexed for the first time since 1989. Unemployment insurance meets national minimum standards, and extended benefits start automatically in recessions. SNAP keeps a work expectation, with protections for people with disabilities, caregivers, veterans, people experiencing homelessness, and young adults leaving foster care, and the 2025 cuts to SNAP benefits, state funding, and eligibility are reversed. Medicaid work requirements are repealed, and states may join a voluntary compact as Medicaid enrollees move into Universal Health Insurance.
+The safety net should always reward work and should never leave people who cannot work without food or health care over paperwork. The platform makes the Child Tax Credit fully refundable, adds a supplement for children under six, and expands the Earned Income Tax Credit for workers without children. Families keep at least half of each additional dollar they earn as benefits phase out. SSI asset limits rise and are indexed for the first time since 1989. Unemployment insurance meets national minimum standards, and extended benefits start automatically in recessions. SNAP keeps a work expectation, with protections for people with disabilities, caregivers, veterans, people experiencing homelessness, and young adults leaving foster care, and the 2025 cuts to SNAP benefits, state funding, and eligibility are reversed. Medicaid work requirements are repealed, and states may join a voluntary compact as Medicaid enrollees move into Universal Health Insurance. Paid family and medical leave is financed through a dedicated trust fund rather than the General Fund.
 
 ### Technology and Work
 

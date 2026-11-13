@@ -6,7 +6,7 @@ The Social Democratic Market Platform rejects the false choice between centraliz
 
 **Opportunity**
 
-Universal health insurance · Universal preschool · Tuition-free public higher education · Affordable housing
+Universal health insurance · Income security · Paid family leave · Universal preschool · Tuition-free public higher education · Housing affordability & homelessness
 
 **Growth**
 
@@ -14,7 +14,7 @@ Competitive markets · Small business and entrepreneurship · Scientific researc
 
 **Accountability**
 
-Anti-corruption reform · Campaign finance reform · Government transparency · Election security
+Anti-corruption reform · Campaign finance reform · Voting and civil rights · Officer accountability · Election security
 
 **OUR PRINCIPLES**
 
@@ -25,7 +25,7 @@ Anti-corruption reform · Campaign finance reform · Government transparency · 
 ✓ Growth should be broadly shared.  
 ✓ Public investment should be fiscally responsible.
 
-*Every program has a named, single-use funding source and an independent cost estimate before it takes effect.*
+*Every program must have a named, single-use funding source and an independent cost estimate before it takes effect.*
 
 **Build the foundation. Expand opportunity. Strengthen democracy. Invest in the future. Empower the people.**
 

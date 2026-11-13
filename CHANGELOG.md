@@ -14,7 +14,9 @@ Newest first. Each entry lists what changed and which decision records it follow
   - Executive Summary gains a Reproductive Health section (including foreign assistance) and a corrected phase-in paragraph;
   - PDF tables no longer split a row across pages;
   - PDF metadata records the version, and the README names v1.2 as current;
-  - Executive Summary states that the Senate rules bind every future majority and mentions the Disabled Access Credit.
+  - Executive Summary states that the Senate rules bind every future majority and mentions the Disabled Access Credit;
+  - Executive Summary describes oversight as statutory duties and legislative-branch review, and mentions the Paid Leave Trust Fund;
+  - One Pager adds income security, paid leave, homelessness, civil rights, and officer accountability, and says programs *must* be costed before taking effect.
 
 ### Chapter 2: Federal Tax Fairness (decision 0022)
 - New Sections 2.6 to 2.13:
