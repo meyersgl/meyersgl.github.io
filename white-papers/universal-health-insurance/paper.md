@@ -269,11 +269,18 @@ Universal Health Insurance would be financed through a combination of:
 
 - Employer contributions.
 
-Wealth-tax revenue would not be used for health financing. Under the platform's financing rules, each revenue stream has exactly one use, and wealth-tax revenue is reserved solely for recession stabilization.
+Wealth-tax revenue would not be used for health financing. Under the platform's financing rules, each revenue stream has exactly one use. Wealth-tax revenue first fills the Sovereign Wealth Reserve for recessions, and only a smoothed share reaches later-tier General Fund programs; none of it reaches the UHI Trust Fund.
 
-The proposal does not yet specify exact tax rates.
+The proposal does not yet specify exact contribution rates. The platform deliberately leaves them for independent scoring and expert review rather than setting rates before the costs are known.
 
-Those questions require independent fiscal analysis.
+The platform's own costing (Appendix E.4 of the full platform) shows the scale of the question. Comparable single-payer designs that include long-term care would add about \$32.6 trillion (Mercatus Center) to \$34 trillion (Urban Institute) to federal spending over ten years. Much of that would replace premiums, deductibles, and state Medicaid spending rather than add to national health spending: the Congressional Budget Office's 2020 options found national health spending in 2030 ranging from about \$0.7 trillion lower to \$0.3 trillion higher than under current law. Even so, the Trust Fund would need to raise roughly \$3 trillion or more a year.
+
+Any financing design must work within four fixed constraints:
+
+- **The wage ceiling.** Combined federal tax rates on wages may not exceed 60 percent (Section 2.8 of the platform), which leaves about 4.2 percent for the UHI contribution on wages above the top income-tax bracket threshold.
+- **No General Fund support.** A shortfall slows UHI's phase-in; it is never covered from the General Fund or another revenue stream.
+- **Long-term care and eldercare are included.** Care for older adults is part of the long-term care benefit, with room-and-board costs capped by income (Section 5.1.1).
+- **Savings lower rates.** Savings from consolidated health financing and the share of drug-negotiation savings not assigned to the Innovation Fund lower contribution rates and are counted nowhere else.
 
 However, the framework begins from an important observation.
 
@@ -525,7 +532,12 @@ Several important questions remain open.
 
 ## Financing
 
-What combination of taxes, employer contributions, and healthcare savings would be required?
+What combination of payroll contributions, employer contributions, income-based taxes, state compact payments, and healthcare savings would be required? Specific questions for reviewers:
+
+- What contribution rates would balance the Trust Fund over ten years and over the long term, within the 60 percent wage ceiling?
+- How should current employer premium spending convert into employer contributions, and how should wages adjust as premiums end?
+- How should the burden be shared between payroll and income-based contributions so that middle-income households pay less than they now pay in premiums and out-of-pocket costs?
+- How fast can the system phase in if revenue falls short, given that it may not draw on the General Fund?
 
 ## Provider Payment
 
@@ -541,7 +553,7 @@ What mechanisms should manage utilization and spending growth when covered care 
 
 ## Long-Term Care
 
-What benefit structure would be sustainable over multiple decades?
+What benefit structure, including eldercare and the income-based caps on room and board, would be sustainable over multiple decades?
 
 ## Workforce Supply
 

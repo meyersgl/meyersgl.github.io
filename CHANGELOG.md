@@ -14,6 +14,10 @@ Newest first. Each entry lists what changed and which decision records it follow
 ### Remaining estimates (P4)
 - Student-loan reform estimated at about $400 to $900 billion, universal housing vouchers at about $300 to $750 billion, and the Disabled Access Credit expansion at about $1 to $10 billion (platform arithmetic, low confidence). Every General Fund program is now estimated: the favorable case funds every tier with about $1.4 trillion to spare; the conservative case is about $3 trillion short.
 
+### Executive Summary and UHI white paper (decision 0038)
+- Executive Summary aligned with the current platform: preschool for four-year-olds, childcare caps, eldercare in UHI, paid leave benefit, training cap, student-loan terms, homelessness and eviction prevention, full tier 1 list, the wealth-tax exception, new Federal Tax Fairness and What the Costing Shows sections.
+- UHI contribution rates left for expert review: the white paper's Financing Framework and Open Policy Questions now set out the scale, constraints, and questions for reviewers.
+
 ### Social Security contribution and paid leave benefit (decision 0037)
 - Section 2.7.5 is now a 12.4% Social Security contribution on investment income above $1 million (new Section 26.2.4), paid to the Social Security trust funds. Top rate on gains and dividends: 55.8%. Remaining 75-year Social Security gap: about 1.3% to 1.7% of taxable payroll.
 - Section 3.3: paid leave replaces 90% of wages up to half the national average weekly wage and 50% above, up to about $1,500 a week, indexed. Implied rate about 0.6% to 1.0% of taxable payroll.
