@@ -297,7 +297,7 @@ This sequencing is intended to reduce fiscal risk, improve administrative effect
 
 ### What the Costing Shows
 
-Appendix E of the full platform compares every General Fund program with comparable published cost estimates. These are not this platform's own score, and many rest on low-confidence arithmetic. The programs in all four tiers would cost about $3.4 trillion to $5.0 trillion over ten years. Under favorable assumptions, stable revenue and the wealth-tax share fund every tier. Under conservative assumptions, they fund the first tier, housing vouchers for people experiencing or at risk of homelessness, and K-12 equity funding; the remaining programs wait until revenue grows, leaving a gap of about $3 trillion. Social Security's reforms close most, but not all, of its 75-year shortfall. The platform publishes these results rather than claiming its promises are already paid for.
+Appendix E of the full platform compares every General Fund program with comparable published cost estimates. These are not this platform's own score, and many rest on low-confidence arithmetic. The programs in all four tiers would cost about $3.4 trillion to $5.0 trillion over ten years. Under favorable assumptions, stable revenue and the wealth-tax share fund every tier. Under conservative assumptions, they fund the first tier, housing vouchers for people experiencing or at risk of homelessness, and K-12 equity funding; the remaining programs wait until revenue grows. Social Security's reforms close most, but not all, of its 75-year shortfall. The platform publishes these results rather than claiming its promises are already paid for.
 
 ### Sustainable Revenue Sources
 
