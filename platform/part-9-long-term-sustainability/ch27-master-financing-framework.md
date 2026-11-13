@@ -111,13 +111,15 @@ Programs shall be phased in by feasibility: first low-cost statutory reforms (su
    - universal preschool (Section 7.1);
    - the childcare cost caps (Section 3.4);
    - the eldercare cost caps (Section 3.4).
-3. **Higher education and K-12**, in this order:
+3. **K-12 and higher education**, in this order:
+   - K-12 equity funding (Section 7.2.1);
    - tuition-free public higher education (Section 7.3);
-   - existing student-loan reform (Section 7.3.1);
-   - K-12 equity funding (Section 7.2.1).
+   - existing student-loan reform (Section 7.3.1).
 4. **Universal housing vouchers** for extremely low-income renters (Section 8.3.3), phased in by stages.
 
 Programs in tiers 3 and 4 may also be paid from the smoothed transfer in Section 27.5. That transfer shall never pay for tiers 1 and 2, so a fall in wealth-tax revenue, or a court ruling against the tax, can delay only the later tiers.
+
+**Wealth-tax exception.** If a tier 2 step is waiting only because the stable revenue left after every earlier step cannot cover its full cost, the smoothed transfer may pay for tier 3 steps, in order, as long as the transfer alone covers each step's full cost. Stable revenue shall continue to go to the waiting tier 2 step first, and the transfer shall never pay for any part of tiers 1 and 2. In every other case the tier order above applies without exception.
 
 **Fixed-budget programs.** Research expansion, national service, the public housing developer's operations, state rent stabilization grants, and the enhancements to the National Farm Risk Protection Program are not ranked in the tiers. They follow these rules:
 

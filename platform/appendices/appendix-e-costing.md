@@ -90,16 +90,16 @@ The affordability test in Section E.3 uses this range only to show how far reven
 | EITC for workers without children | 4.3 | 1, step 2 | 135 to 140 | Conventional | Comparable estimate (not a score) | Joint Committee on Taxation; Tax Policy Center | December 2021 (FY2022–2031); 2025 (2025–2034) | Same design as the platform: the 2021 expansion made permanent | Funded under current estimates |
 | Child Tax Credit: full refundability | 4.2.1 | 1, step 3 | 272 to 335 | Conventional (low); dynamic (high) | Comparable estimate (not a score) | Tax Foundation | 2026; 2027–2036 | Same design as the platform: the $2,200 credit with no earnings requirement | Funded under current estimates |
 | Child Tax Credit: young child supplement | 4.2.2 | 1, step 4 | 155 to 180 | Conventional | Platform arithmetic built from published estimates | Concord Coalition | About 2021; ten years | $1,000 per child under 6, scaled from a published estimate for a $1,000 credit for all children. Low confidence | Funded under current estimates |
-| Training and triggered apprenticeships (capped) | 3.6.7 to 3.6.9 | 1, step 5 | Set by statutory cap | — | Pending | — | — | The cap in Section 3.6.9 has not been set and can be sized to the revenue remaining after step 4 | Not yet estimable |
+| Training and triggered apprenticeships (capped) | 3.6.7 to 3.6.9 | 1, step 5 | About 55 | Statutory cap | Set by statute | Section 3.6.9 | \$5 billion a year, indexed; ten years | For scale, FY2026 federal funding is about \$1.1 billion for dislocated-worker grants and \$0.3 billion for apprenticeship grants | Funded under current estimates |
 | Expanded Disabled Access Credit | 13.5.1 | 1, step 5 | Pending | — | Pending | — | — | Existing credit is small; expansion parameters not yet set | Not yet estimable |
 | Housing vouchers for people experiencing or at risk of homelessness | 8.3.3 | 2, step 1 | 96 to 190 | Conventional | Platform arithmetic built from published estimates | National Alliance to End Homelessness | March 2025; one year, multiplied by ten | Low end: $9.6 billion a year to house every household in shelter. High end roughly doubles it for unsheltered households and those at imminent risk, which the source excludes. Low confidence | Funded under current estimates |
 | Emergency rental assistance and right to counsel | 8.3.6 | 2, step 2 | 71 to 78 | Conventional | Platform arithmetic built from published estimates | Legal Services Corporation; Ellen and O'Regan | About 2021; 2020; annual figures, multiplied over ten years | Counsel: $3.3 to $4.1 billion a year for all eviction cases, phased in over five years. Rental assistance: about $4.5 billion a year base program. Excludes the capped recession increase | Funded under current estimates |
 | Universal preschool for 4-year-olds | 7.1 | 2, step 3 | 100 to 170 | Conventional | Platform arithmetic built from published estimates | CRFB | December 2021; FY2022–2031 | Built from the 2021 Build Back Better pre-K plan made permanent, halved for 4-year-olds only. High end adds children in states CBO assumed would not take part. Older window likely understates. Low confidence | Funded under current estimates, if the training cap is 120 or less |
 | Childcare cost caps | 3.4 | 2, step 4 | 460 to 700 | Conventional | Platform arithmetic built from published estimates | CRFB; CBO | December 2021 and January 2022; FY2022–2031 | Built from the 2021 Build Back Better childcare plan made permanent. High end adds children in states CBO assumed would not take part. Older window likely understates. Low confidence | Partially funded under current estimates |
 | Eldercare cost caps | 3.4 | 2, step 5 | Pending | — | Pending | Urban Institute (scale only) | 2020; ten years | Depends on the long-term care benefit in Section 5.1, still open (Section 5.1.7). For scale only, related federal options cost $355 to $526 billion | Not yet estimable |
-| Tuition-free public higher education | 7.3 | 3, step 1 | 700 to 800 | Conventional | Comparable estimate (not a score) | CRFB; Georgetown Center on Education and the Workforce | 2019 (ten years); October 2020 (eleven years) | Low end assumes the federal government pays 67% and states the rest; high end is the full cost of universal tuition-free public college. The platform has not set a federal-state split. Medium-low confidence | Partially funded under current estimates |
-| Existing student-loan reform | 7.3.1 | 3, step 2 | Pending | — | Pending | CBO (scale only) | 2014; 2023 | Refinancing all federal loans at 0.01% goes far beyond any scored bill. For scale, CBO scored partial refinancing at about 4% at $51 billion and the 2023 repayment rule at $230 to $276 billion. Likely several hundred billion | Not yet estimable |
-| K-12 equity funding | 7.2.1 | 3, step 3 | 360 to 400 | Conventional | Platform arithmetic built from published estimates | Education Week | April 2023; annual figure, multiplied by ten | Reference design only: tripling Title I. Section 7.2.1 sets no dollar amount, and full equivalence with wealthier districts could cost more. Low confidence | Partially funded under current estimates |
+| K-12 equity funding | 7.2.1 | 3, step 1 | 360 to 400 | Conventional | Platform arithmetic built from published estimates | Education Week | April 2023; annual figure, multiplied by ten | Reference design only: tripling Title I. Section 7.2.1 sets no dollar amount, and full equivalence with wealthier districts could cost more. Low confidence | Funded under current estimates |
+| Tuition-free public higher education | 7.3 | 3, step 2 | 700 to 800 | Conventional | Comparable estimate (not a score) | CRFB; Georgetown Center on Education and the Workforce | 2019 (ten years); October 2020 (eleven years) | Low end assumes the federal government pays 67% and states the rest; high end is the full cost of universal tuition-free public college. The platform has not set a federal-state split. Medium-low confidence | Partially funded under current estimates |
+| Existing student-loan reform | 7.3.1 | 3, step 3 | Pending | — | Pending | CBO (scale only) | 2014; 2023 | Refinancing all federal loans at 0.01% goes far beyond any scored bill. For scale, CBO scored partial refinancing at about 4% at $51 billion and the 2023 repayment rule at $230 to $276 billion. Likely several hundred billion | Not yet estimable |
 | Universal housing vouchers | 8.3.3 | 4 | Pending | — | Pending | — | — | — | Not yet estimable |
 
 ### E.2.2 Fixed-Budget Programs
@@ -125,19 +125,19 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 
 ## E.3 Affordability Test
 
-> **Current estimate outcome (after the top-earner revenue measures in decision 0034):**
+> **Current estimate outcome (after decisions 0034 and 0035):**
 >
 > - [ ] Funds tier 1 only, or part of it
-> - [x] Funds tier 1 and part of tier 2: **conservative case**
+> - [x] Funds tier 1 and part of tier 2, plus K-12 equity from the wealth-tax transfer: **conservative case**
 > - [x] Funds tiers 1 and 2: **favorable case**, once eldercare is estimated
 > - [ ] Funds through tier 3: likely in the favorable case (illustrative), pending the student-loan estimate
 > - [ ] Funds all General Fund tiers
 >
-> Under conservative assumptions, all of tier 1 is now funded, and so are tier 2 steps 1 to 3 (homelessness vouchers, eviction prevention, and universal preschool) if the training cap is no more than about \$120 billion. Childcare caps wait, and everything after them waits too, including tier 3, even though about \$500 billion of wealth-tax transfer is available for tiers 3 and 4; under Section 27.9 a later tier cannot start before every earlier step is funded. Under favorable assumptions, tiers 1 and 2 fit within stable revenue, and the wealth-tax transfer covers most or all of tier 3.
+> Under conservative assumptions, all of tier 1 is funded, including the \$5 billion-a-year training cap, and so are tier 2 steps 1 to 3: homelessness vouchers, eviction prevention, and universal preschool. Childcare caps wait. Under the wealth-tax exception in Section 27.9, the smoothed transfer then pays for K-12 equity funding (tier 3, step 1); tuition-free college waits. Under favorable assumptions, tiers 1 and 2 fit within stable revenue, and stable revenue left over plus the wealth-tax transfer covers most or all of tier 3.
 >
-> **The gap.** Known tier 1 to 3 costs are about \$2.6 to \$3.3 trillion over ten years. Stable revenue (\$1.5 to \$2.5 trillion) plus the wealth-tax transfer (\$0.5 to \$2.2 trillion) gives about \$2.0 to \$4.7 trillion. The conservative case is still about \$1.3 trillion short; the favorable case has room to spare.
+> **The gap.** Known tier 1 to 3 costs are about \$2.7 to \$3.3 trillion over ten years. Stable revenue (\$1.5 to \$2.5 trillion) plus the wealth-tax transfer (\$0.5 to \$2.2 trillion) gives about \$2.0 to \$4.7 trillion. The conservative case is still about \$1.3 trillion short, mostly childcare caps and tuition-free college; the favorable case has room to spare.
 
-This table applies the order in Section 27.9 to the General Fund revenue in Section E.1.1. **C** is the training cap in Section 3.6.9, which has not been set; every later figure is reduced by it. Stable General Fund revenue pays for every tier. The wealth-tax transfer is shown separately because it may pay only for tiers 3 and 4; it is illustrative and assumes a Reserve target of about \$1 trillion. A step takes effect only when the revenue remaining after every earlier step covers its full cost; a step that cannot be fully covered waits, and is never partly funded. The **conservative case** pairs the low revenue estimate with the high cost estimates; the **favorable case** pairs the high revenue estimate with the low cost estimates.
+This table applies the order in Section 27.9 to the General Fund revenue in Section E.1.1. Stable General Fund revenue pays for every tier. The wealth-tax transfer is shown separately because it may pay only for tiers 3 and 4; it is illustrative and assumes a Reserve target of about \$1 trillion. A step takes effect only when the revenue remaining after every earlier step covers its full cost; a step that cannot be fully covered waits, and is never partly funded. The **conservative case** pairs the low revenue estimate with the high cost estimates; the **favorable case** pairs the high revenue estimate with the low cost estimates.
 
 | Step | Cost ($B) | Conservative: remaining after | Favorable: remaining after | Status |
 | --- | --- | --- | --- | --- |
@@ -146,16 +146,16 @@ This table applies the order in Section 27.9 to the General Fund revenue in Sect
 | Tier 1, step 2: EITC for workers without children | 135 to 140 | 1,073 | 2,139 | Funded under current estimates |
 | Tier 1, step 3: Child Tax Credit full refundability | 272 to 335 | 738 | 1,867 | Funded under current estimates |
 | Tier 1, step 4: Child Tax Credit young child supplement | 155 to 180 | 558 | 1,712 | Funded under current estimates |
-| Tier 1, step 5: training and apprenticeships, with the Disabled Access Credit | Set by cap (C) | 558 − C | 1,712 − C | Not yet estimable |
-| Tier 2, step 1: homelessness vouchers | 96 to 190 | 368 − C | 1,616 − C | Funded under current estimates |
-| Tier 2, step 2: eviction prevention | 71 to 78 | 290 − C | 1,545 − C | Funded under current estimates |
-| Tier 2, step 3: universal preschool for 4-year-olds | 100 to 170 | 120 − C (fits if C is 120 or less) | 1,445 − C | Funded under current estimates, if C is 120 or less |
-| Tier 2, step 4: childcare cost caps | 460 to 700 | Waits (120 − C available, 700 needed) | 985 − C | Partially funded under current estimates |
+| Tier 1, step 5: training and apprenticeships, with the Disabled Access Credit | About 55 | 503 | 1,657 | Funded under current estimates |
+| Tier 2, step 1: homelessness vouchers | 96 to 190 | 313 | 1,561 | Funded under current estimates |
+| Tier 2, step 2: eviction prevention | 71 to 78 | 235 | 1,490 | Funded under current estimates |
+| Tier 2, step 3: universal preschool for 4-year-olds | 100 to 170 | 65 | 1,390 | Funded under current estimates |
+| Tier 2, step 4: childcare cost caps | 460 to 700 | Waits (65 available, 700 needed) | 930 | Partially funded under current estimates |
 | Tier 2, step 5: eldercare caps | Pending (355 to 526 for scale) | Waits | Not yet estimable; the scale figures would fit | Not yet estimable |
-| **Smoothed wealth-tax transfer (Section 27.5), tiers 3 and 4 only** | — | About 500, unused while tier 2 waits | About 2,200 | — |
-| Tier 3, step 1: tuition-free public higher education | 700 to 800 | Waits | Fits (illustrative) | Partially funded under current estimates |
-| Tier 3, step 2: student-loan reform | Pending | Waits | Pending | Not yet estimable |
-| Tier 3, step 3: K-12 equity funding | 360 to 400 | Waits | Fits if student-loan reform costs less than about 1,450 − C (illustrative) | Partially funded under current estimates |
+| **Smoothed wealth-tax transfer (Section 27.5), tiers 3 and 4 only** | — | About 500 | About 2,200 | — |
+| Tier 3, step 1: K-12 equity funding | 360 to 400 | 100 left of the transfer, under the wealth-tax exception in Section 27.9 | Fits | Funded under current estimates |
+| Tier 3, step 2: tuition-free public higher education | 700 to 800 | Waits (100 available, 800 needed) | Fits (illustrative) | Partially funded under current estimates |
+| Tier 3, step 3: student-loan reform | Pending | Waits | Fits if it costs less than about 1,500 (illustrative) | Not yet estimable |
 | Tier 4: universal housing vouchers | Pending | Waits | Pending | Not yet estimable |
 | Fixed-budget expansions (after tier 1) | Pending | Pending | Pending | Not yet estimable |
 
@@ -178,4 +178,5 @@ Social Security is evaluated on a 75-year actuarial basis rather than a ten-year
 - **Behavioral responses are uncertain,** especially for taxes on capital gains and high incomes, where taxpayers can change the timing of income.
 - **"Awaiting additional revenue" describes today's estimates, not a final verdict.** A step that waits takes effect when revenue grows or earlier costs come in lower. Statuses in the tables are only as good as the estimates behind them; several tier 2 figures rest on low-confidence platform arithmetic.
 - **Wealth-tax revenue is the least certain figure.** Published estimates for the same design differ threefold, and a court ruling could end it. The tier rules keep tiers 1 and 2 from depending on it.
+- **Ten-year totals hide timing.** The wealth-tax transfer begins only once the Reserve reaches its target, which takes several years in the conservative case. K-12 equity funding would therefore start late in the window, and its ten-year cost is compared with a transfer that arrives mostly in later years.
 - **Nothing here replaces the independent costing required by Section 27.10** before any program takes effect.

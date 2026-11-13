@@ -124,7 +124,7 @@ If employment of workers ages 22 to 25 in the most-exposed occupations falls mor
 
 #### 3.6.9 Funding Guardrails
 
-- **Shared cap:** training grants under Section 3.6.7 and any apprenticeship expansion triggered under Section 3.6.8 shall share a single annual General Fund amount, capped in statute.
+- **Shared cap:** training grants under Section 3.6.7 and any apprenticeship expansion triggered under Section 3.6.8 shall share a single annual General Fund amount, capped in statute at \$5 billion a year, indexed for inflation (about \$55 billion over ten years).
 - **Phase-in order:** the capped amount is placed in tier 1, step 5 of the General Fund priority order, after both parts of the Child Tax Credit (Section 27.9). It shall take effect only when its independently scored cost is covered by enacted federal tax fairness revenue (Sections 27.6 and 27.10).
 - **When the trigger fires:** a triggered apprenticeship expansion shall be paid within the cap. If the cap is insufficient, the expansion shall be phased in over several years rather than raising the cap automatically. Any increase in the cap requires new legislation with its own scored revenue (Section 27.6).
 - **Other costs:** wage insurance is paid only from unemployment trust funds. Enforcement by the Department of Labor and measurement by the Bureau of Labor Statistics are core government functions within capped and scored base appropriations (as in Section 13.8).

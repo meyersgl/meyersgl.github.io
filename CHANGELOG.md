@@ -11,6 +11,11 @@ Newest first. Each entry lists what changed and which decision records it follow
 - Tier 2 cost estimates and affordability test: under favorable assumptions tier 2 steps 1 to 3 (homelessness vouchers, eviction prevention, universal preschool) are funded if the training cap is no more than about $125 billion; childcare caps ($460 to $700 billion) wait; eldercare caps not yet estimable.
 - Tier 3 cost estimates: tuition-free public higher education ($700 to $800 billion) and K-12 equity funding ($360 to $400 billion) wait in both cases; student-loan reform not yet estimable. Estimated tier 1 to 3 costs (about $2.6 to $3.3 trillion) are roughly two to four times identified General Fund revenue.
 
+### Tier 3 order and training cap (decision 0035)
+- Section 27.9: tier 3 is now K-12 equity funding, then tuition-free college, then student-loan reform, with a narrow wealth-tax exception that lets the smoothed transfer start tier 3 while a tier 2 step waits only for stable revenue.
+- Section 3.6.9: training and apprenticeship cap set at $5 billion a year, indexed.
+- Chapter 7 funding note, the Executive Summary, and Appendix E updated. Conservative case now also funds K-12 equity from the wealth-tax transfer.
+
 ### Top-earner revenue (decision 0034)
 - Section 2.1 redesigned on the Ultra-Millionaire Tax Act: 2% of net worth above $50 million, 3% above $1 billion, 40% exit tax. Section 2.3 now covers valuation of illiquid assets.
 - Smoothed wealth-tax transfer to the General Fund for tiers 3 and 4 only, once the Sovereign Wealth Reserve is at its target (Sections 1.3, 27.3, 27.5, 27.9).
