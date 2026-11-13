@@ -71,12 +71,12 @@ The affordability test in Section E.3 uses this range only to show how far reven
 | Stream | Section | Single use | Ten-year estimate | Estimate type | Basis | Source | Date and window | Design differences | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Extreme Wealth Fair-Share Tax | 2.1 | Sovereign Wealth Reserve; then a smoothed transfer to the General Fund for tiers 3 and 4 only | 2,100 to 6,200 gross; about 500 to 2,200 transferred | Conventional | Comparable estimate (not a score) | Penn Wharton Budget Model; Saez and Zucman | March 2021 (FY2022–2031); March 2026 (2026–2035) | Same design as the platform. The low estimate uses older wealth data. Transfer figures are illustrative: they assume a Reserve target of about \$1 trillion and the rule in Section 27.5 | Estimated |
-| Universal Health Insurance contributions | 5.1.2 | UHI Trust Fund | Pending | — | Pending | — | — | — | Not yet estimable |
+| Universal Health Insurance contributions | 5.1.2 | UHI Trust Fund | Rates not yet set; must raise about 32,600 to 34,000 (Section E.4) | — | Required amount, not an estimate | Mercatus Center; Urban Institute | 2018–2019; ten years | Gross of the premiums, out-of-pocket costs, and state spending the contributions replace | Not yet estimable |
 | Consolidated health financing savings | 27.3 | UHI Trust Fund | Pending | — | Pending | — | — | — | Not yet estimable |
 | State compact contributions | 4.7.3 | UHI Trust Fund | Pending | — | Pending | — | — | — | Not yet estimable |
 | Drug-price negotiation savings | 5.2.1 | Innovation Fund (capped share); remainder counted in UHI | Pending | — | Pending | — | — | — | Not yet estimable |
-| Paid leave contribution | 3.3 | Paid Leave Trust Fund | Pending | — | Pending | — | — | — | Not yet estimable |
-| Social Security payroll reforms (75-year basis) | 26.2, 26.3 | Social Security trust funds | Pending | — | Pending | — | — | — | Not yet estimable |
+| Paid leave contribution | 3.3 | Paid Leave Trust Fund | Set by actuaries to equal cost: about 0.5% to 2.9% of taxable payroll (about 600 to 3,900) | Conventional | Comparable estimate (not a score) | Institute for Women's Policy Research; American Action Forum | 2017–2019 | See Section E.4 | Estimated (rate range) |
+| Social Security payroll reforms (75-year basis) | 26.2, 26.3 | Social Security trust funds | About 2.55% of taxable payroll over 75 years (Section 26.2.1 only) | 75-year actuarial | Comparable estimate (not a score) | SSA Office of the Chief Actuary | September 2025; 2025 Trustees Report basis | Score of option E2.1: all earnings taxed at 12.4%, no added benefit credit, the platform's design. Section 26.3 not yet scored | Estimated |
 | Carbon and methane fees | 20.2 | 80% dividend, 10% Transition Fund, 10% one-time costs | Pending | — | Pending | — | — | — | Not yet estimable |
 
 ## E.2 Program Costs
@@ -117,9 +117,9 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 
 | Program | Section | Funded by | Ten-year estimate | Estimate type | Basis | Source | Date and window | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Universal Health Insurance, including rural stabilization, the Medicaid transition, and the long-term care benefit with eldercare (decision 0036) | 5.1, 5.3, 4.7 | UHI Trust Fund | Pending | — | Pending | — | — | Not yet estimable |
-| Paid leave | 3.3 | Paid Leave Trust Fund | Pending | — | Pending | — | — | Not yet estimable |
-| Social Security reforms (75-year basis) | Chapter 26 | Social Security trust funds | Pending | — | Pending | — | — | Not yet estimable |
+| Universal Health Insurance, including rural stabilization, the Medicaid transition, and the long-term care benefit with eldercare (decision 0036) | 5.1, 5.3, 4.7 | UHI Trust Fund | About 32,600 to 34,000 in added federal spending | Conventional | Comparable estimate (not a score) | Mercatus Center; Urban Institute; CBO (single year) | 2018–2020; ten years | Estimated |
+| Paid leave | 3.3 | Paid Leave Trust Fund | About 600 to 3,900 (0.5% to 2.9% of taxable payroll) | Conventional | Comparable estimate (not a score) | IWPR; American Action Forum | 2017–2019 | Estimated |
+| Social Security reforms (75-year basis) | Chapter 26 | Social Security trust funds | Revenue reform only; benefits unchanged | 75-year actuarial | Comparable estimate (not a score) | SSA Office of the Chief Actuary; 2026 Trustees Report | 2025–2026 | Estimated |
 | Dynamic Global Innovation Fund | 5.2.2 | Drug-negotiation savings (capped) | Pending | — | Pending | — | — | Not yet estimable |
 
 ## E.3 Affordability Test
@@ -165,9 +165,15 @@ Social Security is evaluated on a 75-year actuarial basis rather than a ten-year
 
 | Trust fund | Basis period | Revenue | Cost | Balance | Balance status |
 | --- | --- | --- | --- | --- | --- |
-| Universal Health Insurance | 10 years | Pending | Pending | Pending | Not yet demonstrable |
-| Paid Leave | 10 years | Pending | Pending | Pending | Not yet demonstrable |
-| Social Security | 75 years | Pending | Pending | Pending | Not yet demonstrable |
+| Universal Health Insurance | 10 years | Contribution rates not yet set | About \$32.6 to \$34.0 trillion in added federal spending | Revenue must be set to match | Not yet demonstrable |
+| Paid Leave | 10 years | Set by actuaries to equal cost | About 0.5% to 2.9% of taxable payroll | Balanced by design | Near balance (by statute) |
+| Social Security | 75 years | +2.55% of taxable payroll (Section 26.2.1) | Current deficit 4.42% of taxable payroll | About −1.9% of taxable payroll | Deficit |
+
+**Universal Health Insurance.** Comparable single-payer designs that cover long-term care add about \$32.6 trillion (Mercatus Center) to \$34 trillion (Urban Institute) to federal spending over ten years. Much of that replaces what employers, households, and states now pay in premiums, deductibles, and Medicaid shares; CBO's 2020 options found national health spending changing by between \$0.7 trillion less and \$0.3 trillion more in 2030. The Trust Fund must still raise roughly \$3 trillion or more a year through contributions set in law. Its share on top-bracket wages is limited to 4.2 percent by the 60 percent wage ceiling (Section 2.8), and wealth-tax revenue is barred (Section 5.1.2), so most of it must come from payroll and income-based contributions below the top bracket and from employers and states. A shortfall slows the phase-in; it never draws on the General Fund.
+
+**Paid Leave.** The rate is set by actuaries to keep the fund solvent, so it balances by design. The open question is the rate: about 0.47 percent of taxable payroll in the Institute for Women's Policy Research's model of a 12-week benefit at two-thirds of pay, and up to about 2.9 percent in American Action Forum estimates that assume much more leave-taking once leave is paid. Section 3.3 does not yet set the replacement rate or a weekly maximum.
+
+**Social Security.** The 2026 Trustees Report puts the 75-year deficit at 4.42 percent of taxable payroll. The Chief Actuary's score of the platform's design for Section 26.2.1, applying 12.4 percent to all earnings with no added benefit credit, improves the balance by about 2.55 percent (scored on the 2025 report's assumptions), closing roughly 58 percent of the current gap. Section 26.3 adds some revenue but has not been scored. About 1.9 percent of taxable payroll remains, so no money would reach the Social Security Endowment (Section 26.4) under current estimates.
 
 ## E.5 Honest Limits
 
