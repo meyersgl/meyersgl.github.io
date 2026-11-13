@@ -41,6 +41,7 @@ The platform's rule is to **take discretion away rather than try to protect the 
 | Homelessness programs | 8.3.1, 8.3.4 | Permanent housing floor and renewal rule set in statute. Funding notice deadline with automatic renewal of prior terms, notice and comment for any change in criteria, a statutory Interagency Council on Homelessness, and private and state enforcement of encampment conditions |
 | Officer accountability | 16.9 | One statutory cause of action for state, local, and federal officers, enforced in court with no qualified immunity. A mandatory public reporting duty that any person may sue to compel |
 | Pattern-or-practice enforcement | 16.14 | Concurrent state attorney general authority and published reasons for abandoned cases or ended consent decrees |
+| Foreign assistance funding cutoffs (Kemp-Kasten) | 23.5.4 | Cutoffs rest on published evidence, with written reasons and notice to Congress |
 | Frontier AI oversight | 19.6 | Commerce/NIST. Triggers and deadlines set in statute, independent evaluators, penalties enforced in court |
 
 ## Cross-Sector Regulatory Rules

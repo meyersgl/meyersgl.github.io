@@ -84,7 +84,7 @@ This approach builds on long-standing federal Medicaid policy under the Hyde Ame
 
 The Hyde Amendment shall not apply to Universal Health Insurance or to Medicaid. Federal health coverage provided through federal employees' health plans, the District of Columbia, TRICARE, the Indian Health Service, federal prisons, and the Peace Corps shall cover abortion care on the same terms as Section 6.2.1 through Section 6.2.4.
 
-The Helms Amendment, which governs foreign assistance, is addressed in Part VIII.
+The Helms Amendment, which governs foreign assistance, is addressed in Section 23.5.4.
 
 #### 6.2.6 Protection from Annual Spending Riders
 

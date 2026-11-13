@@ -50,6 +50,18 @@ Newest first. Each entry lists what changed and which decision records it follow
   - Section 5.1.7: the long-term care benefit must include home- and community-based services
 - Executive Summary: new Civil Rights section.
 
+### Part VIII: Reproductive Health in Foreign Assistance (decision 0031)
+- New Section 23.5.4:
+  - Helms Amendment and annual rider repealed, with a host-country law rule;
+  - post-abortion and emergency care always covered;
+  - statutory ban on Mexico City-type policies;
+  - Kemp-Kasten kept with published reasons;
+  - Siljander kept;
+  - protection from annual riders;
+  - day-one "Helms as written" and notice-and-comment repeal of the 2026 rules;
+  - honest limits.
+- Section 6.1 pointer, Appendix B (vehicle table, first 100 days), and Appendix C updated.
+
 ### Appendix B: Implementation & Legislative Strategy (decision 0030)
 - New Appendix B:
   - the legislative constraint (filibuster, reconciliation, the Byrd rule);

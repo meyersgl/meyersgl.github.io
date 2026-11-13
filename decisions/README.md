@@ -34,3 +34,4 @@ Each file records one settled policy or project choice: the question, the decisi
 | 0028 | Reversing the 2025 SNAP cuts |
 | 0029 | Officer accountability: federal cause of action, state remedies, and municipal grants |
 | 0030 | Implementation strategy, Senate rules reform, and General Fund phase-in |
+| 0031 | Helms Amendment, Mexico City Policy, and related riders |
