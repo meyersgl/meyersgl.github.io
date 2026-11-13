@@ -30,7 +30,7 @@ Federal policy shall restrict excessive concentration of single-family housing w
 
 #### 8.1.4 Public Housing Developer
 
-A publicly operated housing developer shall construct and maintain mixed-income housing developments in high-demand markets.
+A publicly operated housing developer shall construct and maintain mixed-income housing developments in high-demand markets. Construction is financed through the Capital Investment Account and productive borrowing; operations above current-law levels are capped at \$1 billion a year, indexed for inflation (Section 27.9).
 
 #### 8.1.5 First-Time Homebuyer Assistance
 
@@ -88,7 +88,7 @@ Revenue that results from lost tax benefits shall go to the General Fund and sha
 
 #### 8.2.6 State Stabilization Grants
 
-Grants shall be available to states and localities that adopt caps no weaker than Section 8.2.1, apply them to smaller landlords not covered by the federal floor, and fund enforcement, including a rent registry and legal help for tenants. This section does not preempt stronger state or local protections.
+Grants shall be available to states and localities that adopt caps no weaker than Section 8.2.1, apply them to smaller landlords not covered by the federal floor, and fund enforcement, including a rent registry and legal help for tenants. This section does not preempt stronger state or local protections. Grants are capped at \$500 million a year, indexed for inflation (Section 27.9).
 
 ### 8.3 Ending Homelessness \[Statute – High Resistance\]
 
@@ -156,13 +156,13 @@ These rules follow the design standards in Appendix C. Floors, deadlines, and re
 | Measure | Paid by | Phase-in |
 | --- | --- | --- |
 | Rent stabilization floor (8.2.1 to 8.2.5) | Administration within base appropriations; any revenue from lost tax benefits goes to the General Fund and funds no program | On enactment; loan covenants apply to new and refinanced loans |
-| State stabilization grants (8.2.6) | General Fund (tax fairness measures) | Fixed-budget program (Section 27.9): current-law level, expanding only after tier 1 is fully funded, within a statutory ceiling |
+| State stabilization grants (8.2.6) | General Fund (tax fairness measures) | Fixed-budget program (Section 27.9): current-law level, expanding only after tiers 1 and 2 are fully funded, within a statutory ceiling |
 | Housing First standard, permanent housing floor, recovery housing (8.3.1, 8.3.2) | Existing Continuum of Care appropriations | On enactment |
 | Voucher guarantee for people experiencing or at imminent risk of homelessness (8.3.3) | General Fund (tax fairness measures) | General Fund tier 2, in the order set by Section 27.9 |
 | Emergency rental assistance and right to counsel (8.3.6) | General Fund (tax fairness measures); triggered increases within one capped amount | General Fund tier 2, in the order set by Section 27.9 |
 | Clinical crisis services (8.3.5) | Universal Health Insurance Trust Fund | With the phases of Section 5.1.6 |
 | Universal housing vouchers (8.3.3) | General Fund (tax fairness measures) | General Fund tier 4 (Section 27.9) |
-| Public housing developer operations and other housing programs (8.1) | General Fund (tax fairness measures) | Fixed-budget program (Section 27.9): current-law level, expanding only after tier 1 is fully funded, within a statutory ceiling |
+| Public housing developer operations and other housing programs (8.1) | General Fund (tax fairness measures) | Fixed-budget program (Section 27.9): current-law level, expanding only after tiers 1 and 2 are fully funded, within a statutory ceiling |
 | Public housing construction (8.1.4) | Capital Investment Account and productive borrowing (Sections 27.5 and 27.7) | As financing is enacted; debt service paid through the Capital Investment Account |
 
 ### 8.5 Honest Limits

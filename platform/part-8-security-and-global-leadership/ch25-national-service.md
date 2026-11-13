@@ -1,6 +1,6 @@
 ## Chapter 25: National Service
 
-*Funding role: national service is a fixed-budget General Fund program. It continues at current-law levels and expands only after tier 1 is fully funded, within a statutory ceiling (Section 27.9).*
+*Funding role: national service is a fixed-budget General Fund program. It continues at current-law levels and expands only after tiers 1 and 2 are fully funded, within a statutory ceiling (Section 27.9).*
 
 ### 25.1 Guiding Principle
 
@@ -18,7 +18,7 @@ Participation shall remain entirely voluntary.
 
 ### 25.2 National Service & Civic Engagement Act \[Statute\]
 
-The federal government shall support voluntary service opportunities designed to strengthen communities while expanding educational and career opportunities.
+The federal government shall support voluntary service opportunities designed to strengthen communities while expanding educational and career opportunities. Expansion above current-law national service funding is capped at \$1.25 billion a year, indexed for inflation, roughly doubling today's AmeriCorps budget (Section 27.9).
 
 The purpose of service is not compulsory labor.
 

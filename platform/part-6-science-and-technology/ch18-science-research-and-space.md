@@ -1,6 +1,6 @@
 ## Chapter 18: Science, Research & Space
 
-*Funding role: research expansion is a fixed-budget General Fund program. It continues at current-law levels and expands only after tier 1 is fully funded, within a statutory ceiling. New research facilities are financed through the Capital Investment Account and the borrowing rule (Sections 27.5, 27.7, and 27.9).*
+*Funding role: research expansion is a fixed-budget General Fund program. It continues at current-law levels and expands only after tiers 1 and 2 are fully funded, within a statutory ceiling. New research facilities are financed through the Capital Investment Account and the borrowing rule (Sections 27.5, 27.7, and 27.9).*
 
 ### 18.1 Guiding Principle
 
@@ -25,6 +25,8 @@ Government should support the creation of knowledge while preserving the freedom
 The United States shall maintain global leadership in scientific research, technological innovation, and advanced development.
 
 #### 18.2.1 National Research Expansion
+
+Expansion above current-law research funding is capped at \$8 billion a year, indexed for inflation, enough to close the gap between appropriations and the research targets authorized in the CHIPS and Science Act (Section 27.9).
 
 Federal support shall prioritize:
 

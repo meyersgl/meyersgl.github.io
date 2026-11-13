@@ -75,8 +75,8 @@ Section 27.9 sets the order. In summary:
 **Fixed-budget programs.** Research expansion, national service, the public housing developer's operations, state rent stabilization grants, and the enhanced benefits of the National Farm Risk Protection Program are not ranked in the tiers. They follow these rules:
 
 - **R1.** Each continues at its current-law funding level.
-- **R2.** Expansion above current-law levels occurs only after Tier 1 is fully funded.
-- **R3.** Expansion remains subject to a fixed statutory ceiling for each program and to the overall spending cap (Section 27.6).
+- **R2.** Expansion above current-law levels occurs only after Tiers 1 and 2 are fully funded, ahead of Tier 3 (decision 0039).
+- **R3.** Expansion remains subject to a fixed statutory ceiling for each program, listed in Section 27.9, and to the overall spending cap (Section 27.6).
 - **R4.** Construction of long-lived assets, such as public housing and research facilities, uses the Capital Investment Account (Section 27.5) and the borrowing rule in Section 27.7. Debt service on that borrowing is paid through the Capital Investment Account and is not itself a General Fund phase-in item.
 - **R5.** Paid leave is not a General Fund program. It is paid by a self-financing trust fund supported by a dedicated payroll contribution counted toward the combined-rate ceiling (Sections 2.8 and 3.3). The contribution rate may adjust within a statutory band to maintain trust-fund solvency.
 - **R6.** The National Farm Risk Protection Program preserves current-law crop insurance commitments, while its enhanced benefits remain subject to fixed statutory ceilings.
