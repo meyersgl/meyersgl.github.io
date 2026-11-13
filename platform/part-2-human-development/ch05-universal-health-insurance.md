@@ -41,6 +41,8 @@ Covered services shall carry no copays or deductibles at the point of care. Beca
 
 The long-term care benefit shall be designed after an independent actuarial study of its sustainability over multiple decades, completed before universal enrollment begins.
 
+Eldercare is part of this benefit. Long-term care for older adults, at home, in the community, or in a facility, carries no copays or deductibles like other covered services. Room and board in assisted living or nursing facilities, which is not medical care, shall be capped on a sliding scale relative to household income, with the rest paid by the Trust Fund. Family caregivers shall receive training, respite care, and payment where they provide care that the benefit would otherwise cover.
+
 #### 5.1.2 Financing
 
 Universal Health Insurance shall be financed through a dedicated Universal Health Insurance Trust Fund, funded by payroll contributions, employer contributions, and income-based taxes (Section 27.3). These contributions are intended to replace the premiums, deductibles, and out-of-pocket costs that households and employers pay today. Savings from consolidated health financing shall lower contribution rates and shall not be counted elsewhere. Extreme Wealth Fair-Share Tax revenue shall not be used for health financing (Section 27.5). Contribution rates shall be set after independent scoring. The contribution on wages above the top income-tax bracket threshold shall fit within the 60 percent combined federal wage ceiling in Section 2.8, and any revenue the ceiling forgoes shall be made up within the Trust Fund or by slower phase-in, never from another revenue stream.
