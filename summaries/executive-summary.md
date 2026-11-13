@@ -282,7 +282,7 @@ Programs paid from general revenue are phased in in a fixed order of priority:
 
 1. **Income security first:** SSI and SNAP improvements, then the Earned Income Tax Credit, then full refundability of the Child Tax Credit, then its supplement for children under six.
 2. **Housing and early childhood second:** housing vouchers for people without homes, then eviction prevention, then universal preschool, then childcare cost caps, then eldercare cost caps.
-3. **Higher education and K-12 third:** tuition-free public higher education, then student-loan reform, then K-12 equity funding.
+3. **K-12 and higher education third:** K-12 equity funding, then tuition-free public higher education, then student-loan reform. These may also draw on the smoothed wealth-tax transfer, which never pays for the first two tiers.
 4. **Universal housing vouchers fourth.**
 
 No program in a later tier takes effect until every program in the earlier tiers is fully funded. Fixed-budget programs such as research and national service continue at current levels and expand only after the first tier is funded. Paid leave is financed by its own trust fund. Programs with their own funding, such as Universal Health Insurance and Social Security, follow their own schedules.

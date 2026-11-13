@@ -38,3 +38,4 @@ Each file records one settled policy or project choice: the question, the decisi
 | 0032 | Child Tax Credit split into two phase-in steps |
 | 0033 | Preschool and childcare split into two phase-in steps |
 | 0034 | Top-earner revenue: wealth tax redesign, smoothed transfer, pass-through phase-out, enforcement, investment-income surtax |
+| 0035 | Wealth-tax exception for tier 3, K-12 equity first, and a $5 billion training cap |

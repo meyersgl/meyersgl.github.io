@@ -29,3 +29,6 @@ What should Chapter 4 contain, how should Medicaid fold into Universal Health In
 - Tuition-free college starts later.
 - Section 27.5 now lets Reserve draws pay for automatic extended unemployment benefits.
 - The 50 percent limit and the compact's take-up are unscored risks, set out in Section 4.9.
+
+
+**Note (decision 0035):** Tier 3 now puts K-12 equity funding before tuition-free college. Section 27.9 governs.
