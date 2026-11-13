@@ -2,18 +2,18 @@
 title: "Frontier AI Governance"
 subtitle: "A Framework for Innovation, Accountability, and Public Safety"
 author: Gregory L. Meyers
-version: "1.1"
+version: "1.2"
 edition: "November 2026"
 platform_chapter: 19   # chapter number in the Phase 3 master architecture
 status: published
-published_pdf: docs/Frontier_AI_Governance_v1.1.pdf
+published_pdf: docs/Frontier_AI_Governance_v1.2.pdf
 ---
 
 # A Framework for Innovation, Accountability, and Public Safety
 
 Gregory L. Meyers  
 *The Social Democratic Market Platform Publication Series*  
-White Paper Version 1.1 · November 2026
+White Paper Version 1.2 · November 2026
 
 # Abstract
 
@@ -280,7 +280,7 @@ Innovation without accountability is dangerous. Accountability without innovatio
 
 \[5\] National Aeronautics and Space Administration (NASA). *Aviation Safety Reporting System: ASRS Program Briefing* (Data through December 2025). nasa.gov
 
-\[6\] Meyers, Gregory L. *The Social Democratic Market Platform* (Full Platform, Version 1.1). github.io
+\[6\] Meyers, Gregory L. *The Social Democratic Market Platform* (Full Platform, Version 1.2). github.io
 
 \[7\] Breached.company, report summarizing the final OpenAI and Hugging Face post-incident reports, 2026. https://breached.company/openai-huggingface-final-reports-swarm-metr-forensics-2026/
 

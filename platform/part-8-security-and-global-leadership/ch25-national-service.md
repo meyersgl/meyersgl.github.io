@@ -1,5 +1,7 @@
 ## Chapter 25: National Service
 
+*Funding role: national service is a fixed-budget General Fund program. It continues at current-law levels and expands only after tier 1 is fully funded, within a statutory ceiling (Section 27.9).*
+
 ### 25.1 Guiding Principle
 
 Strong nations are built by engaged citizens.

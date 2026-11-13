@@ -1,5 +1,7 @@
 ## Chapter 18: Science, Research & Space
 
+*Funding role: research expansion is a fixed-budget General Fund program. It continues at current-law levels and expands only after tier 1 is fully funded, within a statutory ceiling. New research facilities are financed through the Capital Investment Account and the borrowing rule (Sections 27.5, 27.7, and 27.9).*
+
 ### 18.1 Guiding Principle
 
 Science is humanity's pursuit of truth.

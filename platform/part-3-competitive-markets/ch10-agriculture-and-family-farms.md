@@ -1,5 +1,7 @@
 ## Chapter 10: Agriculture & Family Farms
 
+*Funding role: most of this chapter changes market rules. Current crop insurance continues under current law. The enhancements in Section 10.1.8 are a fixed-budget General Fund program that expands only after tier 1 is fully funded, within a statutory ceiling (Section 27.9).*
+
 ### 10.1 Agricultural Market Fairness & Family Farm Protection \[Statute – High Resistance\]
 
 Independent family farms remain essential to:

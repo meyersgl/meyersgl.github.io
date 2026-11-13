@@ -156,13 +156,14 @@ These rules follow the design standards in Appendix C. Floors, deadlines, and re
 | Measure | Paid by | Phase-in |
 | --- | --- | --- |
 | Rent stabilization floor (8.2.1 to 8.2.5) | Administration within base appropriations; any revenue from lost tax benefits goes to the General Fund and funds no program | On enactment; loan covenants apply to new and refinanced loans |
-| State stabilization grants (8.2.6) | General Fund (tax fairness measures) | Placed by implementing legislation (Section 27.9) |
+| State stabilization grants (8.2.6) | General Fund (tax fairness measures) | Fixed-budget program (Section 27.9): current-law level, expanding only after tier 1 is fully funded, within a statutory ceiling |
 | Housing First standard, permanent housing floor, recovery housing (8.3.1, 8.3.2) | Existing Continuum of Care appropriations | On enactment |
 | Voucher guarantee for people experiencing or at imminent risk of homelessness (8.3.3) | General Fund (tax fairness measures) | General Fund tier 2, in the order set by Section 27.9 |
 | Emergency rental assistance and right to counsel (8.3.6) | General Fund (tax fairness measures); triggered increases within one capped amount | General Fund tier 2, in the order set by Section 27.9 |
 | Clinical crisis services (8.3.5) | Universal Health Insurance Trust Fund | With the phases of Section 5.1.6 |
 | Universal housing vouchers (8.3.3) | General Fund (tax fairness measures) | General Fund tier 4 (Section 27.9) |
-| Public housing developer and other housing programs (8.1) | General Fund (tax fairness measures) | Placed by implementing legislation (Section 27.9) |
+| Public housing developer operations and other housing programs (8.1) | General Fund (tax fairness measures) | Fixed-budget program (Section 27.9): current-law level, expanding only after tier 1 is fully funded, within a statutory ceiling |
+| Public housing construction (8.1.4) | Capital Investment Account and productive borrowing (Sections 27.5 and 27.7) | As financing is enacted; debt service paid through the Capital Investment Account |
 
 ### 8.5 Honest Limits
 

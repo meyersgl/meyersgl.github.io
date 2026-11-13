@@ -2,7 +2,21 @@
 
 Newest first. Each entry lists what changed and which decision records it follows.
 
-## Unreleased: v1.2 Complete Edition (in progress)
+## v1.2 Complete Edition (November 13, 2026)
+
+### Release
+- Full Platform, Executive Summary, One Pager, and all three white papers issued as v1.2 in `docs/`; v1 and v1.1 PDFs retained.
+- Title page, version history, citation file, and website updated to v1.2.
+- The Universal Health Insurance white paper's benefit line was updated for Chapter 6. The Social Security and Frontier AI papers are reissued with no change in substance.
+- Pre-release audit fixes:
+  - Chapter 8 funding table now uses the fixed-budget rules instead of "placed by implementing legislation";
+  - funding-role notes added to Chapters 3, 5, 7, 10, 18, and 25, pointing to Section 27.9;
+  - Executive Summary gains a Reproductive Health section (including foreign assistance) and a corrected phase-in paragraph;
+  - PDF tables no longer split a row across pages;
+  - PDF metadata records the version, and the README names v1.2 as current;
+  - Executive Summary states that the Senate rules bind every future majority and mentions the Disabled Access Credit;
+  - Executive Summary describes oversight as statutory duties and legislative-branch review, and mentions the Paid Leave Trust Fund;
+  - One Pager adds income security, paid leave, homelessness, civil rights, and officer accountability, and says programs *must* be costed before taking effect.
 
 ### Chapter 2: Federal Tax Fairness (decision 0022)
 - New Sections 2.6 to 2.13:
