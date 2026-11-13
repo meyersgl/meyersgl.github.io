@@ -1,6 +1,6 @@
 ---
 title: "The Social Democratic Market Platform"
-subtitle: "Executive Summary — Version 1.2 (Complete Edition), November 2026"
+subtitle: "Executive Summary — Version 1.3 Draft (Costed Edition), November 2026"
 author: Gregory L. Meyers
 ---
 
@@ -24,7 +24,7 @@ This document is intended for citizens, policymakers, academics, journalists, an
 
 - Provide tuition-free public higher education.
 
-- Expand universal preschool.
+- Provide universal preschool for every four-year-old.
 
 - Strengthen Social Security without raising the retirement age.
 
@@ -168,7 +168,11 @@ A healthy economy requires both growth and fairness. The platform seeks to stren
 
 ### Extreme Wealth Fair-Share Tax
 
-The platform proposes an annual tax of 2 percent on net worth above $50 million and 3 percent above $1 billion, modeled on the Ultra-Millionaire Tax Act. It reaches only the wealthiest households, about the top 0.15 percent, and leaves ordinary homeowners, retirement savings, and small businesses untouched. Because its revenue swings with markets, it first fills the Sovereign Wealth Reserve for recessions. Once the Reserve is full, a smoothed share goes to later-tier programs such as tuition-free college and K-12 equity, never to the core income-security and housing programs, which rely on stable revenue.
+The platform proposes an annual tax of 2 percent on net worth above $50 million and 3 percent above $1 billion, modeled on the Ultra-Millionaire Tax Act. It reaches only the wealthiest households, about the top 0.15 percent, and leaves ordinary homeowners, retirement savings, and small businesses untouched. Because its revenue swings with markets, it first fills the Sovereign Wealth Reserve for recessions. Once the Reserve is full, a smoothed share goes to later-tier programs such as K-12 equity funding and tuition-free college, never to the first two phase-in tiers (income security, housing, preschool, and childcare), which rely on stable revenue. If a court struck the tax down, only those later-tier programs would pause.
+
+### Federal Tax Fairness
+
+The platform restores the 39.6 percent top income-tax rate, taxes capital gains and dividends as ordinary income above $1 million and at death, taxes carried interest as ordinary income, phases out the pass-through deduction above the top bracket, raises the corporate minimum tax to 21 percent, reforms the estate tax, and funds a dedicated IRS division to audit the wealthiest taxpayers and largest businesses. A 60 percent ceiling caps combined federal tax rates on wages. These measures are the platform's stable revenue for recurring programs. Comparable published estimates, which are not this platform's score, put them at about $1.2 trillion to $1.8 trillion over ten years.
 
 ### Social Security Solvency
 
@@ -180,11 +184,11 @@ Every full-time worker should be able to meet basic living expenses without requ
 
 ### Income Security
 
-The safety net should always reward work and should never leave people who cannot work without food or health care over paperwork. The platform makes the Child Tax Credit fully refundable, adds a supplement for children under six, and expands the Earned Income Tax Credit for workers without children. Families keep at least half of each additional dollar they earn as benefits phase out. SSI asset limits rise and are indexed for the first time since 1989. Unemployment insurance meets national minimum standards, and extended benefits start automatically in recessions. SNAP keeps a work expectation, with protections for people with disabilities, caregivers, veterans, people experiencing homelessness, and young adults leaving foster care, and the 2025 cuts to SNAP benefits, state funding, and eligibility are reversed. Medicaid work requirements are repealed, and states may join a voluntary compact as Medicaid enrollees move into Universal Health Insurance. Paid family and medical leave is financed through a dedicated trust fund rather than the General Fund.
+The safety net should always reward work and should never leave people who cannot work without food or health care over paperwork. The platform makes the Child Tax Credit fully refundable, adds a supplement for children under six, and expands the Earned Income Tax Credit for workers without children. Families keep at least half of each additional dollar they earn as benefits phase out. SSI asset limits rise and are indexed for the first time since 1989. Unemployment insurance meets national minimum standards, and extended benefits start automatically in recessions. SNAP keeps a work expectation, with protections for people with disabilities, caregivers, veterans, people experiencing homelessness, and young adults leaving foster care, and the 2025 cuts to SNAP benefits, state funding, and eligibility are reversed. Medicaid work requirements are repealed, and states may join a voluntary compact as Medicaid enrollees move into Universal Health Insurance. Up to 12 weeks of paid family and medical leave replaces 90 percent of wages up to half the national average weekly wage and 50 percent above that, up to about $1,500 a week. It is financed through a dedicated trust fund rather than the General Fund.
 
 ### Technology and Work
 
-New technology should raise living standards without leaving workers behind. The platform requires a human decision-maker before anyone is fired or disciplined on the basis of an automated system, and gives workers notice, explanations, and access to their data. It requires independent bias audits of hiring software, bans emotion recognition and off-duty surveillance, and gives workers advance notice of major technological change. It also replaces the expired Trade Adjustment Assistance program with help for any displaced worker: wage insurance and training. The platform does not tax automation itself.
+New technology should raise living standards without leaving workers behind. The platform requires a human decision-maker before anyone is fired or disciplined on the basis of an automated system, and gives workers notice, explanations, and access to their data. It requires independent bias audits of hiring software, bans emotion recognition and off-duty surveillance, and gives workers advance notice of major technological change. It also replaces the expired Trade Adjustment Assistance program with help for any displaced worker: wage insurance, and training and apprenticeships within a $5 billion annual cap. The platform does not tax automation itself.
 
 ## Human Development
 
@@ -192,23 +196,23 @@ The platform views investment in people as one of the highest-return investments
 
 ### Universal Health Insurance
 
-The platform establishes a national public health insurance system that provides universal coverage while allowing healthcare providers to remain privately operated and independently managed. It is financed through its own trust fund by payroll, employer, and income-based contributions and by savings from consolidated health financing and drug-price negotiation. The goal is to ensure that access to healthcare depends on medical need rather than personal wealth.
+The platform establishes a national public health insurance system that provides universal coverage while allowing healthcare providers to remain privately operated and independently managed. Covered services, including long-term care, carry no copays or deductibles. Eldercare is treated as health care: care for older adults at home, in the community, or in a facility is covered, with room-and-board costs in assisted living and nursing homes capped by income. It is financed through its own trust fund by payroll, employer, and income-based contributions and by savings from consolidated health financing and drug-price negotiation. Contribution rates will be set after independent scoring; comparable plans would add about $32 trillion to $34 trillion to federal spending over ten years, much of it replacing premiums and out-of-pocket costs that employers, households, and states pay today. The goal is to ensure that access to healthcare depends on medical need rather than personal wealth.
 
 ### Tuition-Free Public Higher Education
 
-Tuition at public universities, community colleges, trade schools, and technical institutions would be fully covered. Existing student-loan burdens would be substantially reduced through refinancing and long-term repayment reforms. The objective is to remove financial barriers to education, workforce development, and upward mobility.
+Tuition at public universities, community colleges, trade schools, and technical institutions would be fully covered. Existing federal student loans would be refinanced at a near-zero interest rate, with any remaining balance discharged after 20 years of qualifying payments. The objective is to remove financial barriers to education, workforce development, and upward mobility.
 
 ### Housing and Homelessness
 
-The platform's first answer to high rents is building more homes, through zoning incentives, faster permitting, and a public housing developer. To stop gouging while supply catches up, landlords with 50 or more units who keep federal tax benefits and federally backed loans may raise rent on a sitting tenant by no more than inflation plus 5 percent, and never more than 10 percent. New buildings are exempt for 15 years, rent resets between tenants, and tenants are protected from eviction without just cause. On homelessness, the platform writes Housing First into law, offers recovery housing as a choice rather than a condition, guarantees housing vouchers to people without homes, and bars criminal penalties for sleeping outside unless a real shelter or housing offer has been made. Being homeless is never by itself grounds for civil commitment.
+The platform's first answer to high rents is building more homes, through zoning incentives, faster permitting, and a public housing developer. To stop gouging while supply catches up, landlords with 50 or more units who keep federal tax benefits and federally backed loans may raise rent on a sitting tenant by no more than inflation plus 5 percent, and never more than 10 percent. New buildings are exempt for 15 years, rent resets between tenants, and tenants are protected from eviction without just cause. On homelessness, the platform writes Housing First into law, offers recovery housing as a choice rather than a condition, guarantees housing vouchers to extremely low-income people experiencing or at imminent risk of homelessness, provides emergency rental assistance and a right to counsel in eviction cases, and bars criminal penalties for sleeping outside unless a real shelter or housing offer has been made. Being homeless is never by itself grounds for civil commitment.
 
 ### Reproductive Health
 
 Abortion care is health care, and the decision belongs to the patient and the patient's doctor. The platform protects access to abortion nationwide by federal law. Universal Health Insurance covers abortion care for any reason through 24 weeks and 6 days, and after that date when the patient's life or health is at risk or the pregnancy has a fatal fetal condition. Pregnancies from rape or incest are covered at any lawful point, without a police report. The Hyde Amendment and other spending riders end. Individual clinicians may decline to take part, but the facility must give the patient a referral and notify a provider who will arrange care, and emergency care, including abortion care, may never be delayed for legal review. Abroad, the platform repeals the Helms Amendment and the global gag rule, and funds abortion services only where the host country's law permits them.
 
-### Universal Preschool
+### Universal Preschool and Childcare
 
-Every child should begin school with a strong educational foundation. Universal preschool expands access to early childhood education, promotes school readiness, supports workforce participation, and reduces long-term educational inequality.
+Every child should begin school with a strong educational foundation. Every four-year-old would have access to publicly funded preschool, which promotes school readiness, supports workforce participation, and reduces long-term educational inequality. Childcare costs from birth to school entry are capped on a sliding scale by household income, with public support for provider pay and capacity.
 
 ## Governance Reform
 
@@ -280,16 +284,20 @@ Accordingly, policies are organized through a phased implementation framework. L
 
 Programs paid from general revenue are phased in in a fixed order of priority:
 
-1. **Income security first:** SSI and SNAP improvements, then the Earned Income Tax Credit, then full refundability of the Child Tax Credit, then its supplement for children under six.
+1. **Income security first:** SSI and SNAP improvements, then the Earned Income Tax Credit, then full refundability of the Child Tax Credit, then its supplement for children under six, then training and apprenticeships within their cap, with the expanded Disabled Access Credit.
 2. **Housing and early childhood second:** housing vouchers for people without homes, then eviction prevention, then universal preschool, then childcare cost caps. Eldercare is health care, covered by Universal Health Insurance.
 3. **K-12 and higher education third:** K-12 equity funding, then tuition-free public higher education, then student-loan reform. These may also draw on the smoothed wealth-tax transfer, which never pays for the first two tiers.
 4. **Universal housing vouchers fourth.**
 
-No program in a later tier takes effect until every program in the earlier tiers is fully funded. Fixed-budget programs such as research and national service continue at current levels and expand only after the first tier is funded. Paid leave is financed by its own trust fund. Programs with their own funding, such as Universal Health Insurance and Social Security, follow their own schedules.
+No program in a later tier takes effect until every program in the earlier tiers is fully funded, and no step takes effect until its full cost is funded. The one exception is narrow: the smoothed wealth-tax share, which may pay only for the third and fourth tiers, can start the third tier while a second-tier step waits for stable revenue. Fixed-budget programs such as research and national service continue at current levels and expand only after the first tier is funded. Paid leave is financed by its own trust fund. Programs with their own funding, such as Universal Health Insurance and Social Security, follow their own schedules.
 
 To pass the Senate, the platform proposes a rules reform: fully paid-for bills pass by majority vote after guaranteed debate and amendments, other bills face a declining threshold from 60 votes to a majority, and repeal follows the same rules as enactment (Appendix B). The rules bind every future majority equally, including one that opposes this platform: any party can pass a bill by majority if it pays for it, and no party can repeal a paid-for program faster than it was enacted.
 
 This sequencing is intended to reduce fiscal risk, improve administrative effectiveness, and increase the likelihood of successful implementation.
+
+### What the Costing Shows
+
+Appendix E of the full platform compares every General Fund program with comparable published cost estimates. These are not this platform's own score, and many rest on low-confidence arithmetic. The programs in all four tiers would cost about $3.4 trillion to $5.0 trillion over ten years. Under favorable assumptions, stable revenue and the wealth-tax share fund every tier. Under conservative assumptions, they fund the first tier, housing vouchers for people experiencing or at risk of homelessness, and K-12 equity funding; the remaining programs wait until revenue grows. Social Security's reforms close most, but not all, of its 75-year shortfall. The platform publishes these results rather than claiming its promises are already paid for.
 
 ### Sustainable Revenue Sources
 
@@ -300,6 +308,8 @@ The platform assigns every revenue stream to exactly one use, and no stream may 
 - **Universal Health Insurance contributions** and health-financing savings fund the Universal Health Insurance Trust Fund only.
 
 - **Social Security payroll reforms**, including the contribution on investment income above $1 million, fund the Social Security trust funds only.
+
+- **The paid leave contribution**, shared equally by employers and workers, funds the Paid Leave Trust Fund only.
 
 - **The Extreme Wealth Fair-Share Tax** swings with markets, so it first fills the Sovereign Wealth Reserve, which stabilizes the economy in recessions. Once the Reserve is full, a smoothed share funds later-tier programs only, and the rest goes to one-time capital projects.
 
