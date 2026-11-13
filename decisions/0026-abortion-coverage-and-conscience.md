@@ -49,7 +49,8 @@ How should Universal Health Insurance cover abortion care in light of the Hyde A
    - Section 6.4 explains that only a small number of cases are involved.
    - Criminal penalties for false statements were rejected, because they would deter survivors who later recant.
 3. **The required statement is replaced by a referral sheet.** Providers hand over a referral sheet labeled as coming from Universal Health Insurance, and may state their own views. This is designed around *NIFLA v. Becerra* (2018).
-4. **Emergency care rests on two powers.** The obligation is based on the commerce power and on the conditions Congress may set on federal health funding, each independently sufficient.
+4. **Transfers go through Universal Health Insurance.** A declining provider does not arrange the transfer. It notifies Universal Health Insurance's care-coordination service, or a receiving provider, within one business day, and sends the patient's records. The receiving side arranges the transfer, and the declining provider may not delay or obstruct it. A provider's religious objection therefore cannot block a transfer.
+5. **Emergency care rests on two powers.** The obligation is based on the commerce power and on the conditions Congress may set on federal health funding, each independently sufficient.
 
 ## Why
 - Under Universal Health Insurance, a Hyde-style exclusion would end coverage for nearly everyone.

@@ -122,8 +122,12 @@ Every provider that takes part in Universal Health Insurance shall meet the foll
 - **Universal Health Insurance referral sheet:** when a patient asks for care the provider does not offer, or when it is medically indicated, the provider shall give her a referral sheet produced by Universal Health Insurance before she leaves, or within one business day for telehealth. The sheet shall be clearly labeled as a publication of Universal Health Insurance. It shall list:
   - the names, addresses, and telephone numbers of at least two of the nearest providers that offer the care, from the Universal Health Insurance directory;
   - the date her pregnancy reaches 24 weeks and 6 days (Section 6.2.4);
-  - how to reach Universal Health Insurance for help scheduling care.
-- **Arranging transfer:** if the patient asks, the provider shall arrange the referral or transfer, including transferring her records, within two business days.
+  - how to reach Universal Health Insurance's care-coordination service, which will arrange a transfer or appointment.
+- **Transfer through Universal Health Insurance:** if the patient asks, the provider shall notify Universal Health Insurance's care-coordination service, or a receiving provider in Universal Health Insurance that offers the care, within one business day. The receiving provider or Universal Health Insurance, not the declining provider, shall arrange and carry out the transfer.
+  - The declining provider need not arrange or perform the transfer itself.
+  - It shall send the patient's records to the receiving provider within one business day of the request.
+  - It shall not delay, discourage, or obstruct the transfer in any way.
+  - Universal Health Insurance shall schedule the care promptly. The request-date rule in Section 6.2.4 protects the patient's coverage if scheduling takes longer.
 - **No misleading information:** a provider shall not tell a patient that care is unavailable when it is available elsewhere, shall not give false or misleading information about her diagnosis or options, and shall not answer a request for options with a refusal alone.
 - **Providers may speak for themselves:** a provider may tell the patient its own views and why it does not offer the care, so long as it also gives her the referral sheet.
 
