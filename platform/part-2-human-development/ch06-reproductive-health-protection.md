@@ -28,15 +28,15 @@ Abortion care shall be covered under the public insurance system in Section 5.1 
 
 *Funding role: abortion care, and the temporary federal share of Medicaid abortion claims, are paid only through the Universal Health Insurance Trust Fund. Nothing in this chapter draws on the General Fund (decision 0026).*
 
-Since 1976, the Hyde Amendment and related riders on annual spending bills have barred federal coverage of most abortions. Under Universal Health Insurance, nearly everyone's coverage is federal. Applied to Universal Health Insurance, a Hyde-style exclusion would therefore remove abortion coverage for almost the whole country, not only for people on Medicaid. This section sets coverage rules in the Universal Health Insurance statute itself. They are clear enough that no patient loses coverage because she did not know the deadline.
+Since 1976, the Hyde Amendment and related riders on annual spending bills have barred federal coverage of most abortions. Under Universal Health Insurance, nearly everyone's coverage is federal. Applied to Universal Health Insurance, a Hyde-style exclusion would therefore remove abortion coverage for almost the whole country, not only for people on Medicaid. This section sets coverage rules in the Universal Health Insurance statute itself. They are clear enough that no patient loses coverage for not knowing the deadline.
 
 #### 6.2.1 Coverage Through 24 Weeks
 
-Universal Health Insurance shall cover abortion care through 24 weeks and 6 days of pregnancy, measured from the first day of the last menstrual period, for any reason. Every patient shall be told this date in writing at her first pregnancy-related visit.
+Universal Health Insurance shall cover abortion care through 24 weeks and 6 days of pregnancy, measured from the first day of the last menstrual period, for any reason. Every patient shall be told this date in writing at the patient's first pregnancy-related visit.
 
 **Why 24 weeks and 6 days.** The date was chosen for six reasons:
 
-1. **A fixed date, not "viability."** Medicine recognizes no single clinical definition of viability by gestational age. The American College of Obstetricians and Gynecologists describes a "periviable" range of roughly 20 to 25 weeks, and the prospects of an infant born early depend on the individual pregnancy and the care available \[1\]. A coverage rule tied to viability would require a judgment about each pregnancy, and a patient could not know her deadline in advance. A fixed date can be known by every patient and clinician from the first visit.
+1. **A fixed date, not "viability."** Medicine recognizes no single clinical definition of viability by gestational age. The American College of Obstetricians and Gynecologists describes a "periviable" range of roughly 20 to 25 weeks, and the prospects of an infant born early depend on the individual pregnancy and the care available \[1\]. A coverage rule tied to viability would require a judgment about each pregnancy, and a patient could not know the deadline in advance. A fixed date can be known by every patient and clinician from the first visit.
 2. **Time after the anatomy scan.** Most serious fetal conditions are found at the routine anatomy ultrasound, performed between 18 and 22 weeks \[3\]. Scans before 20 weeks are often incomplete, and a substantial share of anomalies are identified only at a follow-up scan \[4\]. Families who learn of a serious diagnosis at 20 to 22 weeks need time for a repeat scan, specialist confirmation, and counseling. An earlier date, such as 15 or 20 weeks, would end coverage for exactly those families.
 3. **Not later.** By 25 to 26 weeks, most infants born early survive with intensive neonatal care. The platform concludes that public coverage for any reason should not extend beyond 24 weeks and 6 days, because fetal survival rates rise substantially with intensive neonatal care after that point.
 4. **A familiar reference point.** Twenty-four weeks has been the most common reference point for viability in U.S. law since *Roe v. Wade* (1973), so the platform does not invent a new line.
@@ -48,7 +48,7 @@ Universal Health Insurance shall cover abortion care through 24 weeks and 6 days
 After 24 weeks and 6 days, Universal Health Insurance shall cover abortion care when, in the reasonable medical judgment of the treating clinician:
 
 - it is necessary to protect the patient's life or physical or mental health;
-- the fetus has a condition that is incompatible with life outside the uterus or that would cause death shortly after birth; or
+- the fetus has a fatal fetal condition, meaning a condition that, in reasonable medical judgment, is incompatible with life outside the uterus or would cause death shortly after birth; or
 - the pregnancy resulted from rape or incest (Section 6.2.3).
 
 No second opinion, committee approval, or government review shall be required before covered care is provided.
@@ -78,7 +78,7 @@ This approach builds on long-standing federal Medicaid policy under the Hyde Ame
 - **Request-date rule:** coverage shall be judged by the date the patient first asks a covered provider for abortion care. If that date is within the period in Section 6.2.1, the care shall be covered even if scheduling, travel, transfer, or provider availability delays it past 24 weeks and 6 days.
 - **Early diagnosis:** pregnancy tests, ultrasounds to date the pregnancy, and options counseling shall be covered with no cost to the patient and no waiting period.
 - **No coverage delays:** Universal Health Insurance shall not impose waiting periods, prior authorization, or mandatory counseling as conditions of coverage for abortion care.
-- **Notice of the date:** every patient who receives a positive pregnancy test from a covered provider shall be given, in writing, the date her pregnancy reaches 24 weeks and 6 days, and the Universal Health Insurance directory of providers (Section 6.3.2).
+- **Notice of the date:** every patient who receives a positive pregnancy test from a covered provider shall be given, in writing, the date the pregnancy reaches 24 weeks and 6 days, and the Universal Health Insurance directory of providers (Section 6.3.2).
 
 #### 6.2.5 Ending the Hyde Riders
 
@@ -98,7 +98,7 @@ Medicaid patients shall have a statutory right to choose any qualified provider 
 
 #### 6.2.8 What This Section Does and Does Not Do
 
-Section 6.2 sets what Universal Health Insurance pays for. It does not change the legal protections in Section 6.1. The coverage standard in Section 6.2 does not create any criminal, civil, or regulatory prohibition on abortion after 24 weeks and 6 days. It governs eligibility for Universal Health Insurance benefits only. Care after 24 weeks and 6 days that is not covered under Section 6.2.2 remains lawful under federal law where Section 6.1 protects it, and may be paid for privately or by a state.
+Section 6.2 sets what Universal Health Insurance pays for. It does not change the legal protections in Section 6.1. The coverage standard in Section 6.2 does not create any criminal, civil, or regulatory prohibition on abortion after 24 weeks and 6 days. It governs eligibility for Universal Health Insurance benefits only. Care after 24 weeks and 6 days that is not covered under Section 6.2.2 remains lawful under Section 6.1 and may be paid for privately or by a state.
 
 ### 6.3 Conscience, Patient Information, and Emergency Care \[Statute – High Resistance\]
 
@@ -110,7 +110,7 @@ No individual clinician shall be required to personally perform or assist in an 
 
 - tell the employer in writing, in advance, so the employer can arrange coverage;
 - when a patient asks about or needs such care, tell the patient promptly that the care is available elsewhere, and make sure the patient receives the information required by Section 6.3.2 from the employer or from a non-objecting colleague;
-- never give a patient false or misleading information about her diagnosis, her options, or where care is available, and never delay or obstruct her care.
+- never give a patient false or misleading information about the patient's diagnosis, options, or where care is available, and never delay or obstruct the patient's care.
 
 The objecting clinician does not have to make the referral personally. That duty belongs to the institution.
 
@@ -125,20 +125,20 @@ Every hospital, clinic, and medical practice that takes part in Universal Health
   - schedules appointments;
   - arranges transfers.
 
-- **Options information:** when a patient is pregnant, the facility shall ensure she is told accurately about all of her options, including continuing the pregnancy, adoption, and abortion care, in the same visit in which the pregnancy is confirmed or discussed.
-- **Universal Health Insurance referral sheet:** when a patient asks for care the facility does not offer, or when it is medically indicated, the facility shall ensure she receives a referral sheet produced by Universal Health Insurance before she leaves, or within one business day for telehealth. The sheet shall be clearly labeled as a publication of Universal Health Insurance. It shall list:
+- **Options information:** when a patient is pregnant, the facility shall ensure the patient is told accurately about all options, including continuing the pregnancy, adoption, and abortion care, in the same visit in which the pregnancy is confirmed or discussed.
+- **Universal Health Insurance referral sheet:** when a patient asks for care the facility does not offer, or when it is medically indicated, the facility shall ensure the patient receives a referral sheet produced by Universal Health Insurance before the patient leaves, or within one business day for telehealth. The sheet shall be clearly labeled as a publication of Universal Health Insurance. It shall list:
   - the names, addresses, and telephone numbers of at least two of the nearest providers that offer the care, from the Universal Health Insurance directory;
-  - the date her pregnancy reaches 24 weeks and 6 days (Section 6.2.4);
+  - the date the patient's pregnancy reaches 24 weeks and 6 days (Section 6.2.4);
   - how to reach the Patient Navigation Service, which will arrange a transfer or appointment.
 - **Transfer through Universal Health Insurance:** if the patient asks, the facility shall notify the Patient Navigation Service, or a receiving provider in Universal Health Insurance that offers the care, within one business day. The receiving provider or Universal Health Insurance, not the declining provider, shall arrange and carry out the transfer.
   - The declining provider need not arrange or perform the transfer itself.
   - It shall send the patient's records to the receiving provider within one business day of the request.
   - It shall not delay, discourage, or obstruct the transfer in any way.
   - Universal Health Insurance shall schedule the care promptly. The request-date rule in Section 6.2.4 protects the patient's coverage if scheduling takes longer.
-- **No misleading information:** a provider shall not tell a patient that care is unavailable when it is available elsewhere, shall not give false or misleading information about her diagnosis or options, and shall not answer a request for options with a refusal alone.
-- **Providers may speak for themselves:** a provider may tell the patient its own views and why it does not offer the care, so long as it also gives her the referral sheet.
+- **No misleading information:** a provider shall not tell a patient that care is unavailable when it is available elsewhere, shall not give false or misleading information about the patient's diagnosis or options, and shall not answer a request for options with a refusal alone.
+- **Providers may speak for themselves:** a provider may tell the patient its own views and why it does not offer the care, so long as it also gives the patient the referral sheet.
 
-These duties are part of the facility's care for its own patient: informed consent and continuity of care when she asks for a service the provider does not offer. They are not a general notice to the public, and the information comes from Universal Health Insurance in its own name. That design is meant to respect the First Amendment limits on compelled speech set out in *National Institute of Family and Life Advocates v. Becerra* (2018) \[7\].
+These duties are part of the facility's care for its own patient: informed consent and continuity of care when the patient asks for a service the provider does not offer. They are not a general notice to the public, and the information comes from Universal Health Insurance in its own name. That design is meant to respect the First Amendment limits on compelled speech set out in *National Institute of Family and Life Advocates v. Becerra* (2018) \[7\].
 - **Public directory:** Universal Health Insurance shall maintain a public directory of providers offering abortion care, searchable by location and pregnancy stage, from which the referral sheet is generated.
 
 #### 6.3.3 Institutions
