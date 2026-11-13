@@ -99,8 +99,8 @@ The affordability test in Section E.3 uses this range only to show how far reven
 | Eldercare cost caps | 3.4 | 2, step 5 | Pending | — | Pending | Urban Institute (scale only) | 2020; ten years | Depends on the long-term care benefit in Section 5.1, still open (Section 5.1.7). For scale only, related federal options cost $355 to $526 billion | Not yet estimable |
 | K-12 equity funding | 7.2.1 | 3, step 1 | 360 to 400 | Conventional | Platform arithmetic built from published estimates | Education Week | April 2023; annual figure, multiplied by ten | Reference design only: tripling Title I. Section 7.2.1 sets no dollar amount, and full equivalence with wealthier districts could cost more. Low confidence | Funded under current estimates |
 | Tuition-free public higher education | 7.3 | 3, step 2 | 700 to 800 | Conventional | Comparable estimate (not a score) | CRFB; Georgetown Center on Education and the Workforce | 2019 (ten years); October 2020 (eleven years) | Low end assumes the federal government pays 67% and states the rest; high end is the full cost of universal tuition-free public college. The platform has not set a federal-state split. Medium-low confidence | Partially funded under current estimates |
-| Existing student-loan reform | 7.3.1 | 3, step 3 | Pending | — | Pending | CBO (scale only) | 2014; 2023 | Refinancing all federal loans at 0.01% goes far beyond any scored bill. For scale, CBO scored partial refinancing at about 4% at $51 billion and the 2023 repayment rule at $230 to $276 billion. Likely several hundred billion | Not yet estimable |
-| Universal housing vouchers | 8.3.3 | 4 | Pending | — | Pending | — | — | — | Not yet estimable |
+| Existing student-loan reform | 7.3.1 | 3, step 3 | 400 to 900 | Conventional (federal credit accounting) | Platform arithmetic built from published estimates | CBO; CRFB | 2023; 2022; lifetime cost recorded up front | Between CBO's \$230 to \$276 billion for the 2023 repayment plan, which the platform goes well beyond, and CRFB's \$1.6 trillion for cancelling all federal student debt. Very low confidence | Partially funded under current estimates |
+| Universal housing vouchers | 8.3.3 | 4 | 300 to 750 | Conventional | Platform arithmetic built from published estimates | Bipartisan Policy Center (Abt Associates); Urban Institute | 2013 analysis; 2024 dollars; annual figures, multiplied by ten | Low end: about \$30 billion a year for unassisted, cost-burdened extremely low-income renters. High end covers a broader group than the platform's. Overlaps tier 2, step 1. Low confidence | Partially funded under current estimates |
 
 ### E.2.2 Fixed-Budget Programs
 
@@ -125,17 +125,17 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 
 ## E.3 Affordability Test
 
-> **Current estimate outcome (after decisions 0034 and 0035):**
+> **Current estimate outcome (after decisions 0034 and 0035; tier 3 and 4 estimates complete except eldercare):**
 >
 > - [ ] Funds tier 1 only, or part of it
 > - [x] Funds tier 1 and part of tier 2, plus K-12 equity from the wealth-tax transfer: **conservative case**
 > - [x] Funds tiers 1 and 2: **favorable case**, once eldercare is estimated
-> - [ ] Funds through tier 3: likely in the favorable case (illustrative), pending the student-loan estimate
-> - [ ] Funds all General Fund tiers
+> - [ ] Funds through tier 3
+> - [x] Funds all General Fund tiers: **favorable case** (illustrative), once eldercare is estimated
 >
-> Under conservative assumptions, all of tier 1 is funded, including the \$5 billion-a-year training cap, and so are tier 2 steps 1 to 3: homelessness vouchers, eviction prevention, and universal preschool. Childcare caps wait. Under the wealth-tax exception in Section 27.9, the smoothed transfer then pays for K-12 equity funding (tier 3, step 1); tuition-free college waits. Under favorable assumptions, tiers 1 and 2 fit within stable revenue, and stable revenue left over plus the wealth-tax transfer covers most or all of tier 3.
+> Under conservative assumptions, all of tier 1 is funded, including the \$5 billion-a-year training cap, and so are tier 2 steps 1 to 3: homelessness vouchers, eviction prevention, and universal preschool. Childcare caps wait. Under the wealth-tax exception in Section 27.9, the smoothed transfer then pays for K-12 equity funding (tier 3, step 1); tuition-free college waits. Under favorable assumptions, tiers 1 and 2 fit within stable revenue, and stable revenue left over plus the wealth-tax transfer covers tiers 3 and 4, if eldercare costs no more than its scale figures. The favorable column after eldercare is illustrative on that assumption.
 >
-> **The gap.** Known tier 1 to 3 costs are about \$2.7 to \$3.3 trillion over ten years. Stable revenue (\$1.5 to \$2.5 trillion) plus the wealth-tax transfer (\$0.5 to \$2.2 trillion) gives about \$2.0 to \$4.7 trillion. The conservative case is still about \$1.3 trillion short, mostly childcare caps and tuition-free college; the favorable case has room to spare.
+> **The gap.** Known costs for all four tiers are about \$3.4 to \$5.0 trillion over ten years, before eldercare. Stable revenue (\$1.5 to \$2.5 trillion) plus the wealth-tax transfer (\$0.5 to \$2.2 trillion) gives about \$2.0 to \$4.7 trillion. The conservative case is about \$3 trillion short, mostly childcare caps, tuition-free college, student-loan reform, and universal vouchers. The favorable case funds every tier with about \$0.8 trillion to spare (illustrative).
 
 This table applies the order in Section 27.9 to the General Fund revenue in Section E.1.1. Stable General Fund revenue pays for every tier. The wealth-tax transfer is shown separately because it may pay only for tiers 3 and 4; it is illustrative and assumes a Reserve target of about \$1 trillion. A step takes effect only when the revenue remaining after every earlier step covers its full cost; a step that cannot be fully covered waits, and is never partly funded. The **conservative case** pairs the low revenue estimate with the high cost estimates; the **favorable case** pairs the high revenue estimate with the low cost estimates.
 
@@ -152,11 +152,11 @@ This table applies the order in Section 27.9 to the General Fund revenue in Sect
 | Tier 2, step 3: universal preschool for 4-year-olds | 100 to 170 | 65 | 1,390 | Funded under current estimates |
 | Tier 2, step 4: childcare cost caps | 460 to 700 | Waits (65 available, 700 needed) | 930 | Partially funded under current estimates |
 | Tier 2, step 5: eldercare caps | Pending (355 to 526 for scale) | Waits | Not yet estimable; the scale figures would fit | Not yet estimable |
-| **Smoothed wealth-tax transfer (Section 27.5), tiers 3 and 4 only** | — | About 500 | About 2,200 | — |
-| Tier 3, step 1: K-12 equity funding | 360 to 400 | 100 left of the transfer, under the wealth-tax exception in Section 27.9 | Fits | Funded under current estimates |
-| Tier 3, step 2: tuition-free public higher education | 700 to 800 | Waits (100 available, 800 needed) | Fits (illustrative) | Partially funded under current estimates |
-| Tier 3, step 3: student-loan reform | Pending | Waits | Fits if it costs less than about 1,500 (illustrative) | Not yet estimable |
-| Tier 4: universal housing vouchers | Pending | Waits | Pending | Not yet estimable |
+| **Smoothed wealth-tax transfer (Section 27.5), tiers 3 and 4 only** | — | About 500 | About 2,200; with stable revenue left after eldercare at its high scale figure (526), about 2,604 is available for tiers 3 and 4 | — |
+| Tier 3, step 1: K-12 equity funding | 360 to 400 | 100 left of the transfer, under the wealth-tax exception in Section 27.9 | 2,244 | Funded under current estimates |
+| Tier 3, step 2: tuition-free public higher education | 700 to 800 | Waits (100 available, 800 needed) | 1,544 | Partially funded under current estimates |
+| Tier 3, step 3: student-loan reform | 400 to 900 | Waits | 1,144 | Partially funded under current estimates |
+| Tier 4: universal housing vouchers | 300 to 750 | Waits | 844 | Partially funded under current estimates |
 | Fixed-budget expansions (after tier 1) | Pending | Pending | Pending | Not yet estimable |
 
 ## E.4 Trust Fund Balance Tests
