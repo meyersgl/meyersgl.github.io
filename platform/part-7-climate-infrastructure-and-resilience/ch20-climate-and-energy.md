@@ -68,6 +68,8 @@ Workers and communities that helped power the nation's prosperity should not be 
 
 Cross-reference: See Chapter 21 Infrastructure, Industry & Supply Chains.
 
+**Honest limit:** Carbon pricing has failed repeatedly in Congress. The fee raises energy prices directly, while the dividend arrives separately, and households with high energy use, such as rural households and those in cold climates, may pay more than they receive. The fee must keep rising to work, which is politically hard to sustain. Revenue shrinks as emissions fall, which is why it pays for the dividend and one-time costs rather than recurring programs.
+
 ### 20.3 Carbon Border Protection Tariff \[Statute – High Resistance\]
 
 To prevent carbon leakage and unfair competition, imported goods produced under weaker environmental standards may be subject to border adjustments.
@@ -83,6 +85,8 @@ The tariff shall apply only to the following industries, and may be extended to 
 Tariff receipts shall be paid out through the household dividend (Section 20.2.1), not to the domestic industries the tariff protects.
 
 The objective is preserving domestic competitiveness while encouraging cleaner production globally.
+
+**Honest limit:** Measuring the emissions embedded in imported steel, aluminum, and cement is administratively complex. The tariff must be designed to comply with trade rules, and trading partners may retaliate.
 
 ### 20.4 Energy System Modernization \[Statute\]
 
@@ -128,6 +132,8 @@ Federal policy shall support:
 
 while maintaining strong safety standards.
 
+**Honest limit:** Nuclear projects have a long history of cost overruns and delays, and advanced reactor designs have little commercial operating history in the United States. Faster licensing must not weaken safety review, and the country still has no permanent solution for storing nuclear waste.
+
 ### 20.6 Critical Clean Energy Infrastructure \[Statute – High Resistance\]
 
 Nationally significant energy infrastructure shall be eligible for the coordinated review in Section 21.9, which reduces duplication and delay without weakening environmental or safety review. Eligible projects may include:
@@ -137,6 +143,8 @@ Nationally significant energy infrastructure shall be eligible for the coordinat
 - Advanced nuclear facilities
 
 - Strategic energy infrastructure
+
+**Honest limit:** Interstate transmission lines cross many states and private properties. Coordinated federal review does not remove state siting authority, and giving the federal government backstop siting power would face strong opposition from states. Approved projects can still be delayed by litigation.
 
 ### 20.7 Conservation & Environmental Stewardship \[Statute\]
 

@@ -128,6 +128,8 @@ These technologies are expected to shape future economic and geopolitical compet
 
 Section 21.5 governs domestic production capacity in these fields; this section governs research support.
 
+**Honest limit:** Choosing priority technologies risks backing the wrong ones or favoring established firms, so the list must be reviewed regularly. Funding is a fixed-budget program under Section 27.9 and can expand only after the first tier is fully funded.
+
 ### 18.7 Scientific Freedom Principle
 
 Scientific advancement requires:

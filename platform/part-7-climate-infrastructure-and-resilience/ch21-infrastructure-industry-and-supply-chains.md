@@ -80,6 +80,8 @@ Broadband access shall be treated as essential economic infrastructure.
 
 Cross-reference: See Chapter 21 Infrastructure, Industry & Supply Chains.
 
+**Honest limit:** Overriding state bans on municipal broadband raises federalism objections. A federal appeals court held in 2016 that existing federal law did not clearly allow the Federal Communications Commission to preempt such bans, so the statute must state preemption expressly. Some municipal networks have struggled financially, leaving local taxpayers with debt.
+
 ### 21.5 Strategic Industrial Capacity Initiative \[Statute – High Resistance\]
 
 The United States shall maintain domestic capabilities in strategically important industries.
@@ -109,6 +111,8 @@ Government support shall remain open to firms of varying size whenever possible.
 Industrial policy should strengthen competition rather than entrench existing monopolies.
 
 Cross-reference: See Chapter 9 Competition & Consumer Rights.
+
+**Honest limit:** Industrial support can pay firms for investments they would have made anyway, or back projects that fail. Despite the competitive-neutrality principle, support tends to flow to established firms with the capacity to apply. Trading partners may treat subsidies as unfair, and results depend on commitments that must outlast any one administration.
 
 ### 21.6 Supply Chain Resilience Program \[Statute\]
 
@@ -187,3 +191,5 @@ Federal agencies shall coordinate reviews to reduce duplication while preserving
 Environmental and safety reviews shall not be weakened, and public participation shall be preserved. Delays shall be reduced through funded permitting staff, coordinated agency review, and clear timelines, not by narrowing the scope of review.
 
 Efficient permitting is not the same as weaker standards.
+
+**Honest limit:** Coordinated review with funded staff speeds approvals less than narrowing the scope of review would, and this section deliberately does not narrow it or limit judicial review, so litigation after approval can still cause delay. Faster permitting depends on sustained funding for permitting staff.

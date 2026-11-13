@@ -166,6 +166,7 @@ These rules follow the design standards in Appendix C. Floors, deadlines, and re
 
 ### 8.5 Honest Limits
 
+- **Federal influence over zoning is indirect.** Conditioning transportation and housing funds on local reforms (Section 8.1.1) works only where the funds matter more to a community than its zoning rules, and limits on institutional ownership (Section 8.1.3) could reduce rental supply in markets where investors were adding homes.
 - **Rent caps reduce supply at the margin.** The strongest study of rent control, from San Francisco, found that covered landlords cut rental supply by 15 percent, raising rents citywide by about 5 percent \[6\]. This chapter's protections are the 15-year exemption for new buildings, vacancy reset, fair-return petitions, and the supply measures in Section 8.1. They reduce the risk; they do not remove it.
 - **Landlords can give up the benefits instead.** A landlord with little depreciation left and no federally backed loan may simply accept the tax consequences and raise rents. State stabilization grants are meant to fill that gap, but some states will not take them.
 - **Fair-return petitions take work.** They are needed for the cap to be fair and legally durable, but they will add caseload for administrative law judges.

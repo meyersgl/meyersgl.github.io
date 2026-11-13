@@ -111,6 +111,8 @@ When the awarded exclusivity period ends, generic competition shall be encourage
 
 Pharmaceutical production shall remain primarily within the private sector. The government may contract private manufacturers to produce medicines needed to address shortages or access problems.
 
+**Honest limit:** Lower negotiated prices reduce the expected returns that pay for some drug research, and estimates of how much innovation would be lost vary widely. Variable exclusivity asks regulators to judge a therapy's benefit and research spending, which invites lobbying and litigation over each rating. Public manufacturing rights after exclusivity ends are untested at scale. The Innovation Fund is capped and depends on negotiation savings, so it shrinks if savings fall short.
+
 ### 5.3 Rural Healthcare Stability Framework \[Statute\]
 
 Healthcare access shall not depend upon population density. Rural stability programs shall be funded through the Universal Health Insurance Trust Fund (Section 27.4).

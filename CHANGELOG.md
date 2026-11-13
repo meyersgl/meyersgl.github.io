@@ -50,6 +50,20 @@ Newest first. Each entry lists what changed and which decision records it follow
   - Section 5.1.7: the long-term care benefit must include home- and community-based services
 - Executive Summary: new Civil Rights section.
 
+### Scope page and honest limits (decision 0003)
+- New Scope page in the front matter:
+  - published white papers;
+  - forthcoming white papers;
+  - what this edition does not yet include.
+- Forthcoming papers README synced.
+- Honest-limit notes added to every High Resistance plank that lacked one:
+  - Sections 3.4, 5.2, 9.2, 10.1, 12.4, 18.6;
+  - Sections 20.2, 20.3, 20.5, 20.6;
+  - Sections 21.4, 21.5, 21.9;
+  - Sections 24.2, 24.7, 24.8;
+  - a zoning and ownership bullet in Section 8.5;
+  - evaluation and liability limits in Section 19.8.
+
 ### Part VIII: Reproductive Health in Foreign Assistance (decision 0031)
 - New Section 23.5.4:
   - Helms Amendment and annual rider repealed, with a host-country law rule;
