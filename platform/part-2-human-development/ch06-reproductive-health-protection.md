@@ -98,7 +98,7 @@ Medicaid patients shall have a statutory right to choose any qualified provider 
 
 #### 6.2.8 What This Section Does and Does Not Do
 
-Section 6.2 sets what Universal Health Insurance pays for. It does not change the legal protections in Section 6.1. Care after 24 weeks and 6 days that is not covered under Section 6.2.2 remains lawful under federal law where Section 6.1 protects it, and may be paid for privately or by a state.
+Section 6.2 sets what Universal Health Insurance pays for. It does not change the legal protections in Section 6.1. The coverage standard in Section 6.2 does not create any criminal, civil, or regulatory prohibition on abortion after 24 weeks and 6 days. It governs eligibility for Universal Health Insurance benefits only. Care after 24 weeks and 6 days that is not covered under Section 6.2.2 remains lawful under federal law where Section 6.1 protects it, and may be paid for privately or by a state.
 
 ### 6.3 Conscience, Patient Information, and Emergency Care \[Statute – High Resistance\]
 
@@ -116,14 +116,21 @@ The objecting clinician does not have to make the referral personally. That duty
 
 #### 6.3.2 Patients' Right to Know Their Options
 
-Every provider that takes part in Universal Health Insurance shall meet the following requirements, whether or not it offers abortion care.
+Every hospital, clinic, and medical practice that takes part in Universal Health Insurance (a "facility") shall meet the following requirements, whether or not it offers abortion care.
 
-- **Options information:** when a patient is pregnant, the provider shall tell her accurately about all of her options, including continuing the pregnancy, adoption, and abortion care, in the same visit in which the pregnancy is confirmed or discussed.
-- **Universal Health Insurance referral sheet:** when a patient asks for care the provider does not offer, or when it is medically indicated, the provider shall give her a referral sheet produced by Universal Health Insurance before she leaves, or within one business day for telehealth. The sheet shall be clearly labeled as a publication of Universal Health Insurance. It shall list:
+- **Who carries the duty:** these duties fall on the facility, not on any individual clinician who objects. A facility shall arrange for the duties to be carried out by staff who do not object, or through the Universal Health Insurance Patient Navigation Service. No clinician who objects under Section 6.3.1 shall be required personally to recommend, refer for, or arrange abortion care.
+- **The navigation service:** Universal Health Insurance shall operate a Patient Navigation Service, available by telephone and online, that:
+  - maintains the provider directory;
+  - gives patients referrals;
+  - schedules appointments;
+  - arranges transfers.
+
+- **Options information:** when a patient is pregnant, the facility shall ensure she is told accurately about all of her options, including continuing the pregnancy, adoption, and abortion care, in the same visit in which the pregnancy is confirmed or discussed.
+- **Universal Health Insurance referral sheet:** when a patient asks for care the facility does not offer, or when it is medically indicated, the facility shall ensure she receives a referral sheet produced by Universal Health Insurance before she leaves, or within one business day for telehealth. The sheet shall be clearly labeled as a publication of Universal Health Insurance. It shall list:
   - the names, addresses, and telephone numbers of at least two of the nearest providers that offer the care, from the Universal Health Insurance directory;
   - the date her pregnancy reaches 24 weeks and 6 days (Section 6.2.4);
-  - how to reach Universal Health Insurance's care-coordination service, which will arrange a transfer or appointment.
-- **Transfer through Universal Health Insurance:** if the patient asks, the provider shall notify Universal Health Insurance's care-coordination service, or a receiving provider in Universal Health Insurance that offers the care, within one business day. The receiving provider or Universal Health Insurance, not the declining provider, shall arrange and carry out the transfer.
+  - how to reach the Patient Navigation Service, which will arrange a transfer or appointment.
+- **Transfer through Universal Health Insurance:** if the patient asks, the facility shall notify the Patient Navigation Service, or a receiving provider in Universal Health Insurance that offers the care, within one business day. The receiving provider or Universal Health Insurance, not the declining provider, shall arrange and carry out the transfer.
   - The declining provider need not arrange or perform the transfer itself.
   - It shall send the patient's records to the receiving provider within one business day of the request.
   - It shall not delay, discourage, or obstruct the transfer in any way.
@@ -131,7 +138,7 @@ Every provider that takes part in Universal Health Insurance shall meet the foll
 - **No misleading information:** a provider shall not tell a patient that care is unavailable when it is available elsewhere, shall not give false or misleading information about her diagnosis or options, and shall not answer a request for options with a refusal alone.
 - **Providers may speak for themselves:** a provider may tell the patient its own views and why it does not offer the care, so long as it also gives her the referral sheet.
 
-These duties are part of the provider's care for its own patient: informed consent and continuity of care when she asks for a service the provider does not offer. They are not a general notice to the public, and the information comes from Universal Health Insurance in its own name. That design is meant to respect the First Amendment limits on compelled speech set out in *National Institute of Family and Life Advocates v. Becerra* (2018) \[7\].
+These duties are part of the facility's care for its own patient: informed consent and continuity of care when she asks for a service the provider does not offer. They are not a general notice to the public, and the information comes from Universal Health Insurance in its own name. That design is meant to respect the First Amendment limits on compelled speech set out in *National Institute of Family and Life Advocates v. Becerra* (2018) \[7\].
 - **Public directory:** Universal Health Insurance shall maintain a public directory of providers offering abortion care, searchable by location and pregnancy stage, from which the referral sheet is generated.
 
 #### 6.3.3 Institutions
@@ -155,12 +162,7 @@ Every hospital that takes part in Universal Health Insurance or Medicare, and ev
 
 The patient need not be at imminent risk of death.
 
-**Constitutional basis.** This obligation rests on two independent powers of Congress:
-
-- its power over interstate commerce, because hospitals, emergency care, medical supplies, and the movement of patients and clinicians across state lines are interstate commerce;
-- its power to set conditions on federal health funding.
-
-Each is a separate and sufficient basis. If a court finds that one does not support part of this section, the rest shall continue in effect under the other. This obligation shall not depend on agency guidance. The Centers for Medicare & Medicaid Services rescinded its 2022 guidance on this point in June 2025 \[2\], so the obligation is written into statute.
+This obligation, whose constitutional basis is set out in Section 6.3.8, shall not depend on agency guidance. The Centers for Medicare & Medicaid Services rescinded its 2022 guidance on this point in June 2025 \[2\], so the obligation is written into statute.
 
 - **No institutional exemption:** no hospital may refuse required emergency care on grounds of conscience or religion.
 - **Individual clinicians:** an individual clinician may step aside only if another qualified clinician is immediately available to provide the care without delay. Otherwise the clinician shall provide it.
@@ -193,6 +195,16 @@ A pharmacist may step aside from dispensing contraception or medication for abor
 - **Both directions:** no clinician shall face discrimination in employment, training, licensing, or staff privileges because the clinician declines to take part in care covered by Section 6.3.6, or because the clinician provides lawful reproductive care, including in another state (Section 6.1.3).
 - **Who may sue:** clinicians, and patients denied the information or care this section requires, may sue to enforce it and recover reasonable attorney fees. State attorneys general and the Department of Health and Human Services may also enforce it.
 - **Conditions of participation:** repeated violations of Sections 6.3.2 through 6.3.5 shall also be grounds for civil penalties and, in serious cases, exclusion from Universal Health Insurance.
+
+#### 6.3.8 Constitutional Basis
+
+Congress enacts Sections 6.3.2 through 6.3.5, including the preemption of conflicting state law, under three of its constitutional powers.
+
+- **Federally funded health care:** the power to set conditions on the federal funds that pay for health care. Every covered hospital, clinic, and practice takes part voluntarily in Universal Health Insurance or Medicare, and these duties and protections are conditions of that participation, stated clearly in the statute.
+- **Interstate commerce:** the power to regulate interstate commerce. Hospitals, emergency care, health insurance, medical supplies and drugs, and the movement of patients and clinicians across state lines are interstate commerce, and the delay or denial of emergency care burdens that commerce.
+- **Supremacy of federal law:** under the Supremacy Clause, these provisions displace any state law that conflicts with them, including state laws that would penalize care this chapter requires or protects.
+
+Each of the first two powers is a separate and sufficient basis. If a court holds that one does not support a provision, the provision shall remain in effect under the other. If any provision is held invalid, the remaining provisions shall continue in effect.
 
 ### 6.4 Honest Limits
 

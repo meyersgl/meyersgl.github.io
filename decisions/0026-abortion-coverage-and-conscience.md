@@ -20,16 +20,17 @@ How should Universal Health Insurance cover abortion care in light of the Hyde A
   - Benefits are paid under a permanent appropriation.
   - Interim Medicaid coverage is paid 100% federally through the Universal Health Insurance Trust Fund.
   - No General Fund cost.
-- **K1 and K2:** option A, refined so that patients' right to know their options is enforceable.
-  - Providers must give a written referral to at least two providers that offer the care.
-  - Providers must make a required statement, never just a refusal.
-  - Providers must arrange a transfer within two business days on request.
-  - The objecting clinician need not refer personally.
+- **K1 and K2:** option A, refined so that patients' right to know their options is enforceable. This entry reflects the final text after revisions.
+  - The duties fall on the facility, never on an objecting clinician.
+  - The patient receives a referral sheet labeled as coming from Universal Health Insurance, listing at least two providers.
+  - The facility notifies the Universal Health Insurance Patient Navigation Service or a receiving provider within one business day. The receiving side arranges the transfer.
+  - The facility may not mislead the patient or give a refusal alone, and may state its own views.
 - **K3 and K5:** option A, refined to require care and protect providers.
   - Emergency stabilizing treatment explicitly includes abortion care.
   - Care may not be delayed for legal review or committee approval.
   - Reasonable medical judgment governs.
   - State penalties are preempted, with removal to federal court, the right to sue, and attorney fees.
+  - The constitutional basis is stated in Section 6.3.8: federal funding conditions, the commerce power, and the Supremacy Clause, with severability.
   - Retaliation is prohibited.
 - **K4:** option A.
 
@@ -49,8 +50,24 @@ How should Universal Health Insurance cover abortion care in light of the Hyde A
    - Section 6.4 explains that only a small number of cases are involved.
    - Criminal penalties for false statements were rejected, because they would deter survivors who later recant.
 3. **The required statement is replaced by a referral sheet.** Providers hand over a referral sheet labeled as coming from Universal Health Insurance, and may state their own views. This is designed around *NIFLA v. Becerra* (2018).
-4. **Transfers go through Universal Health Insurance.** A declining provider does not arrange the transfer. It notifies Universal Health Insurance's care-coordination service, or a receiving provider, within one business day, and sends the patient's records. The receiving side arranges the transfer, and the declining provider may not delay or obstruct it. A provider's religious objection therefore cannot block a transfer.
+4. **Transfers go through Universal Health Insurance.** A declining provider does not arrange the transfer. It notifies the Universal Health Insurance Patient Navigation Service, or a receiving provider, within one business day, and sends the patient's records. The receiving side arranges the transfer, and the declining provider may not delay or obstruct it. A provider's religious objection therefore cannot block a transfer.
 5. **Emergency care rests on two powers.** The obligation is based on the commerce power and on the conditions Congress may set on federal health funding, each independently sufficient.
+
+## External review (Nov 13)
+A reviewer who saw only this decision record flagged four items:
+- make clear that coverage is not a legal prohibition;
+- move referral duties from individual objectors to facilities or a public navigation service;
+- state the constitutional basis for the emergency-care and preemption provisions;
+- synchronize Chapters 5 and 13 and the UHI white paper.
+
+All four are addressed:
+- **Coverage is not a prohibition:** explicit sentence added in Section 6.2.8.
+- **Referral duties:** they now fall on facilities and the Patient Navigation Service (Section 6.3.2).
+- **Constitutional basis:** new Section 6.3.8.
+- **Synchronization:**
+  - Section 5.1 benefit line;
+  - Section 13.4.2 cross-reference to Section 6.3.3;
+  - the UHI white paper's benefit line points to Sections 6.2 and 6.3 and the Trust Fund.
 
 ## Why
 - Under Universal Health Insurance, a Hyde-style exclusion would end coverage for nearly everyone.
