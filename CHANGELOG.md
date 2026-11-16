@@ -4,6 +4,13 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+### Social Security dynamic effects (decision 0040)
+- Social Security white paper: new section, Dynamic Effects and the Growth Trade-Off, comparing the plan with the Penn Wharton Budget Model's 2026 tax-only and benefit-only packages, the wage pass-through loss to income and Medicare taxes, and the competing claim on top-end tax room. Known Limitations and Questions for Economists updated. Duplicate source number [7] fixed (the Chief Actuary's score is now [9]).
+- Section 26.6: the estimates are conventional; dynamic effects and the General Fund offset are not counted.
+- Section 2.13: new honest limit on Social Security's use of top-end tax room.
+- Appendix E: E.4 states the scoring method (Chief Actuary, not CBO) and that stable General Fund revenue is somewhat overstated by the uncounted offset; new E.5 honest limit; Social Security revenue row notes no dynamic or offset estimate.
+- `REVIEW.md`: the Social Security question now asks for a dynamic score and the offset.
+
 ### Review setup
 - New `REVIEW.md` guide listing where expert review is most needed, how to submit, the evidence standard, and disclosure and credit.
 - New issue template for cost or revenue estimate challenges; `CONTRIBUTING.md`, `README.md`, and the website point reviewers to the guide.

@@ -43,3 +43,4 @@ Each file records one settled policy or project choice: the question, the decisi
 | 0037 | Investment-income surtax becomes a Social Security contribution; progressive paid leave benefit |
 | 0038 | UHI contribution rates left for expert review |
 | 0039 | Fixed-budget expansions after tier 2, with statutory ceilings |
+| 0040 | Social Security: benefit adequacy chosen over maximum growth |
