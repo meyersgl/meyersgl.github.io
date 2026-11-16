@@ -4,6 +4,10 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+### Reviewer comments (Appendix E.6)
+- New Appendix E.6 logs outside reviewers' comments, paraphrased with permission, alongside the platform's response and a status.
+- First entries: Andrew G. Biggs (American Enterprise Institute), on the remaining Social Security gap (open) and on dynamic effects of tax-only reform (addressed by decision 0040). Thanks to Dr. Biggs for his review.
+
 ### Social Security dynamic effects (decision 0040)
 - Social Security white paper: new section, Dynamic Effects and the Growth Trade-Off, comparing the plan with the Penn Wharton Budget Model's 2026 tax-only and benefit-only packages, the wage pass-through loss to income and Medicare taxes, and the competing claim on top-end tax room. Known Limitations and Questions for Economists updated. Duplicate source number [7] fixed (the Chief Actuary's score is now [9]).
 - Section 26.6: the estimates are conventional; dynamic effects and the General Fund offset are not counted.

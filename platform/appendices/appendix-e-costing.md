@@ -186,3 +186,14 @@ These figures use the Chief Actuary's conventional, trust-fund method. Estimates
 - **Wealth-tax revenue is the least certain figure.** Published estimates for the same design differ threefold, and a court ruling could end it. The tier rules keep tiers 1 and 2 from depending on it.
 - **Ten-year totals hide timing.** The wealth-tax transfer begins only once the Reserve reaches its target, which takes several years in the conservative case. K-12 equity funding would therefore start late in the window, and its ten-year cost is compared with a transfer that arrives mostly in later years.
 - **Nothing here replaces the independent costing required by Section 27.10** before any program takes effect.
+
+## E.6 Reviewer Comments
+
+Outside reviewers' comments on the estimates in this appendix are summarized here with their permission, together with the platform's response. Comments are paraphrased. Reviewers speak for themselves; inclusion does not mean they endorse the platform. Comments not adopted stay listed with the reason.
+
+**Status:** addressed (the platform changed or added a stated limit), open (not yet resolved), or not adopted (with the reason).
+
+| Reviewer | Date | Comment | Platform response | Status |
+| --- | --- | --- | --- | --- |
+| Andrew G. Biggs, Senior Fellow, American Enterprise Institute | November 13, 2026 | The plan goes well beyond the Moreno–Warren proposal. With the cap eliminated and contributions on S corporation and investment income, it resembles Senator Sanders's Social Security Expansion Act, which the Social Security actuaries score as achieving long-term solvency, so the remaining gap in Section E.4 may be overstated. | The designs differ: the platform taxes all wages above today's cap, covers pass-through income, and adds no benefits, but its investment-income threshold is \$1 million rather than about \$200,000 to \$250,000. Section E.4 now states that the figures use the Chief Actuary's method, under which estimates are typically larger than under CBO's. A package score on the 2026 Trustees Report's assumptions is needed to settle the gap. | Open |
+| Andrew G. Biggs, Senior Fellow, American Enterprise Institute | November 13, 2026 | Tax-heavy plans do less for the economy than plans that reduce promised benefits. In the Penn Wharton Budget Model's 2026 analysis, a benefit-cut plan reduces the debt-to-GDP ratio much more than a tax-only plan, easing pressure on the rest of the budget, including Medicare; CBO's model would likely find the same. | Accepted as a stated limit, not a change in policy (decision 0040). The white paper's new section Dynamic Effects and the Growth Trade-Off, Sections 2.13 and 26.6, and Sections E.4 and E.5 now say the estimates are conventional, that the plan's dynamic effect is likely small, and that the General Fund offset is not counted. The plan stays tax-only to keep benefits whole. | Addressed |

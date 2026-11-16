@@ -22,6 +22,9 @@ The growth in benefit-cut packages comes from the cuts. In Penn Wharton's benefi
 ## Trade-off
 Penn Wharton finds future generations better off over their lifetimes under the benefit-only package; the platform does not dispute this. Critics will say the platform leaves the economy smaller and the debt higher than it could be, and that by spending top-end tax room on Social Security it makes health financing harder. The platform's answer is that this is a choice about values that dynamic analysis informs but does not settle, and that health programs phase in more slowly rather than breach the ceiling.
 
+## Credit
+Andrew G. Biggs (American Enterprise Institute) raised these points in review correspondence on November 13, 2026, and agreed to be credited (Appendix E.6).
+
 ## Sources
 - Penn Wharton Budget Model, "Seven Social Security Reform Packages: Effects on Growth and Generations" (September 21, 2026). https://budgetmodel.wharton.upenn.edu/p/2026-09-21-seven-social-security-reform-packages-effects-on-growth-benefits-and-generations/
 - Andrew G. Biggs, "The two charts any Social Security reformer should understand," *Little-Known Facts* (September 30, 2026). https://littleknownfacts.substack.com/p/the-two-charts-any-social-security
