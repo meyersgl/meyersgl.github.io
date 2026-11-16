@@ -4,6 +4,14 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+## v1.3.1 Review Update (November 16, 2026)
+
+### Summary
+- First outside review: Appendix E.6 reviewer log; Social Security white paper adds Dynamic Effects and the Growth Trade-Off and names an unscored fallback for the remaining gap (decisions 0040 and 0041).
+- Honest Limits audit complete: every substantive chapter and appendix has an Honest Limits section.
+- Every program now has a funding source in Section 27.4 (decision 0042); immigration removal and detention standards (0043); fraud recoveries follow Chapter 27 (0044); Chapter 1 parameters and a 4 percent nominal GDP level target (0045, 0046).
+- All PDFs reissued as v1.3.1; the v1.3 PDFs remain in docs/.
+
 ### Integrity audit decisions and Honest Limits, part 2 (decisions 0042–0046)
 - Chapter 1: 4 percent nominal GDP level path (0046); spending cap at the enactment-year share of GDP, recession-valve inflation threshold, and a Reserve target of 3 percent of GDP (0045); new Section 1.4 Honest Limits.
 - Funding sources for previously unmapped programs in Section 7.4 and Chapters 14, 17, and 22, added to Section 27.4 (0042).

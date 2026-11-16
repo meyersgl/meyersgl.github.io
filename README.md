@@ -6,7 +6,7 @@ A working-draft policy platform by Gregory L. Meyers, open to expert review. The
 
 ## Current edition
 
-**v1.3 Costed Edition** (November 2026), published as PDFs in [`docs/`](docs/) alongside the v1.0, v1.1, and v1.2 editions. The markdown in this repository is the master source; see [`CHANGELOG.md`](CHANGELOG.md).
+**v1.3.1 Review Update** of the Costed Edition (November 2026), published as PDFs in [`docs/`](docs/) alongside the v1.0, v1.1, v1.2, and v1.3 editions. The markdown in this repository is the master source; see [`CHANGELOG.md`](CHANGELOG.md).
 
 ## What's here
 

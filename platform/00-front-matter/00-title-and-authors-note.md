@@ -2,7 +2,7 @@
 
 A Governing Blueprint for Shared Prosperity, Competitive Markets, Democratic Accountability, Scientific Advancement, and National Resilience
 
-Version 1.3 — Costed Edition
+Version 1.3.1 — Costed Edition, Review Update
 
 Gregory L. Meyers
 
@@ -12,7 +12,7 @@ Government provides the foundation. Citizens provide the ambition. Markets provi
 
 © 2026 Gregory L. Meyers. Licensed under CC BY-ND 4.0 (see LICENSE).
 
-Public Release Version 1.3
+Public Release Version 1.3.1
 
 # AUTHOR'S NOTE
 
@@ -67,6 +67,10 @@ Complete Edition. Fills the gaps identified in the v1.1 audit:
 - a completed General Fund phase-in order;
 - a new Appendix B on implementation and legislative strategy, including a Senate rules reform;
 - a Scope page and honest-limit notes for every High Resistance plank.
+
+Version 1.3.1 \| November 2026
+
+Review Update. Adds the first outside review: a reviewer log in Appendix E.6, and a dynamic-effects section and a named fallback option in the Social Security white paper (decisions 0040 and 0041). Completes the Honest Limits audit, so every substantive chapter and appendix states its unscored assumptions and risks. Gives every program a funding source in Section 27.4, sets a 4 percent nominal GDP level target, a spending-cap rule, and a Reserve target of 3 percent of GDP, and adds enforceable immigration detention standards (decisions 0042 to 0046).
 
 Version 1.3 \| November 2026
 
