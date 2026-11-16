@@ -4,6 +4,11 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+### Social Security fallback option (decision 0041)
+- White paper, Open Policy Question: names one unscored fallback for the remaining gap, slower benefit growth for the highest lifetime earners paired with a strong minimum benefit; rules out a flat or mostly flat benefit; lists universal retirement accounts as an open question, as a supplement only. New question 9 for economists.
+- White paper, Dynamic Effects: the no-benefit-credit design makes the added contribution above the current maximum a pure tax on work.
+- Section 26.6 updated to match. Appendix E.6: two new entries from Andrew G. Biggs. `REVIEW.md` Social Security question extended.
+
 ### Reviewer comments (Appendix E.6)
 - New Appendix E.6 logs outside reviewers' comments, paraphrased with permission, alongside the platform's response and a status.
 - First entries: Andrew G. Biggs (American Enterprise Institute), on the remaining Social Security gap (open) and on dynamic effects of tax-only reform (addressed by decision 0040). Thanks to Dr. Biggs for his review.

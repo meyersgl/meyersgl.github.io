@@ -349,6 +349,8 @@ In the Penn Wharton Budget Model's 2026 comparison of seven packages that each r
 
 This plan is a tax-only reform, and its taxes are concentrated where behavioral responses are largest: wages above the current taxable maximum, pass-through income, and investment income above \$1 million. Its dynamic effect is therefore likely to be no larger than the tax-only package's, and may be smaller. The Social Security Endowment does not change this conclusion, because under current estimates it receives no revenue (Reform Four).
 
+The no-benefit-credit design adds a further cost. Payroll taxes discourage work less than other taxes because paying them earns future benefits; when that link is broken, the payroll tax becomes a pure tax on work \[12\]. Earnings above the current taxable maximum earn no added benefits under this plan (Reform One), so for top earners the added contribution works like any other tax on wages. That raises more revenue than crediting benefits would, but it also means the plan's effect on work is larger than a payroll tax increase with benefit credit would have.
+
 ## Spillovers to the Rest of the Budget
 
 Payroll tax increases also reduce revenue outside Social Security. Employers tend to pass their share of a payroll tax increase back to workers as lower cash wages, and those wages then escape federal income and Medicare taxes \[11\]. For the top earners this plan reaches, the combined income and Medicare rate on those wages is up to 43.4 percent. Trust-fund scores do not count this loss, and the platform's General Fund estimates (platform Appendix E) do not yet subtract it.
@@ -405,7 +407,13 @@ Potential options include:
 
 - A combination of approaches.
 
-This paper does not take a final position on that question.
+- Slower benefit growth for the highest lifetime earners, paired with a strong minimum benefit. For example, the 15 percent factor that applies to the highest earnings in the benefit formula could be lowered gradually for future retirees, while a minimum benefit protects retirees with low lifetime earnings. This option has not been scored. It would depart from this paper's principle that earned benefits are not reduced, and is listed because it limits any reduction to those best able to replace it with their own saving while strengthening protection against poverty \[11\]\[13\]. Platform decision 0009 left a minimum-benefit increase as an option for scoring; this option would make it part of the package.
+
+This paper does not adopt a flat or mostly flat benefit. In the Penn Wharton Budget Model's analysis of one such design, which moved all new retirees to a single benefit at the poverty line over 25 years, a worker with average earnings would receive about 46 percent less and lower earners about 11 percent less, hours worked fell about 3 percent, and government debt rose for decades before the program's finances improved \[12\]. A flat benefit would turn Social Security from earnings insurance into an anti-poverty program, which is not this paper's aim.
+
+A related question is whether universal retirement savings accounts, with automatic enrollment for workers who lack an employer plan, should be added alongside Social Security. Some reviewers favor pairing such accounts with a smaller public benefit \[13\]; this paper would consider them only as a supplement, not a replacement for any part of Social Security.
+
+This paper does not take a final position on how to close the remaining gap.
 
 Instead, it presents the issue as an open area for future economic and actuarial analysis.
 
@@ -461,6 +469,8 @@ Feedback would be especially valuable regarding the following questions:
 
 8.  What would a dynamic score of this package show, and how much General Fund revenue would be lost when employers pass the uncapped employer share back to workers as lower wages?
 
+9.  If benefits for the highest lifetime earners were restrained and a strong minimum benefit added, how much of the remaining gap would close, and how would the dynamic effects compare?
+
 # Conclusion
 
 Social Security remains one of the nation's most important institutions.
@@ -500,3 +510,7 @@ The purpose is to begin it.
 \[10\] Penn Wharton Budget Model, "Seven Social Security Reform Packages: Effects on Growth and Generations" (September 21, 2026). https://budgetmodel.wharton.upenn.edu/p/2026-09-21-seven-social-security-reform-packages-effects-on-growth-benefits-and-generations/
 
 \[11\] Andrew G. Biggs, "The two charts any Social Security reformer should understand," *Little-Known Facts* (September 30, 2026). https://littleknownfacts.substack.com/p/the-two-charts-any-social-security
+
+\[12\] Penn Wharton Budget Model, "PWBM Budget Contest: A Flat Benefit for Social Security" (January 25, 2021). https://budgetmodel.wharton.upenn.edu/p/2021-01-25-pwbm-budget-contest-a-flat-benefit-for-social-security/
+
+\[13\] Andrew G. Biggs, review correspondence with the author, November 16, 2026, summarized with permission in platform Appendix E.6.
