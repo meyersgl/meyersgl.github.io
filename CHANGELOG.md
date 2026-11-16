@@ -4,6 +4,9 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+### Repository guide
+- New CLAUDE.md with working rules for local changes.
+
 ### Social Security fallback option (decision 0041)
 - White paper, Open Policy Question: names one unscored fallback for the remaining gap, slower benefit growth for the highest lifetime earners paired with a strong minimum benefit; rules out a flat or mostly flat benefit; lists universal retirement accounts as an open question, as a supplement only. New question 9 for economists.
 - White paper, Dynamic Effects: the no-benefit-credit design makes the added contribution above the current maximum a pure tax on work.
