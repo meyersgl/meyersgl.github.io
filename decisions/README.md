@@ -44,3 +44,4 @@ Each file records one settled policy or project choice: the question, the decisi
 | 0038 | UHI contribution rates left for expert review |
 | 0039 | Fixed-budget expansions after tier 2, with statutory ceilings |
 | 0040 | Social Security: benefit adequacy chosen over maximum growth |
+| 0041 | Social Security fallback named: top-end benefit restraint with a strong minimum benefit; flat benefit ruled out |
