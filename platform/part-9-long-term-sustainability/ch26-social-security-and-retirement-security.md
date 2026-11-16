@@ -93,6 +93,8 @@ No new means test shall reduce benefits based on income or wealth. Social Securi
 
 These reforms, including Section 26.2.4, have not yet been scored as a package by Social Security's Office of the Chief Actuary. The Chief Actuary has scored the design in Section 26.2.1, all earnings taxed at 12.4 percent with no added benefit credit, as improving the 75-year balance by about 2.55 percent of taxable payroll \[2\]. Against the 2026 Trustees Report's deficit of 4.42 percent \[1\], that closes roughly 58 percent of the gap and leaves about 1.9 percent. The contribution on investment income in Section 26.2.4 may close a further 0.2 to 0.6 percent (Appendix E.4), leaving about 1.3 to 1.7 percent. Section 26.3 adds revenue that has not been scored, and until the gap closes no revenue would reach the Endowment in Section 26.4 (Appendix E.4). This platform therefore does not claim full solvency until the reforms are scored. How to close any remaining gap without benefit cuts or a higher retirement age is presented as an open question for economists and actuaries in the white paper.
 
+These estimates are also conventional. Dynamic models find that tax-only reforms like this one raise long-run GDP far less than benefit reductions, and that payroll tax increases lower income and Medicare tax revenue as employers reduce cash wages \[3\]. Neither effect is counted here or in Appendix E. The platform accepts lower long-run growth in exchange for keeping benefits whole (decision 0040; white paper, Dynamic Effects and the Growth Trade-Off).
+
 ### 26.7 Retirement Security Principle
 
 Economic dignity should not end when work ends.
@@ -104,3 +106,5 @@ Citizens who contribute throughout their lives should have confidence that Socia
 \[1\] Social Security Board of Trustees, *2026 Annual Report*, Section II.E (June 2026). https://www.ssa.gov/oact/tr/2026/II_E_conclu.html
 
 \[2\] SSA Office of the Chief Actuary, "Summary Measures and Graphs: Provision E2.1, eliminate the taxable maximum, no benefit credit" (2025 Trustees Report basis, September 2025). https://www.ssa.gov/OACT/solvency/provisions_tr2025/charts/chart_run415.html
+
+\[3\] Penn Wharton Budget Model, "Seven Social Security Reform Packages: Effects on Growth and Generations" (September 21, 2026). https://budgetmodel.wharton.upenn.edu/p/2026-09-21-seven-social-security-reform-packages-effects-on-growth-benefits-and-generations/

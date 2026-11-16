@@ -193,7 +193,7 @@ These questions require independent economic analysis.
 
 Public estimates provide a starting point. Social Security's Office of the Chief Actuary has published scores of removing the cap both with and without benefit credit for the added earnings \[3\]\[4\]. In its 2021 scoring of a version that credits benefits on the added earnings, removing the cap closed about 57 percent of the then-projected 75-year deficit of 3.54 percent of taxable payroll, a gain of 2.00 percentage points of payroll \[4\]. Its 2016 scoring of a version with no benefit credit, the design proposed here, showed a gain of 2.36 percentage points \[3\].
 
-The Chief Actuary's most recent score of the no-benefit-credit design, on the 2025 Trustees Report's assumptions, shows a gain of about 2.55 percentage points of payroll \[7\]. Against the 2026 report's deficit of 4.42 percent, that would close roughly 58 percent of the gap and leave about 1.9 percent. A score on the 2026 assumptions is still needed. In a Congressional Research Service analysis, about 83 percent of covered earnings were subject to the payroll tax \[5\].
+The Chief Actuary's most recent score of the no-benefit-credit design, on the 2025 Trustees Report's assumptions, shows a gain of about 2.55 percentage points of payroll \[9\]. Against the 2026 report's deficit of 4.42 percent, that would close roughly 58 percent of the gap and leave about 1.9 percent. A score on the 2026 assumptions is still needed. In a Congressional Research Service analysis, about 83 percent of covered earnings were subject to the payroll tax \[5\].
 
 # Reform Two: Include High-Income Pass-Through Income
 
@@ -341,6 +341,28 @@ This proposal maintains that individuals who contribute should continue receivin
 
 High-income earners would contribute more under payroll-cap reform, but they would continue receiving benefits.
 
+# Dynamic Effects and the Growth Trade-Off
+
+The estimates in this paper are conventional. They come from the Chief Actuary's trust-fund projections and assume that the size of the economy does not change. Dynamic models, which let households change how much they work and save, rank reforms differently.
+
+In the Penn Wharton Budget Model's 2026 comparison of seven packages that each restore 75-year solvency, a benefit-only package raised 2060 GDP by about 12 percent and reduced the debt-to-GDP ratio by about 26 percent. A tax-only package raised GDP by about 0.4 percent and reduced the ratio by about 14 percent \[10\]. When future benefits fall, households work and save more to make up the difference, and their added saving builds capital. A tax-only reform has no such channel \[10\]\[11\].
+
+This plan is a tax-only reform, and its taxes are concentrated where behavioral responses are largest: wages above the current taxable maximum, pass-through income, and investment income above \$1 million. Its dynamic effect is therefore likely to be no larger than the tax-only package's, and may be smaller. The Social Security Endowment does not change this conclusion, because under current estimates it receives no revenue (Reform Four).
+
+## Spillovers to the Rest of the Budget
+
+Payroll tax increases also reduce revenue outside Social Security. Employers tend to pass their share of a payroll tax increase back to workers as lower cash wages, and those wages then escape federal income and Medicare taxes \[11\]. For the top earners this plan reaches, the combined income and Medicare rate on those wages is up to 43.4 percent. Trust-fund scores do not count this loss, and the platform's General Fund estimates (platform Appendix E) do not yet subtract it.
+
+## Competing Claims on Top-End Revenue
+
+A tax-only fix also uses much of the room to raise taxes on high earners \[11\]. The platform draws on that same room for health care: under its 60 percent ceiling on combined federal rates on wages (platform Section 2.8), the Universal Health Insurance contribution on top-bracket wages can be no higher than 4.2 percent. The platform accepts this. Health programs phase in more slowly rather than breach the ceiling.
+
+## Why the Platform Accepts the Trade-Off
+
+The growth in benefit-cut packages comes from the cuts themselves. In the Penn Wharton benefit-only package, workers born in 2015 in the lowest-earning fifth would receive benefits about 28 percent lower, and the analysis does not estimate effects on old-age poverty \[10\]. Penn Wharton also finds that future generations would be better off over their lifetimes under that package by its measure of lifetime welfare, while people near retirement lose much more than under the tax-only package \[10\]. This paper does not dispute those findings. Supporters of benefit reductions also agree that the program's first purpose is protecting Americans against retiring into poverty \[11\].
+
+This paper treats protecting retirement income as the program's purpose, not a constraint on it. It accepts lower long-run growth than a benefit-cut reform would bring, in exchange for keeping benefits whole for today's workers and near-retirees. That is a judgment about values. Dynamic analysis informs it but does not settle it. Independent dynamic scoring of this package remains a priority (Areas Requiring Further Research).
+
 # Areas Requiring Further Research
 
 This white paper intentionally avoids making claims that have not yet been independently verified.
@@ -405,6 +427,10 @@ Several important questions remain unresolved, including:
 
 - Distributional impacts across income groups and generations.
 
+- Dynamic effects on work, saving, and GDP, which the Penn Wharton Budget Model finds are much smaller for tax-only reforms than for benefit reductions (Dynamic Effects and the Growth Trade-Off).
+
+- Revenue lost to federal income and Medicare taxes when employers pass the uncapped employer share back to workers as lower wages.
+
 - The size of any remaining long-term solvency gap after implementation of the proposed reforms.
 
 This paper therefore should not be interpreted as a claim that Social Security solvency has been definitively solved. Rather, it presents a framework intended for evaluation, criticism, refinement, and further analysis.
@@ -432,6 +458,8 @@ Feedback would be especially valuable regarding the following questions:
 6.  What additional modeling would be required before policymakers should consider implementation?
 
 7.  If a residual financing gap remains, what solution would economists recommend?
+
+8.  What would a dynamic score of this package show, and how much General Fund revenue would be lost when employers pass the uncapped employer share back to workers as lower wages?
 
 # Conclusion
 
@@ -467,4 +495,8 @@ The purpose is to begin it.
 
 \[8\] Congressional Research Service, "Social Security: Selected Findings of the 2026 Annual Report," IF13256, June 25, 2026. https://www.everycrsreport.com/reports/IF13256.html
 
-\[7\] SSA Office of the Chief Actuary, Summary Measures and Graphs, provision E2.1: eliminate the taxable maximum, no benefit credit (2025 Trustees Report basis, September 2025). https://www.ssa.gov/OACT/solvency/provisions_tr2025/charts/chart_run415.html
+\[9\] SSA Office of the Chief Actuary, Summary Measures and Graphs, provision E2.1: eliminate the taxable maximum, no benefit credit (2025 Trustees Report basis, September 2025). https://www.ssa.gov/OACT/solvency/provisions_tr2025/charts/chart_run415.html
+
+\[10\] Penn Wharton Budget Model, "Seven Social Security Reform Packages: Effects on Growth and Generations" (September 21, 2026). https://budgetmodel.wharton.upenn.edu/p/2026-09-21-seven-social-security-reform-packages-effects-on-growth-benefits-and-generations/
+
+\[11\] Andrew G. Biggs, "The two charts any Social Security reformer should understand," *Little-Known Facts* (September 30, 2026). https://littleknownfacts.substack.com/p/the-two-charts-any-social-security
