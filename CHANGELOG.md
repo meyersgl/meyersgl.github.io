@@ -4,6 +4,10 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+### Honest Limits audit, part 1
+- New Honest Limits sections in Chapter 11 (Section 11.3), Chapter 25 (Section 25.12), and Appendix A.
+- Section 27.12 no longer says the edition has no dollar estimates; it points to Appendix E.
+
 ### Repository guide
 - New CLAUDE.md with working rules for local changes.
 

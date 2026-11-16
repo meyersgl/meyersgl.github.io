@@ -187,3 +187,16 @@ National service should bring Americans together across:
 - Political affiliations
 
 The purpose is strengthening civic bonds and reinforcing the idea that citizenship carries both rights and responsibilities.
+
+### 25.12 Honest Limits
+
+- **National service funding is politically fragile.** In 2025 the administration terminated more than 1,000 AmeriCorps grants and placed most of the agency's staff on leave; courts ordered funding restored only in the states that sued \[1\]. A statutory ceiling limits expansion; it does not protect the base program from future cuts.
+- **Expansion waits behind tiers 1 and 2.** Under Section 27.9, growth above current-law funding begins only after tiers 1 and 2 are fully funded, so in the conservative case in Appendix E the program does not expand.
+- **Health coverage depends on Universal Health Insurance.** Section 25.5 covers full-time participants through Universal Health Insurance, which phases in over several years. This chapter does not yet say how participants are covered before then.
+- **Benefits overlap with Chapter 7.** Service scholarships may repay existing student loans, which Section 7.3.1 also restructures. The two must not count the same debt relief twice (Section 27.8).
+- **Service can displace paid work.** Stipended participants in elder care, disability services, and community health may substitute for paid workers despite Section 25.8's rule that they supplement trained professionals. That rule is only as strong as grant oversight.
+- **New tracks are untested.** The Disaster Response Reserve Corps and other new tracks should be evaluated under Section 14.5 before national expansion.
+
+### Sources
+
+\[1\] Associated Press, "Trump administration must restore AmeriCorps programs in 24 states, judge rules" (June 2025). https://apnews.com/article/americorps-trump-doge-lawsuit-f88fb92ffb93dbb5a942f8570412ba3f

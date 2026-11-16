@@ -106,6 +106,13 @@ Constitutional amendments should satisfy the following standards:
 
 Amendments should strengthen the long-term effectiveness, legitimacy, and resilience of American constitutional government.
 
+## Honest Limits
+
+- **Amendments are the hardest reforms to enact.** Article V requires approval by two-thirds of both houses of Congress, or a convention called by two-thirds of the states, and ratification by three-fourths of the states. The most recent amendment was ratified in 1992. Both proposals here are long-term goals.
+- **The age limit would end many current careers.** A limit of 68 would bar many current members of Congress, potential presidential candidates, and federal judges from continuing to serve. Critics will call it age discrimination that overrides voters' choices.
+- **The age limit is also the backstop for judicial terms.** If courts hold that the eighteen-year terms in Section 12.5 violate Article III, the age limit in Amendment 1 is the platform's only fallback. The platform does not propose an amendment for fixed judicial terms.
+- **The campaign-finance amendment narrows First Amendment protection for political spending.** Critics across the spectrum will argue that it lets incumbents limit challengers' speech. "Reasonable limits" would be defined by Congress, the states, and ultimately the courts.
+
 ## Constitutional Governance Statement
 
 The Constitution of the United States provides the framework within which democratic self-government operates.
