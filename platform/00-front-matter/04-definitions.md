@@ -262,7 +262,7 @@ Costs met by universal public programs established in this platform (such as pub
 
 - **Stabilize economic cycles**
 
-- **Hold Extreme Wealth Fair-Share Tax revenue up to a statutory stabilization target, then pass a smoothed share to the General Fund for later-tier programs (Section 27.5)**
+- **Hold Extreme Wealth Fair-Share Tax revenue up to a stabilization target of 3 percent of GDP, then pass a smoothed share to the General Fund for later-tier programs (Section 27.5)**
 
 - **Strengthen fiscal resilience**
 

@@ -1,5 +1,7 @@
 ## Chapter 14: Government Effectiveness
 
+*Funding role: the reviews, dashboards, anti-fraud office, and other activities in this chapter are funded within existing authorized appropriations, with no Section 27.9 phase-in obligation. One-time replacement of long-lived federal systems under Section 14.3 may use the Capital Investment Account and productive borrowing (Sections 27.5 and 27.7).*
+
 ### 14.1 Guiding Principle
 
 Government should not be judged by its size alone.
@@ -104,9 +106,11 @@ Modernization priorities include:
 
 Citizens should not be forced to navigate outdated systems to access basic government services.
 
+One-time replacement of outdated federal systems may be paid from the Capital Investment Account and productive borrowing (Sections 27.5 and 27.7) where independent costing under Section 27.10 shows a long-lived system. Operation and maintenance are funded within existing authorized appropriations.
+
 ### 14.4 Anti-Fraud Enforcement Unit \[Statute\]
 
-A permanently funded anti-fraud office shall investigate:
+A permanent anti-fraud office, funded within existing authorized appropriations, shall investigate:
 
 - Procurement fraud
 
@@ -118,7 +122,7 @@ A permanently funded anti-fraud office shall investigate:
 
 - Financial misconduct
 
-Recovered funds shall be returned to taxpayers or the originating program.
+Recovered funds shall be returned to the program they came from and are not counted as platform revenue (Section 27.3).
 
 ### 14.5 Outcome-Based Pilot Programs \[Statute\]
 
@@ -191,3 +195,12 @@ Major projects shall publicly disclose:
 - Project timelines
 
 - Performance metrics
+
+### 14.8 Honest Limits
+
+- **The ten-year review is the most durable part of this chapter.** The Government Accountability Office is a legislative-branch agency, so its reviews under Section 14.2.1 do not depend on the President. After *Trump v. Slaughter* (2026), the heads of executive agencies, including whoever runs the anti-fraud office, can be removed at will (Appendix C), and Inspectors General can be removed with written reasons and notice to Congress (Section 15.6).
+- **Reviews and dashboards create duties to report, not duties to act.** Sunset reviews ask Congress to assess programs, but one Congress cannot bind the next, and nothing happens if a review is ignored.
+- **This chapter has no private enforcement.** Nobody can go to court to compel a dashboard or a review; publication duties are its main safeguard.
+- **Performance measures can be gamed.** Agencies may favor metrics that are easy to improve over outcomes that matter, and the one-in-one-out rule may pressure agencies to drop useful data collection along with redundant paperwork.
+- **Large IT projects often overrun.** The Government Accountability Office has long listed federal IT acquisition as a high-risk area. One-time replacement paid through the Capital Investment Account must also wait until the Sovereign Wealth Reserve reaches its target (Section 27.5).
+- **No new money.** The anti-fraud office and dashboards operate within existing appropriations (decision 0042), so their scale depends on annual appropriations.

@@ -1,5 +1,7 @@
 ## Chapter 22: Disaster Resilience & Emergency Preparedness
 
+*Funding role: one-time capital costs, namely mitigation construction under Section 22.5, the initial build-out of emergency reserves under Section 22.6, and resilience improvements in reconstruction under Section 22.10, are paid from the Capital Investment Account and productive borrowing (Sections 27.5 and 27.7). Risk assessment, preparedness operations, reserve rotation, rapid response, and community grants are funded within existing authorized appropriations, with no Section 27.9 phase-in obligation.*
+
 ### 22.1 Guiding Principle
 
 The most effective disaster response begins before disaster strikes.
@@ -171,3 +173,16 @@ Priority functions include:
 - Financial-system stability
 
 - National security operations
+
+### 22.12 Honest Limits
+
+- **Mitigation funding waits for the Reserve.** The Capital Investment Account receives money only after the Sovereign Wealth Reserve reaches its target of 3 percent of GDP (Section 27.5), which takes years in the conservative case in Appendix E. Borrowing for mitigation is limited to what that account can service (Section 27.7). Until then, mitigation relies on existing programs.
+- **Savings vary by hazard and place.** The National Institute of Building Sciences found that federal mitigation grants save about \$6 for every \$1 spent on average \[1\], but returns differ widely across hazards and projects. Section 22.5 favors only projects with evidence of long-term savings.
+- **Automatic deployment changes current practice.** Federal disaster aid generally follows a governor's request for a presidential declaration. Automatic triggers under Section 22.8 require amending that process and can send resources where they turn out not to be needed.
+- **Rebuilding stronger costs more and can keep people in harm's way.** Resilience standards raise up-front reconstruction costs, and rebuilding in high-risk areas may still be the wrong choice. This chapter does not address relocation away from high-risk areas or reform of the National Flood Insurance Program.
+- **Preparedness fades between crises.** Stockpiles, surge capacity, and public-health staff are easy to cut when no emergency is visible. Rotation and readiness duties under Sections 22.6 and 22.7 help, but operating funds depend on annual appropriations.
+- **Results depend on state and local capacity,** which varies widely.
+
+### Sources
+
+\[1\] National Institute of Building Sciences, *Natural Hazard Mitigation Saves: 2019 Report*. https://www.nibs.org/projects/natural-hazards-mitigation-saves-2019-report

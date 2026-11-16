@@ -4,6 +4,13 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+### Integrity audit decisions and Honest Limits, part 2 (decisions 0042–0046)
+- Chapter 1: 4 percent nominal GDP level path (0046); spending cap at the enactment-year share of GDP, recession-valve inflation threshold, and a Reserve target of 3 percent of GDP (0045); new Section 1.4 Honest Limits.
+- Funding sources for previously unmapped programs in Section 7.4 and Chapters 14, 17, and 22, added to Section 27.4 (0042).
+- Chapter 17: new Section 17.2.1, removal by the Civil Immigration Administration and detention by individualized finding with statutory standards enforceable by detained people and state attorneys general (0043); new Section 17.6 Honest Limits.
+- Section 14.4: recovered funds return to the originating program, matching Section 27.3 (0044); new Section 14.8 Honest Limits.
+- New Honest Limits in Chapter 7 (Section 7.5) and Chapter 22 (Section 22.12). Every substantive chapter and appendix now has an Honest Limits section.
+
 ### Honest Limits audit, part 1
 - New Honest Limits sections in Chapter 11 (Section 11.3), Chapter 25 (Section 25.12), and Appendix A.
 - Section 27.12 no longer says the edition has no dollar estimates; it points to Appendix E.

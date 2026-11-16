@@ -1,5 +1,7 @@
 ## Chapter 17: Immigration & Integration
 
+*Funding role: the reorganization, processing improvements, and integration programs in this chapter are funded within existing authorized immigration appropriations and the fees that already fund application processing, with no new appropriation and no Section 27.9 phase-in obligation (Section 27.4).*
+
 ### 17.1 Guiding Principle
 
 The United States is both a sovereign nation and a nation of immigrants.
@@ -51,6 +53,16 @@ Administrative functions shall transition to a professional civilian agency emph
 - Legal compliance
 
 The objective is improved effectiveness without weakening enforcement.
+
+#### 17.2.1 Removal and Detention Standards
+
+The Civil Immigration Administration shall carry out final orders of removal through civilian officers.
+
+Detention shall be permitted only after an individualized finding, promptly reviewable by an immigration judge, that a person poses a flight risk or a danger to the community that no less restrictive alternative can manage. Alternatives to detention, such as scheduled check-ins and case management, shall be the default. Laws that require detention without an individualized finding shall be amended accordingly.
+
+Minimum detention standards covering medical and mental-health care, access to counsel, family contact, and conditions of confinement shall be set in statute rather than agency guidance. They shall apply equally to facilities operated by the government, by private contractors, and by state or local governments under contract.
+
+**Enforcement.** Any person held in immigration detention may sue in federal court to enforce these standards and obtain injunctive relief, damages, and reasonable attorney's fees. State attorneys general may sue to enforce the standards at facilities in their states. Pre-dispute arbitration agreements and contract terms shall not bar these claims, including claims against private contractors. Judgments against federal officers are handled under Section 16.9.2.
 
 ### 17.3 Immigration & National Integration Act \[Statute\]
 
@@ -181,3 +193,14 @@ Every person interacting with America's immigration system shall be treated with
 - Human dignity
 
 Government should enforce immigration law without abandoning fundamental humanitarian values.
+
+### 17.6 Honest Limits
+
+- **Dissolving ICE is the most contested proposal in this chapter.** Opponents will call it weakening enforcement, and a poorly managed transition could leave gaps in both enforcement and case processing.
+- **Fewer people will be detained, and some will not appear.** Section 17.2.1 makes detention the exception. Some people released under alternatives will miss hearings or abscond, and each case will be used against the policy.
+- **Existing mandatory-detention laws must be amended,** including the Laken Riley Act of 2025, which requires detention of some noncitizens charged with certain crimes.
+- **Private suits create litigation costs.** Standards enforceable in court will produce suits against the government and its contractors. Judgments against federal officers are repaid from the responsible agency's own budget (Section 16.9.2), which is the point, but it strains that budget.
+- **Leadership can change at will.** After *Trump v. Slaughter* (2026), the head of any successor agency serves at the President's pleasure. The standards in Section 17.2.1 are written into statute and enforceable by detained people and state attorneys general so that they do not depend on who runs the agency.
+- **Legal pathways require Congress.** Expanding work visas, legalizing Dreamers and long-term residents, and creating a path to citizenship all require legislation. Congress has not enacted a broad legalization program since 1986.
+- **No new money for backlogs.** Processing improvements come from existing appropriations and fees (decision 0042), so reducing large application and court backlogs will be slow.
+- **Integration depends on states and communities.** English instruction, credential recognition, and workforce programs are largely delivered by states, localities, and nonprofits, so results will vary.

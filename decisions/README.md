@@ -45,3 +45,8 @@ Each file records one settled policy or project choice: the question, the decisi
 | 0039 | Fixed-budget expansions after tier 2, with statutory ceilings |
 | 0040 | Social Security: benefit adequacy chosen over maximum growth |
 | 0041 | Social Security fallback named: top-end benefit restraint with a strong minimum benefit; flat benefit ruled out |
+| 0042 | Unmapped programs: capital costs through the Capital Investment Account; operations within existing appropriations |
+| 0043 | Removal by the Civil Immigration Administration; detention by individualized finding with enforceable statutory standards |
+| 0044 | Recovered fraud funds return to the originating program |
+| 0045 | Spending cap, recession-valve inflation threshold, and Reserve target set by rule |
+| 0046 | 4 percent nominal GDP level path replaces the 4–5 percent growth-rate target |

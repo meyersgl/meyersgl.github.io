@@ -46,7 +46,7 @@ Each major program shall draw only on the stream listed here. Independent cost e
 | Universal Adjustment Assistance training grants and triggered apprenticeship expansion (Sections 3.6.7 to 3.6.9) | Recurring, capped | General Fund (tax fairness measures), tier 1, step 5 (Section 27.9) |
 | Wage insurance (Section 3.6.7) | Recurring | Unemployment trust funds |
 | Expanded Disabled Access Credit (Section 13.5.1) | Recurring | General Fund (tax fairness measures), tier 1 (Section 27.9) |
-| Federal officer judgments and settlements (Section 16.9.2) | As incurred | Judgment Fund, repaid by the responsible agency from its own appropriations |
+| Federal officer judgments and settlements (Sections 16.9.2 and 17.2.1) | As incurred | Judgment Fund, repaid by the responsible agency from its own appropriations |
 | Civil Rights Risk Reduction Grants (Section 16.13) | Recurring, capped | Within existing authorized policing grant appropriations; no new appropriation and no Section 27.9 phase-in obligation |
 | Civil rights enforcement staff (Section 13.8) | Recurring | General Fund, within capped and scored base appropriations |
 | Disability Insurance earnings offset (Section 4.6.3) | Recurring | Social Security trust funds |
@@ -65,6 +65,8 @@ Each major program shall draw only on the stream listed here. Independent cost e
 | Public housing and research facility construction | One-time | Capital Investment Account (Section 27.5) and productive borrowing (Section 27.7) |
 | Research expansion and national service | Recurring, capped | General Fund (tax fairness measures), fixed-budget rules (Section 27.9) |
 | National Farm Risk Protection Program enhancements (current crop insurance unchanged) | Recurring, capped | General Fund (tax fairness measures), fixed-budget rules (Section 27.9) |
+| Disaster mitigation construction, initial emergency-reserve build-out, resilience improvements in reconstruction, and replacement of long-lived federal systems (Sections 14.3, 22.5, 22.6, 22.10) | One-time | Capital Investment Account (Section 27.5) and productive borrowing (Section 27.7) |
+| Government performance reviews, dashboards, and anti-fraud office (Chapter 14); immigration reorganization, processing, and integration (Chapter 17); disaster preparedness operations and community grants (Chapter 22); STEM pipeline (Section 7.4) | Recurring | Within existing authorized appropriations and, for immigration processing, existing fee accounts; no new appropriation and no Section 27.9 phase-in obligation |
 | Infrastructure, grid, and public broadband | One-time | Productive borrowing and the 10 percent carbon General Fund share |
 | Transition Fund | Time-limited | 10 percent carbon Transition share |
 | Household dividend | Ongoing while fees are collected | 80 percent carbon share and border tariff receipts |
@@ -73,7 +75,7 @@ Each major program shall draw only on the stream listed here. Independent cost e
 
 The Sovereign Wealth Reserve (Section 1.3) shall exist only to stabilize the economy in recessions.
 
-- **Funding:** all Extreme Wealth Fair-Share Tax revenue shall be deposited in the Reserve until its stabilization balance reaches a target fixed in statute as a share of GDP.
+- **Funding:** all Extreme Wealth Fair-Share Tax revenue shall be deposited in the Reserve until its stabilization balance reaches 3 percent of GDP.
 - **Smoothed transfer:** in each year that the balance is at its target, the General Fund shall receive one-half of the lowest annual Extreme Wealth Fair-Share Tax receipts in the five preceding years (or in every preceding year, if fewer than five), but never more than that year's receipts. The transfer may pay only for programs in tiers 3 and 4 of Section 27.9 that have taken effect; any amount they do not need stays in the Reserve. No transfer shall be made in a year the balance is below its target, including during and after a draw, until it is refilled.
 - **Above the target:** remaining deposits shall go to a Capital Investment Account, which may fund one-time capital projects, and debt service on borrowing for long-lived assets under Section 27.7, but never recurring programs.
 - **Investment:** assets shall be held in broad, passive index funds managed by private managers selected through competitive bidding, with no voting rights in any company.

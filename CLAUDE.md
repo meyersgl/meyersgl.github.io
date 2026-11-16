@@ -21,7 +21,7 @@ Never decide an open policy question. If a prompt leaves a policy choice open, o
 - **Prefer self-enforcing law:** express private rights of action, enforcement by state attorneys general, mandatory statutory duties, and bans on pre-dispute arbitration.
 - **Honest Limits.** Every substantive chapter and appendix keeps an Honest Limits section stating unscored
   assumptions, legal risks, and behavioral trade-offs. Appendix D (section map) is exempt.
-  Known gaps, to be closed by a separate audit: Chapters 1, 7, 14, 17, and 22. Any new or substantially revised chapter must include the section.
+  Any new or substantially revised chapter must include the section.
 
 ## 4. Records
 
