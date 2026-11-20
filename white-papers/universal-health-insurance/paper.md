@@ -273,7 +273,7 @@ Wealth-tax revenue would not be used for health financing. Under the platform's 
 
 The proposal does not yet specify exact contribution rates. The platform deliberately leaves them for independent scoring and expert review rather than setting rates before the costs are known.
 
-The platform's own costing (Appendix E.4 of the full platform) shows the scale of the question. Comparable single-payer designs that include long-term care would add about \$32.6 trillion (Mercatus Center) to \$34 trillion (Urban Institute) to federal spending over ten years. Much of that would replace premiums, deductibles, and state Medicaid spending rather than add to national health spending: the Congressional Budget Office's 2020 options found national health spending in 2030 ranging from about \$0.7 trillion lower to \$0.3 trillion higher than under current law. Even so, the Trust Fund would need to raise roughly \$3 trillion or more a year.
+The platform's own costing (Appendix E.4 of the full platform) shows the scale of the question. Published estimates for comparable single-payer designs would add \$32.6 trillion to \$38.8 trillion to federal spending over ten years without long-term care \[6\]\[8\], and about \$34 trillion with a home- and community-based long-term care benefit \[7\]. The Mercatus author describes \$32.6 trillion as a minimum that rests on provider payment cuts he considers probably unrealistic, and concluded in 2022 that CBO's 2020 analysis makes the higher estimates more likely \[8\]. Because this plan covers long-term care with no cost sharing, its cost is likely higher than estimates that leave long-term care out. Much of that would replace premiums, deductibles, and state Medicaid spending rather than add to national health spending: the Congressional Budget Office's 2020 options found national health spending in 2030 ranging from about \$0.7 trillion lower to \$0.3 trillion higher than under current law. Even so, the Trust Fund would need to raise roughly \$3 trillion or more a year.
 
 Any financing design must work within four fixed constraints:
 
@@ -700,3 +700,9 @@ The purpose is to begin it.
 \[4\] Medicare Payment Advisory Commission, Report to the Congress: Medicare Payment Policy, March 2026, Chapter 12. https://www.medpac.gov/wp-content/uploads/2026/03/Mar26_Ch12_MedPAC_Report_To_Congress_SEC.pdf
 
 \[5\] Centers for Medicare & Medicaid Services, Medicare Drug Price Negotiation Program: Negotiated Prices for Initial Price Applicability Year 2026. https://www.cms.gov/newsroom/fact-sheets/medicare-drug-price-negotiation-program-negotiated-prices-initial-price-applicability-year-2026
+
+\[6\] Charles Blahous, "The Costs of a National Single-Payer Healthcare System," Mercatus Center working paper (July 2018). https://www.mercatus.org/publications/government-spending/costs-national-single-payer-healthcare-system
+
+\[7\] Linda J. Blumberg et al., *From Incremental to Comprehensive Health Insurance Reform: How Various Reform Options Compare on Coverage and Costs*, Urban Institute (October 2019); data brief via the Commonwealth Fund. https://datacenter.commonwealthfund.org/sites/default/files/2019-10/Blumberg_comparing_reform_options_building_ACA_single_payer_db.pdf
+
+\[8\] Statement of Charles P. Blahous before the U.S. Senate Committee on the Budget (May 12, 2022). https://www.budget.senate.gov/download/charles-blahous_-witness-testimony-&download=1
