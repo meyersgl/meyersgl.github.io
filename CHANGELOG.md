@@ -4,6 +4,9 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+### Release skill
+- New `.claude/skills/release/SKILL.md`: the release steps (version bump, changelog, tag, Build editions, PDFs into `docs/`, live link check) with three confirmation stops.
+
 ## v1.3.2 Correction (November 23, 2026)
 
 ### Summary
