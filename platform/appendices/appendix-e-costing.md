@@ -116,7 +116,7 @@ Under Section 27.9 these continue at current-law levels. Only their expansions a
 
 | Program | Section | Funded by | Ten-year estimate | Estimate type | Basis | Source | Date and window | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Universal Health Insurance, including rural stabilization, the Medicaid transition, and the long-term care benefit with eldercare (decision 0036) | 5.1, 5.3, 4.7 | UHI Trust Fund | At least about 32,600 to 38,800 in added federal spending before long-term care; more with it | Conventional | Comparable estimate (not a score) | Mercatus Center; Urban Institute; CBO (single year) | 2018–2020; ten years | Estimated |
+| Universal Health Insurance, including rural stabilization, the Medicaid transition, and the long-term care benefit with eldercare (decision 0036) | 5.1, 5.3, 4.7 | UHI Trust Fund | At least about 32,600 to 38,800 in added federal spending before long-term care; more with it | Conventional | Comparable estimate (not a score) | Mercatus Center; Urban Institute; CBO (single year); Blahous testimony (2022) | 2018–2022; ten years | Estimated |
 | Paid leave | 3.3 | Paid Leave Trust Fund | About 800 to 1,400 (0.6% to 1.0% of taxable payroll); up to about 3,900 under high take-up | Conventional | Comparable estimate (not a score) | IWPR; American Action Forum | 2017–2019 | Estimated |
 | Social Security reforms (75-year basis) | Chapter 26 | Social Security trust funds | Revenue reform only; benefits unchanged | 75-year actuarial | Comparable estimate (not a score) | SSA Office of the Chief Actuary; 2026 Trustees Report | 2025–2026 | Estimated |
 | Dynamic Global Innovation Fund | 5.2.2 | Drug-negotiation savings (capped) | Pending | — | Pending | — | — | Not yet estimable |

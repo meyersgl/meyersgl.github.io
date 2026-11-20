@@ -1,5 +1,5 @@
 program,program_category,chapter,section,recurring_or_one_time,revenue_stream,queue_type,tier,step,affordability_order,estimate_low_10yr_usd_billion,estimate_high_10yr_usd_billion,estimate_type,source_org,source_title,source_date,budget_window,source_url,design_differences,funding_status
-Universal Health Insurance,Health,5,5.1,recurring,uhi-contributions,trust-fund,,,,,,,,,,,,,Not yet estimable
+Universal Health Insurance,Health,5,5.1,recurring,uhi-contributions,trust-fund,,,,32600,38800,conventional,Mercatus Center; Urban Institute; CBO (single year); Blahous testimony (2022),,,,,,"Estimated; before long-term care, more with it"
 Rural health stabilization,Health,5,5.3,recurring,uhi-contributions,trust-fund,,,,,,,,,,,,,Not yet estimable
 Medicaid transition and abortion-care claims,Health,4;6,4.7;6.2.7,recurring,uhi-contributions,trust-fund,,,,,,,,,,,,,Not yet estimable
 Dynamic Global Innovation Fund,Health,5,5.2.2,recurring capped,drug-negotiation-savings,dedicated-fund,,,,,,,,,,,,,Not yet estimable
