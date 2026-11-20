@@ -4,6 +4,9 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+### Data notes
+- data/costing.csv: the eldercare note now says its cost is part of the long-term care benefit, which the Universal Health Insurance cost figure leaves out.
+
 ### Release skill
 - New `.claude/skills/release/SKILL.md`: the release steps (version bump, changelog, tag, Build editions, PDFs into `docs/`, live link check) with three confirmation stops.
 
