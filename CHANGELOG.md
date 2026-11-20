@@ -6,6 +6,7 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ### Corrected Universal Health Insurance cost benchmark
 - Appendix E (revenue row, cost row, Section E.4 table and text) and the Universal Health Insurance white paper: the Mercatus estimate is a \$32.6 trillion to \$38.8 trillion range that excludes long-term care, with \$32.6 trillion as a minimum; the Urban Institute's \$34 trillion includes a long-term care benefit. The plan's cost is now stated as at least \$32.6 trillion to \$38.8 trillion before long-term care, and more with it. New white paper sources [6] to [8]. Correction note added to decision 0038.
+- Executive summary: the Universal Health Insurance cost now reads at least \$32.6 trillion to \$38.8 trillion before long-term care, and more with it, matching Appendix E.4.
 
 ### Review guide
 - `REVIEW.md` adds a Frontier AI question (capability tiers, open weight models, and the oversight design) and fixes a stray comma.
