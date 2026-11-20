@@ -20,3 +20,6 @@ Until rates are set, the platform cannot show that UHI balances, and Appendix E.
 
 ## Correction (2026-11-20)
 The range cited above understated the cost. The Mercatus estimate ($32.6 trillion) is the minimum of a $32.6 trillion to $38.8 trillion range and excludes long-term care; the Urban Institute estimate (about $34 trillion) includes a home- and community-based long-term care benefit. Appendix E.4 and the Universal Health Insurance white paper now say the plan's cost is at least $32.6 trillion to $38.8 trillion before long-term care, and more with it. The decision to leave contribution rates for expert review is unchanged.
+
+## Credit
+Charles Blahous (Mercatus Center) identified both errors in review correspondence on November 20, 2026, and agreed to be credited (Appendix E.6).

@@ -4,6 +4,9 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+### Reviewer comments
+- Appendix E.6: Charles Blahous (Mercatus Center) credited for identifying that the platform misdescribed his 2018 single-payer estimate; credit added to decision 0038. Thanks to Dr. Blahous for his review.
+
 ### Build workflow
 - `.github/workflows/build.yml` moves to the Node 24 versions of its actions: `actions/checkout@v7`, `actions/upload-artifact@v7`, and `softprops/action-gh-release@v3`.
 
