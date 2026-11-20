@@ -4,6 +4,9 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+### Review guide
+- `REVIEW.md` adds a Frontier AI question (capability tiers, open weight models, and the oversight design) and fixes a stray comma.
+
 ## v1.3.1 Review Update (November 16, 2026)
 
 ### Summary

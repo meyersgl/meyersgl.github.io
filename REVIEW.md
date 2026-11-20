@@ -1,6 +1,6 @@
 # Reviewing the Platform
 
-The Social Democratic Market Platform is presented for critical evaluation. Version 1.3.1 of the Costed Edition, compares every program with published cost and revenue estimates and tests what its revenue can pay for. Those estimates are comparable figures and the author's own arithmetic, **not independent scores**. Expert review is the next step.
+The Social Democratic Market Platform is presented for critical evaluation. Version 1.3.1 of the Costed Edition compares every program with published cost and revenue estimates and tests what its revenue can pay for. Those estimates are comparable figures and the author's own arithmetic, **not independent scores**. Expert review is the next step.
 
 Agreement is not required. The most useful review finds a weak assumption, a wrong number, or a design that will not work, and says why.
 
@@ -17,6 +17,7 @@ These are the questions where the platform's own analysis is weakest or the stak
 | Universal Health Insurance | What contribution rates would balance the Trust Fund within the 60 percent wage ceiling, and how should employer premiums convert into contributions? | Universal Health Insurance white paper, Open Policy Questions; Appendix E.4 |
 | Social Security | How should the remaining gap of about 1.3 to 1.7 percent of taxable payroll be closed without benefit cuts or a higher retirement age? What would a dynamic score show, and how much General Fund revenue is lost when the uncapped employer share lowers cash wages? How much would the fallback, slower benefit growth for the highest lifetime earners with a strong minimum benefit, close? | Social Security white paper, Open Policy Question and Dynamic Effects and the Growth Trade-Off; Section 26.6 |
 | Paid leave | Is 0.6 to 1.0 percent of taxable payroll realistic for the progressive benefit in Section 3.3, given how much leave-taking may rise once leave is paid? | Section 3.3; Appendix E.4 |
+| Frontier AI | Can independent evaluators reliably assign Algorithmic Capability Index tiers, including catching systems that behave differently when they detect a test? How should release thresholds apply to open weight models, which cannot be recalled or suspended? Does housing oversight at NIST, with duties fixed in statute and third party testing, hold up after *Slaughter*? | Frontier AI Governance white paper, The Algorithmic Capability Index and Open Questions; Sections 19.3, 19.4, and 19.6 |
 | Phase-in rules | Do the tier order, the full-funding rule, and the narrow wealth-tax exception work as written, or do they create gaps or perverse incentives? | Section 27.9; decisions 0030 to 0039 |
 | Legal design | Do the post-*Slaughter* designs (private rights of action, state attorney general enforcement, legislative-branch bodies) hold up? | Appendix C |
 | Senate rules | Is the paid-for majority rule with a declining cloture threshold workable and fair to future minorities? | Appendix B |
