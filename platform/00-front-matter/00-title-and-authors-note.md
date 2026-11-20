@@ -2,7 +2,7 @@
 
 A Governing Blueprint for Shared Prosperity, Competitive Markets, Democratic Accountability, Scientific Advancement, and National Resilience
 
-Version 1.3.1 — Costed Edition, Review Update
+Version 1.3.2 — Costed Edition, Correction
 
 Gregory L. Meyers
 
@@ -12,7 +12,7 @@ Government provides the foundation. Citizens provide the ambition. Markets provi
 
 © 2026 Gregory L. Meyers. Licensed under CC BY-ND 4.0 (see LICENSE).
 
-Public Release Version 1.3.1
+Public Release Version 1.3.2
 
 # AUTHOR'S NOTE
 
@@ -67,6 +67,10 @@ Complete Edition. Fills the gaps identified in the v1.1 audit:
 - a completed General Fund phase-in order;
 - a new Appendix B on implementation and legislative strategy, including a Senate rules reform;
 - a Scope page and honest-limit notes for every High Resistance plank.
+
+Version 1.3.2 \| November 2026
+
+Correction. Corrects the Universal Health Insurance cost benchmark after review by the author of one of the cited estimates: comparable plans would add at least $32.6 trillion to $38.8 trillion to federal spending over ten years before long-term care, and more with it. Adds a Frontier AI question to the review guide.
 
 Version 1.3.1 \| November 2026
 

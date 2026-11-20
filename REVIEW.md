@@ -1,6 +1,6 @@
 # Reviewing the Platform
 
-The Social Democratic Market Platform is presented for critical evaluation. Version 1.3.1 of the Costed Edition compares every program with published cost and revenue estimates and tests what its revenue can pay for. Those estimates are comparable figures and the author's own arithmetic, **not independent scores**. Expert review is the next step.
+The Social Democratic Market Platform is presented for critical evaluation. Version 1.3.2 of the Costed Edition compares every program with published cost and revenue estimates and tests what its revenue can pay for. Those estimates are comparable figures and the author's own arithmetic, **not independent scores**. Expert review is the next step.
 
 Agreement is not required. The most useful review finds a weak assumption, a wrong number, or a design that will not work, and says why.
 

@@ -4,10 +4,18 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+## v1.3.2 Correction (November 23, 2026)
+
+### Summary
+- Universal Health Insurance cost benchmark corrected after review by the author of one of the cited estimates: comparable plans would add at least $32.6 trillion to $38.8 trillion over ten years before long-term care, and more with it (Appendix E, the UHI white paper, the executive summary, and a correction note in decision 0038).
+- `data/costing.csv`: the UHI row carries the corrected range, and the rural stabilization, Medicaid transition, and eldercare rows note that their costs are included in the UHI figure and not counted separately.
+- `REVIEW.md` adds a Frontier AI question to the review guide.
+
 ### Corrected Universal Health Insurance cost benchmark
 - Appendix E (revenue row, cost row, Section E.4 table and text) and the Universal Health Insurance white paper: the Mercatus estimate is a $32.6 trillion to $38.8 trillion range that excludes long-term care, with $32.6 trillion as a minimum; the Urban Institute's $34 trillion includes a long-term care benefit. The plan's cost is now stated as at least $32.6 trillion to $38.8 trillion before long-term care, and more with it. New white paper sources [6] to [8]. Correction note added to decision 0038.
 - Executive summary: the Universal Health Insurance cost now reads at least $32.6 trillion to $38.8 trillion before long-term care, and more with it, matching Appendix E.4.
 - Appendix E source column and data/costing.csv now match the corrected range.
+- `data/costing.csv`: the rural health stabilization, Medicaid transition, and eldercare rows now say their costs are included in the Universal Health Insurance cost figure and not counted separately.
 
 ### Review guide
 - `REVIEW.md` adds a Frontier AI question (capability tiers, open weight models, and the oversight design) and fixes a stray comma.

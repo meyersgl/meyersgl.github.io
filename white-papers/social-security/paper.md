@@ -6,12 +6,12 @@ version: "1.3"
 edition: "November 2026"
 platform_chapter: 26   # chapter number in the Phase 3 master architecture
 status: published
-published_pdf: docs/Social_Security_Solvency_v1.3.1.pdf
+published_pdf: docs/Social_Security_Solvency_v1.3.2.pdf
 ---
 
 # A Proposal for Long-Term Retirement Security
 
-White Paper Version 1.3.1
+White Paper Version 1.3.2
 
 Gregory L. Meyers
 

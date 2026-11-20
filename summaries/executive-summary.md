@@ -1,6 +1,6 @@
 ---
 title: "The Social Democratic Market Platform"
-subtitle: "Executive Summary — Version 1.3.1 (Costed Edition, Review Update), November 2026"
+subtitle: "Executive Summary — Version 1.3.2 (Costed Edition, Correction), November 2026"
 author: Gregory L. Meyers
 ---
 
