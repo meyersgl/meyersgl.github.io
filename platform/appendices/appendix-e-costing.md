@@ -59,6 +59,8 @@ The purpose of this appendix is not to prove that every proposal can be implemen
 
 Because these estimates come from different models, baselines, and policy packages, they should not be interpreted as a formal revenue score. The aggregate range is illustrative and may overstate or understate actual combined revenue.
 
+Revenue estimates should not be summed mechanically. Several measures interact with one another, including top-rate changes, capital-gains reforms, gain recognition at death, and estate-tax reforms. Totals are illustrative rather than a combined score.
+
 | | Ten-year range ($B) |
 | --- | --- |
 | **Illustrative aggregate range (not additive)** | **About 1,230 to 1,830** |

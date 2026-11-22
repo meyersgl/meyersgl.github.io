@@ -4,6 +4,11 @@ Newest first. Each entry lists what changed and which decision records it follow
 
 ## Unreleased
 
+### Correction: Universal Health Insurance cost benchmark
+- Corrects the Universal Health Insurance cost benchmark after review by the author of one of the cited estimates: comparable plans would add at least $32.6 trillion to $38.8 trillion to federal spending over ten years before long-term care, and more with it.
+- Website: version reference updated to v1.3.2. The Fiscal Discipline section now points to Appendix E.
+- Appendix E: overlap warning added above the E.1.1 aggregate revenue table.
+
 ### Reviewer comments
 - Appendix E.6: Charles Blahous (Mercatus Center) credited for identifying that the platform misdescribed his 2018 single-payer estimate; credit added to decision 0038. Thanks to Dr. Blahous for his review.
 
