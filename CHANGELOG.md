@@ -21,7 +21,10 @@ Newest first. Each entry lists what changed and which decision records it follow
 ### Release skill
 - New `.claude/skills/release/SKILL.md`: the release steps (version bump, changelog, tag, Build editions, PDFs into `docs/`, live link check) with three confirmation stops.
 
-## v1.3.2 Correction (November 23, 2026)
+### Release date correction
+- CHANGELOG.md and CITATION.cff: the v1.3.2 release date now reads November 20, 2026, the date of the `v1.3.2` tag, instead of November 23, 2026.
+
+## v1.3.2 Correction (November 20, 2026)
 
 ### Summary
 - Universal Health Insurance cost benchmark corrected after review by the author of one of the cited estimates: comparable plans would add at least $32.6 trillion to $38.8 trillion over ten years before long-term care, and more with it (Appendix E, the UHI white paper, the executive summary, and a correction note in decision 0038).
